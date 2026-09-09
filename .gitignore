@@ -42,3 +42,10 @@
 !/latest/map/t1_manifest.json
 !/latest/map/t1_awareness.csv
 !/latest/map/render_t1.py
+
+# Separate user-authorized Step 2B completion and locked rules.
+!/latest/map/bone_completion.json
+!/latest/map/massacre_behaviour_rules.json
+!/latest/map/t1b_manifest.json
+!/latest/map/t1b_awareness.csv
+!/latest/map/render_bone_completion.py

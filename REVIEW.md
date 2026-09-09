@@ -1,4 +1,28 @@
-# MASSACRE PLANNING — STEP 2 / T1 FIRST 90 SECONDS
+# MASSACRE PLANNING — STEP 2B / BONE COMPLETED
+
+Completion layer authored: **2026-09-09T15:37:33.116940+00:00**. The approved T0 and T1 remain the source reference; this is a separate 2D completion of Bone's first 90 seconds. **No UE scene changes or new captures.**
+
+![Bone completed: first 90 seconds](latest/map/06_T1_bone_completed.png)
+
+![Current T1 timeline with Bone completed](latest/map/07_T1_bone_timeline.png)
+
+- [Bone's incident history, locked rules, local awareness changes and +90 stop state](latest/map/T1_BONE_COMPLETION.md)
+- [Editable completion overlay](latest/map/bone_completion.json), [SVG](latest/map/06_T1_bone_completed.svg), [behaviour rules](latest/map/massacre_behaviour_rules.json), [current awareness CSV](latest/map/t1b_awareness.csv)
+- [Unchanged base map](latest/map/01_village_base_map.png), [clean canvas](latest/map/02_massacre_planning_blank.png), [approved T0 map](latest/map/03_T0_normal_activity.png)
+
+**What changed:** Bone now has a complete incident/observation record through +90, six short attention-driven movement bursts and a definite current target. He torments M05 near its existing home/coop, intercepts the smith's assistant on the approved ordinary walk at +45, briefly watches M04's interrupted water trip, then returns to the earlier hiding encounter. He does not follow Blood's crowd or clear a series of houses. The map uses incident rings and short bursts for Bone while keeping Blood and the Witch as routes.
+
+**Population:** one additional fatality, no additional injuries. Bone has three early fatalities; Blood's four fatalities/four injuries are unchanged. **163 living people remain, including the four injured.** Only M05, M04 and the assistant's movement/awareness records change locally. All other T1 civilian records are inherited.
+
+**Locked rules:** WITCH = DESTINATION; BLOOD = CONCENTRATION; BONE = ATTENTION; BARRIER = BOUNDARY / REACTIVE WEAPON. The same barrier becomes capable of responding lethally to contact at +90. No contact or reactive attack is simulated. The Witch boss introduces this mechanic to the player before the later massacre reconstruction. Those systems are not implemented here.
+
+**Current +90 handoff:** Bone is west of Cottage_04's coop at **(−37.5, +8.8) m**, watching the still-living parent and child at **(−34.3, +9.2) m**. Blood and the Witch retain their approved positions; the barrier is opaque. The next major actor action is unchosen. **Step 3 must first simulate what survivors try to do: ACTION → REACTION → ACTION → REACTION.**
+
+**Review limits:** staging remains a plan projection, not a 3D visibility/acoustics or collision simulation. The short family hide passes a tight gap beside the charcoal bay/forge roof; actual wall/character clearance needs later local validation. Bone's five-second domestic hesitation suggests possible familiarity without resolving his consciousness or inventing history. No final body positions, destruction, assets, full flight routes or post-90 events are created.
+
+**Preservation:** all 23 existing base/T0/T1 source files remain byte-identical. The new **07 timeline is the current revision**; the earlier 05 is retained unchanged, preserving its manifest and review history. No previous map was replaced. The earlier review paragraphs below are historical, including their now-resolved Bone uncertainty. **Stop at T+90.**
+
+## Previous Step 2 / T1 review (historical)
 
 T1 planning layer authored: **2026-09-09T14:39:39.785923+00:00**. Working time remains **late afternoon approaching early evening**. This is a chronological 2D proposal using the approved T0 population and current surveyed geometry; there are **no UE scene edits or new UE captures**.
 
