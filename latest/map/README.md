@@ -1,6 +1,15 @@
 # Current village planning maps
 
-## T1 first 90 seconds — Step 2
+## Current review — Step 2B: Bone completed
+
+- [06 — Completed Bone incident pattern](06_T1_bone_completed.png), 6000 × 5000.
+- [07 — Updated four-snapshot timeline](07_T1_bone_timeline.png), 7000 × 5000. This is the current timeline; the earlier 05 sheet remains preserved below.
+- [Complete incident history, locked rules and +90 handoff](T1_BONE_COMPLETION.md).
+- [Editable completion overlay](bone_completion.json), [SVG](06_T1_bone_completed.svg), [locked rules](massacre_behaviour_rules.json), [current awareness CSV](t1b_awareness.csv), `render_bone_completion.py`, `t1b_manifest.json`.
+
+Bone's previously unresolved interval is now accounted for through +90. One additional fatality leaves 163 survivors, including four injured. All 23 prior base/T0/T1 files remain unchanged. Apply the completion overlay after the original T1 data; use its explicit local overrides and resolved handoff. Blood, the Witch and barrier formation remain inherited. No UE edits or post-90 civilian reaction occurred.
+
+## Preserved earlier T1 first 90 seconds — Step 2
 
 - [Opening simulation](04_T1_first_90_seconds.png) — 6000 × 5000; routes, early events, +60 awareness and the daylight curve.
 - [Four time slices](05_T1_timeline.png) — 7000 × 5000; +0 / +30 / +60 / +90.

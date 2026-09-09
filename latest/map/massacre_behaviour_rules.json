@@ -1,0 +1,87 @@
+{
+  "schema": "massacre-behaviour-rules/v1",
+  "locked_by": "User instruction: Step 2B",
+  "locked_utc": "2026-09-09T15:37:33.088715+00:00",
+  "rules": [
+    {
+      "id": "WITCH_DESTINATION",
+      "label": "WITCH = DESTINATION",
+      "objective": "Reach the Mayor",
+      "locomotion": "Purposeful walk uphill; approved T1 route/timing unchanged.",
+      "constraints": [
+        "Does not hunt villagers, divert toward screams, help anyone or react meaningfully to surrounding destruction.",
+        "Does not avoid Blood or Bone. She knows her creations cannot meaningfully harm her.",
+        "Supernatural blood originating from her power flows/melds around her instead of injuring her, even if an attack intersects her position.",
+        "Bone trajectories passing near her are intentional; accidental attacks on her are essentially irrelevant."
+      ],
+      "future_planning": "Do not move her route to improve attack compositions or make her dodge. No additional route or Mayor encounter in Step 2B."
+    },
+    {
+      "id": "BLOOD_CONCENTRATION",
+      "label": "BLOOD = CONCENTRATION",
+      "selection": "Prefer substantial concentrations over the nearest individual.",
+      "preferences": [
+        "Crowds and people gathering for safety",
+        "Junction concentrations",
+        "Collective escape attempts",
+        "Groups seeking protection",
+        "Buildings containing substantial populations"
+      ],
+      "identity": "Slower and more deliberate than Bone; overwhelming force. Relatively predictable once his selected concentration is understood.",
+      "limit": "Approved first strike at +56 only. No second target, strike or onward route is selected here."
+    },
+    {
+      "id": "BONE_ATTENTION",
+      "label": "BONE = ATTENTION",
+      "selection": "An intelligent, malicious attention process, not a systematic clearance route or kill maximizer.",
+      "identity": [
+        "Extremely fast and precise",
+        "Erratic, cruelly playful and easily redirected by a meaningful stimulus",
+        "Can observe, stalk, pursue, let someone run/hide, cut off a way, change angle or abandon an encounter",
+        "Does not need to finish a household, area or target before moving on"
+      ],
+      "possible_stimuli": [
+        "Sudden movement, running or hiding",
+        "A sound or a shutting door",
+        "A watcher, a protective gesture or a group reaction",
+        "An interesting attempted escape or vantage point",
+        "A familiar place/memory or loss of interest"
+      ],
+      "precision": "When he intends to hit something, he does not miss. Any apparent near-miss is deliberate.",
+      "recording": "Every major movement records its attention trigger. Short traversal bends around existing obstacles are locomotion, not invented new targets."
+    },
+    {
+      "id": "BARRIER_BOUNDARY_REACTIVE",
+      "label": "BARRIER = BOUNDARY / REACTIVE WEAPON",
+      "formation_seconds": [
+        0,
+        60
+      ],
+      "sealed_at_s": 60,
+      "opaque_and_reactive_at_s": 90,
+      "selection": "Once fully active, physical interaction or attempting to cross can provoke a lethal response.",
+      "constraints": [
+        "No indiscriminate firing into the village.",
+        "The sealed-but-translucent interval +60–90 is not retroactively treated as the fully active weapon phase.",
+        "Exact lashes, spikes, tendrils, VFX and attack forms remain undecided.",
+        "No civilian barrier contact or barrier attack is simulated in Step 2B."
+      ],
+      "formation_inherited_from": "t1_simulation.json: barrier geometry, fronts, closure and light curve unchanged."
+    }
+  ],
+  "iteration_rule": {
+    "order": [
+      "ACTION",
+      "REACTION",
+      "ACTION",
+      "REACTION"
+    ],
+    "next_phase": "Step 3: first civilian reaction, starting at the +90 handoff.",
+    "gate": "Simulate what the surviving villagers try to do before selecting/executing the next major Witch, Blood, Bone or barrier actions. Their reactions create stimuli for the following action phase. Do not pre-author the full massacre."
+  },
+  "boss_reveal_order": {
+    "first_player_experience": "Witch boss fight: forming barrier, closure around 60 seconds, darkening/solidifying, full reactive activity around 90 seconds.",
+    "later_revelation": "Only after defeating the Witch does the player see the massacre reconstruction and recognize that this boss mechanic once sealed the village.",
+    "implementation": "Narrative intent only. No boss, cutscene, VFX or gameplay implementation."
+  }
+}

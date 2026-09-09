@@ -1,0 +1,1914 @@
+{
+  "schema": "t1-bone-completion/v1",
+  "title": "STEP 2B — BONE COMPLETED / LOCKED MASSACRE BEHAVIOUR",
+  "authored_utc": "2026-09-09T15:37:33.116940+00:00",
+  "source": {
+    "review_commit": "fda3d94e86d0487c8dd50f61f8ab20720e871e2f",
+    "base_geometry_sha256": "cb52e115c55558778d234691d513aa350813ee5432b56764981673c9568fe712",
+    "design_bible_sha256": "e7649ce6b08e6cb38bdce6897fd4ef49b1e431e1c78b28ade9092406ffdbd286",
+    "t0_file": "t0_activity.json",
+    "t1_file": "t1_simulation.json"
+  },
+  "source_sha256": {
+    "01_village_base_map.png": "ae6c25b13cfa7210ca75755ab00d1d7d1b1d327c5820e9615d7a7e587f6b3612",
+    "01_village_base_map.svg": "69cd64e1eccd1f3dc9c98d5e75ff6f64d21bfebeef7dde1c7159f6e08cabe1af",
+    "02_massacre_planning_blank.png": "4dc774b603e824fc3720f55c4cb5027f065ca52f4ff469257c8ed661098e34e8",
+    "02_massacre_planning_blank.svg": "6bd3bf7c1a4f97d5942a2cb44f75fea0d73e958df7f3a80b55d8bfe1589986eb",
+    "03_T0_normal_activity.png": "c54287d137aaf4ee59a21ed66ff4176907e98ea0360c08ed645af551b98bb03b",
+    "03_T0_normal_activity.svg": "76c530dd7a0afdcbfe59ce3e3f087aa9dd9762f9a24623915a7065adeab91697",
+    "04_T1_first_90_seconds.png": "2417a60be7ee8b49256357f92ba50dab7dea6326b77e9fc7bdca51b5e5c43d37",
+    "04_T1_first_90_seconds.svg": "4ee9b100af92df17f2a302d23dcd9d50bbad0becfb6ded0e199aab10beb53c07",
+    "05_T1_timeline.png": "aa2bba003b9356fcb50c883fe4a63a7ce7371ae65691f59fc0d5ff5c38c3c2e1",
+    "map_data.json": "74d919bed2ae713512774241c21ecc477e17349b1bb3dcb8af85d132fdb6f40e",
+    "map_views.json": "017ba6a442ec2b20d40710fa1c01afe38676e0ac16e0894b540a121515d8e216",
+    "massacre_annotations.json": "714d43b061be1dc761d2e9069bc7cd07a793607c1aa862d2fbd95a55464981d8",
+    "provenance.json": "75a36a0728f6b771b705e21d9d3eafd4e12d8200ba937e5ccad77768b2d829c3",
+    "render_map.py": "62842cfde53874763a14be1e48c4a21c56f36b2f9ee105cfab6a8359d7249a16",
+    "render_t0.py": "d18d2b02682830f7e64051671a628bda25286b03ea20e74bae5169b9b92926ca",
+    "render_t1.py": "41dcacc4ebce65da2d7c869c106af48d1bdcb3b01221b2fcc53b32a477dd3164",
+    "t0_activity.json": "1b2d500f6f63e4e54bd86d7647cb2f03de41a4f4b4f2f849373651cbaf16ccd8",
+    "T0_ACTIVITY.md": "a0fb98bb58cce601197faed6d760bb84cfca1ed3b85d2b7adb15d09669c40691",
+    "t0_manifest.json": "d1b6128f6f92a00972b3cd115bc1360cfb10485f506f3ed04dbf9fe04666f5e0",
+    "t1_awareness.csv": "9ac2f1eaa7a6ec3ad72b7e8d3073a1dda78fef170d4a1e630a98c05e262d6b5a",
+    "T1_FIRST_90_SECONDS.md": "8bb0a0af8fe835cbda5f83ac86884ec645fc98b8defb78167a32c9471f8376f4",
+    "t1_manifest.json": "93268a08674906e5c147b75d45b49a67136c633df0e1397ce6fb7435d1d75a58",
+    "t1_simulation.json": "86a349c9363374db9fe88a53e33588e31de7d8b19b03705fbfc22403c2ffcc8d"
+  },
+  "scope": {
+    "from_s": 12,
+    "through_s": 90,
+    "ue_edits": false,
+    "post90_events": [],
+    "barrier_contacts": [],
+    "future_actor_actions": [],
+    "final_corpse_placements": [],
+    "final_destruction": []
+  },
+  "rules_file": "massacre_behaviour_rules.json",
+  "bone": {
+    "opening_inherited": "t1_simulation.json: bone timed_points and E01/E02 unchanged through12",
+    "incidents": [
+      {
+        "id": "B00",
+        "t_s": 0,
+        "xy_m": [
+          -13.75,
+          -15.1
+        ],
+        "stimulus": "Release; the ordinary handcart stream is nearby.",
+        "action": "Leaves the cellar landing.",
+        "immediate_consequence": "Approved opening unchanged.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [],
+        "kind": "release",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B01",
+        "t_s": 4,
+        "xy_m": [
+          -0.7454818255216089,
+          -11.116566489395732
+        ],
+        "stimulus": "Ordinary moving M01 handcart worker.",
+        "action": "Approved precise fatal attack.",
+        "immediate_consequence": "First handcart worker is struck while continuing the approved homeward walk. No flight or prior warning is assigned to that person.",
+        "awareness_change": "P05 survivors react locally as already established in T1.",
+        "population_refs": [
+          "P05",
+          "M01"
+        ],
+        "kind": "fatal_attack",
+        "fatal": 1,
+        "injured": 0
+      },
+      {
+        "id": "B02",
+        "t_s": 6,
+        "xy_m": [
+          -1.1954818255216089,
+          -11.666566489395732
+        ],
+        "stimulus": "Immediate shocked witness beside the first victim.",
+        "action": "Approved precise fatal attack.",
+        "immediate_consequence": "The accompanying helper is caught in the immediate shocked witness reaction. The other four P05 people are not hidden or silently removed; their warnings begin locally.",
+        "awareness_change": "P05 survivors react locally as already established in T1.",
+        "population_refs": [
+          "P05",
+          "M01"
+        ],
+        "kind": "fatal_attack",
+        "fatal": 1,
+        "injured": 0
+      },
+      {
+        "id": "B03",
+        "t_s": 12,
+        "xy_m": [
+          -4.6,
+          -5.5
+        ],
+        "stimulus": "Nearby household warning voice from M05; open approach no longer interests him.",
+        "action": "Leaves the last confirmed blind-side point toward the north yard.",
+        "immediate_consequence": "J01 begins; original +0–12 positions/events unchanged.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [
+          "P06",
+          "M05"
+        ],
+        "kind": "attention_change",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B04",
+        "t_s": 16,
+        "xy_m": [
+          -13.5,
+          7.8
+        ],
+        "stimulus": "Existing herb beds and drying rack naturally encountered while rounding his own house.",
+        "action": "Hesitates and looks at the familiar domestic arrangement through +21.",
+        "immediate_consequence": "Possible familiarity only. No speech, new history or conclusion about remaining consciousness.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [],
+        "kind": "possible_familiarity",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B05",
+        "t_s": 21,
+        "xy_m": [
+          -13.5,
+          7.8
+        ],
+        "stimulus": "Parent draws the child behind them at the household frontage.",
+        "action": "Attention leaves the herb yard; short westward burst J02.",
+        "immediate_consequence": "Approaches an already-aware family, not a newly positioned victim.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [
+          "P06",
+          "M05"
+        ],
+        "kind": "attention_change",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B06",
+        "t_s": 24,
+        "xy_m": [
+          -20.5,
+          11.5
+        ],
+        "stimulus": "Mutual sight at close range; the parent shields the child.",
+        "action": "Lets them begin a short retreat along their own frontage instead of killing them.",
+        "immediate_consequence": "M05 heads about 14 m toward the existing coop corner; neither is injured.",
+        "awareness_change": "Only M05 changes from aware to immediate local panic.",
+        "population_refs": [
+          "P06",
+          "M05"
+        ],
+        "kind": "torment",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B07",
+        "t_s": 26,
+        "xy_m": [
+          -20.5,
+          11.5
+        ],
+        "stimulus": "The pair is moving toward cover and glancing back.",
+        "action": "Intentionally strikes an empty patch of ground about 0.85 m beside their current path.",
+        "immediate_consequence": "An exact aimed hit on ground, an apparent near-miss to the villagers. The hiding gap remains open; no injury, final projectile or ground-damage asset is placed.",
+        "awareness_change": "No additional people gain knowledge from this small incident.",
+        "population_refs": [
+          "P06",
+          "M05"
+        ],
+        "kind": "deliberate_near_miss",
+        "fatal": 0,
+        "injured": 0,
+        "intentional_target_xy_m": [
+          -26.284186206716974,
+          13.00156597691572
+        ],
+        "victim_pair_xy_m": [
+          -26.284186206716974,
+          12.15156597691572
+        ],
+        "intended_hit": true
+      },
+      {
+        "id": "B08",
+        "t_s": 32,
+        "xy_m": [
+          -20.5,
+          11.5
+        ],
+        "stimulus": "The family reaches partial cover by the coop.",
+        "action": "Begins J03 to change angle rather than finish the pursuit.",
+        "immediate_consequence": "Family stays at the same hiding corner. Bone makes the concealment feel temporary.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [
+          "P06",
+          "M05"
+        ],
+        "kind": "attention_change",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B09",
+        "t_s": 38,
+        "xy_m": [
+          -26.0,
+          12.8
+        ],
+        "stimulus": "The family is now still and partly hidden; ordinary footsteps/tool clink beyond the forge apron catch his attention as the T0 assistant walks home. He investigates a sound first and acquires sight of the walker later.",
+        "action": "Abandons the family for now and investigates the forge-side sound.",
+        "immediate_consequence": "J04 skirts the actual forge footprint on the east apron; no entry, household clearance or crowd selection.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [
+          "P07"
+        ],
+        "kind": "attention_change",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B10",
+        "t_s": 42,
+        "xy_m": [
+          -25.040646476917992,
+          27.55080809614749
+        ],
+        "stimulus": "From beyond the forge corner, the assistant is now visibly walking along the approved N05 homeward trip.",
+        "action": "Acquires that moving individual and makes the final short interception.",
+        "immediate_consequence": "This is when the sound becomes a known person; no seeing through the forge is assumed.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [
+          "P07"
+        ],
+        "kind": "target_acquired",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B11",
+        "t_s": 45,
+        "xy_m": [
+          -28.401767137845624,
+          37.62347907123548
+        ],
+        "stimulus": "The assistant is still walking home, uncertain about earlier disturbances but not fleeing an attack.",
+        "action": "One precise, quiet fatal interception.",
+        "immediate_consequence": "One additional fatality from the existing P07 assistant. No additional injury and no final body placement.",
+        "awareness_change": "M04 can see the event across approximately 13 m of open plan-view space. Other forge people have the building between them and the event.",
+        "population_refs": [
+          "P07"
+        ],
+        "kind": "fatal_attack",
+        "fatal": 1,
+        "injured": 0
+      },
+      {
+        "id": "B12",
+        "t_s": 46,
+        "xy_m": [
+          -28.401767137845624,
+          37.62347907123548
+        ],
+        "stimulus": "Two water carriers stop after seeing the interception.",
+        "action": "Watches their arrested movement instead of attacking them.",
+        "immediate_consequence": "M04 stops N02 early and takes a short step off the walking line; no full escape destination.",
+        "awareness_change": "M04 becomes aware at +46, earlier than its approved +56 crash-based realization. The two become locally panicking; only their P08 +60 state changes.",
+        "population_refs": [
+          "P08",
+          "M04"
+        ],
+        "kind": "observation",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B13",
+        "t_s": 50,
+        "xy_m": [
+          -28.401767137845624,
+          37.62347907123548
+        ],
+        "stimulus": "The pair is watching him from the road edge.",
+        "action": "A two-metre lateral stalk changes the angle, J05.",
+        "immediate_consequence": "He could attack but does not. Both water carriers remain alive and stationary afterward.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [
+          "P08",
+          "M04"
+        ],
+        "kind": "attention_change",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B14",
+        "t_s": 56,
+        "xy_m": [
+          -27.0,
+          39.5
+        ],
+        "stimulus": "The already-approved loud Blood strike sounds from the centre.",
+        "action": "Briefly turns his attention toward the crash without moving toward it.",
+        "immediate_consequence": "Blood's major public escalation and all its timing/consequences remain unchanged.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [],
+        "kind": "attention_glance",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B15",
+        "t_s": 58,
+        "xy_m": [
+          -27.0,
+          39.5
+        ],
+        "stimulus": "Blood's +56 crash makes Bone look up, but he does not follow the crowd. The water pair has become still; he loses interest in that tableau and returns to the unfinished hiding encounter with M05.",
+        "action": "Doubles back by J06 toward the earlier family encounter.",
+        "immediate_consequence": "No centre/tavern visit, second strike or systematic onward hunt. The water pair is left alive.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [
+          "P06",
+          "M05",
+          "P08",
+          "M04"
+        ],
+        "kind": "attention_change",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B16",
+        "t_s": 64,
+        "xy_m": [
+          -37.5,
+          8.8
+        ],
+        "stimulus": "The family has remained quiet behind the coop corner.",
+        "action": "Reappears on the west side, where his new angle reveals their hiding place.",
+        "immediate_consequence": "Holds observation through +76, deliberately leaving them alive. The family realizes the earlier cover no longer hides them from him.",
+        "awareness_change": "M05 remains in its existing local panic state; no broad warning is added.",
+        "population_refs": [
+          "P06",
+          "M05"
+        ],
+        "kind": "torment",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B17",
+        "t_s": 76,
+        "xy_m": [
+          -37.5,
+          8.8
+        ],
+        "stimulus": "The parent attempts to keep the child still and quiet.",
+        "action": "Makes a small deliberate clicking/tapping sound and waits for their response.",
+        "immediate_consequence": "Sound only, no hit/miss or new damage. He prolongs the encounter rather than maximizing kills.",
+        "awareness_change": "No new cohort awareness.",
+        "population_refs": [
+          "P06",
+          "M05"
+        ],
+        "kind": "torment",
+        "fatal": 0,
+        "injured": 0
+      },
+      {
+        "id": "B18",
+        "t_s": 90,
+        "xy_m": [
+          -37.5,
+          8.8
+        ],
+        "stimulus": "The same hidden pair remains his chosen focus as outside daylight disappears.",
+        "action": "Still observing the coop-side corner; no next attack selected.",
+        "immediate_consequence": "Exact planar handoff: (−37.5, +8.8) m, facing M05 near (−34.3, +9.2) m. Stop now.",
+        "awareness_change": "All 163 survivors enter the already-established global alarm; different knowledge persists.",
+        "population_refs": [
+          "P06",
+          "M05"
+        ],
+        "kind": "handoff",
+        "fatal": 0,
+        "injured": 0
+      }
+    ],
+    "movement_bursts": [
+      {
+        "id": "J01",
+        "start_s": 12,
+        "end_s": 16,
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -4.6,
+              -5.5
+            ],
+            [
+              -4.8,
+              3.8
+            ],
+            [
+              -8.0,
+              4.8
+            ],
+            [
+              -10.3,
+              7.8
+            ],
+            [
+              -13.5,
+              7.8
+            ]
+          ]
+        },
+        "distance_plan_m": 19.635,
+        "average_plan_speed_m_s": 4.909,
+        "attention_trigger": "M05 is already warning its household at the end of its ordinary walk. Bone hears the nearby voice north-west of his last confirmed point and rounds the house toward it.",
+        "mode": "short burst",
+        "basis": "Existing ground/apron/frontage space; no new route geometry or building change."
+      },
+      {
+        "id": "J02",
+        "start_s": 21,
+        "end_s": 24,
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -13.5,
+              7.8
+            ],
+            [
+              -17.5,
+              9.0
+            ],
+            [
+              -20.5,
+              11.5
+            ]
+          ]
+        },
+        "distance_plan_m": 8.081,
+        "average_plan_speed_m_s": 2.694,
+        "attention_trigger": "The parent at M05 gathers the child behind them after the earlier cries. From the herb-yard edge, that protective movement draws Bone out of his hesitation.",
+        "mode": "short burst",
+        "basis": "Existing ground/apron/frontage space; no new route geometry or building change."
+      },
+      {
+        "id": "J03",
+        "start_s": 32,
+        "end_s": 35,
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -20.5,
+              11.5
+            ],
+            [
+              -24.0,
+              12.5
+            ],
+            [
+              -26.0,
+              12.8
+            ]
+          ]
+        },
+        "distance_plan_m": 5.662,
+        "average_plan_speed_m_s": 1.887,
+        "attention_trigger": "M05 has slipped behind the existing coop/cottage corner. Bone changes viewing angle to prolong the encounter instead of closing for a kill.",
+        "mode": "stalking reposition",
+        "basis": "Existing ground/apron/frontage space; no new route geometry or building change."
+      },
+      {
+        "id": "J04",
+        "start_s": 38,
+        "end_s": 45,
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -26.0,
+              12.8
+            ],
+            [
+              -23.4,
+              17.5
+            ],
+            [
+              -23.4,
+              25.5
+            ],
+            [
+              -27.0,
+              30.0
+            ],
+            [
+              -29.9,
+              34.0
+            ],
+            [
+              -28.401767137845624,
+              37.62347907123548
+            ]
+          ]
+        },
+        "distance_plan_m": 27.996,
+        "average_plan_speed_m_s": 3.999,
+        "attention_trigger": "The family is now still and partly hidden; ordinary footsteps/tool clink beyond the forge apron catch his attention as the T0 assistant walks home. He investigates a sound first and acquires sight of the walker later.",
+        "mode": "short burst",
+        "basis": "Existing ground/apron/frontage space; no new route geometry or building change."
+      },
+      {
+        "id": "J05",
+        "start_s": 50,
+        "end_s": 51,
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -28.401767137845624,
+              37.62347907123548
+            ],
+            [
+              -27.0,
+              39.5
+            ]
+          ]
+        },
+        "distance_plan_m": 2.342,
+        "average_plan_speed_m_s": 2.342,
+        "attention_trigger": "M04 stops its water trip after seeing the interception. The arrested bucket movement and the pair watching him invite a small lateral stalking step.",
+        "mode": "stalking reposition",
+        "basis": "Existing ground/apron/frontage space; no new route geometry or building change."
+      },
+      {
+        "id": "J06",
+        "start_s": 58,
+        "end_s": 64,
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -27.0,
+              39.5
+            ],
+            [
+              -29.9,
+              34.0
+            ],
+            [
+              -27.0,
+              30.0
+            ],
+            [
+              -23.4,
+              25.5
+            ],
+            [
+              -23.4,
+              17.5
+            ],
+            [
+              -26.0,
+              12.8
+            ],
+            [
+              -29.0,
+              13.6
+            ],
+            [
+              -30.9,
+              13.35
+            ],
+            [
+              -32.65,
+              11.6
+            ],
+            [
+              -34.2,
+              8.0
+            ],
+            [
+              -37.5,
+              8.8
+            ]
+          ]
+        },
+        "distance_plan_m": 45.104,
+        "average_plan_speed_m_s": 7.517,
+        "attention_trigger": "Blood's +56 crash makes Bone look up, but he does not follow the crowd. The water pair has become still; he loses interest in that tableau and returns to the unfinished hiding encounter with M05.",
+        "mode": "short burst",
+        "basis": "Existing ground/apron/frontage space; no new route geometry or building change."
+      }
+    ],
+    "complete_intervals": [
+      {
+        "start_s": 0,
+        "end_s": 4,
+        "activity": "Opening approach to ordinary M01 movement"
+      },
+      {
+        "start_s": 4,
+        "end_s": 6,
+        "activity": "Two approved opening attacks"
+      },
+      {
+        "start_s": 6,
+        "end_s": 12,
+        "activity": "Approved blind-side reposition"
+      },
+      {
+        "start_s": 12,
+        "end_s": 16,
+        "activity": "J01: investigate household warning"
+      },
+      {
+        "start_s": 16,
+        "end_s": 21,
+        "activity": "Hesitate at domestic herb/drying area"
+      },
+      {
+        "start_s": 21,
+        "end_s": 24,
+        "activity": "J02: protective gesture draws attention"
+      },
+      {
+        "start_s": 24,
+        "end_s": 32,
+        "activity": "Torment while M05 makes a short local hide; deliberate ground strike at26"
+      },
+      {
+        "start_s": 32,
+        "end_s": 35,
+        "activity": "J03: stalking change of angle"
+      },
+      {
+        "start_s": 35,
+        "end_s": 38,
+        "activity": "Watch the hiding corner, then lose interest"
+      },
+      {
+        "start_s": 38,
+        "end_s": 45,
+        "activity": "J04: investigate sound; acquire assistant at42; intercept at45"
+      },
+      {
+        "start_s": 45,
+        "end_s": 50,
+        "activity": "Watch water pair stop; no next kill"
+      },
+      {
+        "start_s": 50,
+        "end_s": 51,
+        "activity": "J05: lateral stalking step"
+      },
+      {
+        "start_s": 51,
+        "end_s": 56,
+        "activity": "Observe water pair; no attack"
+      },
+      {
+        "start_s": 56,
+        "end_s": 58,
+        "activity": "Brief attention to Blood crash, then loses interest in stationary pair"
+      },
+      {
+        "start_s": 58,
+        "end_s": 64,
+        "activity": "J06: rapid return to unfinished hiding encounter"
+      },
+      {
+        "start_s": 64,
+        "end_s": 76,
+        "activity": "Observe family from west of coop"
+      },
+      {
+        "start_s": 76,
+        "end_s": 90,
+        "activity": "Deliberate sound, then sustained watch; next major action unassigned"
+      }
+    ],
+    "snapshots": {
+      "0": [
+        -13.75,
+        -15.1
+      ],
+      "12": [
+        -4.6,
+        -5.5
+      ],
+      "30": [
+        -20.5,
+        11.5
+      ],
+      "60": [
+        -24.57858286505144,
+        26.973228581314302
+      ],
+      "90": [
+        -37.5,
+        8.8
+      ]
+    },
+    "handoff": {
+      "t_s": 90,
+      "xy_m": [
+        -37.5,
+        8.8
+      ],
+      "position_description": "West of Cottage_04 coop, at the lower domestic yard/paddock edge.",
+      "height": "Ground-level planning position; precise UE ground z not newly surveyed.",
+      "attention_target": "M05 parent and child still at the coop-side hiding corner.",
+      "attention_target_xy_m": [
+        -34.3,
+        9.2
+      ],
+      "current_action": "Observing and deliberately prolonging the encounter. No next attack or civilian reaction chosen.",
+      "next_major_action": null
+    }
+  },
+  "local_civilian_overrides": [
+    {
+      "id": "O_M05",
+      "source_motion": "N04",
+      "source_micro": "M05",
+      "origin_cohort": "P06",
+      "count": 2,
+      "start_s": 24,
+      "end_s": 32,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -23.1,
+            10.8
+          ],
+          [
+            -26.0,
+            12.0
+          ],
+          [
+            -29.0,
+            13.6
+          ],
+          [
+            -30.9,
+            13.35
+          ],
+          [
+            -32.65,
+            11.6
+          ],
+          [
+            -34.3,
+            9.2
+          ]
+        ]
+      },
+      "reason": "Short local hide after direct sight/torment; approved ordinary journey +0–13 remains exact.",
+      "terminal_xy_m": [
+        -34.3,
+        9.2
+      ]
+    },
+    {
+      "id": "O_ASSISTANT",
+      "source_motion": "N05",
+      "origin_cohort": "P07",
+      "count": 1,
+      "ordinary_until_s": 45,
+      "stop_event": "B11",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -31.472961052940274,
+            28.199085072812682
+          ],
+          [
+            -31.4727,
+            28.2068
+          ],
+          [
+            -31.3974,
+            29.0394
+          ],
+          [
+            -31.2761,
+            29.8919
+          ],
+          [
+            -31.1111,
+            30.7587
+          ],
+          [
+            -30.9044,
+            31.6341
+          ],
+          [
+            -30.658,
+            32.5124
+          ],
+          [
+            -30.3741,
+            33.3879
+          ],
+          [
+            -30.0547,
+            34.2549
+          ],
+          [
+            -29.702,
+            35.1076
+          ],
+          [
+            -29.318,
+            35.9405
+          ],
+          [
+            -28.9048,
+            36.7477
+          ],
+          [
+            -28.4646,
+            37.5237
+          ],
+          [
+            -28.401767137845624,
+            37.62347907123548
+          ]
+        ]
+      },
+      "terminal": "Fatality at45; no final corpse position or continuation of N05 after45."
+    },
+    {
+      "id": "O_M04",
+      "source_motion": "N02",
+      "source_micro": "M04",
+      "origin_cohort": "P08",
+      "count": 2,
+      "ordinary_until_s": 46,
+      "reaction_start_s": 46,
+      "reaction_end_s": 48,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.290878279380468,
+            36.870487339710806
+          ],
+          [
+            -18.0,
+            35.0
+          ]
+        ]
+      },
+      "reason": "Open view of B11 interrupts water walk ten seconds earlier. A 3.3 m step off the path keeps the main route passable; no full escape behavior.",
+      "terminal_xy_m": [
+        -18,
+        35
+      ]
+    }
+  ],
+  "resolved_cohort_awareness": [
+    {
+      "cluster_id": "P01",
+      "initial_count": 6,
+      "anchor_xy_m": [
+        31,
+        -38
+      ],
+      "states": {
+        "0": {
+          "U": 6
+        },
+        "30": {
+          "U": 3,
+          "Q": 2,
+          "A": 1
+        },
+        "60": {
+          "A": 6
+        },
+        "90": {
+          "V": 6
+        }
+      },
+      "reason": "Orchard witness relays to farm; distant field workers initially lack the event context.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P02",
+      "initial_count": 6,
+      "anchor_xy_m": [
+        -36,
+        -62
+      ],
+      "states": {
+        "0": {
+          "U": 6
+        },
+        "30": {
+          "Q": 6
+        },
+        "60": {
+          "Q": 4,
+          "A": 2
+        },
+        "90": {
+          "V": 6
+        }
+      },
+      "reason": "Early western rim is noticeable; storage/pasture workers later hear the local warning. No attack reaches this cohort.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P03",
+      "initial_count": 7,
+      "anchor_xy_m": [
+        12,
+        -49
+      ],
+      "states": {
+        "0": {
+          "U": 7
+        },
+        "30": {
+          "U": 3,
+          "A": 4
+        },
+        "60": {
+          "A": 7
+        },
+        "90": {
+          "V": 7
+        }
+      },
+      "reason": "Orchard worker arrives by25; yard receives the warning first, farmhouse follows through ordinary speech.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P04",
+      "initial_count": 6,
+      "anchor_xy_m": [
+        -20,
+        -50
+      ],
+      "states": {
+        "0": {
+          "U": 6
+        },
+        "30": {
+          "U": 3,
+          "Q": 3
+        },
+        "60": {
+          "Q": 3,
+          "A": 3
+        },
+        "90": {
+          "V": 6
+        }
+      },
+      "reason": "Yard notices west sheet and lower-approach cries; farmhouse is delayed.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P05",
+      "initial_count": 6,
+      "anchor_xy_m": [
+        -1,
+        -17
+      ],
+      "states": {
+        "0": {
+          "U": 6
+        },
+        "30": {
+          "P": 4,
+          "D": 2
+        },
+        "60": {
+          "P": 4,
+          "D": 2
+        },
+        "90": {
+          "V": 4,
+          "D": 2
+        }
+      },
+      "reason": "Direct witnesses at the first two attacks; no convenience concealment of the other returning workers.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P06",
+      "initial_count": 14,
+      "anchor_xy_m": [
+        -8,
+        16
+      ],
+      "states": {
+        "0": {
+          "U": 14
+        },
+        "30": {
+          "U": 5,
+          "A": 7,
+          "P": 2
+        },
+        "60": {
+          "Q": 5,
+          "A": 7,
+          "P": 2
+        },
+        "90": {
+          "V": 14
+        }
+      },
+      "reason": "M05 already knew danger; direct torment moves only its two members into local panic. Three warned household occupants and all other lower residents keep their prior awareness allocation.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P07",
+      "initial_count": 4,
+      "anchor_xy_m": [
+        -34,
+        19
+      ],
+      "states": {
+        "0": {
+          "U": 4
+        },
+        "30": {
+          "Q": 4
+        },
+        "60": {
+          "A": 3,
+          "D": 1
+        },
+        "90": {
+          "V": 3,
+          "D": 1
+        }
+      },
+      "reason": "The assistant is killed on the pre-existing ordinary N05 departure at45. The three forge occupants remain behind the building; the approved major crash establishes their awareness at56.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P08",
+      "initial_count": 26,
+      "anchor_xy_m": [
+        -1,
+        48
+      ],
+      "states": {
+        "0": {
+          "U": 26
+        },
+        "30": {
+          "U": 24,
+          "Q": 2
+        },
+        "60": {
+          "P": 19,
+          "A": 3,
+          "D": 4
+        },
+        "90": {
+          "V": 22,
+          "D": 4
+        }
+      },
+      "reason": "Only M04 changes: direct sight at46 and being watched by Bone place its two members in local panic at60, rather than the previous aware state. Blood's strike and three other ordinary departures are unchanged.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P09",
+      "initial_count": 14,
+      "anchor_xy_m": [
+        6,
+        35
+      ],
+      "states": {
+        "0": {
+          "U": 14
+        },
+        "30": {
+          "U": 14
+        },
+        "60": {
+          "Q": 7,
+          "A": 3,
+          "P": 4
+        },
+        "90": {
+          "V": 14
+        }
+      },
+      "reason": "Seven indoors are uncertain by60; service-side three hear danger; four porch customers see the strike. Windows and incomplete warnings produce awareness around66.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P10",
+      "initial_count": 24,
+      "anchor_xy_m": [
+        28,
+        35
+      ],
+      "states": {
+        "0": {
+          "U": 24
+        },
+        "30": {
+          "U": 24
+        },
+        "60": {
+          "Q": 14,
+          "A": 10
+        },
+        "90": {
+          "V": 24
+        }
+      },
+      "reason": "Yards/passages see or hear the strike; homes first receive ambiguous noise and later returning neighbours.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P11",
+      "initial_count": 22,
+      "anchor_xy_m": [
+        -35,
+        60
+      ],
+      "states": {
+        "0": {
+          "U": 22
+        },
+        "30": {
+          "U": 14,
+          "Q": 8
+        },
+        "60": {
+          "Q": 14,
+          "A": 8
+        },
+        "90": {
+          "V": 22
+        }
+      },
+      "reason": "Returning forest crew discusses the rim; outdoor frontages recognize the major crash before interiors.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P12",
+      "initial_count": 14,
+      "anchor_xy_m": [
+        -10,
+        87
+      ],
+      "states": {
+        "0": {
+          "U": 14
+        },
+        "30": {
+          "U": 14
+        },
+        "60": {
+          "U": 10,
+          "Q": 4
+        },
+        "90": {
+          "V": 14
+        }
+      },
+      "reason": "Upper houses obstruct a clear view. Outdoor sounds/sky seem wrong; interiors have no detailed warning yet.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P13",
+      "initial_count": 1,
+      "anchor_xy_m": [
+        23.5,
+        83.7
+      ],
+      "states": {
+        "0": {
+          "U": 1
+        },
+        "30": {
+          "U": 1
+        },
+        "60": {
+          "A": 1
+        },
+        "90": {
+          "V": 1
+        }
+      },
+      "reason": "Caretaker has a potentially open downhill view from the public threshold and hears the strike. Nobody gathers at the graves.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P14",
+      "initial_count": 7,
+      "anchor_xy_m": [
+        52,
+        64
+      ],
+      "states": {
+        "0": {
+          "U": 7
+        },
+        "30": {
+          "U": 7
+        },
+        "60": {
+          "U": 4,
+          "Q": 2,
+          "A": 1
+        },
+        "90": {
+          "V": 7
+        }
+      },
+      "reason": "One outdoor resident can see reactions near the open street; other yard/interior occupants have less information.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P15",
+      "initial_count": 3,
+      "anchor_xy_m": [
+        -59,
+        67
+      ],
+      "states": {
+        "0": {
+          "U": 3
+        },
+        "30": {
+          "Q": 3
+        },
+        "60": {
+          "T": 3
+        },
+        "90": {
+          "V": 3
+        }
+      },
+      "reason": "Returning crew sees the sheet cut across the familiar working edge; continuous wall/canopy makes enclosure inferable at60, not physically tested.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P16",
+      "initial_count": 8,
+      "anchor_xy_m": [
+        2,
+        146
+      ],
+      "states": {
+        "0": {
+          "U": 8
+        },
+        "30": {
+          "U": 8
+        },
+        "60": {
+          "U": 5,
+          "Q": 2,
+          "T": 1
+        },
+        "90": {
+          "V": 8
+        }
+      },
+      "reason": "One outside guard infers enclosure, two outside staff/guards are uncertain; five house occupants lack an attack report. No guard journey is invented.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    },
+    {
+      "cluster_id": "P17",
+      "initial_count": 2,
+      "anchor_xy_m": [
+        -44,
+        122
+      ],
+      "states": {
+        "0": {
+          "U": 2
+        },
+        "30": {
+          "Q": 2
+        },
+        "60": {
+          "T": 2
+        },
+        "90": {
+          "V": 2
+        }
+      },
+      "reason": "Cart crew is near the rim on the switchback and has paused to inspect the spell; sealed enclosure is visually inferred, without an attempted escape.",
+      "t90_interpretation": "Every surviving cohort participates in the village-wide alarm at the daylight cutoff; this does not mean identical knowledge, movement or attack details."
+    }
+  ],
+  "resolved_micro_groups": [
+    {
+      "micro_id": "M01",
+      "cluster_id": "P05",
+      "count": 2,
+      "t0_xy_m": [
+        -1.1,
+        -14.9
+      ],
+      "notes": {
+        "30": "Two first local fatalities at4/6 while on their ordinary homeward movement.",
+        "60": "Fatalities already accounted; no final bodies placed.",
+        "90": "Same two early fatalities; no further outcome authored."
+      },
+      "positions": {
+        "0": [
+          -1.1,
+          -14.9
+        ],
+        "30": null,
+        "60": null,
+        "90": null
+      },
+      "early_fatalities": 2
+    },
+    {
+      "micro_id": "M02",
+      "cluster_id": "P02",
+      "count": 1,
+      "t0_xy_m": [
+        -15.1,
+        -68.6
+      ],
+      "notes": {
+        "30": "Gate check completes; ordinary return begins25.",
+        "60": "Near farmyard; warning/barrier makes danger credible.",
+        "90": "Alive, global alarm; no later movement chosen."
+      },
+      "positions": {
+        "0": [
+          -15.1,
+          -68.6
+        ],
+        "30": [
+          -13.508671526789794,
+          -67.0606898041139
+        ],
+        "60": [
+          -19.2,
+          -59.6
+        ],
+        "90": [
+          -19.2,
+          -59.6
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M03",
+      "cluster_id": "P04",
+      "count": 2,
+      "t0_xy_m": [
+        -24.7,
+        -59.8
+      ],
+      "notes": {
+        "30": "Still storing fodder/tools; unusual west filtering.",
+        "60": "Stops at warning/crash; no direct attack.",
+        "90": "Alive; external daylight loss interrupts work."
+      },
+      "positions": {
+        "0": [
+          -24.7,
+          -59.8
+        ],
+        "30": [
+          -24.7,
+          -59.8
+        ],
+        "60": [
+          -24.7,
+          -59.8
+        ],
+        "90": [
+          -24.7,
+          -59.8
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M04",
+      "cluster_id": "P08",
+      "count": 2,
+      "t0_xy_m": [
+        -4.9,
+        49.6
+      ],
+      "notes": {
+        "30": "Already walking away after finishing water at22.",
+        "60": "Saw B11 at45/46, stopped the ordinary trip and stepped to the road edge; both alive, no Blood impact.",
+        "90": "Both alive at the road edge. Bone has abandoned this brief observation. No post90 response chosen."
+      },
+      "positions": {
+        "0": [
+          -4.9,
+          49.6
+        ],
+        "30": [
+          -6.43623024894358,
+          43.816139953028404
+        ],
+        "60": [
+          -18,
+          35
+        ],
+        "90": [
+          -18,
+          35
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M05",
+      "cluster_id": "P06",
+      "count": 2,
+      "t0_xy_m": [
+        -14,
+        13.1
+      ],
+      "notes": {
+        "30": "Directly tormented, making a short hide by the own-house coop; both alive.",
+        "60": "At the coop corner, still alive and locally panicking. Bone is returning, not selecting another household.",
+        "90": "Both alive, crouched by the same corner. Bone watches from the west; their next reaction/fate is unchosen."
+      },
+      "positions": {
+        "0": [
+          -14,
+          13.1
+        ],
+        "30": [
+          -32.26245210413686,
+          11.987547895863138
+        ],
+        "60": [
+          -34.3,
+          9.2
+        ],
+        "90": [
+          -34.3,
+          9.2
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M06",
+      "cluster_id": "P09",
+      "count": 3,
+      "t0_xy_m": [
+        14.1,
+        30.0
+      ],
+      "notes": {
+        "30": "Tavern delivery activity continues.",
+        "60": "Three outside workers hear danger; building masks direct strike view.",
+        "90": "All three alive; no post-realization decision authored."
+      },
+      "positions": {
+        "0": [
+          14.1,
+          30.0
+        ],
+        "30": [
+          14.1,
+          30.0
+        ],
+        "60": [
+          14.1,
+          30.0
+        ],
+        "90": [
+          14.1,
+          30.0
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M07",
+      "cluster_id": "P07",
+      "count": 2,
+      "t0_xy_m": [
+        -39.5,
+        11.7
+      ],
+      "notes": {
+        "30": "Still repairing the wheel; only uncertain disturbances.",
+        "60": "Major crash/warnings interrupt work.",
+        "90": "Both alive; unfinished work remains only a narrative association."
+      },
+      "positions": {
+        "0": [
+          -39.5,
+          11.7
+        ],
+        "30": [
+          -39.5,
+          11.7
+        ],
+        "60": [
+          -39.5,
+          11.7
+        ],
+        "90": [
+          -39.5,
+          11.7
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M08",
+      "cluster_id": "P10",
+      "count": 2,
+      "t0_xy_m": [
+        29.7,
+        32.0
+      ],
+      "notes": {
+        "30": "Normal shared-storage conversation continues.",
+        "60": "Hears attack/reactions through the quarter; warns nearest people.",
+        "90": "Both alive; next move unchosen."
+      },
+      "positions": {
+        "0": [
+          29.7,
+          32.0
+        ],
+        "30": [
+          29.7,
+          32.0
+        ],
+        "60": [
+          29.7,
+          32.0
+        ],
+        "90": [
+          29.7,
+          32.0
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M09",
+      "cluster_id": "P10",
+      "count": 5,
+      "t0_xy_m": [
+        38.6,
+        52.0
+      ],
+      "notes": {
+        "30": "Game and caregiver work continue.",
+        "60": "Potential open downhill sight/sound; group draws together less than2m.",
+        "90": "All five alive; no flight or casualty assigned."
+      },
+      "positions": {
+        "0": [
+          38.6,
+          52.0
+        ],
+        "30": [
+          38.6,
+          52.0
+        ],
+        "60": [
+          37.7,
+          51.9
+        ],
+        "90": [
+          37.7,
+          51.9
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M10",
+      "cluster_id": "P11",
+      "count": 1,
+      "t0_xy_m": [
+        -22.0,
+        58.4
+      ],
+      "notes": {
+        "30": "Short household fuel task; no unnatural move toward danger.",
+        "60": "Resident hears major crash from household frontage.",
+        "90": "Alive; no abandoned fuel or death placement."
+      },
+      "positions": {
+        "0": [
+          -22.0,
+          58.4
+        ],
+        "30": [
+          -22.0,
+          58.4
+        ],
+        "60": [
+          -22.0,
+          58.4
+        ],
+        "90": [
+          -22.0,
+          58.4
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M11",
+      "cluster_id": "P15",
+      "count": 3,
+      "t0_xy_m": [
+        -58.5,
+        65.2
+      ],
+      "notes": {
+        "30": "Normal return complete; uncertain about nearby woodland sheet.",
+        "60": "Infers closure from the familiar working edge and canopy.",
+        "90": "All three alive; no forest escape attempted."
+      },
+      "positions": {
+        "0": [
+          -58.5,
+          65.2
+        ],
+        "30": [
+          -47.00881055535887,
+          70.31556044675717
+        ],
+        "60": [
+          -47.00881055535887,
+          70.31556044675717
+        ],
+        "90": [
+          -47.00881055535887,
+          70.31556044675717
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M12",
+      "cluster_id": "P17",
+      "count": 2,
+      "t0_xy_m": [
+        -44.0,
+        122.0
+      ],
+      "notes": {
+        "30": "Provisions cart partway up switchback, slows to inspect.",
+        "60": "Paused on cart road; crew infers sealed enclosure.",
+        "90": "Both alive; no attempt to force the barrier."
+      },
+      "positions": {
+        "0": [
+          -44.0,
+          122.0
+        ],
+        "30": [
+          -43.60823079306458,
+          150.92418397113553
+        ],
+        "60": [
+          -41.33943261627502,
+          155.59528725184182
+        ],
+        "90": [
+          -41.33943261627502,
+          155.59528725184182
+        ]
+      },
+      "early_fatalities": 0
+    },
+    {
+      "micro_id": "M13",
+      "cluster_id": "P13",
+      "count": 1,
+      "t0_xy_m": [
+        23.5,
+        83.7
+      ],
+      "notes": {
+        "30": "Caretaker finishes normal threshold task.",
+        "60": "Potential sightline downhill + unmistakable crash establishes danger.",
+        "90": "Alive near public church approach; no grave-side gathering."
+      },
+      "positions": {
+        "0": [
+          23.5,
+          83.7
+        ],
+        "30": [
+          23.5,
+          83.7
+        ],
+        "60": [
+          23.5,
+          83.7
+        ],
+        "90": [
+          23.5,
+          83.7
+        ]
+      },
+      "early_fatalities": 0
+    }
+  ],
+  "awareness_deltas": [
+    {
+      "cohort": "P06",
+      "time": 30,
+      "before": {
+        "U": 5,
+        "A": 9
+      },
+      "after": {
+        "U": 5,
+        "A": 7,
+        "P": 2
+      },
+      "cause": "Direct M05 torment"
+    },
+    {
+      "cohort": "P06",
+      "time": 60,
+      "before": {
+        "Q": 5,
+        "A": 9
+      },
+      "after": {
+        "Q": 5,
+        "A": 7,
+        "P": 2
+      },
+      "cause": "Same two direct targets remain locally panicking"
+    },
+    {
+      "cohort": "P07",
+      "time": 60,
+      "before": {
+        "A": 4
+      },
+      "after": {
+        "A": 3,
+        "D": 1
+      },
+      "cause": "Assistant fatality at45"
+    },
+    {
+      "cohort": "P07",
+      "time": 90,
+      "before": {
+        "V": 4
+      },
+      "after": {
+        "V": 3,
+        "D": 1
+      },
+      "cause": "Same additional fatality"
+    },
+    {
+      "cohort": "P08",
+      "time": 46,
+      "before": "M04 would gain direct awareness at56",
+      "after": "M04 locally panicking from46; at60 P08 changes from17P/5A/4D to19P/3A/4D",
+      "cause": "Open sight of B11; early interruption of N02"
+    }
+  ],
+  "casualty_accounting": {
+    "initial_population": 170,
+    "additional_bone_fatalities": 1,
+    "additional_bone_injuries": 0,
+    "bone_total_fatalities": 3,
+    "blood_total_fatalities": 4,
+    "total_fatalities": 7,
+    "living_at90": 163,
+    "injured_among_living": 4,
+    "additional_victim": "P07 assistant, already assigned to N05; no new population or relocated victim."
+  },
+  "preserved_handoff": {
+    "blood": [
+      -2.2088023688951393,
+      44.52432308637402
+    ],
+    "witch": [
+      -15.556599900140176,
+      36.37393621055349,
+      5.639787035645556
+    ],
+    "barrier_geometry_and_formation": "Inherit approved T1 unchanged; add reactive contact rule at90 only.",
+    "other_civilians": "Inherit T1 exactly except the three explicit local overrides and awareness/count changes above."
+  },
+  "geometry_checks": [
+    {
+      "check": "M05 protective gesture",
+      "from_xy_m": [
+        -13.5,
+        7.8
+      ],
+      "to_xy_m": [
+        -23.1,
+        10.8
+      ],
+      "distance_m": 10.058,
+      "building_blockers": []
+    },
+    {
+      "check": "M05 mutual sight",
+      "from_xy_m": [
+        -20.5,
+        11.5
+      ],
+      "to_xy_m": [
+        -23.1,
+        10.8
+      ],
+      "distance_m": 2.693,
+      "building_blockers": []
+    },
+    {
+      "check": "Assistant acquired at42",
+      "from_xy_m": [
+        -25.040646476917992,
+        27.55080809614749
+      ],
+      "to_xy_m": [
+        -29.765431603740794,
+        34.95424551032102
+      ],
+      "distance_m": 8.783,
+      "building_blockers": []
+    },
+    {
+      "check": "M04 sees interception",
+      "from_xy_m": [
+        -28.401767137845624,
+        37.62347907123548
+      ],
+      "to_xy_m": [
+        -15.290878279380468,
+        36.870487339710806
+      ],
+      "distance_m": 13.132,
+      "building_blockers": []
+    },
+    {
+      "check": "Bone west angle to coop hide",
+      "from_xy_m": [
+        -37.5,
+        8.8
+      ],
+      "to_xy_m": [
+        -34.3,
+        9.2
+      ],
+      "distance_m": 3.225,
+      "building_blockers": []
+    }
+  ],
+  "interpretive_limits": [
+    "2D roof/footprint checks do not prove ground visibility, acoustics, tiny obstacle clearance or crowd collision.",
+    "J04/J06 go around the forge footprint on its east work apron, rather than blindly following the roof-crossing road centreline. No building or road is moved.",
+    "M05 hiding uses existing coop/cottage cover. Height/pose are provisional; no new door, room or family history is invented.",
+    "The near-miss is a deliberate precise hit on empty ground; attack VFX, projectile shape and final marks are unassigned.",
+    "Possible familiarity lasts five seconds beside existing domestic herbs/drying storage naturally passed from the last position; remaining consciousness is unresolved.",
+    "T1 timeline/map remains preserved as history. Use this overlay and the new timeline for the current handoff."
+  ]
+}

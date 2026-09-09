@@ -1,0 +1,126 @@
+{
+  "schema": "t1b-review/v1",
+  "image_dimensions": {
+    "06_T1_bone_completed.png": [
+      6000,
+      5000
+    ],
+    "07_T1_bone_timeline.png": [
+      7000,
+      5000
+    ]
+  },
+  "timeline_frames": {
+    "0": {
+      "world_extent_m": [
+        -120,
+        -180,
+        120,
+        205
+      ],
+      "png_frame_px": [
+        154.0,
+        619.9999999999994,
+        1603.0,
+        2571.479166666667
+      ]
+    },
+    "30": {
+      "world_extent_m": [
+        -120,
+        -180,
+        120,
+        205
+      ],
+      "png_frame_px": [
+        1869.0,
+        619.9999999999994,
+        1602.9999999999998,
+        2571.479166666666
+      ]
+    },
+    "60": {
+      "world_extent_m": [
+        -120,
+        -180,
+        120,
+        205
+      ],
+      "png_frame_px": [
+        3584.0,
+        619.9999999999994,
+        1602.9999999999998,
+        2571.479166666666
+      ]
+    },
+    "90": {
+      "world_extent_m": [
+        -120,
+        -180,
+        120,
+        205
+      ],
+      "png_frame_px": [
+        5299.0,
+        619.9999999999994,
+        1602.9999999999998,
+        2571.479166666666
+      ]
+    }
+  },
+  "files": {
+    "06_T1_bone_completed.png": "584bbbd88b52ae96524259d7e963a9ce75209bbb759240395ca6beee596daf9e",
+    "06_T1_bone_completed.svg": "04aa495531e5a7354e3e32d88eac0fe8cea7e8ce7e5d1a3cf8d246b6ebbd51c2",
+    "07_T1_bone_timeline.png": "6370c5a39302d8b46c26fc5670f18532e5e70d84eb4be949d38a2ff6c40710a2",
+    "bone_completion.json": "681aa4458920c1a5274cbc85b1ebcefe856c4911fdbda4e901ba2b901c0ceb90",
+    "massacre_behaviour_rules.json": "81b5bd74cfb7fa7c7b072e7d9a1f1226609f6de5cc8abcc25ba9ad54507af8e1",
+    "render_bone_completion.py": "b45a6f5660bcc16482ef260adb49e657eeab4edd20ba11f7165b7b2389b2eb0e",
+    "t1b_awareness.csv": "d45e6ec9ea0e4a2077fc78d3f07134ce3e007eb8a63d4f9673cdf21fb9269e7d",
+    "T1_BONE_COMPLETION.md": "6a254ad660804d0f9e32868f999c33b8f763f13ace454c5210740f18dcdd961f"
+  },
+  "source_files_unchanged": {
+    "01_village_base_map.png": true,
+    "01_village_base_map.svg": true,
+    "02_massacre_planning_blank.png": true,
+    "02_massacre_planning_blank.svg": true,
+    "03_T0_normal_activity.png": true,
+    "03_T0_normal_activity.svg": true,
+    "04_T1_first_90_seconds.png": true,
+    "04_T1_first_90_seconds.svg": true,
+    "05_T1_timeline.png": true,
+    "map_data.json": true,
+    "map_views.json": true,
+    "massacre_annotations.json": true,
+    "provenance.json": true,
+    "render_map.py": true,
+    "render_t0.py": true,
+    "render_t1.py": true,
+    "t0_activity.json": true,
+    "T0_ACTIVITY.md": true,
+    "t0_manifest.json": true,
+    "t1_awareness.csv": true,
+    "T1_FIRST_90_SECONDS.md": true,
+    "t1_manifest.json": true,
+    "t1_simulation.json": true
+  },
+  "stop_time_s": 90,
+  "initial_population": 170,
+  "living": 163,
+  "fatalities": 7,
+  "injured_in_living": 4,
+  "ue_edits": false,
+  "validation": {
+    "continuous_bone_account_0_to90": true,
+    "bursts": 6,
+    "attention_trigger_per_burst": true,
+    "all_17_cohort_ledgers_reconcile": true,
+    "t0_anchors_unchanged": true,
+    "unchanged_micro_groups_other_than_M04_M05": true,
+    "unchanged_witch_and_blood_handoff": true,
+    "new_bursts_and_human_reactions_clear_building_footprints": true,
+    "new_traces_clear_coop_and_charcoal_bay": true,
+    "narrowest_family_to_forge_roof_clearance_m": 0.187,
+    "barrier_contacts": 0,
+    "post90_events": 0
+  }
+}
