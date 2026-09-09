@@ -1,3 +1,15 @@
+# Current review: Step 3 / first civilian reaction
+
+The current planning handoff is the **+90–105 civilian reaction**, with supernatural actors held at +90. Start with [T2_CIVILIAN_REACTIONS.md](T2_CIVILIAN_REACTIONS.md), [08 intentions](08_T2_civilian_reaction_intentions.png) and [09 emerging groups](09_T2_reaction_groups.png).
+
+Edit [t2_civilian_reactions.json](t2_civilian_reactions.json) and run `python render_t2.py .` here to regenerate only the new PNG/SVG pair, derived notes, complete CSV and validation manifest. The JSON includes timed civilian beginnings, knowledge, injuries/helpers, disjoint cohort membership, actual versus merely converging groups, and the frozen actor handoff. No future actor response is selected.
+
+Overlay order: `t0_activity.json` → `t1_simulation.json` → `bone_completion.json` → `t2_civilian_reactions.json`. Keep `massacre_behaviour_rules.json` as the locked rule reference. Earlier images/data are immutable historical layers, not stale files to overwrite. All 32 prior source artifacts are preserved exactly. No UE scene changes are implied.
+
+Orientation remains up = UE +X/uphill, right = UE +Y; coordinates and scale bars are horizontal metres. The same healthy survey and its 2D projection limits apply. No new geography or final lighting is represented. Stop here for review.
+
+## Previous map documentation
+
 # Current village planning maps
 
 ## Current review — Step 2B: Bone completed
