@@ -1,7 +1,7 @@
 """Render only T1 planning outputs from the separate editable simulation layer.
 Run python render_t1.py MAP_DIRECTORY [OUTPUT_DIRECTORY]. No Unreal calls.
 """
-import ast,sys,json,hashlib,math,xml.etree.ElementTree as ET
+import ast,sys,json,hashlib,math,csv,xml.etree.ElementTree as ET
 from pathlib import Path
 HERE=Path(__file__).resolve().parent
 BASE=Path(sys.argv[1]).resolve() if len(sys.argv)>1 else HERE
@@ -10,6 +10,16 @@ S=json.loads((OUT/'t1_simulation.json').read_text(encoding='utf-8'))
 T0=json.loads((BASE/'t0_activity.json').read_text());C={c['id']:c for c in T0['population_clusters']};A={a['id']:a for a in S['actors']};M={m['id']:m for m in T0['narrative_micro_groups']}
 start=A['bone']['timed_points'][0]['xy_m']
 for name,h in S['protected_file_sha256'].items():assert hashlib.sha256((BASE/name).read_bytes()).hexdigest()==h,name
+assert S['duration_s']==90 and all(e['t_s']<=90 for e in S['events'])
+for cohort in S['cohort_awareness']:
+    assert cohort['initial_count']==C[cohort['cluster_id']]['count']
+    assert all(sum(state.values())==cohort['initial_count'] for state in cohort['states'].values())
+with (OUT/'t1_awareness.csv').open('w',newline='',encoding='utf-8') as fp:
+    writer=csv.writer(fp)
+    writer.writerow(['cluster','T0_population','seconds','unaware','uncertain','aware','local_panic','trapped_aware','village_wide_alarm','early_fatalities'])
+    for cohort in S['cohort_awareness']:
+        for t,state in cohort['states'].items():
+            writer.writerow([cohort['cluster_id'],cohort['initial_count'],t]+[state.get(k,0) for k in ['U','Q','A','P','T','V','D']])
 source=BASE/'render_map.py';tree=ast.parse(source.read_text(encoding='utf-8'));cut=next(i for i,n in enumerate(tree.body) if isinstance(n,ast.Assign) and any(isinstance(t,ast.Name) and t.id=='fig' for t in n.targets));oldargs=sys.argv;sys.argv=['render_map.py',str(BASE)];core={'__file__':str(source)};exec(compile(ast.Module(body=tree.body[:cut],type_ignores=[]),str(source),'exec'),core);sys.argv=oldargs
 plt=core['plt'];np=core['np'];Image=core['Image'];base=core['base'];draw=core['draw_geom'];plain=core['plain'];scalebar=core['scalebar'];D=core['D'];BG=core['BG'];INK=core['INK']
 from matplotlib.patches import FancyArrowPatch,Wedge,Circle
@@ -168,7 +178,8 @@ fig.text(.024,.031,'Pins identify original T0 cohorts, not corpse locations or o
 fig.text(.024,.012,'T+90 means village-wide alarm, not universal knowledge of every killing. Map remains pale so the plan can be read; it is not a rendered lighting preview.',fontsize=9,color='#60716b')
 save(fig,'05_T1_timeline',False)
 
-files=['04_T1_first_90_seconds.png','04_T1_first_90_seconds.svg','05_T1_timeline.png','t1_simulation.json','render_t1.py']
+files=['04_T1_first_90_seconds.png','04_T1_first_90_seconds.svg','05_T1_timeline.png','t1_simulation.json','render_t1.py','t1_awareness.csv']
+if (OUT/'T1_FIRST_90_SECONDS.md').exists():files.append('T1_FIRST_90_SECONDS.md')
 manifest=dict(schema='t1-review/v1',source_geometry_sha256=D['geometry_sha256'],source_t0_sha256=S['source']['t0_sha256'],image_sizes={'04_T1_first_90_seconds.png':[6000,5000],'05_T1_timeline.png':[7000,5000]},timeline_frames=view_records,files={n:hashlib.sha256((OUT/n).read_bytes()).hexdigest() for n in files},protected_unchanged={n:hashlib.sha256((BASE/n).read_bytes()).hexdigest()==h for n,h in S['protected_file_sha256'].items()})
 assert all(manifest['protected_unchanged'].values())
 (OUT/'t1_manifest.json').write_text(json.dumps(manifest,indent=2)+'\n',encoding='utf-8')
