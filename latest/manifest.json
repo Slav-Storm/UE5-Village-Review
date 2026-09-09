@@ -1,0 +1,418 @@
+{
+  "package_created_utc": "2026-09-09T11:20:02+00:00",
+  "review_state": "Healthy village after the two exhumations, before the massacre",
+  "project_commit": "2bf3d7e27836908c45d5ebebb1158ac527b5739e",
+  "project_checkpoint": "healthy-village-v2",
+  "capture_kind": "Existing saved Unreal Editor viewport captures; no scene edits or new capture run for repository setup",
+  "inspection_exposure_offset_ev": 2,
+  "saved_scene_exposure_offset_ev": 0,
+  "image_processing": "PNG review copies, proportional downsize to 1600 px maximum width; no crop, relighting, generative editing or scene changes",
+  "images": [
+    {
+      "path": "latest/01_aerial.png",
+      "title": "Aerial overview",
+      "caption": "The retained uphill village, lower farmland, dense forest enclosure and elevated Mayor's property.",
+      "captured_utc": "2026-09-09T10:32:11+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "739ed2f5cd36337e345d6432124a31cb0d1ba23c6fbb31f5143aff4681fa044f",
+      "sha256": "b8fb1754196d4fe88284ef9c7dcd3dd9933efaf45233d2a8f5be7a165ae3ee43",
+      "bytes": 1195959,
+      "camera": {
+        "position": [
+          -10500,
+          -14200,
+          11600
+        ],
+        "rotation": [
+          -25.50752994023781,
+          45.29893178940252,
+          0
+        ],
+        "target": [
+          3800,
+          250,
+          1900
+        ],
+        "eye_height_cm": null,
+        "fov": 90,
+        "actor": {
+          "refPath": "/Game/Levels/TitleScreen.TitleScreen:PersistentLevel.CameraActor_4"
+        }
+      }
+    },
+    {
+      "path": "latest/02_title_approach.png",
+      "title": "Title-screen approach",
+      "caption": "The established approach camera: road and farmland in front, village gate and climbing settlement beyond, mansion on the summit.",
+      "captured_utc": "2026-09-09T10:32:20+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "bdccea418681d90f042961f5a6ee7c04bda0c85afe0a4b4d04fcad5998bd4268",
+      "sha256": "839e97dd9d4e04e6c161a324c81a030337ee59bc1d8223a006bc2969701113f6",
+      "bytes": 891360,
+      "camera": {
+        "position": [
+          -10460.82361141604,
+          190.1041266325471,
+          -585.611183390643
+        ],
+        "target": [
+          14600,
+          200,
+          5122.537834178054
+        ],
+        "rotation": [
+          12.831452714864945,
+          0.022624625506049323,
+          0
+        ],
+        "eye_height_cm": 180,
+        "fov": 90,
+        "actor": {
+          "refPath": "/Game/Levels/TitleScreen.TitleScreen:PersistentLevel.CameraActor_5"
+        }
+      }
+    },
+    {
+      "path": "latest/03_village_centre.png",
+      "title": "Village centre",
+      "caption": "Player-height view of the irregular social junction and its existing market, noticeboard, well and tavern surroundings.",
+      "captured_utc": "2026-09-09T10:32:12+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "1239d6dd1c9481a5319fcfd578ce761d796a8ac4f1b34f1cac3763344ff6abc3",
+      "sha256": "6a161d7aaecab98889ffc339b40753ffd372844e54f6eac02fb93bb18d98a0fd",
+      "bytes": 852407,
+      "camera": {
+        "position": [
+          4510,
+          -840,
+          875.5
+        ],
+        "target": [
+          4700,
+          1100,
+          1200
+        ],
+        "rotation": [
+          9.451445149205064,
+          84.40639655088775,
+          0
+        ],
+        "eye_height_cm": 180,
+        "fov": 90,
+        "actor": {
+          "refPath": "/Game/Levels/TitleScreen.TitleScreen:PersistentLevel.CameraActor_6"
+        }
+      }
+    },
+    {
+      "path": "latest/04_cemetery.png",
+      "title": "Church and cemetery",
+      "caption": "Player-height view of the small public church and twenty older graves, with varied markers and family groupings.",
+      "captured_utc": "2026-09-09T10:32:14+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "9b43493e14de6be9f3ddd10a3c07898fec87d90c353e16fd3dfc828e93f290a5",
+      "sha256": "2bdb7590ff97e431e0857727998f9af1097c73a9e6f44d4165e2711ea98c9ea2",
+      "bytes": 829394,
+      "camera": {
+        "position": [
+          8540,
+          3650,
+          2156.9728999999998
+        ],
+        "target": [
+          10100,
+          3060,
+          2170
+        ],
+        "rotation": [
+          0.4475137694241196,
+          -20.7168750554553,
+          0
+        ],
+        "eye_height_cm": 180
+      }
+    },
+    {
+      "path": "latest/05_witch_house.png",
+      "title": "Witch's home and cellar",
+      "caption": "Raised overview of the ordinary family house, domestic yard and external side-cellar entrance with supported landing and handrail.",
+      "captured_utc": "2026-09-09T10:32:17+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "f01ccba20e09f31eb3891b9c467589df948664941179e1ec42417473495b09d5",
+      "sha256": "870e9658e99d7449108391ce234a1039818d1c1f9e32fcd4d3a11e02bc638ec9",
+      "bytes": 935934,
+      "camera": {
+        "position": [
+          -2340,
+          -1600,
+          340
+        ],
+        "target": [
+          -350,
+          -1250,
+          135
+        ],
+        "rotation": [
+          -5.793280005023207,
+          9.975126720458642,
+          0
+        ],
+        "eye_height_cm": null
+      }
+    },
+    {
+      "path": "latest/06_mayor_approach.png",
+      "title": "Mayor's staircase approach",
+      "caption": "The formal stair flights, landings, boundary and entrance to the private grounds. View 10 shows the separate cart access.",
+      "captured_utc": "2026-09-09T10:32:18+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "0b3b1dd46bfa18939939f176481b85d58d28eb5be9d926e9d1458deb6affa307",
+      "sha256": "a6d0e2b9410c616050a2019b89ad98d2eb5a4e17baa94dc137fb551bf3ce590f",
+      "bytes": 752376,
+      "camera": {
+        "position": [
+          9650.36738897983,
+          -484.5558367685069,
+          3328.437145334572
+        ],
+        "target": [
+          14600,
+          200,
+          4842.537834178054
+        ],
+        "rotation": [
+          16.85771568679879,
+          7.874303623486228,
+          0
+        ],
+        "eye_height_cm": 180,
+        "fov": 90,
+        "actor": {
+          "refPath": "/Game/Levels/TitleScreen.TitleScreen:PersistentLevel.CameraActor_7"
+        }
+      }
+    },
+    {
+      "path": "latest/07_disturbed_graves.png",
+      "title": "The two disturbed graves",
+      "caption": "Close overview: adult lover on the right, child on the left. Both are empty and reopened from above, with original markers, spoil and lifted boards.",
+      "captured_utc": "2026-09-09T10:32:15+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "48e5a67e670e0e8be18a1f07a2667c6a8510bf1c9ece96aa461bf154c0231363",
+      "sha256": "2622a661d9aae44ded55c1b94ac77fc6eb3f2cbb86f35a11c8d0e01e525bd048",
+      "bytes": 825872,
+      "camera": {
+        "position": [
+          10580,
+          3240,
+          2438.9728999999998
+        ],
+        "target": [
+          10565,
+          3650,
+          1900
+        ],
+        "rotation": [
+          -52.72106222836566,
+          92.09525256462385,
+          0
+        ],
+        "eye_height_cm": 470
+      }
+    },
+    {
+      "path": "latest/08_cemetery_reserve.png",
+      "title": "Future burial land",
+      "caption": "The established churchyard and approximately 699 square metres of adjacent empty meadow reserved for later burial progression.",
+      "captured_utc": "2026-09-09T10:32:21+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "068afe345f143ded6db36d393a4cfaaf55c6e70d82369730d96a12e9ccd31e88",
+      "sha256": "5f0592f403e3ce9ae550b1e5285686101996d1d6436a12bc7ffa2a68a5ae3d66",
+      "bytes": 948074,
+      "camera": {
+        "position": [
+          7800,
+          5700,
+          7000
+        ],
+        "target": [
+          10700,
+          4100,
+          2350
+        ],
+        "rotation": [
+          -54.53851366742328,
+          -28.88658176691071,
+          0
+        ],
+        "eye_height_cm": null
+      }
+    },
+    {
+      "path": "latest/09_family_yard.png",
+      "title": "Ordinary family yard",
+      "caption": "Herb/remedy work, a family table, child stool, adult seat and firewood establish a domestic family home.",
+      "captured_utc": "2026-09-09T10:32:23+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "ec6453e4225db19aaefe59eccc234b9edcae1dd30a6ad31547238fe490b8ed04",
+      "sha256": "85d85738e97e8293c0625bfe8cd8008c39cf7d328cca504c3d8af398c456cda6",
+      "bytes": 856364,
+      "camera": {
+        "position": [
+          35,
+          -2260,
+          145.00544799999997
+        ],
+        "target": [
+          -350,
+          -1660,
+          65
+        ],
+        "rotation": [
+          -6.4032551338473285,
+          122.68693654101054,
+          0
+        ],
+        "eye_height_cm": 180
+      }
+    },
+    {
+      "path": "latest/10_cart_service.png",
+      "title": "Mayor's cart/service route",
+      "caption": "Functional cart access and service area supporting the elevated property separately from the ceremonial staircase.",
+      "captured_utc": "2026-09-09T10:32:24+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "b7dcfcd98bfe26d90916d49f268121e712afc43cf1bad8568048e98d81ce7176",
+      "sha256": "fe3b6b155f4fc7580d9834d5a4e45e2b34c60ce878fdb17eccc44c1ba413c389",
+      "bytes": 709762,
+      "camera": {
+        "position": [
+          13750,
+          -2840,
+          4483.83412
+        ],
+        "target": [
+          13150,
+          -1800,
+          4522.537834178054
+        ],
+        "rotation": [
+          1.8463011103586013,
+          119.98163936884934,
+          0
+        ],
+        "eye_height_cm": 180,
+        "fov": 90
+      }
+    },
+    {
+      "path": "latest/11_cellar_threshold.png",
+      "title": "Cellar threshold",
+      "caption": "Player-height view from the new side landing into the existing cellar stair and underground space.",
+      "captured_utc": "2026-09-09T10:32:26+00:00",
+      "source_dimensions": [
+        2742,
+        1270
+      ],
+      "review_dimensions": [
+        1600,
+        741
+      ],
+      "source_sha256": "661680bd56373082a87ca7895a0806e78c3e9d7b7ff4b7337054847197ca42c5",
+      "sha256": "6a09fd29203e68a9f0353ff7390eb868ec823cbb4781efb7a2069e1c369048a2",
+      "bytes": 774127,
+      "camera": {
+        "position": [
+          -1540,
+          -1280,
+          183
+        ],
+        "target": [
+          -790,
+          -1370,
+          -300
+        ],
+        "rotation": [
+          -32.59536416755027,
+          -6.84277341263094,
+          0
+        ],
+        "eye_height_cm": 180
+      }
+    }
+  ],
+  "contact_sheet": {
+    "path": "latest/00_contact_sheet.png",
+    "note": "Seven primary views, using the original contact-sheet numbering; individual filenames and review headings below use the stable repository numbering."
+  }
+}
