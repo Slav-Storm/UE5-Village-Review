@@ -1,0 +1,19 @@
+{
+  "geometry_sha256": "cb52e115c55558778d234691d513aa350813ee5432b56764981673c9568fe712",
+  "coordinate_system": {
+    "x": "UE +Y metres",
+    "y": "UE +X metres",
+    "up": "map north = UE +X; no geographic north asserted",
+    "height": "UE Z metres; gate ground approximately 0"
+  },
+  "blood_route": [],
+  "bone_route": [],
+  "witch_route": [],
+  "civilian_movements": [],
+  "escape_attempts": [],
+  "blood_barrier": [],
+  "event_nodes": [],
+  "attack_directions": [],
+  "structural_damage": [],
+  "event_chronology": []
+}

@@ -1,0 +1,351 @@
+{
+  "survey_time_utc": "2026-09-09T12:16:22.951403+00:00",
+  "actor_count": 2209,
+  "visible_projected_actor_count": 1844,
+  "categories": {
+    "gate": 7,
+    "sign": 7,
+    "stairs": 11,
+    "retaining": 5,
+    "proxy": 259,
+    "cellar_access": 3,
+    "underground": 24,
+    "forest": 802,
+    "road": 1,
+    "field": 10,
+    "grave": 24,
+    "boundary": 3,
+    "orchard_trees": 1,
+    "civic_proxy": 2,
+    "footpath": 4,
+    "grave_open": 2,
+    "spoil": 2,
+    "building": 31,
+    "outbuilding": 10,
+    "agriculture": 10,
+    "civic_area": 1,
+    "burial_reserve": 1,
+    "cemetery_area": 1,
+    "estate_area": 1,
+    "route_reference": 20,
+    "footpath_reference": 12,
+    "grave_open_outline": 2,
+    "reserved_reference": 1,
+    "stair_line": 72,
+    "contour": 30
+  },
+  "source_meshes": {
+    "SM_Terrain_TwoGraveOpenings_d0f8b857": {
+      "source": "SourceAssets/PreMassacre/SM_Terrain_TwoGraveOpenings.obj",
+      "sha256": "d0f8b857a9cc0800567eed9012a95dd59346c81297509863ba30f19b596c14f3",
+      "local_bounds_error_cm": 5e-05
+    },
+    "SM_Streets_Settlement01_e453e298": {
+      "source": "SourceAssets/Terrain/SM_Streets_Settlement01.obj",
+      "sha256": "e453e298243f04ada5b661318242a07278791ce844ced7b688ac04542967ff6e",
+      "local_bounds_error_cm": 0.00048
+    },
+    "SM_NorthLongField_Settlement01_49fb7136": {
+      "source": "SourceAssets/Terrain/SM_NorthLongField_Settlement01.obj",
+      "sha256": "49fb71364203caf6f987243362394449182f040fcf3421794c503a23f915be8a",
+      "local_bounds_error_cm": 1e-05
+    },
+    "SM_SouthLongField_Settlement01_96514fc2": {
+      "source": "SourceAssets/Terrain/SM_SouthLongField_Settlement01.obj",
+      "sha256": "96514fc2320d5021e530839a2efb53b8737b8ac0fcb9c43492854a9cc760f115",
+      "local_bounds_error_cm": 1e-05
+    },
+    "PM_OldGrave_01_bcea8f24": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_01.obj",
+      "sha256": "bcea8f240630068aa56c3f0665f3d4abe66d9b52fb2091ad43d1518614793511",
+      "local_bounds_error_cm": 0.00023
+    },
+    "PM_OldGrave_02_39275c3d": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_02.obj",
+      "sha256": "39275c3d4bec1bdf73bfae163c740925b91a7694dc35c9b27773225cbec2623c",
+      "local_bounds_error_cm": 8e-05
+    },
+    "PM_OldGrave_03_7b344aee": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_03.obj",
+      "sha256": "7b344aeef058a198949793fe1818b55933667f2c33c1f3a0e0a0a20339fc2fdc",
+      "local_bounds_error_cm": 0.00016
+    },
+    "PM_OldGrave_04_18307ae0": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_04.obj",
+      "sha256": "18307ae059bc197de73a19bd43635a8ca1271cfb4d89c9f3483b0743a36f3408",
+      "local_bounds_error_cm": 0.00039
+    },
+    "PM_OldGrave_05_cd25e993": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_05.obj",
+      "sha256": "cd25e9938d5f566ada66279d22f2e8760577cc8e02f8a8b920350e7ffa05c790",
+      "local_bounds_error_cm": 0.00026
+    },
+    "PM_OldGrave_06_bb3e1261": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_06.obj",
+      "sha256": "bb3e12614e5e5982dc5f2ad46f9c4452b8cf9e00d7ec8340bad9f78e8297a6f0",
+      "local_bounds_error_cm": 0.00025
+    },
+    "PM_OldGrave_07_f1c2bc3a": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_07.obj",
+      "sha256": "f1c2bc3a1a52e0e03ce4f4fff8d1958aedf7f66548e61f4ef39de17778d2d829",
+      "local_bounds_error_cm": 0.00039
+    },
+    "PM_Lover_OriginalMarker_25c6008f": {
+      "source": "SourceAssets/PreMassacre/PM_Lover_OriginalMarker.obj",
+      "sha256": "25c6008f3358b6e1736e5b7614785579ff2c83d4671aa546a19d9ab0da407aeb",
+      "local_bounds_error_cm": 0.00043
+    },
+    "PM_Son_OriginalMarker_091e22f5": {
+      "source": "SourceAssets/PreMassacre/PM_Son_OriginalMarker.obj",
+      "sha256": "091e22f5697d66902cdb533711d86363ac1d1afb98c943671ad58a5aa11b3efe",
+      "local_bounds_error_cm": 0.00045
+    },
+    "SM_MiddleStripField_Settlement01_1826f1a5": {
+      "source": "SourceAssets/Terrain/SM_MiddleStripField_Settlement01.obj",
+      "sha256": "1826f1a55f2f397ffdd33d5cbd6fb84be7f16b5b3686b60ee2b809717b912654",
+      "local_bounds_error_cm": 2e-05
+    },
+    "SM_Orchard_Settlement01_6fb59f2d": {
+      "source": "SourceAssets/Terrain/SM_Orchard_Settlement01.obj",
+      "sha256": "6fb59f2dac02b5f587f7367a9f65a417f25144affb17c89a5de68f11e274944f",
+      "local_bounds_error_cm": 1e-05
+    },
+    "SM_NorthFarmyard_Settlement01_1a9919b3": {
+      "source": "SourceAssets/Terrain/SM_NorthFarmyard_Settlement01.obj",
+      "sha256": "1a9919b315e706ff81e1d78d120030be3b0423947d31fbac12dc56a6c20f7e04",
+      "local_bounds_error_cm": 1e-05
+    },
+    "SM_OuterPasture_Settlement01_16fa4491": {
+      "source": "SourceAssets/Terrain/SM_OuterPasture_Settlement01.obj",
+      "sha256": "16fa4491e2a355919684d00876c1c973c40493e2a11e6fd1189bccd5d93f9645",
+      "local_bounds_error_cm": 2e-05
+    },
+    "SM_InnerPaddock_Settlement01_fc0e6318": {
+      "source": "SourceAssets/Terrain/SM_InnerPaddock_Settlement01.obj",
+      "sha256": "fc0e6318b50855d8a9ec1abb86c9c4ee78bbc6e42a47087398d112ecd137ac35",
+      "local_bounds_error_cm": 0.0
+    },
+    "SM_SouthFarmyard_Settlement01_f7ca92af": {
+      "source": "SourceAssets/Terrain/SM_SouthFarmyard_Settlement01.obj",
+      "sha256": "f7ca92af794c7a7d8f7d4ce73a0c319f038ed60d9f72330552526ae89e1a6ca2",
+      "local_bounds_error_cm": 1e-05
+    },
+    "SM_WorkingFieldBoundaries_15f0cb54": {
+      "source": "SourceAssets/HealthyVillage/SM_WorkingFieldBoundaries.obj",
+      "sha256": "15f0cb54502e2e6fea6defc82ab86042bf824d54c161de6f020003831efd5dea",
+      "local_bounds_error_cm": 0.00036
+    },
+    "SM_RetainingEstate_Settlement01_18ed0e90": {
+      "source": "SourceAssets/Terrain/SM_RetainingEstate_Settlement01.obj",
+      "sha256": "18ed0e909a230c0a194392c6fa276bc38acc877dd35428a16e86ab85def7f83f",
+      "local_bounds_error_cm": 0.0002
+    },
+    "SM_Furrows_Settlement01_fd0f6296": {
+      "source": "SourceAssets/Terrain/SM_Furrows_Settlement01.obj",
+      "sha256": "fd0f6296aaa5deff0d3a0c9c3cf7e30c71ad26654b8b657ff8b4c8181f89deed",
+      "local_bounds_error_cm": 1e-05
+    },
+    "SM_OrchardTrees_Settlement01_2ec1f15c": {
+      "source": "SourceAssets/Terrain/SM_OrchardTrees_Settlement01.obj",
+      "sha256": "2ec1f15cf3475229c5f5ee55bba9906ab63e23974ed2c4361f9278ecf3375077",
+      "local_bounds_error_cm": 7e-05
+    },
+    "SM_Foundations_Settlement01_3e85e88c": {
+      "source": "SourceAssets/Terrain/SM_Foundations_Settlement01.obj",
+      "sha256": "3e85e88c87e4e294a67e23a617e960ffa49f193095516e6b6e7523c5f3a07a7a",
+      "local_bounds_error_cm": 0.00022
+    },
+    "SM_NorthKitchenGarden_Settlement01_d16ec45b": {
+      "source": "SourceAssets/Terrain/SM_NorthKitchenGarden_Settlement01.obj",
+      "sha256": "d16ec45b57b56f79ee861f0cc0ff5daf87cf8de30aec87284aeebc882b48868d",
+      "local_bounds_error_cm": 0.0
+    },
+    "SM_SouthKitchenGarden_Settlement01_ee83bd3b": {
+      "source": "SourceAssets/Terrain/SM_SouthKitchenGarden_Settlement01.obj",
+      "sha256": "ee83bd3b2aa14164383b11fffe7ad7e6322f32b573603a14b4d5bc842832ff75",
+      "local_bounds_error_cm": 0.0
+    },
+    "SM_MayorStairs_Spatial01_63587656": {
+      "source": "SourceAssets/Terrain/SM_MayorStairs_Spatial01.obj",
+      "sha256": "6358765676c0e96bb061f506c113f9bcbda70ba6cab7a3e20d374a6625a47022",
+      "local_bounds_error_cm": 0.0002
+    },
+    "SM_ApproachRetaining_Spatial01_7b720779": {
+      "source": "SourceAssets/Terrain/SM_ApproachRetaining_Spatial01.obj",
+      "sha256": "7b72077970c9e9de4772810fd1814e1ef4f49639b476ece3f2ef62b287409cdd",
+      "local_bounds_error_cm": 0.00035
+    },
+    "SM_HealthyCivicStone_49cca31c": {
+      "source": "SourceAssets/HealthyVillage/SM_HealthyCivicStone.obj",
+      "sha256": "49cca31cee9d11e8cba7982266e8bbfd427ac6bc88d6854d4641068011c86479",
+      "local_bounds_error_cm": 1e-05
+    },
+    "SM_HealthyCivicTimber_3c912245": {
+      "source": "SourceAssets/HealthyVillage/SM_HealthyCivicTimber.obj",
+      "sha256": "3c9122450a15a3e39346cc78bce36f600f8d37353c618af14340fa1e9ed91f4f",
+      "local_bounds_error_cm": 0.00013
+    },
+    "SM_DailyFootpaths_60d62fd0": {
+      "source": "SourceAssets/HealthyVillage/SM_DailyFootpaths.obj",
+      "sha256": "60d62fd091415087444f4009b061f3f9b027412c0b35fcc3de22074855241822",
+      "local_bounds_error_cm": 0.00024
+    },
+    "SM_GroundedSupports_8d600166": {
+      "source": "SourceAssets/HealthyVillage/SM_GroundedSupports.obj",
+      "sha256": "8d600166e11a1e122a6106982f6c049071a7214a62d3fa92e5bd06848f45f645",
+      "local_bounds_error_cm": 0.00031
+    },
+    "PM_OldGrave_08_0ff34014": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_08.obj",
+      "sha256": "0ff340143700b2bd4ceca6e6f81c6d08e064af980268ddf935b2c3a16a2c923c",
+      "local_bounds_error_cm": 0.00044
+    },
+    "PM_OldGrave_09_8f96a98b": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_09.obj",
+      "sha256": "8f96a98b6e1aeb76fa0d713dc0b2a426422466c60861f3bba7b13881b5984e7c",
+      "local_bounds_error_cm": 0.00037
+    },
+    "PM_OldGrave_10_63e8d4dd": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_10.obj",
+      "sha256": "63e8d4dd17fc90488a5100d7d9772d6a145e034131b13147a6b3ed30ef48da49",
+      "local_bounds_error_cm": 0.00036
+    },
+    "PM_OldGrave_11_9ffd682d": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_11.obj",
+      "sha256": "9ffd682d071b461df6e3c8ad135efc2780dd6f9aac6db53729aca68ac03d89b1",
+      "local_bounds_error_cm": 0.00031
+    },
+    "PM_OldGrave_12_48f1a6ac": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_12.obj",
+      "sha256": "48f1a6aca6f436e8aa1278377f47b92354d101246bbd2599eb111a38488237d4",
+      "local_bounds_error_cm": 0.00033
+    },
+    "PM_OldGrave_13_2002877f": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_13.obj",
+      "sha256": "2002877fe9714d16b18c7603c09ca5c0542fc3393b1ce409e60bd638d4131055",
+      "local_bounds_error_cm": 0.00012
+    },
+    "PM_OldGrave_14_43aced2d": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_14.obj",
+      "sha256": "43aced2dd11fece07e4fbdbefaedb0e16ad54a5d498121bc6367e862d606ccb0",
+      "local_bounds_error_cm": 0.00034
+    },
+    "PM_OldGrave_15_11030c19": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_15.obj",
+      "sha256": "11030c19fa3a1dcbe69e5dfe54ab9eed7da720682707de57f7c76529868d8187",
+      "local_bounds_error_cm": 0.00024
+    },
+    "PM_OldGrave_16_4e2d2464": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_16.obj",
+      "sha256": "4e2d2464960a2c06c5442b926185040d048566870565b591a729dd2fb945f4f1",
+      "local_bounds_error_cm": 0.00027
+    },
+    "PM_OldGrave_17_0a9b5170": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_17.obj",
+      "sha256": "0a9b5170f4186e09a6044a3a07aff21376ddd3b591bb4cca77192aabf2af9dc3",
+      "local_bounds_error_cm": 0.00023
+    },
+    "PM_OldGrave_18_b73e527f": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_18.obj",
+      "sha256": "b73e527fb8fd46657951febeef35c61312444633076d0893368aca2fd04cd673",
+      "local_bounds_error_cm": 0.00044
+    },
+    "PM_OldGrave_19_02040798": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_19.obj",
+      "sha256": "02040798921149c354dd036107226914201e03e424a78cab0194088c00b14246",
+      "local_bounds_error_cm": 8e-05
+    },
+    "PM_OldGrave_20_c17869a1": {
+      "source": "SourceAssets/PreMassacre/PM_OldGrave_20.obj",
+      "sha256": "c17869a1b26f638e8509fabe4dc60759b8e2aabd10c70159ca671bf4c83e86ee",
+      "local_bounds_error_cm": 0.00025
+    },
+    "PM_Lover_EmptyExcavation_8f230026": {
+      "source": "SourceAssets/PreMassacre/PM_Lover_EmptyExcavation.obj",
+      "sha256": "8f23002662b331114afc17d4f0f3b3017903a6201f5b1aecd47ef5f3d3bd2ec0",
+      "local_bounds_error_cm": 0.00043
+    },
+    "PM_Lover_DisplacedSoil_fd1f3eb8": {
+      "source": "SourceAssets/PreMassacre/PM_Lover_DisplacedSoil.obj",
+      "sha256": "fd1f3eb8140973093dab0283e5f0f61b6de6898a71b5c83b6dd189f56eb8730c",
+      "local_bounds_error_cm": 0.00025
+    },
+    "PM_Lover_LiftedBoards_2fb79ab6": {
+      "source": "SourceAssets/PreMassacre/PM_Lover_LiftedBoards.obj",
+      "sha256": "2fb79ab665c62f9056529123449eee0a93043eca63d22d9fca766abdb537dbd2",
+      "local_bounds_error_cm": 0.00043
+    },
+    "PM_Son_EmptyExcavation_ce543b5b": {
+      "source": "SourceAssets/PreMassacre/PM_Son_EmptyExcavation.obj",
+      "sha256": "ce543b5bbdf1fec71e1ec8f825f3a1887d1dfe9b57eef0c5186c647c030b8a64",
+      "local_bounds_error_cm": 0.00027
+    },
+    "PM_Son_DisplacedSoil_47310c23": {
+      "source": "SourceAssets/PreMassacre/PM_Son_DisplacedSoil.obj",
+      "sha256": "47310c23530c3a7285cbb421e8407c4d90a1a112484b766e54d261f8b03016e1",
+      "local_bounds_error_cm": 0.00011
+    },
+    "PM_Son_LiftedBoards_51baf388": {
+      "source": "SourceAssets/PreMassacre/PM_Son_LiftedBoards.obj",
+      "sha256": "51baf3885fba26d4865471ec80f002bf1ed180c6f7b6dcf4acc6d578463aef3e",
+      "local_bounds_error_cm": 0.00033
+    },
+    "PM_OldChurchyardBoundary_aafe7b07": {
+      "source": "SourceAssets/PreMassacre/PM_OldChurchyardBoundary.obj",
+      "sha256": "aafe7b07a5f4d1c53d5c48e229d1032c87ef41281ce5e388f95257a41a6aec98",
+      "local_bounds_error_cm": 0.00044
+    },
+    "PM_ChurchPublicGate_03c8b711": {
+      "source": "SourceAssets/PreMassacre/PM_ChurchPublicGate.obj",
+      "sha256": "03c8b7118ebd49e1825096d2a18aeaf7ed10ff97456c47cd0a9d6410ea326755",
+      "local_bounds_error_cm": 0.00038
+    },
+    "PM_ChurchMeadowBoundary_5101c8e7": {
+      "source": "SourceAssets/PreMassacre/PM_ChurchMeadowBoundary.obj",
+      "sha256": "5101c8e79697cd263913cdfc160f8fa34a47b07543aa2ce64358b2827630c84b",
+      "local_bounds_error_cm": 0.00022
+    },
+    "PM_PublicAndDomesticFootpaths_23ad3475": {
+      "source": "SourceAssets/PreMassacre/PM_PublicAndDomesticFootpaths.obj",
+      "sha256": "23ad347542f5191d0f9b1dd190e5f7676feee64ec16f3c940014fb84739dd5b2",
+      "local_bounds_error_cm": 0.00024
+    },
+    "PM_WitchFamily_WoodenToy_b1c0e71b": {
+      "source": "SourceAssets/PreMassacre/PM_WitchFamily_WoodenToy.obj",
+      "sha256": "b1c0e71bfd111005d6c8eec0b20ceda25f864aca8df22900b81d9ed3ce87ca6e",
+      "local_bounds_error_cm": 0.0
+    },
+    "PM_WitchFamily_MendingBench_0cc4eaca": {
+      "source": "SourceAssets/PreMassacre/PM_WitchFamily_MendingBench.obj",
+      "sha256": "0cc4eaca55859765803af87d5ec4134f1ac7ff4b43df210a0df9d62ecc5769b9",
+      "local_bounds_error_cm": 0.0
+    },
+    "PM_WitchHouse_CellarHandrail_aaf06f37": {
+      "source": "SourceAssets/PreMassacre/PM_WitchHouse_CellarHandrail.obj",
+      "sha256": "aaf06f37bb316c7c6d83b233492bb255d813c687ac71dd5659c2bfa3966a4b79",
+      "local_bounds_error_cm": 0.0
+    },
+    "PM_HouseholdSupports_f2370089": {
+      "source": "SourceAssets/PreMassacre/PM_HouseholdSupports.obj",
+      "sha256": "f2370089d0ae00a9b9f1ce74e3071b7d34b52234845b1294b179df212dc96fe2",
+      "local_bounds_error_cm": 6e-05
+    },
+    "PM_WitchHouse_CellarLanding_f8743eee": {
+      "source": "SourceAssets/PreMassacre/PM_WitchHouse_CellarLanding.obj",
+      "sha256": "f8743eee1ce30663aa586f64b3010521ffdd2066af7a1cea1d40e9d6b8e9c896",
+      "local_bounds_error_cm": 0.0
+    },
+    "PM_ExhumationHandSpade_ec41f3ba": {
+      "source": "SourceAssets/PreMassacre/PM_ExhumationHandSpade.obj",
+      "sha256": "ec41f3ba65334e37444a820ddeecb09c30c0e5ce38d111ca60ddefd6710f1309",
+      "local_bounds_error_cm": 0.00035
+    }
+  },
+  "geometry_sha256": "cb52e115c55558778d234691d513aa350813ee5432b56764981673c9568fe712",
+  "no_layout_mutation_calls": true,
+  "notes": [
+    "Camera/editor gizmo meshes omitted",
+    "Round native proxies use 32-sided projections",
+    "Crop furrow strokes suppressed; field footprint and boundaries preserved"
+  ]
+}
