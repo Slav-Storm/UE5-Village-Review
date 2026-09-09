@@ -1,0 +1,22 @@
+# Deny everything except small visual-review documents and images.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/REVIEW.md
+!/AGENTS.md
+!/latest/
+!/latest/*.png
+!/latest/*.jpg
+!/latest/*.jpeg
+!/latest/*.webp
+!/latest/*.json
+!/latest/*.md
+!/archive/
+!/archive/**/
+!/archive/**/*.png
+!/archive/**/*.jpg
+!/archive/**/*.jpeg
+!/archive/**/*.webp
+!/archive/**/*.json
+!/archive/**/*.md
