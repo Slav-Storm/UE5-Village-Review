@@ -1,4 +1,25 @@
-# Village visual review — healthy / pre-massacre
+# MASSACRE PLANNING — STEP 1 / T0 NORMAL VILLAGE
+
+T0 layer authored: **2026-09-09T13:08:04.376738+00:00**. Working time: **late afternoon approaching early evening**; not locked canon.
+
+The supplied design bible v0.1 was read first. This update adds **approximately 170 people in 17 population clusters**, **13 narrative micro-groups**, and **11 ordinary movement flows** to the existing top-down reference. All micro-groups and travellers are included in the cluster count.
+
+![T0 normal village activity](latest/map/03_T0_normal_activity.png)
+
+- [T0 activity notes and population breakdown](latest/map/T0_ACTIVITY.md)
+- [Editable T0 SVG](latest/map/03_T0_normal_activity.svg) and [activity JSON](latest/map/t0_activity.json)
+- [Unchanged clean base map](latest/map/01_village_base_map.png)
+- [Unchanged clean massacre planning map](latest/map/02_massacre_planning_blank.png)
+
+The centre/junction is the busiest public area; households are increasingly occupied, farm and forest workers are finishing or returning, and the tavern is beginning evening service. The Mayor's eight estate occupants have much more space than the denser households below. One caretaker is at the church's public threshold. No group gathers at the open graves and the burial reserve remains unoccupied.
+
+This is a **2D ordinary-activity proposal**, with no UE scene changes or new UE captures. The 9 September 12:16:22 UTC survey remains the geometric reference. Both clean PNG/SVG pairs and the original geometry, view records, renderer, provenance and empty massacre annotations were hash-checked unchanged. Existing perspective screenshots retain their original timestamps below.
+
+Known limits: counts, time and household allocation remain provisional; indoor activity is conceptual. Roof/canopy projection is not navigation validation. The compressed fields are not a verified year-round food budget. The notes explain the centre's distributed occupancy and the barn approach that stops before roof-obscured storage access.
+
+All Witch/Blood/Bone routes, barrier, attacks, deaths, destruction and aftermath remain unauthored. **Stop at Step 1 / T0 for review.** This is an additive layer; existing clean sheets remain available directly and earlier review notes remain in Git history.
+
+## Previous healthy / pre-massacre geometry and perspective review
 
 Review package prepared: **2026-09-09T11:20:02+00:00** (UTC).
 Screenshot capture session: **2026-09-09 10:32:11–10:32:26 UTC** / **11:32:11–11:32:26 BST**.

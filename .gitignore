@@ -31,3 +31,8 @@
 !/latest/map/massacre_annotations.json
 !/latest/map/provenance.json
 !/latest/map/render_map.py
+
+# Separate user-authorized T0 ordinary-activity review layer.
+!/latest/map/t0_activity.json
+!/latest/map/t0_manifest.json
+!/latest/map/render_t0.py
