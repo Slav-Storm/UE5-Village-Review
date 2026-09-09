@@ -49,3 +49,9 @@
 !/latest/map/t1b_manifest.json
 !/latest/map/t1b_awareness.csv
 !/latest/map/render_bone_completion.py
+
+# Separate user-authorized Step 3 civilian-only reaction planning.
+!/latest/map/t2_civilian_reactions.json
+!/latest/map/t2_manifest.json
+!/latest/map/t2_reactions.csv
+!/latest/map/render_t2.py

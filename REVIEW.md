@@ -1,4 +1,28 @@
-# MASSACRE PLANNING — STEP 2B / BONE COMPLETED
+# MASSACRE PLANNING — STEP 3 / FIRST CIVILIAN REACTION
+
+Reaction layer authored **2026-09-09T16:10:28.419261+00:00**. Civilian window **T+90–105 seconds**. **163 survivors, including four injured**, with every supernatural actor held at its approved T+90 state. No UE changes or new captures.
+
+![Step 3 civilian reaction intentions](latest/map/08_T2_civilian_reaction_intentions.png)
+
+![Step 3 emerging reaction groups](latest/map/09_T2_reaction_groups.png)
+
+- [Reaction notes, local knowledge, complete census and handoff](latest/map/T2_CIVILIAN_REACTIONS.md)
+- [Editable reaction JSON](latest/map/t2_civilian_reactions.json), [complete subgroup CSV](latest/map/t2_reactions.csv), [intentions SVG](latest/map/08_T2_civilian_reaction_intentions.svg), [groups SVG](latest/map/09_T2_reaction_groups.svg)
+- [Unchanged base](latest/map/01_village_base_map.png), [clean planning canvas](latest/map/02_massacre_planning_blank.png), [T0](latest/map/03_T0_normal_activity.png), [approved T+90 timeline](latest/map/07_T1_bone_timeline.png)
+
+**What changed:** a separate civilian-only layer resolves immediate choices and short beginnings. Twenty people begin escape intentions, eight seek the Mayor/guards, 29 seek family, 67 seek shelter, three follow others, nine freeze/delay, and 27 request/provide help or warnings. The last count includes the four injured. The 79 editable subgroup records partition the original 17 cohorts; they are not extra civilians or households. All surviving named micro-groups keep their exact inherited +90 positions.
+
+**Important reactions:** M05 remains low by the coop with the parent shielding the child. M04 takes a cautious step toward the nearby Witch and appeals to a familiar neighbour; neither knows she is responsible. Six existing helpers gather around the four injured across two adjacent pockets. Tavern reactions split between porch witnesses, receiving staff and indoor occupants. The Mayor asks for information; his guards have only local evidence. No one rings a bell: an architectural bell opening exists, but a working alarm is not confirmed.
+
+**Knowledge:** B0 74; B1 80; B2 9; **B3 0 / B4 0**. All are alarmed; enclosure identification and suspected confinement differ. No one has tested the barrier or witnessed it attack. The nearest short escape movement stops approximately ten metres from it.
+
+**Read the maps:** 08 shows short civilian arrows, stationary intent markers, barrier-knowledge shapes and fixed actor references. 09 separates actual emerging groups from nearby intentions that have not converged. White roof numbers identify indoor populations. No Blood target is selected and Bone does not react to potential stimuli.
+
+**Review assumptions:** the four injured now have a proposed mobility split (two unable to stand, one needing support, one limping). Previously unspecified room/yard positions are refined within existing cohort assignments; they are not new surveyed NPC positions. The new traces clear projected building footprints, but 3D lighting, doors, props and hearing are not validated. The pale maps preserve readability after the simulated blackout.
+
+**Preservation and stop:** all 32 preceding map/source artifacts remain byte-identical. The original empty annotation template, clean maps, T0 and approved T1/Step2B remain intact. No prior map needed replacement or duplicate archiving. **Stop at this first civilian reaction.** The +105 civilian planning snapshot and frozen +90 actor state are an explicit alternating-planning convention, not fifteen seconds of approved attacker inactivity. The next requested action must reconcile timing before advancing actors or resolving contact.
+
+## Previous Step 2B review (historical)
 
 Completion layer authored: **2026-09-09T15:37:33.116940+00:00**. The approved T0 and T1 remain the source reference; this is a separate 2D completion of Bone's first 90 seconds. **No UE scene changes or new captures.**
 
