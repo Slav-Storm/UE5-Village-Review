@@ -20,3 +20,14 @@
 !/archive/**/*.webp
 !/archive/**/*.json
 !/archive/**/*.md
+
+# User-requested high-resolution, editable 2D planning review.
+!/latest/map/
+!/latest/map/*.png
+!/latest/map/*.svg
+!/latest/map/*.md
+!/latest/map/map_data.json
+!/latest/map/map_views.json
+!/latest/map/massacre_annotations.json
+!/latest/map/provenance.json
+!/latest/map/render_map.py

@@ -33,3 +33,7 @@ Keep the actual Unreal project in its existing location. Never copy, move, restr
 - Optional `00_contact_sheet.png` for a combined overview; its labels should match these identifiers on future captures.
 
 Read the active request for scope. Do not make scene changes, create a massacre pass, or implement progression merely to prepare a review.
+
+## Top-down planning map reviews
+
+The user requested a high-resolution orthographic planning reference derived from the current scene, with an identical clean event-planning copy. `latest/map/` is a review-only exception permitting editable SVGs, metric 2D JSON and the small map renderer alongside PNGs/Markdown. Never include raw live actor dumps, UE packages or 3D meshes. Preserve the shared coordinate convention, scale, feature IDs and geometry hash. A map-only addition can retain earlier perspective images with their original dates. Archive an earlier map set before replacing it at a meaningful milestone. Keep event layers empty until the user collaboratively authors/authorizes the massacre plan. Do not apply map annotations to the UE scene automatically.

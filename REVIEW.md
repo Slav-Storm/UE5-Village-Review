@@ -5,13 +5,42 @@ Screenshot capture session: **2026-09-09 10:32:11–10:32:26 UTC** / **11:32:11�
 These are the latest saved review captures, repackaged here; repository setup did not change or recapture the UE scene.
 Source project checkpoint: `healthy-village-v2`, commit `2bf3d7e27836908c45d5ebebb1158ac527b5739e`.
 
+## New top-down planning maps
+
+Map review added: **2026-09-09T12:37:21+00:00** (UTC). Live scene survey completed **2026-09-09 12:16:22 UTC / 13:16:22 BST**.
+
+The [current village base map and clean massacre planning copy](latest/map/README.md)
+are now available as **6000 × 5000 PNGs**, editable SVGs, and separate metric 2D
+geometry/landmark data. Both use the exact same surveyed geometry; only the title
+differs. All ten event annotation categories remain empty.
+
+![Current village top-down planning map](latest/map/01_village_base_map.png)
+
+[Open the blank massacre planning map](latest/map/02_massacre_planning_blank.png).
+
+This update adds a spatial reference only. The current UE terrain, roads, buildings,
+forest, farmland, grave openings and important locations were not changed. The
+map derives from a fresh read of 2,209 live actors plus hash-matched mesh sources,
+with 5 m contours and enlarged churchyard, mansion-access and cellar panels.
+Map north is UE +X (uphill), and scale bars show horizontal metres.
+
+The map is a planimetric projection of visible footprints, including roof overhangs
+and tree canopies. It does not establish walkability beneath them. Read the
+[map notes](latest/map/README.md) for orientation, scale, derivation, editability
+and specific conversion limits. No attack routes, barrier, escape attempts,
+destruction or event chronology were plotted.
+
+This is an additive map review: the existing perspective screenshots below remain
+unchanged, with their original timestamps. No earlier image set was replaced;
+the preceding notes remain recoverable in Git history.
+
 ## Review intent
 
 Evaluate the functioning poor rural village shortly before the massacre, after the witch has manually exhumed her lover and son. This is a spatial and environmental-storytelling greybox. No massacre, corpses, gore, supernatural structures, final assets or burial progression are present.
 
 ## What changed
 
-This is the first review in this repository. Compared with the earlier healthy village pass:
+The perspective screenshot set was the first review published here. Compared with the earlier healthy village pass:
 
 - Refined the existing public churchyard with twenty older graves, varied markers and family groupings; opened a blocked public entrance.
 - Added the adult lover's and child's empty, manually reopened graves. Their original markers remain, with displaced soil, lifted boards and a hand spade. Reserved an undisturbed potential third plot beside them.
