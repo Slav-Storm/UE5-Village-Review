@@ -1,5 +1,16 @@
 # Current village planning maps
 
+## T1 first 90 seconds — Step 2
+
+- [Opening simulation](04_T1_first_90_seconds.png) — 6000 × 5000; routes, early events, +60 awareness and the daylight curve.
+- [Four time slices](05_T1_timeline.png) — 7000 × 5000; +0 / +30 / +60 / +90.
+- [Timing, population ledger, all micro-groups and review assumptions](T1_FIRST_90_SECONDS.md).
+- [Separate editable T1 JSON](t1_simulation.json), [SVG](04_T1_first_90_seconds.svg), [awareness CSV](t1_awareness.csv), `render_t1.py` and `t1_manifest.json`.
+
+The T1 proposal stops at +90 as the barrier becomes opaque and village-wide alarm begins. Working counts are six early fatalities and 164 living people, including four injured. Bone's exact hidden movement after +12 remains a bounded review issue; it is not an authored onward hunt. No UE scene change, final corpse/debris layout or post-90 event was made.
+
+All 15 existing base/T0 files below remain byte-identical. The original clean massacre template remains empty; **T1 events exist only in the dedicated T1 layer**. Earlier statements about no events refer to the clean/T0 artifacts, not to this new simulation.
+
 ## T0 ordinary activity — Step 1
 
 [Review the T0 activity map](03_T0_normal_activity.png) and [short activity notes](T0_ACTIVITY.md).
@@ -18,8 +29,8 @@ Source: the currently open `/Game/Levels/TitleScreen` scene, at healthy checkpoi
 `2bf3d7e27836908c45d5ebebb1158ac527b5739e` (`healthy-village-v2`).
 
 This is a spatial reference of the existing healthy / pre-massacre village. The UE
-layout was not edited. No massacre movements, escape attempts, barrier, attacks,
-damage, event nodes or chronology have been designed.
+layout was not edited. The clean base and blank canvas contain no massacre movements, escape attempts,
+barrier, attacks, damage, event nodes or chronology. See the separate T1 layer above.
 
 ## Review the two sheets
 

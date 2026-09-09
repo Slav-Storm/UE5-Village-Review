@@ -1,0 +1,115 @@
+{
+  "schema": "t1-review/v1",
+  "source_geometry_sha256": "cb52e115c55558778d234691d513aa350813ee5432b56764981673c9568fe712",
+  "source_t0_sha256": "1b2d500f6f63e4e54bd86d7647cb2f03de41a4f4b4f2f849373651cbaf16ccd8",
+  "image_sizes": {
+    "04_T1_first_90_seconds.png": [
+      6000,
+      5000
+    ],
+    "05_T1_timeline.png": [
+      7000,
+      5000
+    ]
+  },
+  "timeline_frames": {
+    "0": {
+      "world_extent_m": [
+        -120,
+        -180,
+        120,
+        205
+      ],
+      "png_frame_px": [
+        154.0,
+        619.9999999999994,
+        1603.0,
+        2571.479166666667
+      ]
+    },
+    "30": {
+      "world_extent_m": [
+        -120,
+        -180,
+        120,
+        205
+      ],
+      "png_frame_px": [
+        1869.0,
+        619.9999999999994,
+        1602.9999999999998,
+        2571.479166666667
+      ]
+    },
+    "60": {
+      "world_extent_m": [
+        -120,
+        -180,
+        120,
+        205
+      ],
+      "png_frame_px": [
+        3584.0,
+        619.9999999999994,
+        1602.9999999999998,
+        2571.479166666667
+      ]
+    },
+    "90": {
+      "world_extent_m": [
+        -120,
+        -180,
+        120,
+        205
+      ],
+      "png_frame_px": [
+        5299.0,
+        619.9999999999994,
+        1602.9999999999998,
+        2571.479166666667
+      ]
+    }
+  },
+  "files": {
+    "04_T1_first_90_seconds.png": "2417a60be7ee8b49256357f92ba50dab7dea6326b77e9fc7bdca51b5e5c43d37",
+    "04_T1_first_90_seconds.svg": "4ee9b100af92df17f2a302d23dcd9d50bbad0becfb6ded0e199aab10beb53c07",
+    "05_T1_timeline.png": "aa2bba003b9356fcb50c883fe4a63a7ce7371ae65691f59fc0d5ff5c38c3c2e1",
+    "t1_simulation.json": "86a349c9363374db9fe88a53e33588e31de7d8b19b03705fbfc22403c2ffcc8d",
+    "render_t1.py": "43c72710d21a8296beff029353f7a24e0bbdc0f7321f13be5f32891e82880f4f",
+    "T1_FIRST_90_SECONDS.md": "8bb0a0af8fe835cbda5f83ac86884ec645fc98b8defb78167a32c9471f8376f4",
+    "t1_awareness.csv": "9ac2f1eaa7a6ec3ad72b7e8d3073a1dda78fef170d4a1e630a98c05e262d6b5a"
+  },
+  "protected_unchanged": {
+    "01_village_base_map.png": true,
+    "01_village_base_map.svg": true,
+    "02_massacre_planning_blank.png": true,
+    "02_massacre_planning_blank.svg": true,
+    "03_T0_normal_activity.png": true,
+    "03_T0_normal_activity.svg": true,
+    "map_data.json": true,
+    "map_views.json": true,
+    "massacre_annotations.json": true,
+    "provenance.json": true,
+    "render_map.py": true,
+    "render_t0.py": true,
+    "t0_activity.json": true,
+    "T0_ACTIVITY.md": true,
+    "t0_manifest.json": true
+  },
+  "validation": {
+    "initial_population": 170,
+    "cohorts": 17,
+    "micro_groups": 13,
+    "exact_t0_micro_anchors": true,
+    "all_cohort_ledgers_reconcile": true,
+    "living_at_90": 164,
+    "early_fatalities": 6,
+    "injured_in_living_count": 4,
+    "routes_crossing_building_footprints_over_025m": [],
+    "barrier_encloses_all_existing_occupied_footprints": true,
+    "water_carriers_clear_of_impact": true,
+    "post_90_events": 0,
+    "final_corpse_placements": 0,
+    "ue_edits": false
+  }
+}
