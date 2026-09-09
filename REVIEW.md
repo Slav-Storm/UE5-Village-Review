@@ -1,4 +1,26 @@
-# MASSACRE PLANNING — STEP 1 / T0 NORMAL VILLAGE
+# MASSACRE PLANNING — STEP 2 / T1 FIRST 90 SECONDS
+
+T1 planning layer authored: **2026-09-09T14:39:39.785923+00:00**. Working time remains **late afternoon approaching early evening**. This is a chronological 2D proposal using the approved T0 population and current surveyed geometry; there are **no UE scene edits or new UE captures**.
+
+![T1 first 90 seconds](latest/map/04_T1_first_90_seconds.png)
+
+![T1 timeline at 0, 30, 60 and 90 seconds](latest/map/05_T1_timeline.png)
+
+- [T1 timing, awareness ledger, micro-groups and decisions for review](latest/map/T1_FIRST_90_SECONDS.md)
+- [Editable simulation JSON](latest/map/t1_simulation.json), [layered SVG](latest/map/04_T1_first_90_seconds.svg), [awareness table](latest/map/t1_awareness.csv)
+- [Unchanged base map](latest/map/01_village_base_map.png), [unchanged clean massacre canvas](latest/map/02_massacre_planning_blank.png), [unchanged T0 activity map](latest/map/03_T0_normal_activity.png)
+
+**What changed:** a separate T1 layer adds opening actor movements, a proposed barrier rim/formation sequence, three early attack events, ordinary civilian movements and geographically staggered awareness. Four snapshots show the transition from normal activity to village-wide alarm. All 17 T0 cohorts and 13 micro-groups are accounted for, with no changed +0 anchors or population counts.
+
+**Working chronology:** Bone's nearest handcart victims are reached at +4/+6; the Witch departs at +24; Blood reaches the outdoor centre at +54 and strikes the well/stall activity at +56; the barrier seals while translucent at +60 and becomes effectively opaque at +90. Six early fatalities leave 164 living people, including four injured. No later fates are assigned.
+
+**Decisions relevant to review:** the approximately 15 m Bone approach makes the first violence earlier than the example timing. Blood needs a purposeful 1.70 m/s stride over the 88.5 m route. M04 and three passers leave the centre on ordinary business beforehand. T0's tavern split is preserved: seven outdoors react earlier, while seven indoors are uncertain at +60 and understand around +66 as window light fails and warnings become recognizable. The Mayor is not reached.
+
+**Unfinished/working assumptions:** the casualty counts, spell rim/crown and light curve require review. Bone's position after his +12 disappearance is bounded to the local cellar/gate-side pocket; his exact hidden motion and +90 pose remain unresolved before Step 3. Sight checks use roof footprints rather than a 3D visibility/acoustics engine. These limits are explicit in the [T1 notes](latest/map/T1_FIRST_90_SECONDS.md#8-spatialnarrative-findings-and-limits).
+
+**Preservation:** 15 base/T0 files were hash-checked byte-identical, including both clean PNG/SVG pairs and the original empty event template. No earlier images were replaced; this is an additive layer and the previous notes remain in Git history. Older perspective captures below keep their original timestamps. **Stop at +90. No Step 3, full escape behavior, onward hunt, final corpse placement or final destruction has been authored.**
+
+## Previous Step 1 / T0 review (historical)
 
 T0 layer authored: **2026-09-09T13:08:04.376738+00:00**. Working time: **late afternoon approaching early evening**; not locked canon.
 
@@ -17,7 +39,7 @@ This is a **2D ordinary-activity proposal**, with no UE scene changes or new UE 
 
 Known limits: counts, time and household allocation remain provisional; indoor activity is conceptual. Roof/canopy projection is not navigation validation. The compressed fields are not a verified year-round food budget. The notes explain the centre's distributed occupancy and the barn approach that stops before roof-obscured storage access.
 
-All Witch/Blood/Bone routes, barrier, attacks, deaths, destruction and aftermath remain unauthored. **Stop at Step 1 / T0 for review.** This is an additive layer; existing clean sheets remain available directly and earlier review notes remain in Git history.
+At that Step 1 checkpoint, Witch/Blood/Bone routes, barrier, attacks, deaths, destruction and aftermath were unauthored. The approved T0 artifacts still contain only ordinary activity. This is an additive layer; existing clean sheets remain available directly and earlier review notes remain in Git history.
 
 ## Previous healthy / pre-massacre geometry and perspective review
 

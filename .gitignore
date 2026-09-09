@@ -36,3 +36,9 @@
 !/latest/map/t0_activity.json
 !/latest/map/t0_manifest.json
 !/latest/map/render_t0.py
+
+# Separate user-authorized T1 opening simulation, ending at +90 seconds.
+!/latest/map/t1_simulation.json
+!/latest/map/t1_manifest.json
+!/latest/map/t1_awareness.csv
+!/latest/map/render_t1.py
