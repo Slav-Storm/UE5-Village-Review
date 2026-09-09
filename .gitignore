@@ -55,3 +55,9 @@
 !/latest/map/t2_manifest.json
 !/latest/map/t2_reactions.csv
 !/latest/map/render_t2.py
+
+# Separate user-authorized Step 4 short supernatural action planning.
+!/latest/map/t3_second_action.json
+!/latest/map/t3_manifest.json
+!/latest/map/t3_reception.csv
+!/latest/map/render_t3.py

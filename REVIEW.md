@@ -1,4 +1,31 @@
-# MASSACRE PLANNING — STEP 3 / FIRST CIVILIAN REACTION
+# MASSACRE PLANNING — STEP 4 / SECOND SUPERNATURAL ACTION
+
+Action layer authored **2026-09-09T17:51:58.166236+00:00**. Reconciled canonical window **T+90–109 seconds**, overlapping the approved civilian +90–105 movements. **159 survivors, including four injured.** This is a separate 2D planning pass; the UE scene and earlier review captures are unchanged.
+
+![Step 4 second supernatural action](latest/map/10_T3_second_action.png)
+
+**10 — Second action:** full-village context, the eastern assistance pocket, Blood's short advance and single +108 surge, Bone's deliberate +96 coop strike beside M05, and the Witch's uninterrupted road movement. Marks identify immediate exposure and causally intersected proxy objects, not final corpse/debris arrangements.
+
+![Step 4 local event reception](latest/map/11_T3_event_reception.png)
+
+**11 — Local reception:** direct exposure/witnesses, possible views, likely nearby listeners, possible distant sound and groups without a specific new report. The 45/85 m listening bands are planning guides, not acoustic simulation. Each surviving subgroup retains its prior knowledge unless this pass supplies local evidence.
+
+- [Full action notes, candidate comparison and +109 handoff](latest/map/T3_SECOND_ACTION.md)
+- [Editable action JSON](latest/map/t3_second_action.json), [reception CSV](latest/map/t3_reception.csv), [validation manifest](latest/map/t3_manifest.json)
+- [Action SVG](latest/map/10_T3_second_action.svg), [reception SVG](latest/map/11_T3_event_reception.svg), [map index and regeneration](latest/map/README.md)
+- [Unchanged base](latest/map/01_village_base_map.png), [clean planning canvas](latest/map/02_massacre_planning_blank.png), [T0 activity](latest/map/03_T0_normal_activity.png), [approved T1/Step2B](latest/map/07_T1_bone_timeline.png), [approved Step 3](latest/map/08_T2_civilian_reaction_intentions.png)
+
+**What changed:** Blood selects the growing eastern help pocket after comparing physical concentrations, including six people on the western frontage and separately occupied tavern spaces. Two supported walkers continue out of the attack area. His one second strike causes four fatalities and two new injuries among those still exposed. Two previously injured people die, leaving four injured survivors overall. Bone deliberately hits existing coop timber beside M05; both remain alive. M07 can newly witness the nearby precision threat. The Witch covers 20.9 m along the inherited road and does not stop or divert.
+
+**Continuity:** Step 3's frozen actors were a review convention. Their responses now overlap the original civilian time knots; nobody gains fifteen free seconds or extra movement. The action stops at +109, one second after the +108 impact, before new civilian decisions. The Witch is about one metre behind the wave envelope at impact, so no immunity/melding spectacle is forced.
+
+**Barrier and bell:** no group can reach the rim by this stop at its approved pace; no contact or attack occurs, and **B3/B4 remain zero**. The ordinary functional church bell is now approved. Its rope/control access is unmapped, so no actual ring or bell-based awareness is invented. A ground-floor pull would permit an estimated first ring around +100, conditional on resolving that access; this is not an executed event.
+
+**Review limits:** force severity, practical lighting, character clearance and hearing remain provisional 2D staging. Damage is limited to the coop puncture and market goods/timber physically intersected by these actions. No house footprint is hit. Counts refer to disjoint civilian records, with detailed outcomes in the JSON/CSV; final poses, full escape routes and subsequent reactions remain unassigned.
+
+**Preservation:** all **41 preceding map/source files remain byte-identical**, including clean maps, the empty annotation template, T0, T1, Step2B and Step3. This additive layer replaces no earlier map, so no duplicate archive is needed. **Stop before STEP 5 — SECOND CIVILIAN REACTION.**
+
+## Previous Step 3 review (historical)
 
 Reaction layer authored **2026-09-09T16:10:28.419261+00:00**. Civilian window **T+90–105 seconds**. **163 survivors, including four injured**, with every supernatural actor held at its approved T+90 state. No UE changes or new captures.
 
