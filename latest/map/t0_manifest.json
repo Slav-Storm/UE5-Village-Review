@@ -1,0 +1,60 @@
+{
+  "schema": "t0-review/v1",
+  "population": 170,
+  "clusters": 17,
+  "micro_groups": 13,
+  "ordinary_flows": 11,
+  "base_geometry_sha256": "cb52e115c55558778d234691d513aa350813ee5432b56764981673c9568fe712",
+  "png_dimensions": [
+    6000,
+    5000
+  ],
+  "views": {
+    "overview": {
+      "world_extent_m": [
+        -120.0,
+        -180.0,
+        120.0,
+        205.0
+      ],
+      "png_frame_px": [
+        402.5454545454544,
+        454.99999999999983,
+        2290.9090909090914,
+        3675.0000000000005
+      ]
+    },
+    "activity_detail": {
+      "world_extent_m": [
+        -70.0,
+        0.0,
+        66.0,
+        111.0
+      ],
+      "png_frame_px": [
+        3092.0630630630635,
+        504.9999999999999,
+        2713.873873873874,
+        2215.0
+      ]
+    }
+  },
+  "files": {
+    "03_T0_normal_activity.png": "c54287d137aaf4ee59a21ed66ff4176907e98ea0360c08ed645af551b98bb03b",
+    "03_T0_normal_activity.svg": "76c530dd7a0afdcbfe59ce3e3f087aa9dd9762f9a24623915a7065adeab91697",
+    "t0_activity.json": "1b2d500f6f63e4e54bd86d7647cb2f03de41a4f4b4f2f849373651cbaf16ccd8",
+    "render_t0.py": "d18d2b02682830f7e64051671a628bda25286b03ea20e74bae5169b9b92926ca",
+    "T0_ACTIVITY.md": "a0fb98bb58cce601197faed6d760bb84cfca1ed3b85d2b7adb15d09669c40691"
+  },
+  "protected_base_files_verified": {
+    "01_village_base_map.png": true,
+    "01_village_base_map.svg": true,
+    "02_massacre_planning_blank.png": true,
+    "02_massacre_planning_blank.svg": true,
+    "map_data.json": true,
+    "map_views.json": true,
+    "massacre_annotations.json": true,
+    "render_map.py": true,
+    "provenance.json": true
+  }
+}

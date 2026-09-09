@@ -1,5 +1,18 @@
 # Current village planning maps
 
+## T0 ordinary activity — Step 1
+
+[Review the T0 activity map](03_T0_normal_activity.png) and [short activity notes](T0_ACTIVITY.md).
+The separate layer allocates about 170 ordinary residents across 17 clusters,
+with 13 micro-groups and 11 daily movement flows. Late afternoon/early evening is
+a working choice. No UE edits or future massacre events were made.
+
+Use [t0_activity.json](t0_activity.json), [editable T0 SVG](03_T0_normal_activity.svg)
+and `render_t0.py` for this layer. `t0_manifest.json` records its checks and frames.
+Both clean maps and their base geometry remain byte-for-byte unchanged. The
+earlier derivation and orientation notes below continue to apply.
+
+
 Live UE survey completed **2026-09-09 12:16:22 UTC / 13:16:22 BST**.
 Source: the currently open `/Game/Levels/TitleScreen` scene, at healthy checkpoint
 `2bf3d7e27836908c45d5ebebb1158ac527b5739e` (`healthy-village-v2`).
