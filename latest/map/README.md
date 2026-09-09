@@ -1,3 +1,17 @@
+# Current review: Step 4 / second supernatural action
+
+Start with [T3_SECOND_ACTION.md](T3_SECOND_ACTION.md), [10 second action](10_T3_second_action.png) and [11 local reception](11_T3_event_reception.png). The current handoff is **canonical +109**: 159 survivors, four injured, one second after Blood's second impact. Step 3 actor markers were frozen review references; this pass reconciles them with the unchanged +90–105 civilian movements.
+
+Edit [t3_second_action.json](t3_second_action.json), then run `python render_t3.py .` here to regenerate only the two new PNG/SVG maps, notes, reception CSV and manifest. Dependencies: Python, matplotlib, numpy, Pillow and shapely. The JSON preserves event times, Blood candidate rankings and force envelope, Bone stimuli/precision incident, Witch height-profile travel, civilian continuations, casualties, local reception, causal damage and the conditional bell-access record. No direct UE connection is used.
+
+Overlay order: `t0_activity.json` → `t1_simulation.json` → `bone_completion.json` → `t2_civilian_reactions.json` → `t3_second_action.json`. Keep `massacre_behaviour_rules.json` as the locked rule reference. T3 reception records override living counts/positions without adding people. All 41 preceding source/map artifacts are immutable historical layers, preserved byte-for-byte. The original `massacre_annotations.json` remains clean.
+
+Orientation and scale remain **up = UE +X/uphill, right = UE +Y; horizontal metres**. Witch movement additionally uses the saved road height samples. Both new PNGs are 6000 × 5000; matching SVGs retain editable text and geometry. These use the same healthy-village survey, not a new scene capture. Roof projection checks cannot establish final lighting, acoustics, doors, small obstacles or full character clearance.
+
+There is no barrier contact in this window and B3/B4 remain zero. The functional bell is approved but its operation point is unresolved; no actual ringing event is shown. Stop at +109. **Do not pre-author Step 5 or apply these annotations to UE.**
+
+## Previous map documentation
+
 # Current review: Step 3 / first civilian reaction
 
 The current planning handoff is the **+90–105 civilian reaction**, with supernatural actors held at +90. Start with [T2_CIVILIAN_REACTIONS.md](T2_CIVILIAN_REACTIONS.md), [08 intentions](08_T2_civilian_reaction_intentions.png) and [09 emerging groups](09_T2_reaction_groups.png).

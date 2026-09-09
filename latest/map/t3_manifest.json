@@ -1,0 +1,195 @@
+{
+  "schema": "t3-review/v1",
+  "files": {
+    "10_T3_second_action.png": "09238cb410da02672c9524666fa8fb00102dfe14f299d52feb762dce05540d73",
+    "10_T3_second_action.svg": "d80f5549f7aa60f3b8bc613f2372e5615c4085d8f8dba93352610e04ad93a2b4",
+    "11_T3_event_reception.png": "1ce0ccc15989b4daea6e03c31fae67cee8f9e19e9bf0232f1c805de1374577ec",
+    "11_T3_event_reception.svg": "0055301f98730bd45e4d16aeb85bf1a7e27f249b0ddb498d20e2fe0e7f4cbbbc",
+    "t3_second_action.json": "8bb6eed82452e7f539314e5c10a679004124e321a4fe9ace555b9f5f0127c18f",
+    "render_t3.py": "bdb83d8fd3ebd7270413af91ab57dcb11bfda402b761db03699f7f732da09f4e",
+    "T3_SECOND_ACTION.md": "f3821060a5a8c02f5200f71ab81f72032507ef84a03f042536bed0a379fee8a0",
+    "t3_reception.csv": "5ec2ab9b5fa66539923f3e4f57f7b0e551d4deec8d2849ce2cd75b14d32bb196"
+  },
+  "image_dimensions": {
+    "10_T3_second_action.png": [
+      6000,
+      5000
+    ],
+    "11_T3_event_reception.png": [
+      6000,
+      5000
+    ]
+  },
+  "source_files_unchanged": {
+    "01_village_base_map.png": true,
+    "01_village_base_map.svg": true,
+    "02_massacre_planning_blank.png": true,
+    "02_massacre_planning_blank.svg": true,
+    "03_T0_normal_activity.png": true,
+    "03_T0_normal_activity.svg": true,
+    "04_T1_first_90_seconds.png": true,
+    "04_T1_first_90_seconds.svg": true,
+    "05_T1_timeline.png": true,
+    "06_T1_bone_completed.png": true,
+    "06_T1_bone_completed.svg": true,
+    "07_T1_bone_timeline.png": true,
+    "08_T2_civilian_reaction_intentions.png": true,
+    "08_T2_civilian_reaction_intentions.svg": true,
+    "09_T2_reaction_groups.png": true,
+    "09_T2_reaction_groups.svg": true,
+    "T0_ACTIVITY.md": true,
+    "T1_BONE_COMPLETION.md": true,
+    "T1_FIRST_90_SECONDS.md": true,
+    "T2_CIVILIAN_REACTIONS.md": true,
+    "bone_completion.json": true,
+    "map_data.json": true,
+    "map_views.json": true,
+    "massacre_annotations.json": true,
+    "massacre_behaviour_rules.json": true,
+    "provenance.json": true,
+    "render_bone_completion.py": true,
+    "render_map.py": true,
+    "render_t0.py": true,
+    "render_t1.py": true,
+    "render_t2.py": true,
+    "t0_activity.json": true,
+    "t0_manifest.json": true,
+    "t1_awareness.csv": true,
+    "t1_manifest.json": true,
+    "t1_simulation.json": true,
+    "t1b_awareness.csv": true,
+    "t1b_manifest.json": true,
+    "t2_civilian_reactions.json": true,
+    "t2_manifest.json": true,
+    "t2_reactions.csv": true
+  },
+  "geometry_sha256": "cb52e115c55558778d234691d513aa350813ee5432b56764981673c9568fe712",
+  "canonical_window_s": [
+    90,
+    109
+  ],
+  "impact_s": 108,
+  "population": {
+    "original": 170,
+    "living_before": 163,
+    "prior_fatalities": 7,
+    "new_fatalities": 4,
+    "total_fatalities": 11,
+    "living_after": 159,
+    "injured_before": 4,
+    "previously_injured_now_fatal": 2,
+    "new_injuries": 2,
+    "injured_surviving_after": 4,
+    "barrier_knowledge_survivors": {
+      "B0": 72,
+      "B1": 78,
+      "B2": 9,
+      "B3": 0,
+      "B4": 0
+    }
+  },
+  "blood_candidates": 57,
+  "bone_candidates": 6,
+  "barrier_contacts": 0,
+  "bell_rung": false,
+  "church_bell_approved": true,
+  "building_footprints_hit_by_wave": [],
+  "movement_checks": [
+    {
+      "id": "blood",
+      "building_crossings": [],
+      "plan_distance_m": 2.697
+    },
+    {
+      "id": "witch",
+      "building_crossings": [],
+      "plan_distance_m": 20.753
+    },
+    {
+      "id": "R23",
+      "building_crossings": [],
+      "plan_distance_m": 2.0,
+      "barrier_clearance_m": 60.889
+    },
+    {
+      "id": "R27",
+      "building_crossings": [],
+      "plan_distance_m": 2.32,
+      "barrier_clearance_m": 59.986
+    },
+    {
+      "id": "R02",
+      "building_crossings": [],
+      "plan_distance_m": 2.807,
+      "barrier_clearance_m": 37.059
+    },
+    {
+      "id": "R04",
+      "building_crossings": [],
+      "plan_distance_m": 2.8,
+      "barrier_clearance_m": 18.63
+    },
+    {
+      "id": "R58",
+      "building_crossings": [],
+      "plan_distance_m": 3.519,
+      "barrier_clearance_m": 12.355
+    },
+    {
+      "id": "R70",
+      "building_crossings": [],
+      "plan_distance_m": 1.6,
+      "barrier_clearance_m": 8.364
+    },
+    {
+      "id": "R13",
+      "building_crossings": [],
+      "plan_distance_m": 5.668,
+      "barrier_clearance_m": 50.163
+    },
+    {
+      "id": "R30",
+      "building_crossings": [],
+      "plan_distance_m": 5.156,
+      "barrier_clearance_m": 44.784
+    },
+    {
+      "id": "R31",
+      "building_crossings": [],
+      "plan_distance_m": 4.94,
+      "barrier_clearance_m": 35.974
+    },
+    {
+      "id": "R35",
+      "building_crossings": [],
+      "plan_distance_m": 1.736,
+      "barrier_clearance_m": 33.671
+    },
+    {
+      "id": "R79",
+      "building_crossings": [],
+      "plan_distance_m": 4.0,
+      "barrier_clearance_m": 15.236
+    },
+    {
+      "id": "R06",
+      "building_crossings": [],
+      "plan_distance_m": 3.2,
+      "barrier_clearance_m": 45.421
+    },
+    {
+      "id": "R72",
+      "building_crossings": [],
+      "plan_distance_m": 2.219,
+      "barrier_clearance_m": 19.975
+    },
+    {
+      "id": "R48",
+      "building_crossings": [],
+      "plan_distance_m": 0.448,
+      "barrier_clearance_m": 34.959
+    }
+  ],
+  "ue_edits": false,
+  "step5_executed": false
+}
