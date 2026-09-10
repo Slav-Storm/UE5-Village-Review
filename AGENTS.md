@@ -62,3 +62,9 @@ Autonomous branch terminal checkpoint: the authorized simulation now ends at +31
 ## Current V2 branch boundary
 
 The user explicitly authorized a new V2 simulation from approved T+90 only. Every V1 post90 event, T2/T3 continuation, movement, knowledge and outcome is historical and must not constrain V2. V2 is now CLOSED in latest/map/v2/: 112 fatalities, 58 survivors, no injured survivors; Witch arrival +313.923324816, Mayor final death +373.923324816 after sixty seconds. This is another failure of the near-total premise, honestly retained. Preserve all prior map files and V1 completely. Do not resume, add quota deaths, define subsequent barrier/Witch fate or edit UE without a new user request. The folder contains lightweight 2D review PNG/SVG, JSON/JSONL/CSV, Markdown and small offline planning/rendering Python scripts. No source assets or live UE actor dumps are permitted. The current V2 instruction supersedes older post90 continuation rules above for this branch.
+
+
+
+## Current V3 boundary
+
+V3 is CLOSED at +373.923 in latest/map/v3/, independently from approved T90. It records 57 deaths and 113 survivors, no injured survivors; Mayor is personally killed by Witch after the chosen minute. The near-total premise fails, with material modelling limitations documented. Preserve this result, V1, V2 and all approved earlier artifacts. Do not add cleanup deaths, resume, author V4 or modify UE without a new user request. JSON/JSONL/CSV, thirteen PNG/SVG sheets, Markdown and small offline Python reproduction/render scripts are review-only exceptions. V1/V2 post90 data may be compared only after an independent branch closes. The user-authorized V3 request supersedes older branch continuation instructions above.

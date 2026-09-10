@@ -82,3 +82,13 @@
 !/latest/map/v2/*.csv
 !/latest/map/v2/*.md
 !/latest/map/v2/*.py
+
+# User-authorized independent V3 2D review; preserve earlier branches.
+!/latest/map/v3/
+!/latest/map/v3/*.png
+!/latest/map/v3/*.svg
+!/latest/map/v3/*.json
+!/latest/map/v3/*.jsonl
+!/latest/map/v3/*.csv
+!/latest/map/v3/*.md
+!/latest/map/v3/*.py

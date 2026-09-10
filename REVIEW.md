@@ -1,42 +1,59 @@
-# MASSACRE SIMULATION V2 — RE-SIMULATED FROM T+90
+# MASSACRE SIMULATION V3 — INDEPENDENT RE-SIMULATION FROM T+90
 
-**112 fatalities, 58 survivors, no injured survivors. This remains a NARRATIVE / RULE FAILURE for the intended near-total massacre.**
+**57 fatalities, 113 survivors, no injured survivors. This working implementation FAILED the near-total-massacre premise.**
 
-The Witch reaches and secures the Mayor at **T+313.923**, keeps him helpless for a fixed sixty seconds, then personally kills him at **T+373.923**. He is the final death. All remaining survivors are reported; no post-Mayor cleanup is authored.
+The Witch reaches the Mayor at **T+313.923**, keeps him alive for sixty seconds, then personally kills him at **T+373.923**. He is the final death. The surviving majority is retained honestly.
 
-Prepared 2026-09-10T08:50:24.981064+00:00. This is a new 2D planning branch. **UE5 is unchanged; no new editor screenshots were captured.**
+Prepared 2026-09-10T10:01:05.297007+00:00. **2D planning only. UE5 is unchanged; no new editor screenshots were captured.**
 
-![V2 final aftermath planning map](latest/map/v2/11_v2_final_aftermath.png)
+![V3 final aftermath and surviving pockets](latest/map/v3/12_v3_final_aftermath.png)
 
-## Current review
+## Review package
 
-- [V2 index: all twelve PNG/SVG sheets](latest/map/v2/README.md)
-- [Full chronology, every event and action/reaction cycle, survivor reasons and V1 comparison](latest/map/v2/MASSACRE_V2_FULL_SIMULATION.md)
-- [Full chronological map](latest/map/v2/01_v2_full_chronology.png)
-- [Blood incidents](latest/map/v2/02_v2_blood_incidents.png) and [power growth](latest/map/v2/03_v2_blood_power_growth.png)
-- [Bone pattern](latest/map/v2/04_v2_bone_pattern.png) and [son-killer guard sequence](latest/map/v2/05_v2_bone_guard_sequence.png)
-- [Witch route](latest/map/v2/06_v2_witch_route.png) and [final-minute timeline](latest/map/v2/07_v2_mayor_final_minute.png)
-- [Civilian movement](latest/map/v2/08_v2_civilian_movement.png), [barrier knowledge](latest/map/v2/09_v2_barrier_knowledge.png), [casualty progression](latest/map/v2/10_v2_casualty_progression.png)
-- [Environmental story seeds](latest/map/v2/12_v2_story_seeds.png)
+- [All thirteen maps and editable SVGs](latest/map/v3/README.md)
+- [Full V3 report: chronology, every cycle, guard sequence, survivor reasons and comparison](latest/map/v3/MASSACRE_V3_FULL_SIMULATION.md)
+- [Closed editable simulation](latest/map/v3/v3_simulation.json)
+- [Casualty ledger](latest/map/v3/v3_casualties.csv) and [survivors](latest/map/v3/v3_survivors.csv)
+- [Source and replay validation](latest/map/v3/v3_validation.json)
 
-## What changed
+## What this branch tests
 
-Only the approved T+0–90 history is input. V1's post90 events, knowledge, movement and outcomes are excluded. V2 uses accessible spilled blood, limited growing living-blood sensing, prolonged recognition of the entrance guard, independent local barrier discoveries, and a fixed final minute. There are 157 separately retained ACTION/REACTION pairs.
+Only the approved T+0–90 history supplies the starting state. V1/V2 simulation records were excluded from decisions and opened for comparison after V3 closed.
 
-Blood causes more deaths, but local coverage leaves eight survivor pockets. Bone spends forty-eight seconds tormenting the recognized guard, then kills him precisely. The Witch ignores three appeals and continues uphill. The bell begins independently at +93.92 and communicates only emergency.
+Physical search streams, shelter disagreements/splits, Bone's active attention and local use of visible streams, two civilian opportunists, and a new guard-recognition sequence are added in an independent policy. Thirty-five ACTION/REACTION cycle pairs retain a continuous clock.
 
-Compared **after V2 closure**, V1's 73 dead / 97 alive becomes 112 dead / 58 alive. This still fails the intended near-total premise. The final minute includes eighteen Blood deaths plus the Mayor. A frozen-state diagnostic does not establish rage amplification alone as necessary for those eighteen exposures.
+Bone recognises the entrance guard at +203 and kills him at +254 after fifty-one seconds. At +223 he injures P12-09, whom the guard is protecting; at +243 he kills that same person while sparing the guard until the end.
 
-## Editable data and limits
+Twenty-nine search commitments test thirteen footprints. Nine group splits and fifteen departures explicitly leave compromised shelters. Two boundary deaths follow these departures. The local search policy still fails to reach most surviving households.
 
-[Consolidated JSON](latest/map/v2/v2_simulation.json), separate [actions](latest/map/v2/v2_actions.jsonl) / [reactions](latest/map/v2/v2_reactions.jsonl), individual [casualties](latest/map/v2/v2_casualties.csv) / [survivors](latest/map/v2/v2_survivors.csv), local knowledge, movements, resources, parameter files and small offline scripts are included.
+## Important limitations
 
-[Validation](latest/map/v2/v2_validation.json) checks census, unique deaths, resource conservation, local range/exposure, the exact final minute and source preservation. [Manifest](latest/map/v2/v2_manifest.json) records artifact hashes. 2D roofs, doors/interiors, hearing, sensing and force remain planning approximations, not tested UE physics. The failed survivor outcome is provisional, not newly approved lore. Later barrier/Witch fate and cessation of danger remain unresolved.
+The outcome is a failed model/policy trial, not an approved massacre reconstruction. Search revisits nearby accesses too readily; secondary blood-site branch origins are not exercised; cumulative structural breach is not modelled; repeated Bone shelter pressure remains too weak; estate reactions to Witch securing the Mayor are under-modelled. These issues are documented instead of masked by extra deaths.
+
+Doorways/interior positions, post-opacity sight and most terrain travel are approximations. The raw starting carried-blood store is zero although 4.88 accessible opening units already make him Fed; the initial debug label artefact is explained in the report. Reproducible casualty accounting does not establish realistic behaviour.
+
+## Sheets
+
+| Sheet | What it shows |
+|---|---|
+| [01 Full chronology](latest/map/v3/01_v3_full_chronology.png) | Overall event geography and terminal condition |
+| [02 Blood incidents](latest/map/v3/02_v3_blood_incidents.png) | Executed path and provisional pressure envelopes |
+| [03 Blood power](latest/map/v3/03_v3_blood_power.png) | Collected versus remaining sources and growth |
+| [04 Search network](latest/map/v3/04_v3_search_network.png) | Four snapshots of physically realised branches |
+| [05 Bone incidents](latest/map/v3/05_v3_bone_incidents.png) | Attention, short bursts and consequences |
+| [06 Guard sequence](latest/map/v3/06_v3_guard_sequence.png) | Recognition, protected civilian and final precise strike |
+| [07 Shelter movement](latest/map/v3/07_v3_shelter_movement.png) | Executed travel, disagreements and refuge departures |
+| [08 Barrier knowledge](latest/map/v3/08_v3_barrier_knowledge.png) | Independent contacts, witnesses and warning reports |
+| [09 Witch route](latest/map/v3/09_v3_witch_route.png) | Preserved route, timestamps and elevation |
+| [10 Mayor final minute](latest/map/v3/10_v3_mayor_minute.png) | Confrontation window, unvoiced beats and contemporaneous strikes |
+| [11 Casualty progression](latest/map/v3/11_v3_casualty_progression.png) | Reconciled timeline and attacker totals |
+| [12 Final aftermath](latest/map/v3/12_v3_final_aftermath.png) | Every surviving pocket and final actor positions |
+| [13 Story seeds](latest/map/v3/13_v3_story_seeds.png) | Causal evidence opportunities, no production assets |
 
 ## Preserved references
 
-[Clean base](latest/map/01_village_base_map.png), [blank canvas](latest/map/02_massacre_planning_blank.png), [T0](latest/map/03_T0_normal_activity.png), [T1](latest/map/t1_simulation.json) and [Bone completion](latest/map/bone_completion.json) remain byte-identical. All V1 files remain in [the parent map folder](latest/map), as historical comparison only. [Previous V1 review at its immutable commit](https://github.com/Slav-Storm/UE5-Village-Review/blob/431c59298f5f1cfb372b3e03e788dd4c1efebf24/REVIEW.md) preserves the former review page.
+[Clean base](latest/map/01_village_base_map.png), [blank planning map](latest/map/02_massacre_planning_blank.png), [T0](latest/map/03_T0_normal_activity.png), [approved T90 completion](latest/map/T1_BONE_COMPLETION.md), [V1](latest/map/MASSACRE_FULL_SIMULATION.md) and [V2](latest/map/v2/MASSACRE_V2_FULL_SIMULATION.md) remain unchanged.
 
-Existing perspective screenshots keep their original capture dates. This additive V2 folder does not replace any old image set; no duplicate archive of large images is needed.
+The previous review cover is recoverable at [the pre-V3 commit](https://github.com/Slav-Storm/UE5-Village-Review/blob/a8245b86e62415399ed2ddb9ac374cd2a0269ee1/REVIEW.md). Existing UE screenshots retain their original dates; these additions are planning renders.
 
-**STOPPED for V2 review. No UE implementation, assets, destruction, corpses, VFX, bosses, cutscenes or rebuilding.**
+**STOPPED. No V4, UE implementation, final damage, corpse placement, VFX, bosses or cutscenes begun.**
