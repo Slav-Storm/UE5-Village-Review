@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "SEED001",
+    "event": "E0011",
+    "t": 91.0,
+    "xy": [
+      -34.3,
+      9.2
+    ],
+    "category": "bone_near_hit",
+    "opportunity": "Deliberate precision damage beside a person",
+    "reason": "Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED002",
+    "event": "E0012",
+    "t": 91.0,
+    "xy": [
+      -18,
+      35
+    ],
+    "category": "witch_plea",
+    "opportunity": "Water carriers call to unresponsive neighbour",
+    "reason": "Calls to the familiar Witch while she continues uphill without answering.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED003",
+    "event": "E0013",
+    "t": 91.0,
+    "xy": [
+      -18,
+      35
+    ],
+    "category": "witch_plea",
+    "opportunity": "Water carriers call to unresponsive neighbour",
+    "reason": "Calls to the familiar Witch while she continues uphill without answering.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED004",
+    "event": "E0015",
+    "t": 96.0,
+    "xy": [
+      -2.2088023688951393,
+      44.52432308637402
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED005",
+    "event": "E0021",
+    "t": 97.0,
+    "xy": [
+      -34.04081559206499,
+      4.7074702624597595
+    ],
+    "category": "bone_flush",
+    "opportunity": "Cover / retreat edge cut off",
+    "reason": "Cuts off the nearer cover with another exact object strike, then allows flight.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED006",
+    "event": "E0024",
+    "t": 99.0,
+    "xy": [
+      -1.8223101280899567,
+      52.564995101932006
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_13",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED007",
+    "event": "E0030",
+    "t": 101.0,
+    "xy": [
+      -35.01568575153972,
+      2.0502322903115857
+    ],
+    "category": "bone_near_hit",
+    "opportunity": "Deliberate precision damage beside a person",
+    "reason": "Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED008",
+    "event": "E0033",
+    "t": 104.0,
+    "xy": [
+      -26.0,
+      -56.0
+    ],
+    "category": "theft_completed",
+    "opportunity": "Goods taken from ordinary storage",
+    "reason": "take shared handcart and monopolise stored supplies; portable goods now carried.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED009",
+    "event": "E0041",
+    "t": 106.0,
+    "xy": [
+      -5.033559119289219,
+      52.534300848406644
+    ],
+    "category": "theft_completed",
+    "opportunity": "Goods taken from ordinary storage",
+    "reason": "take unattended market valuables for private gain; portable goods now carried.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED010",
+    "event": "E0042",
+    "t": 106.0,
+    "xy": [
+      -5.414402027762093,
+      32.93397936167225
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_09_YardShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED011",
+    "event": "E0046",
+    "t": 107.0,
+    "xy": [
+      -43.782306675979854,
+      0.013971607793659357
+    ],
+    "category": "bone_flush",
+    "opportunity": "Cover / retreat edge cut off",
+    "reason": "Cuts off the nearer cover with another exact object strike, then allows flight.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED012",
+    "event": "E0050",
+    "t": 108.0,
+    "xy": [
+      60.15067598639805,
+      -62.28675910118936
+    ],
+    "category": "barrier_contact",
+    "opportunity": "Interrupted local crossing attempt",
+    "reason": "A civilian physically tests the boundary; local reactive strike.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED013",
+    "event": "E0053",
+    "t": 112.0,
+    "xy": [
+      -51.0878241130133,
+      -1.682912294304613
+    ],
+    "category": "bone_near_hit",
+    "opportunity": "Deliberate precision damage beside a person",
+    "reason": "Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED014",
+    "event": "E0054",
+    "t": 113.0,
+    "xy": [
+      5.320188990761541,
+      46.25984487122695
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED015",
+    "event": "E0056",
+    "t": 115.0,
+    "xy": [
+      -52.01417023065732,
+      -1.898078684413139
+    ],
+    "category": "barrier_contact",
+    "opportunity": "Interrupted local crossing attempt",
+    "reason": "A civilian physically tests the boundary; local reactive strike.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED016",
+    "event": "E0057",
+    "t": 118.0,
+    "xy": [
+      5.162892126253827,
+      66.03348535399368
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_11",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED017",
+    "event": "E0061",
+    "t": 120.0,
+    "xy": [
+      -47.544927142767754,
+      -1.3728490000355817
+    ],
+    "category": "bone_near_hit",
+    "opportunity": "Deliberate precision damage beside a person",
+    "reason": "Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED018",
+    "event": "E0063",
+    "t": 122.0,
+    "xy": [
+      56.192150997369936,
+      15.562388427328264
+    ],
+    "category": "barrier_contact",
+    "opportunity": "Interrupted local crossing attempt",
+    "reason": "A civilian physically tests the boundary; local reactive strike.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED019",
+    "event": "E0064",
+    "t": 125.0,
+    "xy": [
+      17.7089199509073,
+      42.820302882806715
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_01_YardShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED020",
+    "event": "E0065",
+    "t": 125.0,
+    "xy": [
+      5.320188990761541,
+      46.25984487122695
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED021",
+    "event": "E0066",
+    "t": 126.0,
+    "xy": [
+      -38.60644096698863,
+      -0.32238963128046716
+    ],
+    "category": "bone_flush",
+    "opportunity": "Cover / retreat edge cut off",
+    "reason": "Cuts off the nearer cover with another exact object strike, then allows flight.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED022",
+    "event": "E0068",
+    "t": 127.0,
+    "xy": [
+      13.45617382230707,
+      30.559926291166512
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Tavern",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED023",
+    "event": "E0071",
+    "t": 131.0,
+    "xy": [
+      -31.157702487172685,
+      0.5529931760154617
+    ],
+    "category": "bone_near_hit",
+    "opportunity": "Deliberate precision damage beside a person",
+    "reason": "Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED024",
+    "event": "E0077",
+    "t": 139.0,
+    "xy": [
+      6.627061180577005,
+      45.42642716113979
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED025",
+    "event": "E0083",
+    "t": 151.0,
+    "xy": [
+      6.627061180577005,
+      45.42642716113979
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED026",
+    "event": "E0085",
+    "t": 154.0,
+    "xy": [
+      39.04027127702994,
+      40.319909574323354
+    ],
+    "category": "bone_near_hit",
+    "opportunity": "Deliberate precision damage beside a person",
+    "reason": "Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED027",
+    "event": "E0089",
+    "t": 162.0,
+    "xy": [
+      53.559952442414826,
+      29.323277337412687
+    ],
+    "category": "bone_flush",
+    "opportunity": "Cover / retreat edge cut off",
+    "reason": "Cuts off the nearer cover with another exact object strike, then allows flight.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED028",
+    "event": "E0090",
+    "t": 163.0,
+    "xy": [
+      6.627061180577005,
+      45.42642716113979
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "Tavern",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED029",
+    "event": "E0094",
+    "t": 166.0,
+    "xy": [
+      -1.8356974307181173,
+      52.583371124710325
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_13",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED030",
+    "event": "E0096",
+    "t": 167.0,
+    "xy": [
+      60.4883317152203,
+      24.786423912069818
+    ],
+    "category": "bone_near_hit",
+    "opportunity": "Deliberate precision damage beside a person",
+    "reason": "Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED031",
+    "event": "E0097",
+    "t": 168.0,
+    "xy": [
+      60.4883317152203,
+      24.786423912069818
+    ],
+    "category": "barrier_contact",
+    "opportunity": "Interrupted local crossing attempt",
+    "reason": "A civilian physically tests the boundary; local reactive strike.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED032",
+    "event": "E0098",
+    "t": 169.0,
+    "xy": [
+      22.87512461155772,
+      38.601091922396556
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_01",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED033",
+    "event": "E0107",
+    "t": 175.0,
+    "xy": [
+      6.627061180577005,
+      45.42642716113979
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "Cottage_01",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED034",
+    "event": "E0116",
+    "t": 178.0,
+    "xy": [
+      44.80690532143078,
+      24.887474260390338
+    ],
+    "category": "bone_object_strike",
+    "opportunity": "Shelter-opening precision damage",
+    "reason": "Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.",
+    "shelter": "CrookedCottage_YardShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED035",
+    "event": "E0117",
+    "t": 179.0,
+    "xy": [
+      -5.023047371228559,
+      32.36211609871295
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_09_YardShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED036",
+    "event": "E0118",
+    "t": 184.0,
+    "xy": [
+      42.25210663572448,
+      23.35282463611601
+    ],
+    "category": "bone_flush",
+    "opportunity": "Cover / retreat edge cut off",
+    "reason": "Cuts off the nearer cover with another exact object strike, then allows flight.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED037",
+    "event": "E0121",
+    "t": 190.0,
+    "xy": [
+      18.433621381039224,
+      42.747045226314384
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_01_YardShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED038",
+    "event": "E0124",
+    "t": 202.0,
+    "xy": [
+      5.079474349856004,
+      65.84280823213075
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_11",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED039",
+    "event": "E0127",
+    "t": 205.0,
+    "xy": [
+      2.0,
+      122.0
+    ],
+    "category": "guard_torment",
+    "opportunity": "Equipment / retreat marker",
+    "reason": "Deliberately reveals himself to the guard.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED040",
+    "event": "E0129",
+    "t": 213.0,
+    "xy": [
+      2.0,
+      122.0
+    ],
+    "category": "guard_torment",
+    "opportunity": "Equipment / retreat marker",
+    "reason": "Precise near-hit damages the guard's equipment.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED041",
+    "event": "E0132",
+    "t": 223.0,
+    "xy": [
+      2.0,
+      122.0
+    ],
+    "category": "guard_protected_person_harmed",
+    "opportunity": "Interrupted protection at estate approach",
+    "reason": "Spares the guard while harming a person within his protective reach.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED042",
+    "event": "E0133",
+    "t": 231.0,
+    "xy": [
+      -1.7588783458760413,
+      52.47792574171748
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_13",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED043",
+    "event": "E0135",
+    "t": 234.0,
+    "xy": [
+      14.45079519772749,
+      30.016670695492575
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Tavern",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED044",
+    "event": "E0137",
+    "t": 235.0,
+    "xy": [
+      2.0,
+      122.0
+    ],
+    "category": "guard_torment",
+    "opportunity": "Equipment / retreat marker",
+    "reason": "Appears from another angle and lets the guard retreat.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED045",
+    "event": "E0138",
+    "t": 236.0,
+    "xy": [
+      25.349223726997856,
+      36.58939944512206
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED046",
+    "event": "E0142",
+    "t": 243.0,
+    "xy": [
+      6.627061180577005,
+      45.42642716113979
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED047",
+    "event": "E0143",
+    "t": 243.0,
+    "xy": [
+      2.0,
+      122.0
+    ],
+    "category": "guard_protected_person_harmed",
+    "opportunity": "Interrupted protection at estate approach",
+    "reason": "Spares the guard while harming a person within his protective reach.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED048",
+    "event": "E0144",
+    "t": 245.0,
+    "xy": [
+      -5.095768598057727,
+      32.468379298515636
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_09_YardShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED049",
+    "event": "E0146",
+    "t": 251.0,
+    "xy": [
+      23.09308528719515,
+      38.74452394893736
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_01",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED050",
+    "event": "E0149",
+    "t": 255.0,
+    "xy": [
+      6.627061180577005,
+      45.42642716113979
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED051",
+    "event": "E0151",
+    "t": 257.0,
+    "xy": [
+      18.410710544370744,
+      42.749361206568906
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_01_YardShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED052",
+    "event": "E0154",
+    "t": 262.0,
+    "xy": [
+      60.831939398436994,
+      25.3111585964828
+    ],
+    "category": "barrier_contact",
+    "opportunity": "Interrupted local crossing attempt",
+    "reason": "A civilian physically tests the boundary; local reactive strike.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED053",
+    "event": "E0157",
+    "t": 267.0,
+    "xy": [
+      6.627061180577005,
+      45.42642716113979
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED054",
+    "event": "E0158",
+    "t": 269.0,
+    "xy": [
+      27.998173433291438,
+      47.66286649605519
+    ],
+    "category": "bone_object_strike",
+    "opportunity": "Shelter-opening precision damage",
+    "reason": "Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED055",
+    "event": "E0164",
+    "t": 279.0,
+    "xy": [
+      6.627061180577005,
+      45.42642716113979
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED056",
+    "event": "E0165",
+    "t": 279.0,
+    "xy": [
+      27.998173433291438,
+      47.66286649605519
+    ],
+    "category": "bone_object_strike",
+    "opportunity": "Shelter-opening precision damage",
+    "reason": "Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED057",
+    "event": "E0170",
+    "t": 289.0,
+    "xy": [
+      27.998173433291438,
+      47.66286649605519
+    ],
+    "category": "bone_object_strike",
+    "opportunity": "Shelter-opening precision damage",
+    "reason": "Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED058",
+    "event": "E0171",
+    "t": 290.0,
+    "xy": [
+      5.1486961447625195,
+      66.00103604870566
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_11",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED059",
+    "event": "E0176",
+    "t": 299.0,
+    "xy": [
+      27.998173433291438,
+      47.66286649605519
+    ],
+    "category": "bone_object_strike",
+    "opportunity": "Shelter-opening precision damage",
+    "reason": "Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED060",
+    "event": "E0177",
+    "t": 301.0,
+    "xy": [
+      14.157795802590462,
+      30.176705020986525
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Tavern",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED061",
+    "event": "E0179",
+    "t": 304.0,
+    "xy": [
+      -16.263723388751885,
+      62.157344295111756
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_02",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED062",
+    "event": "E0180",
+    "t": 304.0,
+    "xy": [
+      -1.327917297418125,
+      51.88636893128339
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_13",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED063",
+    "event": "E0183",
+    "t": 308.0,
+    "xy": [
+      24.322850576894428,
+      32.881900384596285
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED064",
+    "event": "E0187",
+    "t": 314.0,
+    "xy": [
+      2,
+      146
+    ],
+    "category": "mayor_secured",
+    "opportunity": "Final private confrontation space",
+    "reason": "Reaches and secures the Mayor; sixty-second confrontation begins. No survivor-count knowledge.",
+    "shelter": null,
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED065",
+    "event": "E0188",
+    "t": 314.0,
+    "xy": [
+      28.918823105880964,
+      24.5011443937369
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_06",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED066",
+    "event": "E0195",
+    "t": 319.0,
+    "xy": [
+      30.3733113586646,
+      28.56498983550901
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "OldQuarterStore",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED067",
+    "event": "E0196",
+    "t": 320.0,
+    "xy": [
+      24.322850576894428,
+      32.881900384596285
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "Cottage_06",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED068",
+    "event": "E0201",
+    "t": 329.0,
+    "xy": [
+      22.70566813378767,
+      38.489578751748034
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_01",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED069",
+    "event": "E0204",
+    "t": 339.0,
+    "xy": [
+      32.570991707253924,
+      23.38101657391268
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "OldQuarterSharedShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED070",
+    "event": "E0211",
+    "t": 344.0,
+    "xy": [
+      24.322850576894428,
+      32.881900384596285
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "OldQuarterSharedShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED071",
+    "event": "E0214",
+    "t": 354.0,
+    "xy": [
+      34.02727119901077,
+      38.06954079791232
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "CrookedCottage",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED072",
+    "event": "E0218",
+    "t": 357.0,
+    "xy": [
+      18.100702758535192,
+      42.78069886224396
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_01_YardShed",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED073",
+    "event": "E0220",
+    "t": 361.0,
+    "xy": [
+      24.322850576894428,
+      32.881900384596285
+    ],
+    "category": "blood_attack",
+    "opportunity": "Pressure corridor / interrupted activity",
+    "reason": "Deliberate pressure strike toward the perceived concentration.",
+    "shelter": "CrookedCottage",
+    "status": "2D opportunity only; no production pose or damage"
+  },
+  {
+    "id": "SEED074",
+    "event": "E0223",
+    "t": 367.0,
+    "xy": [
+      25.36899694595939,
+      36.6720578995809
+    ],
+    "category": "stream_threshold",
+    "opportunity": "Searching trail at a threshold / floor crack",
+    "reason": "Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.",
+    "shelter": "Cottage_12",
+    "status": "2D opportunity only; no production pose or damage"
+  }
+]

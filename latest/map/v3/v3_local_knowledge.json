@@ -1,0 +1,2847 @@
+{
+  "P01-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: violence downhill from village",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P01-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: violence downhill from village",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P01-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: violence downhill from village",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P01-04": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P01-05": {
+    "direct_deaths": [
+      "P01-04"
+    ],
+    "barrier": 4,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 4,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P01-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "report: two people attacked on approach",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P02-01": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P02-02": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P02-03": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P02-04": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P02-05": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P02-06": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P03-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P03-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P03-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P03-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "report: approach violence",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P03-05": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "report: approach violence",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P03-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "report: approach violence",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P03-07": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "report: approach violence",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P04-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P04-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P04-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P04-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P04-05": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P04-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P05-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P05-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P05-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "direct: first two quiet killings",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P05-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "direct: first two quiet killings",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P05-05": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "direct: first two quiet killings",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P05-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "direct: first two quiet killings",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-05": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-07": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-08": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "report: assistant killed",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-09": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-10": {
+    "direct_deaths": [
+      "P06-09"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: Bone precision strike at refuge"
+    }
+  },
+  "P06-11": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-12": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-13": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "shelter": "direct: Bone deliberate near-hit",
+      "bell": "heard: public emergency"
+    }
+  },
+  "P06-14": {
+    "direct_deaths": [
+      "P06-13"
+    ],
+    "barrier": 4,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ",
+      "barrier": 4,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "shelter": "direct: Bone deliberate near-hit",
+      "bell": "heard: public emergency"
+    }
+  },
+  "P07-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: large violent crash",
+      "Bone": "heard: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P07-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: large violent crash",
+      "Bone": "heard: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P07-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P07-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: large violent crash",
+      "Bone": "direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P08-01": {
+    "direct_deaths": [
+      "P07-03"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: assistant killed",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "direct: calm neighbour ignores plea; responsibility unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P08-02": {
+    "direct_deaths": [
+      "P07-03"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: assistant killed",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "direct: calm neighbour ignores plea; responsibility unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P08-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-05": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-07": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P09-08",
+      "P09-09",
+      "P09-10",
+      "P09-11"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P08-08": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P09-08",
+      "P09-09",
+      "P09-10",
+      "P09-11",
+      "P08-07"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P08-09": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P09-08",
+      "P09-09",
+      "P09-10",
+      "P09-11",
+      "P08-07",
+      "P08-08"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P08-10": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P09-08",
+      "P09-09",
+      "P09-10",
+      "P09-11",
+      "P08-07",
+      "P08-08",
+      "P08-09"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P08-11": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-12": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P06-09"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-13": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P06-09",
+      "P08-12"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-14": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P06-09",
+      "P08-12",
+      "P08-13"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-15": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P06-09",
+      "P08-12",
+      "P08-13",
+      "P08-14"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-16": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P06-09",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-17": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-18": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-19": {
+    "direct_deaths": [
+      "P08-17"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-20": {
+    "direct_deaths": [
+      "P09-08",
+      "P09-09",
+      "P09-10",
+      "P09-11"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P08-21": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: first public strike",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-22": {
+    "direct_deaths": [
+      "P08-21"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-23": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-24": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-25": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P08-26": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": []
+    }
+  },
+  "P09-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P09-02": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: Bone cut off cover"
+    }
+  },
+  "P09-03": {
+    "direct_deaths": [
+      "P09-02",
+      "P09-12",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P09-04": {
+    "direct_deaths": [
+      "P09-02",
+      "P09-12",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P09-03"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P09-05": {
+    "direct_deaths": [
+      "P09-02",
+      "P09-12",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P09-03",
+      "P09-04"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P09-06": {
+    "direct_deaths": [
+      "P09-01"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P09-07": {
+    "direct_deaths": [
+      "P09-02",
+      "P09-12",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P09-03",
+      "P09-04",
+      "P09-05"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P09-08": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P09-09": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P09-08"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P09-10": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P09-08",
+      "P09-09"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P09-11": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P09-08",
+      "P09-09",
+      "P09-10"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P09-12": {
+    "direct_deaths": [
+      "P09-02"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: Bone deliberate near-hit"
+    }
+  },
+  "P09-13": {
+    "direct_deaths": [
+      "P09-02",
+      "P09-12",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P09-03",
+      "P09-04",
+      "P09-05",
+      "P09-07"
+    ],
+    "barrier": 4,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 4,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P09-14": {
+    "direct_deaths": [
+      "P09-01",
+      "P09-06"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-04": {
+    "direct_deaths": [
+      "P08-18"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-05": {
+    "direct_deaths": [
+      "P08-17",
+      "P08-19"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-06": {
+    "direct_deaths": [
+      "P08-17",
+      "P08-19",
+      "P10-05"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-07": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-08": {
+    "direct_deaths": [
+      "P10-07"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-09": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-10": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P10-11": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P10-12": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P10-13": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-14": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: Bone precision strike at refuge"
+    }
+  },
+  "P10-15": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-16": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": true,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Cuts off the nearer cover with another exact object strike, then allows flight.",
+      "barrier": 0,
+      "barrier_report": true,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-17": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P10-18": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P10-19": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P10-20": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P10-21": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P10-22": {
+    "direct_deaths": [
+      "P10-09"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P10-23": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26",
+      "P10-14"
+    ],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: pressure strike at physical concentration",
+      "Bone": "direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: Bone precision strike at refuge"
+    }
+  },
+  "P10-24": {
+    "direct_deaths": [
+      "P08-21",
+      "P08-22",
+      "P08-23",
+      "P08-24",
+      "P08-25",
+      "P08-26"
+    ],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P11-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-05": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-07": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-08": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-09": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P11-10": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P11-11": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-12": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-13": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-14": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-15": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-16": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-17": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: civic strike",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-18": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: civic strike",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-19": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: civic strike",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-20": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-21": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P11-22": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-05": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-07": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-08": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-09": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "direct: Appears from another angle and lets the guard retreat.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P12-10": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "heard: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency",
+      "shelter": "direct: blood_stream"
+    }
+  },
+  "P12-11": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-12": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-13": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P12-14": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P13-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P14-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P14-02": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "report: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P14-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P14-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P14-05": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P14-06": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "direct: Deliberate pressure strike toward the perceived concentration.",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P14-07": {
+    "direct_deaths": [],
+    "barrier": 1,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 1,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P15-01": {
+    "direct_deaths": [],
+    "barrier": 2,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 2,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P15-02": {
+    "direct_deaths": [],
+    "barrier": 2,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 2,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P15-03": {
+    "direct_deaths": [],
+    "barrier": 2,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 2,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P16-01": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P16-02": {
+    "direct_deaths": [
+      "P12-09"
+    ],
+    "barrier": 2,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "direct: Spares the guard while harming a person within his protective reach.",
+      "barrier": 2,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P16-03": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P16-04": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P16-05": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P16-06": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P16-07": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P16-08": {
+    "direct_deaths": [],
+    "barrier": 0,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 0,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P17-01": {
+    "direct_deaths": [],
+    "barrier": 2,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 2,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  },
+  "P17-02": {
+    "direct_deaths": [],
+    "barrier": 2,
+    "barrier_report": false,
+    "observations": {
+      "emergency": true,
+      "Blood": "unknown",
+      "Bone": "unknown",
+      "barrier": 2,
+      "barrier_report": false,
+      "Witch": "ordinary neighbour; cause unknown",
+      "warnings": [],
+      "bell": "heard: public emergency"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "170_people": true,
+    "t90_163_alive": true,
+    "t90_four_injured": true,
+    "t90_B3_B4_zero": true,
+    "unique_fatalities": true,
+    "census_reconciles": true,
+    "mayor_is_last": true,
+    "no_post_terminal_death": true,
+    "guard_personally_killed_by_bone": true,
+    "all_incident_ids_known": true,
+    "stream_roots_continuous": true,
+    "replay_casualties_equal": true,
+    "replay_final_people_equal": true,
+    "replay_decisions_equal": true,
+    "replay_events_equal_except_false_metadata": true,
+    "closed_state_sha_preserved": true
+  },
+  "prior_files_checked": 194,
+  "prior_files_unchanged": true,
+  "limits": [
+    "2D footprint sight/cover, not UE collision or calibrated darkness/acoustics.",
+    "Doors, private internal room positions and non-micro person allocations are explicit refinements.",
+    "Raw initial carried blood is zero; 4.88 accessible pre90 units already exist at T90 and are collected before first V3 decision at +91. Treat T90 qualitative state as FED; initial debug snapshot AWAKENED is a presentation artefact, not a new awakening.",
+    "Replayed events differ only by an optional false reassessment field on three early movement records; casualties, decisions, people and sources match exactly."
+  ]
+}

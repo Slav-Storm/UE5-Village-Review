@@ -1,0 +1,227 @@
+id,t,phase,kind,actor,xy,text,target,shelter,stream,people,affected_people,trigger
+E0001,91.0,ACTION,resource,Blood,"[-3.6, 49]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0002,91.0,ACTION,resource,Blood,"[-3.6, 49]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0003,91.0,ACTION,resource,Blood,"[2, 48]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0004,91.0,ACTION,resource,Blood,"[2, 48]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0005,91.0,ACTION,resource,Blood,"[3, 50]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0006,91.0,ACTION,resource,Blood,"[3, 50]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0007,91.0,ACTION,resource,Blood,"[3, 50]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0008,91.0,ACTION,resource,Blood,"[3, 50]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0009,91.0,ACTION,stream_start,Blood,"[-2.2088023688951393, 44.52432308637402]",New surface search branch toward an untested nearby access.,,Cottage_13,S001,,,
+E0010,91.0,ACTION,blood_commit,Blood,"[-2.2088023688951393, 44.52432308637402]",Commits to visible dense human activity; five-second build-up.,"[7, 46]",,,,,
+E0011,91.0,ACTION,bone_near_hit,Bone,"[-34.3, 9.2]",Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.,P06-13,,,,,M05 parent moving between child and Bone
+E0012,91.0,REACTION,witch_plea,Civilians,"[-18, 35]",Calls to the familiar Witch while she continues uphill without answering.,,,,"[""P08-01""]",,
+E0013,91.0,REACTION,witch_plea,Civilians,"[-18, 35]",Calls to the familiar Witch while she continues uphill without answering.,,,,"[""P08-02""]",,
+E0014,95.0,ACTION,stream_start,Blood,"[-2.2088023688951393, 44.52432308637402]",New surface search branch toward an untested nearby access.,,Cottage_09_YardShed,S002,,,
+E0015,96.0,ACTION,blood_attack,Blood,"[-2.2088023688951393, 44.52432308637402]",Deliberate pressure strike toward the perceived concentration.,"[7, 46]",,,,"[""P08-21"", ""P08-22"", ""P08-23"", ""P08-24"", ""P08-25"", ""P08-26"", ""P09-08"", ""P09-09"", ""P09-10"", ""P09-11""]",
+E0016,97.0,ACTION,resource,Blood,"[3.9, 42.0]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0017,97.0,ACTION,resource,Blood,"[3.9, 42.0]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0018,97.0,ACTION,resource,Blood,"[3.9, 42.0]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0019,97.0,ACTION,resource,Blood,"[3.9, 42.0]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0020,97.0,ACTION,stream_response,Blood,"[-1.4301893943134414, 50.64091401814461]",Search response: presence (coarse cue only).,,Cottage_13,S001,,,
+E0021,97.0,ACTION,bone_flush,Bone,"[-34.04081559206499, 4.7074702624597595]","Cuts off the nearer cover with another exact object strike, then allows flight.",P06-13,,,,,person choosing cover / running
+E0022,98.0,REACTION,opportunism,Civilians,"[-29, -50]",take household handcart and monopolise stored goods,,,,"[""P04-06""]",,
+E0023,98.0,REACTION,opportunism,Civilians,"[-2, 55]",take portable unattended market valuables for private gain,,,,"[""P08-20""]",,
+E0024,99.0,ACTION,stream_threshold,Blood,"[-1.8223101280899567, 52.564995101932006]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_13,S001,,,
+E0025,99.0,ACTION,stream_response,Blood,"[-1.8223101280899567, 52.564995101932006]",Search response: dense (coarse cue only).,,Cottage_13,S001,,,
+E0026,99.0,ACTION,stream_start,Blood,"[-2.2088023688951393, 44.52432308637402]",New surface search branch toward an untested nearby access.,,Cottage_11,S003,,,
+E0027,100.0,REACTION,bell,Caretaker,"[23.5, 83.87061084890183]",Ground-floor rope: public emergency only.,,,,"[""P13-01""]",,
+E0028,100.0,ACTION,bone_attention,Bone,"[-37.5, 8.8]",Attention changes: human movement along try nearby forest/field edge; lethal response unknown,P06-14,,,,,
+E0029,101.0,ACTION,stream_response,Blood,"[-3.064855115661291, 54.27056907967012]",Search response: presence (coarse cue only).,,Cottage_13,S001,,,
+E0030,101.0,ACTION,bone_near_hit,Bone,"[-35.01568575153972, 2.0502322903115857]",Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.,P06-14,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0031,102.0,ACTION,stream_response,Blood,"[-3.6861276094469577, 55.123356068539174]",Search response: none (coarse cue only).,,Cottage_13,S001,,,
+E0032,103.0,ACTION,blood_move,Blood,"[-2.2088023688951393, 44.52432308637402]",Slow approach toward visible dense human activity.,"[21.273801098613273, 50.90873296712891]",,,,,
+E0033,104.0,REACTION,theft_completed,Civilians,"[-26.0, -56.0]",take shared handcart and monopolise stored supplies; portable goods now carried.,,,,"[""P04-06""]",,
+E0034,104.0,ACTION,resource,Blood,"[7, 46]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0035,104.0,ACTION,resource,Blood,"[7, 46]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0036,104.0,ACTION,resource,Blood,"[7, 46]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0037,104.0,ACTION,resource,Blood,"[7, 46]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0038,104.0,ACTION,resource,Blood,"[7, 46]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0039,104.0,ACTION,resource,Blood,"[7, 46]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0040,104.0,ACTION,stream_start,Blood,"[-0.7130965688646684, 44.93097300922562]",New surface search branch toward an untested nearby access.,,Tavern,S004,,,
+E0041,106.0,REACTION,theft_completed,Civilians,"[-5.033559119289219, 52.534300848406644]",take unattended market valuables for private gain; portable goods now carried.,,,,"[""P08-20""]",,
+E0042,106.0,ACTION,stream_threshold,Blood,"[-5.414402027762093, 32.93397936167225]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_09_YardShed,S002,,,
+E0043,107.0,ACTION,stream_response,Blood,"[0.7223570051916957, 53.201980722188495]",Search response: presence (coarse cue only).,,Cottage_11,S003,,,
+E0044,107.0,ACTION,stream_response,Blood,"[2.8964355843282155, 44.098804287810395]",Search response: presence (coarse cue only).,,Tavern,S004,,,
+E0045,107.0,ACTION,blood_move,Blood,"[3.774020831226744, 46.15092277778041]",Slow approach toward visible dense human activity.,"[30.00098665558583, 47.998520016621256]",,,,,
+E0046,107.0,ACTION,bone_flush,Bone,"[-43.782306675979854, 0.013971607793659357]","Cuts off the nearer cover with another exact object strike, then allows flight.",P06-14,,,,,person choosing cover / running
+E0047,108.0,ACTION,stream_response,Blood,"[4.099612968725844, 43.82141471400532]",Search response: none (coarse cue only).,,Tavern,S004,,,
+E0048,108.0,ACTION,stream_start,Blood,"[5.320188990761541, 46.25984487122695]",New surface search branch toward an untested nearby access.,,Cottage_01_YardShed,S005,,,
+E0049,108.0,ACTION,blood_commit,Blood,"[5.320188990761541, 46.25984487122695]",Commits to visible aid/bleeding; five-second build-up.,"[1.9217329958253186, 40.81279440327986]",,,,,
+E0050,108.0,ACTION,barrier_contact,Barrier,"[60.15067598639805, -62.28675910118936]",A civilian physically tests the boundary; local reactive strike.,,,,"[""P01-04"", ""P01-05""]",,
+E0051,110.0,ACTION,bone_attention,Bone,"[-37.5, 8.8]",Attention changes: human movement along try nearby forest/field edge; lethal response unknown,P06-13,,,,,
+E0052,111.0,ACTION,bone_burst,Bone,"[-37.5, 8.8]",Short burst toward the current human stimulus.,P06-13,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0053,112.0,ACTION,bone_near_hit,Bone,"[-51.0878241130133, -1.682912294304613]",Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.,P06-13,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0054,113.0,ACTION,blood_attack,Blood,"[5.320188990761541, 46.25984487122695]",Deliberate pressure strike toward the perceived concentration.,"[1.9217329958253186, 40.81279440327986]",,,,"[""P09-08"", ""P09-09"", ""P09-10"", ""P09-11""]",
+E0055,114.0,ACTION,stream_response,Blood,"[3.4883348713344993, 61.39062074047666]",Search response: none (coarse cue only).,,Cottage_11,S003,,,
+E0056,115.0,ACTION,barrier_contact,Barrier,"[-52.01417023065732, -1.898078684413139]",A civilian physically tests the boundary; local reactive strike.,,,,"[""P06-13"", ""P06-14""]",,
+E0057,118.0,ACTION,stream_threshold,Blood,"[5.162892126253827, 66.03348535399368]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_11,S003,,,
+E0058,119.0,ACTION,bone_attention,Bone,"[-43.63631927384934, 3.66720487751701]",Attention changes: human movement along withdraw from witnessed lethal boundary,P06-14,,,,,
+E0059,120.0,ACTION,stream_response,Blood,"[6.1526710447921245, 68.29593112535349]",Search response: presence (coarse cue only).,,Cottage_11,S003,,,
+E0060,120.0,ACTION,blood_commit,Blood,"[5.320188990761541, 46.25984487122695]",Commits to visible aid/bleeding; five-second build-up.,"[-1.4274223844262732, 63.02668535803736]",,,,,
+E0061,120.0,ACTION,bone_near_hit,Bone,"[-47.544927142767754, -1.3728490000355817]",Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.,P06-14,,,,,human movement along withdraw from witnessed lethal boundary
+E0062,121.0,ACTION,stream_response,Blood,"[6.647560504061273, 69.4271540110334]",Search response: none (coarse cue only).,,Cottage_11,S003,,,
+E0063,122.0,ACTION,barrier_contact,Barrier,"[56.192150997369936, 15.562388427328264]",A civilian physically tests the boundary; local reactive strike.,,,,"[""P06-09"", ""P06-10""]",,
+E0064,125.0,ACTION,stream_threshold,Blood,"[17.7089199509073, 42.820302882806715]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_01_YardShed,S005,,,
+E0065,125.0,ACTION,blood_attack,Blood,"[5.320188990761541, 46.25984487122695]",Deliberate pressure strike toward the perceived concentration.,"[-1.4274223844262732, 63.02668535803736]",,,,"[""P08-07"", ""P08-08"", ""P08-09"", ""P08-10""]",
+E0066,126.0,ACTION,bone_flush,Bone,"[-38.60644096698863, -0.32238963128046716]","Cuts off the nearer cover with another exact object strike, then allows flight.",P06-14,,,,,person choosing cover / running
+E0067,127.0,ACTION,stream_response,Blood,"[7.287964464667403, 70.89099528457265]",Search response: presence (coarse cue only).,,Cottage_11,S003,,,
+E0068,127.0,ACTION,stream_threshold,Blood,"[13.45617382230707, 30.559926291166512]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Tavern,S004,,,
+E0069,129.0,ACTION,bone_attention,Bone,"[-43.63631927384934, 3.66720487751701]",Attention changes: human movement along surviving child retreats toward familiar cover,P06-14,,,,,
+E0070,130.0,ACTION,bone_burst,Bone,"[-43.63631927384934, 3.66720487751701]",Short burst toward the current human stimulus.,P06-14,,,,,human movement along surviving child retreats toward familiar cover
+E0071,131.0,ACTION,bone_near_hit,Bone,"[-31.157702487172685, 0.5529931760154617]",Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.,P06-14,,,,,human movement along surviving child retreats toward familiar cover
+E0072,132.0,ACTION,stream_response,Blood,"[7.287964464667403, 70.89099528457265]",Search response: none (coarse cue only).,,Cottage_11,S003,,,
+E0073,133.0,ACTION,stream_response,Blood,"[6.954361995448826, 34.111172769723936]",Search response: presence (coarse cue only).,,Tavern,S004,,,
+E0074,133.0,ACTION,blood_move,Blood,"[5.320188990761541, 46.25984487122695]",Slow approach toward physical stream presence.,"[14.529735997044375, 29.973553754699157]",Tavern,,,,
+E0075,134.0,ACTION,blood_commit,Blood,"[6.627061180577005, 45.42642716113979]",Commits to visible dense human activity; five-second build-up.,"[-1.7128745158651528, 38.88585504694161]",,,,,
+E0076,137.0,ACTION,bone_abandon,Bone,"[-35.97229526538397, 1.3731394909888963]","After changing the shelter's decision state, loses interest in the unexposed occupants.",P06-14,,,,,no acquired person at the threatened opening
+E0077,139.0,ACTION,blood_attack,Blood,"[6.627061180577005, 45.42642716113979]",Deliberate pressure strike toward the perceived concentration.,"[-1.7128745158651528, 38.88585504694161]",,,,[],
+E0078,140.0,ACTION,bone_vantage,Bone,"[-35.97229526538397, 1.3731394909888963]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0079,144.0,ACTION,bone_attention,Bone,"[-29.46475013859745, 30.126625485091076]",Attention changes: human movement along try nearby forest/field edge; lethal response unknown,P09-02,,,,,
+E0080,145.0,ACTION,bone_burst,Bone,"[-30.0, 32.0]",Short burst toward the current human stimulus.,P09-02,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0081,146.0,ACTION,blood_commit,Blood,"[6.627061180577005, 45.42642716113979]",Commits to visible dense human activity; five-second build-up.,"[24.149129228611688, 47.4573110685884]",,,,,
+E0082,151.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_01,S006,,,
+E0083,151.0,ACTION,blood_attack,Blood,"[6.627061180577005, 45.42642716113979]",Deliberate pressure strike toward the perceived concentration.,"[24.149129228611688, 47.4573110685884]",,,,[],
+E0084,152.0,ACTION,bone_burst,Bone,"[21.858959545056408, 47.24488974074135]",Short burst toward the current human stimulus.,P09-02,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0085,154.0,ACTION,bone_near_hit,Bone,"[39.04027127702994, 40.319909574323354]",Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.,P09-02,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0086,157.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_13,S007,,,
+E0087,158.0,ACTION,blood_commit,Blood,"[6.627061180577005, 45.42642716113979]",Commits to physical stream presence; five-second build-up.,"[14.529735997044375, 29.973553754699157]",Tavern,,,,
+E0088,160.0,ACTION,bone_burst,Bone,"[34.581459776192524, 41.806180074602494]",Short burst toward the current human stimulus.,P09-02,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0089,162.0,ACTION,bone_flush,Bone,"[53.559952442414826, 29.323277337412687]","Cuts off the nearer cover with another exact object strike, then allows flight.",P09-02,,,,,person choosing cover / running
+E0090,163.0,ACTION,blood_attack,Blood,"[6.627061180577005, 45.42642716113979]",Deliberate pressure strike toward the perceived concentration.,"[6.28189057712183, 34.47847219638517]",Tavern,,,"[""P09-01"", ""P09-06"", ""P09-14""]",
+E0091,164.0,ACTION,stream_response,Blood,"[6.28189057712183, 34.47847219638517]",Search response: none (coarse cue only).,,Tavern,S004,,,
+E0092,164.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_09_YardShed,S008,,,
+E0093,165.0,ACTION,bone_attention,Bone,"[48.03385715967937, 33.572914272256504]",Attention changes: human movement along try nearby forest/field edge; lethal response unknown,P09-12,,,,,
+E0094,166.0,ACTION,stream_threshold,Blood,"[-1.8356974307181173, 52.583371124710325]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_13,S007,,,
+E0095,166.0,ACTION,bone_burst,Bone,"[48.03385715967937, 33.572914272256504]",Short burst toward the current human stimulus.,P09-12,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0096,167.0,ACTION,bone_near_hit,Bone,"[60.4883317152203, 24.786423912069818]",Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for now.,P09-12,,,,,human movement along try nearby forest/field edge; lethal response unknown
+E0097,168.0,ACTION,barrier_contact,Barrier,"[60.4883317152203, 24.786423912069818]",A civilian physically tests the boundary; local reactive strike.,,,,"[""P09-02"", ""P09-03"", ""P09-04"", ""P09-05"", ""P09-07""]",,
+E0098,169.0,ACTION,stream_threshold,Blood,"[22.87512461155772, 38.601091922396556]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_01,S006,,,
+E0099,169.0,ACTION,stream_response,Blood,"[22.87512461155772, 38.601091922396556]",Search response: dense (coarse cue only).,,Cottage_01,S006,,,
+E0100,170.0,ACTION,blood_commit,Blood,"[6.627061180577005, 45.42642716113979]",Commits to physical stream dense; five-second build-up.,"[23.790246566282523, 39.203300536928936]",Cottage_01,,,,
+E0101,172.0,ACTION,resource,Blood,"[-1.2606375620495047, 40.153235738435335]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0102,172.0,ACTION,resource,Blood,"[-1.2606375620495047, 40.153235738435335]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0103,172.0,ACTION,resource,Blood,"[-1.2606375620495047, 40.153235738435335]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0104,172.0,ACTION,resource,Blood,"[-1.2606375620495047, 40.153235738435335]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0105,172.0,ACTION,stream_response,Blood,"[20.27965221380489, 36.893105540212346]",Search response: presence (coarse cue only).,,Cottage_01,S006,,,
+E0106,173.0,ACTION,bone_kill,Bone,"[53.58847497031361, 24.830886253053713]",Precisely kills the acquired person following their movement / protective response.,P09-12,,,,,"human response, not repeated Blood noise"
+E0107,175.0,ACTION,blood_attack,Blood,"[6.627061180577005, 45.42642716113979]",Deliberate pressure strike toward the perceived concentration.,"[20.27965221380489, 36.893105540212346]",Cottage_01,,,"[""P08-17"", ""P08-18"", ""P08-19"", ""P10-04"", ""P10-05"", ""P10-06""]",
+E0108,176.0,ACTION,resource,Blood,"[12.821714332670268, 40.722532791282354]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0109,176.0,ACTION,resource,Blood,"[12.821714332670268, 40.722532791282354]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0110,176.0,ACTION,resource,Blood,"[12.821714332670268, 40.722532791282354]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0111,176.0,ACTION,resource,Blood,"[12.821714332670268, 40.722532791282354]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0112,176.0,ACTION,stream_response,Blood,"[20.27965221380489, 36.893105540212346]",Search response: none (coarse cue only).,,Cottage_01,S006,,,
+E0113,176.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_01_YardShed,S009,,,
+E0114,176.0,ACTION,bone_attention,Bone,"[54.57081237306081, 28.961166605889098]",Attention changes: human movement along withdraw from witnessed lethal boundary,P09-13,,,,,
+E0115,177.0,ACTION,bone_burst,Bone,"[54.57081237306081, 28.961166605889098]",Short burst toward the current human stimulus.,P09-13,,,,,human movement along withdraw from witnessed lethal boundary
+E0116,178.0,ACTION,bone_object_strike,Bone,"[44.80690532143078, 24.887474260390338]",Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.,P09-13,CrookedCottage_YardShed,,,,human movement along withdraw from witnessed lethal boundary
+E0117,179.0,ACTION,stream_threshold,Blood,"[-5.023047371228559, 32.36211609871295]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_09_YardShed,S008,,,
+E0118,184.0,ACTION,bone_flush,Bone,"[42.25210663572448, 23.35282463611601]","Cuts off the nearer cover with another exact object strike, then allows flight.",P09-13,,,,,person choosing cover / running
+E0119,187.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_11,S010,,,
+E0120,187.0,ACTION,bone_vantage,Bone,"[47.18764689794624, 25.88076605286419]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0121,190.0,ACTION,stream_threshold,Blood,"[18.433621381039224, 42.747045226314384]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_01_YardShed,S009,,,
+E0122,197.0,ACTION,bone_vantage,Bone,"[14.0, 53.0]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0123,200.0,ACTION,bone_attention,Bone,"[13.658256936913295, 76.93979342348844]",Attention changes: person watches from an exposed position,P16-02,,,,,
+E0124,202.0,ACTION,stream_threshold,Blood,"[5.079474349856004, 65.84280823213075]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_11,S010,,,
+E0125,203.0,ACTION,recognition,Bone,"[5.006359945813918, 99.2420500677326]",Locally sees the entrance guard; fragmented recognition changes his attention.,P16-02,,,,,
+E0126,203.0,ACTION,bone_burst,Bone,"[5.006359945813918, 99.2420500677326]",Repositions to regain the recognised guard's sightline.,,,,,,guard moved out of sight
+E0127,205.0,ACTION,guard_torment,Bone,"[2.0, 122.0]",Deliberately reveals himself to the guard.,P16-02,,,,,"guard watches, retreats or attempts protection"
+E0128,213.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_12,S011,,,
+E0129,213.0,ACTION,guard_torment,Bone,"[2.0, 122.0]",Precise near-hit damages the guard's equipment.,P16-02,,,,,"guard watches, retreats or attempts protection"
+E0130,219.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Tavern,S012,,,
+E0131,223.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_13,S013,,,
+E0132,223.0,ACTION,guard_protected_person_harmed,Bone,"[2.0, 122.0]",Spares the guard while harming a person within his protective reach.,P12-09,,,,,
+E0133,231.0,ACTION,stream_threshold,Blood,"[-1.7588783458760413, 52.47792574171748]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_13,S013,,,
+E0134,231.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_09_YardShed,S014,,,
+E0135,234.0,ACTION,stream_threshold,Blood,"[14.45079519772749, 30.016670695492575]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Tavern,S012,,,
+E0136,235.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_01,S015,,,
+E0137,235.0,ACTION,guard_torment,Bone,"[2.0, 122.0]",Appears from another angle and lets the guard retreat.,P16-02,,,,,"guard watches, retreats or attempts protection"
+E0138,236.0,ACTION,stream_threshold,Blood,"[25.349223726997856, 36.58939944512206]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_12,S011,,,
+E0139,238.0,ACTION,stream_response,Blood,"[25.987980590289144, 39.259609854330016]",Search response: presence (coarse cue only).,,Cottage_12,S011,,,
+E0140,238.0,ACTION,blood_commit,Blood,"[6.627061180577005, 45.42642716113979]",Commits to physical stream presence; five-second build-up.,"[25.247343695843096, 36.1635079434979]",Cottage_12,,,,
+E0141,243.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_01_YardShed,S016,,,
+E0142,243.0,ACTION,blood_attack,Blood,"[6.627061180577005, 45.42642716113979]",Deliberate pressure strike toward the perceived concentration.,"[26.73205604889141, 42.37008607615638]",Cottage_12,,,"[""P10-13""]",
+E0143,243.0,ACTION,guard_protected_person_harmed,Bone,"[2.0, 122.0]",Spares the guard while harming a person within his protective reach.,P12-09,,,,,
+E0144,245.0,ACTION,stream_threshold,Blood,"[-5.095768598057727, 32.468379298515636]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_09_YardShed,S014,,,
+E0145,250.0,ACTION,blood_commit,Blood,"[6.627061180577005, 45.42642716113979]",Commits to visible aid/bleeding; five-second build-up.,"[15.282598459910467, 46.37836428091478]",,,,,
+E0146,251.0,ACTION,stream_threshold,Blood,"[23.09308528719515, 38.74452394893736]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_01,S015,,,
+E0147,253.0,ACTION,bone_burst,Bone,"[2.9109398242977123, 115.10424457272923]",Repositions to regain the recognised guard's sightline.,,,,,,guard moved out of sight
+E0148,254.0,ACTION,guard_final,Bone,"[6.0, 132.0]","Kills the recognised entrance guard personally after prolonged, consequential torment.",P16-02,,,,,
+E0149,255.0,ACTION,blood_attack,Blood,"[6.627061180577005, 45.42642716113979]",Deliberate pressure strike toward the perceived concentration.,"[15.282598459910467, 46.37836428091478]",,,,"[""P10-13""]",
+E0150,256.0,ACTION,resource,Blood,"[12.705234193207218, 44.39854271402517]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0151,257.0,ACTION,stream_threshold,Blood,"[18.410710544370744, 42.749361206568906]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_01_YardShed,S016,,,
+E0152,259.0,ACTION,bone_vantage,Bone,"[4.349734551203252, 122.97379791036084]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0153,262.0,ACTION,blood_commit,Blood,"[6.627061180577005, 45.42642716113979]",Commits to physical stream presence; five-second build-up.,"[25.247343695843096, 36.1635079434979]",Cottage_12,,,,
+E0154,262.0,ACTION,barrier_contact,Barrier,"[60.831939398436994, 25.3111585964828]",A civilian physically tests the boundary; local reactive strike.,,,,"[""P10-24""]",,
+E0155,263.0,ACTION,bone_attention,Bone,"[13.207163723549913, 92.22406704232132]",Attention changes: visible search stream pulses at threshold; Bone recognises interest,P10-14,,,,,
+E0156,264.0,ACTION,bone_burst,Bone,"[15.0, 86.0]",Short burst toward the current human stimulus.,P10-14,,,,,visible search stream pulses at threshold; Bone recognises interest
+E0157,267.0,ACTION,blood_attack,Blood,"[6.627061180577005, 45.42642716113979]",Deliberate pressure strike toward the perceived concentration.,"[26.73205604889141, 42.37008607615638]",Cottage_12,,,[],
+E0158,269.0,ACTION,bone_object_strike,Bone,"[27.998173433291438, 47.66286649605519]",Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.,P10-14,Cottage_12,,,,visible search stream pulses at threshold; Bone recognises interest
+E0159,274.0,ACTION,blood_commit,Blood,"[6.627061180577005, 45.42642716113979]",Commits to physical stream presence; five-second build-up.,"[25.247343695843096, 36.1635079434979]",Cottage_12,,,,
+E0160,275.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_11,S017,,,
+E0161,275.0,ACTION,bone_abandon,Bone,"[27.843817912192733, 48.11812647929835]","After changing the shelter's decision state, loses interest in the unexposed occupants.",P10-14,,,,,no acquired person at the threatened opening
+E0162,278.0,ACTION,bone_attention,Bone,"[27.843817912192733, 48.11812647929835]",Attention changes: visible search stream pulses at threshold; Bone recognises interest,P10-23,,,,,
+E0163,279.0,ACTION,stream_start,Blood,"[6.627061180577005, 45.42642716113979]",New surface search branch toward an untested nearby access.,,Cottage_02,S018,,,
+E0164,279.0,ACTION,blood_attack,Blood,"[6.627061180577005, 45.42642716113979]",Deliberate pressure strike toward the perceived concentration.,"[26.73205604889141, 42.37008607615638]",Cottage_12,,,[],
+E0165,279.0,ACTION,bone_object_strike,Bone,"[27.998173433291438, 47.66286649605519]",Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.,P10-23,Cottage_12,,,,visible search stream pulses at threshold; Bone recognises interest
+E0166,285.0,ACTION,bone_abandon,Bone,"[27.843817912192733, 48.11812647929835]","After changing the shelter's decision state, loses interest in the unexposed occupants.",P10-23,,,,,no acquired person at the threatened opening
+E0167,286.0,ACTION,blood_move,Blood,"[6.627061180577005, 45.42642716113979]",Flanks the intervening structure after repeated obstructed pressure.,"[25.247343695843096, 36.1635079434979]",Cottage_12,,,,
+E0168,287.0,ACTION,stream_start,Blood,"[7.87540407834858, 44.50765623779531]",New surface search branch toward an untested nearby access.,,Tavern,S019,,,
+E0169,288.0,ACTION,bone_attention,Bone,"[27.843817912192733, 48.11812647929835]",Attention changes: visible search stream pulses at threshold; Bone recognises interest,P10-14,,,,,
+E0170,289.0,ACTION,bone_object_strike,Bone,"[27.998173433291438, 47.66286649605519]",Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.,P10-14,Cottage_12,,,,visible search stream pulses at threshold; Bone recognises interest
+E0171,290.0,ACTION,stream_threshold,Blood,"[5.1486961447625195, 66.00103604870566]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_11,S017,,,
+E0172,291.0,ACTION,stream_start,Blood,"[12.868775669434878, 40.83257254441739]",New surface search branch toward an untested nearby access.,,Cottage_13,S020,,,
+E0173,295.0,ACTION,bone_abandon,Bone,"[27.843817912192733, 48.11812647929835]","After changing the shelter's decision state, loses interest in the unexposed occupants.",P10-14,,,,,no acquired person at the threatened opening
+E0174,298.0,ACTION,bone_attention,Bone,"[27.843817912192733, 48.11812647929835]",Attention changes: visible search stream pulses at threshold; Bone recognises interest,P10-23,,,,,
+E0175,299.0,ACTION,stream_start,Blood,"[19.39725188223239, 30.803664157023483]",New surface search branch toward an untested nearby access.,,Cottage_06,S021,,,
+E0176,299.0,ACTION,bone_object_strike,Bone,"[27.998173433291438, 47.66286649605519]",Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a safe side.,P10-23,Cottage_12,,,,visible search stream pulses at threshold; Bone recognises interest
+E0177,301.0,ACTION,stream_threshold,Blood,"[14.157795802590462, 30.176705020986525]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Tavern,S019,,,
+E0178,303.0,ACTION,blood_commit,Blood,"[24.322850576894428, 32.881900384596285]",Commits to physical stream presence; five-second build-up.,"[25.247343695843096, 36.1635079434979]",Cottage_12,,,,
+E0179,304.0,ACTION,stream_threshold,Blood,"[-16.263723388751885, 62.157344295111756]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_02,S018,,,
+E0180,304.0,ACTION,stream_threshold,Blood,"[-1.327917297418125, 51.88636893128339]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_13,S020,,,
+E0181,305.0,ACTION,stream_response,Blood,"[-15.657145411553158, 60.913030869497575]",Search response: presence (coarse cue only).,,Cottage_02,S018,,,
+E0182,305.0,ACTION,bone_abandon,Bone,"[27.843817912192733, 48.11812647929835]","After changing the shelter's decision state, loses interest in the unexposed occupants.",P10-23,,,,,no acquired person at the threatened opening
+E0183,308.0,ACTION,blood_attack,Blood,"[24.322850576894428, 32.881900384596285]",Deliberate pressure strike toward the perceived concentration.,"[26.73205604889141, 42.37008607615638]",Cottage_12,,,"[""P10-14"", ""P10-23""]",
+E0184,308.0,ACTION,bone_vantage,Bone,"[27.843817912192733, 48.11812647929835]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0185,309.0,ACTION,stream_response,Blood,"[26.73205604889141, 42.37008607615638]",Search response: none (coarse cue only).,,Cottage_12,S011,,,
+E0186,309.0,ACTION,stream_start,Blood,"[24.322850576894428, 32.881900384596285]",New surface search branch toward an untested nearby access.,,Cottage_01,S022,,,
+E0187,314.0,ACTION,mayor_secured,Witch,"[2, 146]",Reaches and secures the Mayor; sixty-second confrontation begins. No survivor-count knowledge.,,,,,,
+E0188,314.0,ACTION,stream_threshold,Blood,"[28.918823105880964, 24.5011443937369]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_06,S021,,,
+E0189,314.0,ACTION,stream_start,Blood,"[24.322850576894428, 32.881900384596285]",New surface search branch toward an untested nearby access.,,OldQuarterStore,S023,,,
+E0190,315.0,ACTION,stream_response,Blood,"[27.33458740767527, 24.488294471445762]",Search response: presence (coarse cue only).,,Cottage_06,S021,,,
+E0191,315.0,ACTION,blood_commit,Blood,"[24.322850576894428, 32.881900384596285]",Commits to physical stream presence; five-second build-up.,"[30.450290173022168, 24.513566303447995]",Cottage_06,,,,
+E0192,316.0,ACTION,stream_response,Blood,"[25.750351709469573, 24.475444549154627]",Search response: none (coarse cue only).,,Cottage_06,S021,,,
+E0193,317.0,ACTION,stream_response,Blood,"[24.515647050656685, 24.465429714281115]",Search response: presence (coarse cue only).,,Cottage_06,S021,,,
+E0194,318.0,ACTION,bone_vantage,Bone,"[38.0, 65.0]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0195,319.0,ACTION,stream_threshold,Blood,"[30.3733113586646, 28.56498983550901]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,OldQuarterStore,S023,,,
+E0196,320.0,ACTION,blood_attack,Blood,"[24.322850576894428, 32.881900384596285]",Deliberate pressure strike toward the perceived concentration.,"[24.515647050656685, 24.465429714281115]",Cottage_06,,,"[""P10-07"", ""P10-08"", ""P10-09"", ""P10-22""]",
+E0197,321.0,ACTION,resource,Blood,"[20.928531116278343, 28.196398337208755]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0198,321.0,ACTION,resource,Blood,"[20.928531116278343, 28.196398337208755]",Physically accessible spilled blood joins controllable mass.,,,,,,
+E0199,321.0,ACTION,stream_response,Blood,"[24.515647050656685, 24.465429714281115]",Search response: none (coarse cue only).,,Cottage_06,S021,,,
+E0200,328.0,ACTION,bone_vantage,Bone,"[-30.0, 32.0]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0201,329.0,ACTION,stream_threshold,Blood,"[22.70566813378767, 38.489578751748034]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_01,S022,,,
+E0202,331.0,ACTION,stream_start,Blood,"[24.322850576894428, 32.881900384596285]",New surface search branch toward an untested nearby access.,,OldQuarterSharedShed,S024,,,
+E0203,338.0,ACTION,bone_vantage,Bone,"[14.0, 53.0]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0204,339.0,ACTION,stream_threshold,Blood,"[32.570991707253924, 23.38101657391268]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,OldQuarterSharedShed,S024,,,
+E0205,339.0,ACTION,stream_response,Blood,"[32.570991707253924, 23.38101657391268]",Search response: dense (coarse cue only).,,OldQuarterSharedShed,S024,,,
+E0206,339.0,ACTION,blood_commit,Blood,"[24.322850576894428, 32.881900384596285]",Commits to physical stream dense; five-second build-up.,"[31.187945612883574, 23.69004364829099]",OldQuarterSharedShed,,,,
+E0207,339.0,ACTION,bone_attention,Bone,"[14.242313013126154, 60.996329433163055]",Attention changes: visible search stream pulses at threshold; Bone recognises interest,P09-03,,,,,
+E0208,343.0,ACTION,stream_start,Blood,"[24.322850576894428, 32.881900384596285]",New surface search branch toward an untested nearby access.,,Cottage_01_YardShed,S025,,,
+E0209,343.0,ACTION,bone_burst,Bone,"[15.0, 86.0]",Short burst toward the current human stimulus.,P09-03,,,,,visible search stream pulses at threshold; Bone recognises interest
+E0210,344.0,ACTION,stream_response,Blood,"[34.5, 22.950000000000003]",Search response: none (coarse cue only).,,OldQuarterSharedShed,S024,,,
+E0211,344.0,ACTION,blood_attack,Blood,"[24.322850576894428, 32.881900384596285]",Deliberate pressure strike toward the perceived concentration.,"[34.5, 22.950000000000003]",OldQuarterSharedShed,,,"[""P08-12"", ""P08-13"", ""P08-14"", ""P08-15"", ""P08-16"", ""P09-03"", ""P09-04"", ""P09-05"", ""P09-07"", ""P09-13""]",
+E0212,347.0,ACTION,stream_start,Blood,"[24.322850576894428, 32.881900384596285]",New surface search branch toward an untested nearby access.,,CrookedCottage,S026,,,
+E0213,353.0,ACTION,bone_vantage,Bone,"[37.13024575072423, 22.14043302995244]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0214,354.0,ACTION,stream_threshold,Blood,"[34.02727119901077, 38.06954079791232]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,CrookedCottage,S026,,,
+E0215,356.0,ACTION,stream_response,Blood,"[35.90198919339178, 35.448571430349546]",Search response: dense (coarse cue only).,,CrookedCottage,S026,,,
+E0216,356.0,ACTION,blood_commit,Blood,"[24.322850576894428, 32.881900384596285]",Commits to physical stream dense; five-second build-up.,"[33.846659797415356, 38.32204648273157]",CrookedCottage,,,,
+E0217,356.0,ACTION,bone_attention,Bone,"[20.84320156661451, 30.281067188871504]",Attention changes: visible search stream pulses at threshold; Bone recognises interest,P10-15,,,,,
+E0218,357.0,ACTION,stream_threshold,Blood,"[18.100702758535192, 42.78069886224396]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_01_YardShed,S025,,,
+E0219,359.0,ACTION,stream_response,Blood,"[37.62248458949683, 33.04321460135457]",Search response: none (coarse cue only).,,CrookedCottage,S026,,,
+E0220,361.0,ACTION,blood_attack,Blood,"[24.322850576894428, 32.881900384596285]",Deliberate pressure strike toward the perceived concentration.,"[37.62248458949683, 33.04321460135457]",CrookedCottage,,,"[""P10-15""]",
+E0221,364.0,ACTION,stream_start,Blood,"[24.322850576894428, 32.881900384596285]",New surface search branch toward an untested nearby access.,,Cottage_12,S027,,,
+E0222,366.0,ACTION,bone_vantage,Bone,"[-37.0, 70.0]",Loses the concealed subject; darts to a different architectural sightline to look for a new human reaction.,,,,,,no acquired human stimulus; attention shifts to an open elevated sightline
+E0223,367.0,ACTION,stream_threshold,Blood,"[25.36899694595939, 36.6720578995809]",Thin blood reaches an estimated threshold; visible infiltration may compromise shelter.,,Cottage_12,S027,,,
+E0224,368.0,ACTION,stream_start,Blood,"[24.322850576894428, 32.881900384596285]",New surface search branch toward an untested nearby access.,,Tavern,S028,,,
+E0225,372.0,ACTION,stream_start,Blood,"[24.322850576894428, 32.881900384596285]",New surface search branch toward an untested nearby access.,,CrookedCottage_YardShed,S029,,,
+E0226,373.923,ACTION,mayor_final,Witch,"[2, 146]",Mayor personally killed by Witch. Primary simulation closes; no later casualties.,,,,,,

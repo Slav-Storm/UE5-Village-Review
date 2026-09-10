@@ -1,0 +1,222 @@
+{
+  "title": "MASSACRE SIMULATION V3 \u2014 INDEPENDENT RE-SIMULATION FROM T+90",
+  "prepared_utc": "2026-09-10T10:01:05.297007+00:00",
+  "maps": 13,
+  "source": "existing metric village map + approved T90 handoff",
+  "ue_modified": false,
+  "verdict": "Failed near-total premise; 57 deaths / 113 survivors.",
+  "files": {
+    "01_v3_full_chronology.png": {
+      "sha256": "eb6b03376a79637e6bdc6c4956b3cb66bea795f615abb03525899119662f9c40",
+      "bytes": 186256
+    },
+    "01_v3_full_chronology.svg": {
+      "sha256": "1afccfe64f98d3abbd317cc96b114dacdce7319909a1677aeeb53e65cce906dd",
+      "bytes": 398863
+    },
+    "02_v3_blood_incidents.png": {
+      "sha256": "4c89f2c0138b5d866f72cb22833672b3a90b9b826f9faf18f656206cbd30b31c",
+      "bytes": 154188
+    },
+    "02_v3_blood_incidents.svg": {
+      "sha256": "4c3fa998c34ab38db53ff4a1af60c80f5f869c08c9c9edadcf9aac8197b7a922",
+      "bytes": 370288
+    },
+    "03_v3_blood_power.png": {
+      "sha256": "891297771ff31cb169ed30a2c7d1a952916322be30a12b9b203d9d290e24969d",
+      "bytes": 149390
+    },
+    "03_v3_blood_power.svg": {
+      "sha256": "b75cf8be671bf2cc387b20f504155d145d25773c302721668f6a4636b2b817ed",
+      "bytes": 391304
+    },
+    "04_v3_search_network.png": {
+      "sha256": "8e3d2beda39029c00ccd83718bc957b5ed863bf1a299cc89f4e9aa11d457cce6",
+      "bytes": 278016
+    },
+    "04_v3_search_network.svg": {
+      "sha256": "e21e5a16fe5879616cecb074f03bc68ad3bfaac0e98f754dcca314f0c4977fda",
+      "bytes": 1499008
+    },
+    "05_v3_bone_incidents.png": {
+      "sha256": "7cc092993133bba9021ece5303cdd27ed68fd2ff1138d5be5790214ee0695431",
+      "bytes": 166502
+    },
+    "05_v3_bone_incidents.svg": {
+      "sha256": "bace2fd94d0f054d9f95e27b42bc9427fbeb577ad914632d5e0bd5470d4fb24e",
+      "bytes": 359085
+    },
+    "06_v3_guard_sequence.png": {
+      "sha256": "44aee56478b9fa827fd7d71683bb94d2f845792ed94c26401858835b41adf8e7",
+      "bytes": 90969
+    },
+    "06_v3_guard_sequence.svg": {
+      "sha256": "bad06a9c84a23b85036371344aadb81539e896c9196b393a6ea03d8086852269",
+      "bytes": 223074
+    },
+    "07_v3_shelter_movement.png": {
+      "sha256": "51b7ac6f3c9db2bc9e72032f7ccc6d6252012a43cb0ba5b0d5173a8b63ece8f9",
+      "bytes": 187307
+    },
+    "07_v3_shelter_movement.svg": {
+      "sha256": "b52d0aa64c95f76c5cecd86828cedf2d2f9156d0b9fddebd3ea033d5b1e2d335",
+      "bytes": 432384
+    },
+    "08_v3_barrier_knowledge.png": {
+      "sha256": "87fae3f9312253292fdcf7b0ded5952a13881a0f4109ad3792815e58ae58b69f",
+      "bytes": 174902
+    },
+    "08_v3_barrier_knowledge.svg": {
+      "sha256": "30243b36754af734512c7580c6b95fa54d070d63124ffef81b6d74fbc3444b97",
+      "bytes": 379195
+    },
+    "09_v3_witch_route.png": {
+      "sha256": "ba841a8b587d7350596ac8078277d8003a4b253eba3d5666db7834a776745290",
+      "bytes": 161596
+    },
+    "09_v3_witch_route.svg": {
+      "sha256": "5cbfbcc802448709fc4b18e36e3ba7aa3f1989d4d9971aac8b29fd276b433a75",
+      "bytes": 349753
+    },
+    "10_v3_mayor_minute.png": {
+      "sha256": "b77e63498da10f4d0b906138fdd89eb2c77dcf97f3a304ce63a64199bb3bc71d",
+      "bytes": 75492
+    },
+    "10_v3_mayor_minute.svg": {
+      "sha256": "811efc8992f25015997871946b10814d7af57387a38209d2eaeedff83b71b6ec",
+      "bytes": 267333
+    },
+    "11_v3_casualty_progression.png": {
+      "sha256": "980b50f927ec3c2ae19bee00550e0babdcc58aaa1d2c6bca682d5501bd0b9210",
+      "bytes": 45892
+    },
+    "11_v3_casualty_progression.svg": {
+      "sha256": "465c0963e7dc8f13d836a0b23749b87c075254e2367598303454f18b75ef8b57",
+      "bytes": 32541
+    },
+    "12_v3_final_aftermath.png": {
+      "sha256": "588776014e2602834406d0249f0e491605725d7eea2a21a6bc07474b1bec1d46",
+      "bytes": 179359
+    },
+    "12_v3_final_aftermath.svg": {
+      "sha256": "306e68194ef9257dc54ca13e11aad58c2508649f23a33c0a85d3b72565b8a111",
+      "bytes": 408640
+    },
+    "13_v3_story_seeds.png": {
+      "sha256": "9b315f969ca099d2593d7748836b5d11f486ffbed69bfb9f293705b124e2317a",
+      "bytes": 176694
+    },
+    "13_v3_story_seeds.svg": {
+      "sha256": "77ce3ef1f47a3d0c32cf37a2b59e5266535055b72c4dd924fe9f2cbb77d9438b",
+      "bytes": 393578
+    },
+    "CLOSURE.json": {
+      "sha256": "e6fbb4a640b9d2bad658f25f743322a9675bd7037468c2a3b408d3fad76e43c5",
+      "bytes": 798
+    },
+    "engine_v3.py": {
+      "sha256": "4d5c9434560513160d5ec1a45b5ff4ec5e9e9aafdbda931f9432f13a7bb2d919",
+      "bytes": 39197
+    },
+    "geometry_v3.py": {
+      "sha256": "8a3b69b833da12f9aead708ec3072163d030d38991199e4660a821d867a336bf",
+      "bytes": 5414
+    },
+    "initial_v3.py": {
+      "sha256": "623af6c4528537dc6c5b3e7b2041c0c5396f9a556752ce614cce57da9d396efc",
+      "bytes": 11787
+    },
+    "MASSACRE_V3_FULL_SIMULATION.md": {
+      "sha256": "a9b6ce7b69eb909d72d0d75a0a574101df1c5977413decbb8b2e8dd6699f7acf",
+      "bytes": 62116
+    },
+    "README.md": {
+      "sha256": "583600352483d4e17234551076208f2de8e3c570f0b7363ca6d2bd7cc791bba3",
+      "bytes": 2292
+    },
+    "render_v3.py": {
+      "sha256": "1e528edd4a2df602ef6523745958b9b7a3f2b6de1e6dac6713184a174f90dbb9",
+      "bytes": 21152
+    },
+    "reproduce_v3.py": {
+      "sha256": "52b55fbb77ac5fb68f98ad1cfa27947c0023884be909b3eb3a0aa9f3b98d6b91",
+      "bytes": 1310
+    },
+    "v3_action_cycles.jsonl": {
+      "sha256": "76a2a2c1eb8832cb5b19c276628145465227b7c6c8d4b007c86763cf25e6271e",
+      "bytes": 100184
+    },
+    "v3_actor_trace.json": {
+      "sha256": "8d34db767ce39e8cb4a9026afac959d01c2670d239a98d98000a2a19a3eea420",
+      "bytes": 57522
+    },
+    "v3_casualties.csv": {
+      "sha256": "d954e385dbceb2507368bff8e0826e6d03068fc9ee0e1cf41f198e2f492eab7a",
+      "bytes": 21922
+    },
+    "v3_door_assumptions.json": {
+      "sha256": "845e9a3d7c9932267428e81772dabc8c24b3d1ef9461c896d6e05386ebfc017a",
+      "bytes": 10381
+    },
+    "v3_events.csv": {
+      "sha256": "8c74139d69511d24a56575fefa8297751cf1f09e125fd12ae7e210f363a484a3",
+      "bytes": 40975
+    },
+    "v3_guard_trace.json": {
+      "sha256": "a5d15be8b1d88f10fa15fe4f4584aed57b4cbb133b392e6269c3108ee88298fc",
+      "bytes": 9784
+    },
+    "v3_initial_state.json": {
+      "sha256": "47d094922d3c37164badcbaa81da7ca340fc5d5635dcbe2cdde35338cc1fa78d",
+      "bytes": 214524
+    },
+    "v3_knowledge.csv": {
+      "sha256": "7584a73f22f688902883987b9202ae387210ec1c02dc5c2324354bc1e6a4055d",
+      "bytes": 75117
+    },
+    "v3_local_knowledge.json": {
+      "sha256": "2e9226a78585f1b3f3314939228ee52a2959b7967918284f2d5d569d6e0c48f0",
+      "bytes": 78616
+    },
+    "v3_metrics.json": {
+      "sha256": "d77a61714efa23da8f74eee4c6d602d996f31adc5f5a1c5ce95685515e87cbee",
+      "bytes": 800
+    },
+    "v3_movements.csv": {
+      "sha256": "6f5a15005560a62217ffac6df4a56a18ed4b5e6b0886c1cda940217b835f1a78",
+      "bytes": 35046
+    },
+    "v3_parameters.json": {
+      "sha256": "b94288d2afdc411553b3ae07f682c7e812a4be98b8db25d80783b1906dbd0229",
+      "bytes": 1645
+    },
+    "v3_pockets.json": {
+      "sha256": "1a630cc061ba70bb6e557b34a1d8240be84c00cb9bf7ec16115e3c70ad5c9073",
+      "bytes": 13232
+    },
+    "v3_provenance.json": {
+      "sha256": "9aa84da17bbd388415d81409641769958e737441d795644cc3c09a351b7c26fa",
+      "bytes": 22514
+    },
+    "v3_reaction_cycles.jsonl": {
+      "sha256": "6840b6bde6d908529e1720f7d95d57035100868e14a94a808c873cb81448c15f",
+      "bytes": 715657
+    },
+    "v3_simulation.json": {
+      "sha256": "4e140cc8aa682004dd8ab1b79602a661b4a2ea46ba5229018dade32cafdbb1f8",
+      "bytes": 2067094
+    },
+    "v3_story_seeds.json": {
+      "sha256": "f825acba785a99c520c652fd8ce3a444469c2e6eb68abd16444f0a35814ad157",
+      "bytes": 32151
+    },
+    "v3_survivors.csv": {
+      "sha256": "bf963366cbdae3350551580c27e58f02fa7bb9195dce38ec559c48f994d3fed7",
+      "bytes": 73344
+    },
+    "v3_validation.json": {
+      "sha256": "a26405b0e7f96137bab4543f00b3301675b888d2899aaf5d5e9b3e0a51f04b5e",
+      "bytes": 1300
+    }
+  }
+}

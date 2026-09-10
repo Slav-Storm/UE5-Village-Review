@@ -1,0 +1,649 @@
+t,person,field,old,new,source,mode
+91.0,P06-13,shelter,,direct: Bone deliberate near-hit,E0011,direct
+91.0,P06-14,shelter,,direct: Bone deliberate near-hit,E0011,direct
+91.0,P06-05,Bone,report: parent warned from yard,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0011,heard
+91.0,P06-06,Bone,report: parent warned from yard,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0011,heard
+91.0,P06-07,Bone,report: parent warned from yard,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0011,heard
+91.0,P06-13,Bone,direct: deliberate near-hit and stalking,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0011,direct
+91.0,P06-14,Bone,direct: deliberate near-hit and stalking,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0011,direct
+91.0,P07-01,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0011,direct
+91.0,P07-02,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0011,direct
+91.0,P07-04,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0011,heard
+91.0,P08-01,Witch,ordinary neighbour; cause unknown,direct: calm neighbour ignores plea; responsibility unknown,local path encounter,direct
+91.0,P08-02,Witch,ordinary neighbour; cause unknown,direct: calm neighbour ignores plea; responsibility unknown,local path encounter,direct
+95.0,P01-04,barrier,0,1,visible perimeter on chosen route,direct
+95.0,P01-05,barrier,0,1,visible perimeter on chosen route,direct
+96.0,P08-07,Blood,direct: struck by first public wave,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-08,Blood,direct: struck by first public wave,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-09,Blood,direct: struck by first public wave,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-10,Blood,direct: struck by first public wave,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-11,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-12,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-13,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-14,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-15,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-16,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-22,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-23,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-24,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-25,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-26,Blood,direct: first public strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P09-08,Blood,direct: civic strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P09-09,Blood,direct: civic strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P09-10,Blood,direct: civic strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P09-11,Blood,direct: civic strike,direct: pressure strike at physical concentration,K012,direct
+96.0,P10-23,Blood,unknown,direct: pressure strike at physical concentration,K012,direct
+96.0,P10-24,Blood,unknown,direct: pressure strike at physical concentration,K012,direct
+96.0,P08-07,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-08,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-09,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-10,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-11,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-12,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-13,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-14,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-15,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P08-16,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P09-09,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P09-10,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P09-11,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K018,direct
+96.0,P09-08,Blood,direct: pressure strike at physical concentration,direct: edge of pressure strike,K019,direct
+96.0,P06-01,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P06-02,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P06-08,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P06-09,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P06-10,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P06-13,Blood,unknown,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P06-14,Blood,unknown,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-01,Blood,heard: public strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-02,Blood,heard: public strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-07,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-08,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-09,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-10,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-11,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-12,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-13,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-14,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-15,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-16,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-17,Blood,heard: crash behind,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P08-18,Blood,heard: crash behind,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P08-19,Blood,heard: crash behind,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P08-20,Blood,direct: first public strike,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-01,Blood,report: porch reports violence; identities unclear,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-02,Blood,report: porch reports violence; identities unclear,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-03,Blood,report: porch reports violence; identities unclear,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-04,Blood,report: porch reports violence; identities unclear,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-05,Blood,report: porch reports violence; identities unclear,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-06,Blood,report: porch reports violence; identities unclear,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-07,Blood,report: porch reports violence; identities unclear,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-08,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P09-09,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P09-10,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P09-11,Blood,direct: edge of pressure strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P09-12,Blood,heard: civic crash,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-13,Blood,heard: civic crash,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P09-14,Blood,heard: civic crash,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-04,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-05,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-06,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-07,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-08,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-09,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-13,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-14,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-15,Blood,heard: civic crash,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-16,Blood,heard: civic crash,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P10-17,Blood,heard: civic crash,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P10-18,Blood,heard: civic crash,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P10-19,Blood,heard: civic crash,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P10-20,Blood,heard: civic crash,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P10-21,Blood,heard: civic crash,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P10-23,Blood,direct: pressure strike at physical concentration,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P10-24,Blood,direct: pressure strike at physical concentration,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P11-01,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P11-02,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P11-09,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P11-10,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P11-13,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P11-14,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P11-15,Blood,heard: civic strike,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P11-16,Blood,heard: civic strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P11-20,Blood,heard: civic strike,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P12-01,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P12-02,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P12-09,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P12-10,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0015,heard
+96.0,P13-01,Blood,heard: destructive crash; visible lower disturbance,direct: Deliberate pressure strike toward the perceived concentration.,E0015,direct
+96.0,P08-12,barrier,0,1,visible perimeter on chosen route,direct
+96.0,P08-13,barrier,0,1,visible perimeter on chosen route,direct
+96.0,P08-14,barrier,0,1,visible perimeter on chosen route,direct
+96.0,P08-15,barrier,0,1,visible perimeter on chosen route,direct
+96.0,P08-16,barrier,0,1,visible perimeter on chosen route,direct
+97.0,P06-13,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0021,direct
+97.0,P06-14,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0021,direct
+97.0,P06-05,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0021,heard
+97.0,P06-06,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0021,heard
+97.0,P06-07,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0021,heard
+97.0,P06-13,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0021,direct
+97.0,P06-14,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0021,direct
+97.0,P07-01,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0021,heard
+97.0,P07-02,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0021,heard
+97.0,P07-04,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0021,heard
+99.0,P06-09,barrier,0,1,visible perimeter on chosen route,direct
+99.0,P06-10,barrier,0,1,visible perimeter on chosen route,direct
+99.0,P06-13,barrier,0,1,visible perimeter on chosen route,direct
+99.0,P06-14,barrier,0,1,visible perimeter on chosen route,direct
+100.0,P01-01,bell,,heard: public emergency,E0027,heard
+100.0,P01-02,bell,,heard: public emergency,E0027,heard
+100.0,P01-03,bell,,heard: public emergency,E0027,heard
+100.0,P01-04,bell,,heard: public emergency,E0027,heard
+100.0,P01-05,bell,,heard: public emergency,E0027,heard
+100.0,P01-06,bell,,heard: public emergency,E0027,heard
+100.0,P02-01,bell,,heard: public emergency,E0027,heard
+100.0,P02-02,bell,,heard: public emergency,E0027,heard
+100.0,P02-03,bell,,heard: public emergency,E0027,heard
+100.0,P02-04,bell,,heard: public emergency,E0027,heard
+100.0,P02-05,bell,,heard: public emergency,E0027,heard
+100.0,P02-06,bell,,heard: public emergency,E0027,heard
+100.0,P03-01,bell,,heard: public emergency,E0027,heard
+100.0,P03-02,bell,,heard: public emergency,E0027,heard
+100.0,P03-03,bell,,heard: public emergency,E0027,heard
+100.0,P03-04,bell,,heard: public emergency,E0027,heard
+100.0,P03-05,bell,,heard: public emergency,E0027,heard
+100.0,P03-06,bell,,heard: public emergency,E0027,heard
+100.0,P03-07,bell,,heard: public emergency,E0027,heard
+100.0,P04-01,bell,,heard: public emergency,E0027,heard
+100.0,P04-02,bell,,heard: public emergency,E0027,heard
+100.0,P04-03,bell,,heard: public emergency,E0027,heard
+100.0,P04-04,bell,,heard: public emergency,E0027,heard
+100.0,P04-05,bell,,heard: public emergency,E0027,heard
+100.0,P04-06,bell,,heard: public emergency,E0027,heard
+100.0,P05-03,bell,,heard: public emergency,E0027,heard
+100.0,P05-04,bell,,heard: public emergency,E0027,heard
+100.0,P05-05,bell,,heard: public emergency,E0027,heard
+100.0,P05-06,bell,,heard: public emergency,E0027,heard
+100.0,P06-01,bell,,heard: public emergency,E0027,heard
+100.0,P06-02,bell,,heard: public emergency,E0027,heard
+100.0,P06-03,bell,,heard: public emergency,E0027,heard
+100.0,P06-04,bell,,heard: public emergency,E0027,heard
+100.0,P06-05,bell,,heard: public emergency,E0027,heard
+100.0,P06-06,bell,,heard: public emergency,E0027,heard
+100.0,P06-07,bell,,heard: public emergency,E0027,heard
+100.0,P06-08,bell,,heard: public emergency,E0027,heard
+100.0,P06-09,bell,,heard: public emergency,E0027,heard
+100.0,P06-10,bell,,heard: public emergency,E0027,heard
+100.0,P06-11,bell,,heard: public emergency,E0027,heard
+100.0,P06-12,bell,,heard: public emergency,E0027,heard
+100.0,P06-13,bell,,heard: public emergency,E0027,heard
+100.0,P06-14,bell,,heard: public emergency,E0027,heard
+100.0,P07-01,bell,,heard: public emergency,E0027,heard
+100.0,P07-02,bell,,heard: public emergency,E0027,heard
+100.0,P07-04,bell,,heard: public emergency,E0027,heard
+100.0,P08-01,bell,,heard: public emergency,E0027,heard
+100.0,P08-02,bell,,heard: public emergency,E0027,heard
+100.0,P08-07,bell,,heard: public emergency,E0027,heard
+100.0,P08-08,bell,,heard: public emergency,E0027,heard
+100.0,P08-09,bell,,heard: public emergency,E0027,heard
+100.0,P08-10,bell,,heard: public emergency,E0027,heard
+100.0,P08-11,bell,,heard: public emergency,E0027,heard
+100.0,P08-12,bell,,heard: public emergency,E0027,heard
+100.0,P08-13,bell,,heard: public emergency,E0027,heard
+100.0,P08-14,bell,,heard: public emergency,E0027,heard
+100.0,P08-15,bell,,heard: public emergency,E0027,heard
+100.0,P08-16,bell,,heard: public emergency,E0027,heard
+100.0,P08-17,bell,,heard: public emergency,E0027,heard
+100.0,P08-18,bell,,heard: public emergency,E0027,heard
+100.0,P08-19,bell,,heard: public emergency,E0027,heard
+100.0,P08-20,bell,,heard: public emergency,E0027,heard
+100.0,P09-01,bell,,heard: public emergency,E0027,heard
+100.0,P09-02,bell,,heard: public emergency,E0027,heard
+100.0,P09-03,bell,,heard: public emergency,E0027,heard
+100.0,P09-04,bell,,heard: public emergency,E0027,heard
+100.0,P09-05,bell,,heard: public emergency,E0027,heard
+100.0,P09-06,bell,,heard: public emergency,E0027,heard
+100.0,P09-07,bell,,heard: public emergency,E0027,heard
+100.0,P09-08,bell,,heard: public emergency,E0027,heard
+100.0,P09-09,bell,,heard: public emergency,E0027,heard
+100.0,P09-10,bell,,heard: public emergency,E0027,heard
+100.0,P09-11,bell,,heard: public emergency,E0027,heard
+100.0,P09-12,bell,,heard: public emergency,E0027,heard
+100.0,P09-13,bell,,heard: public emergency,E0027,heard
+100.0,P09-14,bell,,heard: public emergency,E0027,heard
+100.0,P10-01,bell,,heard: public emergency,E0027,heard
+100.0,P10-02,bell,,heard: public emergency,E0027,heard
+100.0,P10-03,bell,,heard: public emergency,E0027,heard
+100.0,P10-04,bell,,heard: public emergency,E0027,heard
+100.0,P10-05,bell,,heard: public emergency,E0027,heard
+100.0,P10-06,bell,,heard: public emergency,E0027,heard
+100.0,P10-07,bell,,heard: public emergency,E0027,heard
+100.0,P10-08,bell,,heard: public emergency,E0027,heard
+100.0,P10-09,bell,,heard: public emergency,E0027,heard
+100.0,P10-10,bell,,heard: public emergency,E0027,heard
+100.0,P10-11,bell,,heard: public emergency,E0027,heard
+100.0,P10-12,bell,,heard: public emergency,E0027,heard
+100.0,P10-13,bell,,heard: public emergency,E0027,heard
+100.0,P10-14,bell,,heard: public emergency,E0027,heard
+100.0,P10-15,bell,,heard: public emergency,E0027,heard
+100.0,P10-16,bell,,heard: public emergency,E0027,heard
+100.0,P10-17,bell,,heard: public emergency,E0027,heard
+100.0,P10-18,bell,,heard: public emergency,E0027,heard
+100.0,P10-19,bell,,heard: public emergency,E0027,heard
+100.0,P10-20,bell,,heard: public emergency,E0027,heard
+100.0,P10-21,bell,,heard: public emergency,E0027,heard
+100.0,P10-22,bell,,heard: public emergency,E0027,heard
+100.0,P10-23,bell,,heard: public emergency,E0027,heard
+100.0,P10-24,bell,,heard: public emergency,E0027,heard
+100.0,P11-01,bell,,heard: public emergency,E0027,heard
+100.0,P11-02,bell,,heard: public emergency,E0027,heard
+100.0,P11-03,bell,,heard: public emergency,E0027,heard
+100.0,P11-04,bell,,heard: public emergency,E0027,heard
+100.0,P11-05,bell,,heard: public emergency,E0027,heard
+100.0,P11-06,bell,,heard: public emergency,E0027,heard
+100.0,P11-07,bell,,heard: public emergency,E0027,heard
+100.0,P11-08,bell,,heard: public emergency,E0027,heard
+100.0,P11-09,bell,,heard: public emergency,E0027,heard
+100.0,P11-10,bell,,heard: public emergency,E0027,heard
+100.0,P11-11,bell,,heard: public emergency,E0027,heard
+100.0,P11-12,bell,,heard: public emergency,E0027,heard
+100.0,P11-13,bell,,heard: public emergency,E0027,heard
+100.0,P11-14,bell,,heard: public emergency,E0027,heard
+100.0,P11-15,bell,,heard: public emergency,E0027,heard
+100.0,P11-16,bell,,heard: public emergency,E0027,heard
+100.0,P11-17,bell,,heard: public emergency,E0027,heard
+100.0,P11-18,bell,,heard: public emergency,E0027,heard
+100.0,P11-19,bell,,heard: public emergency,E0027,heard
+100.0,P11-20,bell,,heard: public emergency,E0027,heard
+100.0,P11-21,bell,,heard: public emergency,E0027,heard
+100.0,P11-22,bell,,heard: public emergency,E0027,heard
+100.0,P12-01,bell,,heard: public emergency,E0027,heard
+100.0,P12-02,bell,,heard: public emergency,E0027,heard
+100.0,P12-03,bell,,heard: public emergency,E0027,heard
+100.0,P12-04,bell,,heard: public emergency,E0027,heard
+100.0,P12-05,bell,,heard: public emergency,E0027,heard
+100.0,P12-06,bell,,heard: public emergency,E0027,heard
+100.0,P12-07,bell,,heard: public emergency,E0027,heard
+100.0,P12-08,bell,,heard: public emergency,E0027,heard
+100.0,P12-09,bell,,heard: public emergency,E0027,heard
+100.0,P12-10,bell,,heard: public emergency,E0027,heard
+100.0,P12-11,bell,,heard: public emergency,E0027,heard
+100.0,P12-12,bell,,heard: public emergency,E0027,heard
+100.0,P12-13,bell,,heard: public emergency,E0027,heard
+100.0,P12-14,bell,,heard: public emergency,E0027,heard
+100.0,P13-01,bell,,heard: public emergency,E0027,heard
+100.0,P14-01,bell,,heard: public emergency,E0027,heard
+100.0,P14-02,bell,,heard: public emergency,E0027,heard
+100.0,P14-03,bell,,heard: public emergency,E0027,heard
+100.0,P14-04,bell,,heard: public emergency,E0027,heard
+100.0,P14-05,bell,,heard: public emergency,E0027,heard
+100.0,P14-06,bell,,heard: public emergency,E0027,heard
+100.0,P14-07,bell,,heard: public emergency,E0027,heard
+100.0,P15-01,bell,,heard: public emergency,E0027,heard
+100.0,P15-02,bell,,heard: public emergency,E0027,heard
+100.0,P15-03,bell,,heard: public emergency,E0027,heard
+100.0,P16-01,bell,,heard: public emergency,E0027,heard
+100.0,P16-02,bell,,heard: public emergency,E0027,heard
+100.0,P16-03,bell,,heard: public emergency,E0027,heard
+100.0,P16-04,bell,,heard: public emergency,E0027,heard
+100.0,P16-05,bell,,heard: public emergency,E0027,heard
+100.0,P16-06,bell,,heard: public emergency,E0027,heard
+100.0,P16-07,bell,,heard: public emergency,E0027,heard
+100.0,P16-08,bell,,heard: public emergency,E0027,heard
+100.0,P17-01,bell,,heard: public emergency,E0027,heard
+100.0,P17-02,bell,,heard: public emergency,E0027,heard
+101.0,P06-13,shelter,direct: Bone cut off cover,direct: Bone deliberate near-hit,E0030,direct
+101.0,P06-14,shelter,direct: Bone cut off cover,direct: Bone deliberate near-hit,E0030,direct
+101.0,P06-05,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0030,heard
+101.0,P06-06,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0030,heard
+101.0,P06-07,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0030,heard
+101.0,P06-13,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0030,direct
+101.0,P06-14,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0030,direct
+101.0,P07-04,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0030,direct
+104.0,P11-03,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P11-16,report
+104.0,P11-04,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P11-16,report
+107.0,P06-13,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0046,direct
+107.0,P06-14,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0046,direct
+107.0,P06-13,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0046,direct
+107.0,P06-14,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0046,direct
+108.0,P01-05,barrier,1,4,K022,direct
+109.0,P08-11,shelter,,direct: blood_stream,S001-entry,direct
+112.0,P06-13,shelter,direct: Bone cut off cover,direct: Bone deliberate near-hit,E0053,direct
+112.0,P06-14,shelter,direct: Bone cut off cover,direct: Bone deliberate near-hit,E0053,direct
+112.0,P06-13,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0053,direct
+112.0,P06-14,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0053,direct
+112.0,P06-08,Bone,unknown,report: assistant killed,warning from P08-01,report
+112.0,P10-10,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P10-17,report
+112.0,P10-11,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P10-17,report
+112.0,P10-12,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P10-17,report
+112.0,P11-21,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P11-16,report
+112.0,P11-22,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P11-16,report
+113.0,P08-07,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K023,direct
+113.0,P08-08,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K023,direct
+113.0,P08-09,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K023,direct
+113.0,P08-10,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K023,direct
+113.0,P08-20,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K023,direct
+113.0,P09-09,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K023,direct
+113.0,P09-10,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K023,direct
+113.0,P09-11,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K023,direct
+113.0,P06-11,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P06-12,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P08-01,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P08-02,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P08-07,Blood,direct: pressure strike at physical concentration,direct: Deliberate pressure strike toward the perceived concentration.,E0054,direct
+113.0,P08-08,Blood,direct: pressure strike at physical concentration,direct: Deliberate pressure strike toward the perceived concentration.,E0054,direct
+113.0,P08-09,Blood,direct: pressure strike at physical concentration,direct: Deliberate pressure strike toward the perceived concentration.,E0054,direct
+113.0,P08-10,Blood,direct: pressure strike at physical concentration,direct: Deliberate pressure strike toward the perceived concentration.,E0054,direct
+113.0,P08-11,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P08-20,Blood,direct: pressure strike at physical concentration,direct: Deliberate pressure strike toward the perceived concentration.,E0054,direct
+113.0,P10-10,Blood,report: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-11,Blood,report: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-12,Blood,report: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-17,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-18,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-19,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-20,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-21,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-22,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-23,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P10-24,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0054,heard
+113.0,P14-05,Blood,unknown,direct: Deliberate pressure strike toward the perceived concentration.,E0054,direct
+113.0,P14-06,Blood,unknown,direct: Deliberate pressure strike toward the perceived concentration.,E0054,direct
+115.0,P06-14,barrier,1,4,K027,direct
+118.0,P12-09,shelter,,direct: blood_stream,S003,direct
+118.0,P12-10,shelter,,direct: blood_stream,S003,direct
+120.0,P14-01,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P14-05,report
+120.0,P14-02,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P14-05,report
+122.0,P06-10,barrier,1,4,K028,direct
+122.0,P08-12,barrier,1,4,K028,direct
+122.0,P08-13,barrier,1,4,K028,direct
+122.0,P08-14,barrier,1,4,K028,direct
+122.0,P08-15,barrier,1,4,K028,direct
+122.0,P08-16,barrier,1,4,K028,direct
+125.0,P08-08,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K029,direct
+125.0,P08-09,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K029,direct
+125.0,P08-10,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K029,direct
+125.0,P08-20,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0065,heard
+126.0,P06-14,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0066,direct
+126.0,P06-05,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0066,heard
+126.0,P06-06,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0066,heard
+126.0,P06-07,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0066,heard
+126.0,P06-14,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0066,direct
+127.0,P08-20,shelter,,direct: blood_stream,S003-entry,direct
+127.0,P09-01,shelter,,direct: blood_stream,S004,direct
+127.0,P09-02,shelter,,direct: blood_stream,S004,direct
+127.0,P09-03,shelter,,direct: blood_stream,S004,direct
+127.0,P09-04,shelter,,direct: blood_stream,S004,direct
+127.0,P09-05,shelter,,direct: blood_stream,S004,direct
+127.0,P09-06,shelter,,direct: blood_stream,S004,direct
+127.0,P09-07,shelter,,direct: blood_stream,S004,direct
+127.0,P09-12,shelter,,direct: blood_stream,S004,direct
+127.0,P09-13,shelter,,direct: blood_stream,S004,direct
+127.0,P09-14,shelter,,direct: blood_stream,S004,direct
+128.0,P08-12,barrier_report,False,True,warning from P06-10,report
+128.0,P08-13,barrier_report,False,True,warning from P06-10,report
+128.0,P08-14,barrier_report,False,True,warning from P06-10,report
+128.0,P08-15,barrier_report,False,True,warning from P06-10,report
+128.0,P08-16,barrier_report,False,True,warning from P06-10,report
+128.0,P06-10,barrier_report,False,True,warning from P08-12,report
+130.0,P09-02,barrier,0,1,visible perimeter on chosen route,direct
+130.0,P09-03,barrier,0,1,visible perimeter on chosen route,direct
+130.0,P09-04,barrier,0,1,visible perimeter on chosen route,direct
+130.0,P09-05,barrier,0,1,visible perimeter on chosen route,direct
+130.0,P09-07,barrier,0,1,visible perimeter on chosen route,direct
+130.0,P09-12,barrier,0,1,visible perimeter on chosen route,direct
+130.0,P09-13,barrier,0,1,visible perimeter on chosen route,direct
+131.0,P06-14,shelter,direct: Bone cut off cover,direct: Bone deliberate near-hit,E0071,direct
+131.0,P06-05,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0071,heard
+131.0,P06-06,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0071,heard
+131.0,P06-07,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0071,heard
+131.0,P06-14,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0071,direct
+136.0,P01-01,barrier_report,False,True,warning from P01-05,report
+136.0,P01-02,barrier_report,False,True,warning from P01-05,report
+136.0,P01-03,barrier_report,False,True,warning from P01-05,report
+136.0,P06-05,barrier_report,False,True,warning from P06-14,report
+136.0,P06-05,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P06-14,report
+136.0,P06-06,barrier_report,False,True,warning from P06-14,report
+136.0,P06-06,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P06-14,report
+136.0,P06-07,barrier_report,False,True,warning from P06-14,report
+136.0,P06-07,Blood,unknown,report: Deliberate pressure strike toward the perceived concentration.,warning from P06-14,report
+139.0,P06-03,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0077,heard
+139.0,P06-04,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0077,heard
+139.0,P08-20,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0077,direct
+139.0,P10-01,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0077,heard
+139.0,P10-02,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0077,heard
+139.0,P10-03,Blood,unknown,heard: Deliberate pressure strike toward the perceived concentration.,E0077,heard
+139.0,P09-02,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0077,direct
+139.0,P09-03,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0077,direct
+139.0,P09-04,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0077,direct
+139.0,P09-05,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0077,direct
+139.0,P09-07,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0077,direct
+139.0,P09-12,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0077,direct
+139.0,P09-13,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0077,direct
+151.0,P09-02,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0083,heard
+151.0,P09-03,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0083,heard
+151.0,P09-04,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0083,heard
+151.0,P09-05,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0083,heard
+151.0,P09-07,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0083,heard
+151.0,P09-12,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0083,heard
+151.0,P09-13,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0083,heard
+154.0,P09-02,shelter,direct: blood_stream,direct: Bone deliberate near-hit,E0085,direct
+154.0,P09-03,shelter,direct: blood_stream,direct: Bone deliberate near-hit,E0085,direct
+154.0,P09-04,shelter,direct: blood_stream,direct: Bone deliberate near-hit,E0085,direct
+154.0,P09-05,shelter,direct: blood_stream,direct: Bone deliberate near-hit,E0085,direct
+154.0,P09-07,shelter,direct: blood_stream,direct: Bone deliberate near-hit,E0085,direct
+154.0,P10-01,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-02,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-03,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-10,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-11,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-12,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-15,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-16,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-17,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-18,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-19,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-20,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P10-21,Bone,unknown,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,heard
+154.0,P09-02,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,direct
+154.0,P09-03,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,direct
+154.0,P09-04,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,direct
+154.0,P09-05,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,direct
+154.0,P09-07,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,direct
+154.0,P09-12,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,direct
+154.0,P09-13,Bone,unknown,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0085,direct
+162.0,P09-02,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0089,direct
+162.0,P09-03,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0089,direct
+162.0,P09-04,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0089,direct
+162.0,P09-05,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0089,direct
+162.0,P09-07,shelter,direct: Bone deliberate near-hit,direct: Bone cut off cover,E0089,direct
+162.0,P06-10,Bone,unknown,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,heard
+162.0,P08-12,Bone,unknown,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,heard
+162.0,P08-13,Bone,unknown,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,heard
+162.0,P08-14,Bone,unknown,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,heard
+162.0,P08-15,Bone,unknown,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,heard
+162.0,P08-16,Bone,unknown,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,heard
+162.0,P09-02,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,direct
+162.0,P09-03,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,direct
+162.0,P09-04,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,direct
+162.0,P09-05,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,direct
+162.0,P09-07,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,direct
+162.0,P09-12,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,direct
+162.0,P09-13,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0089,direct
+163.0,P09-06,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K033,direct
+163.0,P09-14,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K033,direct
+167.0,P09-12,shelter,direct: blood_stream,direct: Bone deliberate near-hit,E0096,direct
+167.0,P09-13,shelter,direct: blood_stream,direct: Bone deliberate near-hit,E0096,direct
+167.0,P09-02,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0096,direct
+167.0,P09-03,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0096,direct
+167.0,P09-04,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0096,direct
+167.0,P09-05,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0096,direct
+167.0,P09-07,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0096,direct
+167.0,P09-12,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0096,direct
+167.0,P09-13,Bone,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,E0096,direct
+168.0,P09-03,barrier,1,4,K036,direct
+168.0,P09-04,barrier,1,4,K036,direct
+168.0,P09-05,barrier,1,4,K036,direct
+168.0,P09-07,barrier,1,4,K036,direct
+168.0,P09-12,barrier,1,4,K036,direct
+168.0,P09-13,barrier,1,4,K036,direct
+168.0,P09-04,barrier_report,False,True,warning from P09-03,report
+168.0,P09-05,barrier_report,False,True,warning from P09-03,report
+168.0,P09-07,barrier_report,False,True,warning from P09-03,report
+168.0,P09-12,barrier_report,False,True,warning from P09-03,report
+168.0,P09-13,barrier_report,False,True,warning from P09-03,report
+168.0,P09-03,barrier_report,False,True,warning from P09-04,report
+169.0,P08-17,shelter,,direct: blood_stream,S006,direct
+169.0,P08-18,shelter,,direct: blood_stream,S006,direct
+169.0,P08-19,shelter,,direct: blood_stream,S006,direct
+169.0,P10-04,shelter,,direct: blood_stream,S006,direct
+169.0,P10-05,shelter,,direct: blood_stream,S006,direct
+169.0,P10-06,shelter,,direct: blood_stream,S006,direct
+173.0,P09-03,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,direct: precise strike following the civilian's response,K037,direct
+173.0,P09-04,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,direct: precise strike following the civilian's response,K037,direct
+173.0,P09-05,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,direct: precise strike following the civilian's response,K037,direct
+173.0,P09-07,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,direct: precise strike following the civilian's response,K037,direct
+173.0,P09-13,Bone,direct: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,direct: precise strike following the civilian's response,K037,direct
+173.0,P06-10,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Precisely kills the acquired person following their movement / protective response.,E0106,heard
+173.0,P08-12,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Precisely kills the acquired person following their movement / protective response.,E0106,heard
+173.0,P08-13,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Precisely kills the acquired person following their movement / protective response.,E0106,heard
+173.0,P08-14,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Precisely kills the acquired person following their movement / protective response.,E0106,heard
+173.0,P08-15,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Precisely kills the acquired person following their movement / protective response.,E0106,heard
+173.0,P08-16,Bone,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",heard: Precisely kills the acquired person following their movement / protective response.,E0106,heard
+173.0,P09-03,Bone,direct: precise strike following the civilian's response,direct: Precisely kills the acquired person following their movement / protective response.,E0106,direct
+173.0,P09-04,Bone,direct: precise strike following the civilian's response,direct: Precisely kills the acquired person following their movement / protective response.,E0106,direct
+173.0,P09-05,Bone,direct: precise strike following the civilian's response,direct: Precisely kills the acquired person following their movement / protective response.,E0106,direct
+173.0,P09-07,Bone,direct: precise strike following the civilian's response,direct: Precisely kills the acquired person following their movement / protective response.,E0106,direct
+173.0,P09-13,Bone,direct: precise strike following the civilian's response,direct: Precisely kills the acquired person following their movement / protective response.,E0106,direct
+175.0,P08-19,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K038,direct
+175.0,P10-05,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K038,direct
+175.0,P10-06,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K038,direct
+175.0,P10-04,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K039,direct
+178.0,P06-10,shelter,,direct: Bone precision strike at refuge,E0116,direct
+178.0,P08-12,shelter,,direct: Bone precision strike at refuge,E0116,direct
+178.0,P08-13,shelter,,direct: Bone precision strike at refuge,E0116,direct
+178.0,P08-14,shelter,,direct: Bone precision strike at refuge,E0116,direct
+178.0,P08-15,shelter,,direct: Bone precision strike at refuge,E0116,direct
+178.0,P08-16,shelter,,direct: Bone precision strike at refuge,E0116,direct
+178.0,P09-03,shelter,direct: Bone cut off cover,direct: Bone precision strike at refuge,E0116,direct
+178.0,P09-04,shelter,direct: Bone cut off cover,direct: Bone precision strike at refuge,E0116,direct
+178.0,P09-05,shelter,direct: Bone cut off cover,direct: Bone precision strike at refuge,E0116,direct
+178.0,P09-07,shelter,direct: Bone cut off cover,direct: Bone precision strike at refuge,E0116,direct
+178.0,P09-13,shelter,direct: Bone deliberate near-hit,direct: Bone precision strike at refuge,E0116,direct
+178.0,P06-10,Bone,heard: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P08-12,Bone,heard: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P08-13,Bone,heard: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P08-14,Bone,heard: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P08-15,Bone,heard: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P08-16,Bone,heard: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P10-01,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,heard
+178.0,P10-02,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,heard
+178.0,P10-03,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,heard
+178.0,P10-15,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,heard
+178.0,P10-16,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,heard
+178.0,P09-03,Bone,direct: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P09-04,Bone,direct: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P09-05,Bone,direct: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P09-07,Bone,direct: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+178.0,P09-13,Bone,direct: Precisely kills the acquired person following their movement / protective response.,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0116,direct
+184.0,P09-13,shelter,direct: Bone precision strike at refuge,direct: Bone cut off cover,E0118,direct
+184.0,P06-10,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,heard
+184.0,P08-12,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P08-13,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P08-14,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P08-15,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P08-16,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P10-01,Bone,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,heard
+184.0,P10-02,Bone,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,heard
+184.0,P10-03,Bone,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,heard
+184.0,P10-15,Bone,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,heard
+184.0,P10-16,Bone,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"heard: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,heard
+184.0,P09-03,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P09-04,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P09-05,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P09-07,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+184.0,P09-13,Bone,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,"direct: Cuts off the nearer cover with another exact object strike, then allows flight.",E0118,direct
+205.0,P16-02,Bone,unknown,direct: Deliberately reveals himself to the guard.,E0127,direct
+205.0,P12-09,Bone,unknown,direct: Deliberately reveals himself to the guard.,E0127,direct
+213.0,P16-02,Bone,direct: Deliberately reveals himself to the guard.,direct: Precise near-hit damages the guard's equipment.,E0129,direct
+213.0,P12-09,Bone,direct: Deliberately reveals himself to the guard.,direct: Precise near-hit damages the guard's equipment.,E0129,direct
+223.0,P16-02,Bone,direct: Precise near-hit damages the guard's equipment.,direct: precise attack on a person the entrance guard is trying to protect,K044,direct
+223.0,P16-02,Bone,direct: precise attack on a person the entrance guard is trying to protect,direct: Spares the guard while harming a person within his protective reach.,E0132,direct
+223.0,P12-09,Bone,direct: Precise near-hit damages the guard's equipment.,direct: Spares the guard while harming a person within his protective reach.,E0132,direct
+235.0,P16-02,Bone,direct: Spares the guard while harming a person within his protective reach.,direct: Appears from another angle and lets the guard retreat.,E0137,direct
+235.0,P12-09,Bone,direct: Spares the guard while harming a person within his protective reach.,direct: Appears from another angle and lets the guard retreat.,E0137,direct
+236.0,P10-13,shelter,,direct: blood_stream,S011,direct
+236.0,P10-14,shelter,,direct: blood_stream,S011,direct
+236.0,P10-23,shelter,,direct: blood_stream,S011,direct
+236.0,P10-24,shelter,,direct: blood_stream,S011,direct
+239.0,P10-24,barrier,0,1,visible perimeter on chosen route,direct
+243.0,P10-24,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: edge of pressure strike,K045,direct
+243.0,P10-14,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0142,direct
+243.0,P10-23,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0142,direct
+243.0,P10-13,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0142,direct
+243.0,P10-24,Blood,direct: edge of pressure strike,heard: Deliberate pressure strike toward the perceived concentration.,E0142,heard
+243.0,P16-02,Bone,direct: Appears from another angle and lets the guard retreat.,direct: precise attack on a person the entrance guard is trying to protect,K046,direct
+243.0,P16-02,Bone,direct: precise attack on a person the entrance guard is trying to protect,direct: Spares the guard while harming a person within his protective reach.,E0143,direct
+254.0,P16-01,Bone,unknown,"heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",E0148,heard
+254.0,P16-04,Bone,unknown,"heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",E0148,heard
+254.0,P16-05,Bone,unknown,"heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",E0148,heard
+254.0,P16-06,Bone,unknown,"heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",E0148,heard
+254.0,P16-07,Bone,unknown,"heard: Kills the recognised entrance guard personally after prolonged, consequential torment.",E0148,heard
+255.0,P10-14,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0149,heard
+255.0,P10-23,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0149,heard
+267.0,P10-14,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0157,direct
+267.0,P10-23,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: Deliberate pressure strike toward the perceived concentration.,E0157,direct
+269.0,P10-14,shelter,direct: blood_stream,direct: Bone precision strike at refuge,E0158,direct
+269.0,P10-23,shelter,direct: blood_stream,direct: Bone precision strike at refuge,E0158,direct
+269.0,P10-10,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,heard
+269.0,P10-11,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,heard
+269.0,P10-12,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,heard
+269.0,P10-14,Bone,unknown,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,direct
+269.0,P10-17,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,heard
+269.0,P10-18,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,heard
+269.0,P10-19,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,heard
+269.0,P10-20,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,heard
+269.0,P10-21,Bone,heard: Deliberate near-hit at cover / carried object; the acquired person is intentionally spared for ,heard: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,heard
+269.0,P10-23,Bone,unknown,direct: Precise shutter / wall strike near a stream-marked or noisy shelter; occupants cannot locate a ,E0158,direct
+304.0,P11-09,shelter,,direct: blood_stream,S018,direct
+304.0,P11-10,shelter,,direct: blood_stream,S018,direct
+308.0,P10-23,Blood,direct: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K050,direct
+308.0,P08-12,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0183,heard
+308.0,P08-13,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0183,heard
+308.0,P08-14,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0183,heard
+308.0,P08-15,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0183,heard
+308.0,P08-16,Blood,direct: Deliberate pressure strike toward the perceived concentration.,heard: Deliberate pressure strike toward the perceived concentration.,E0183,heard
+314.0,P10-07,shelter,,direct: blood_stream,S021,direct
+314.0,P10-08,shelter,,direct: blood_stream,S021,direct
+314.0,P10-09,shelter,,direct: blood_stream,S021,direct
+314.0,P10-22,shelter,,direct: blood_stream,S021,direct
+320.0,P10-08,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K052,direct
+320.0,P10-22,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K054,direct
+339.0,P08-12,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P08-13,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P08-14,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P08-15,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P08-16,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P09-03,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P09-04,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P09-05,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P09-07,shelter,direct: Bone precision strike at refuge,direct: blood_stream,S024,direct
+339.0,P09-13,shelter,direct: Bone cut off cover,direct: blood_stream,S024,direct
+344.0,P08-13,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+344.0,P08-14,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+344.0,P08-15,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+344.0,P08-16,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+344.0,P09-03,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+344.0,P09-04,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+344.0,P09-05,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+344.0,P09-07,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+344.0,P09-13,Blood,heard: Deliberate pressure strike toward the perceived concentration.,direct: pressure strike at physical concentration,K056,direct
+354.0,P10-01,shelter,,direct: blood_stream,S026,direct
+354.0,P10-02,shelter,,direct: blood_stream,S026,direct
+354.0,P10-03,shelter,,direct: blood_stream,S026,direct
+354.0,P10-15,shelter,,direct: blood_stream,S026,direct
+354.0,P10-16,shelter,,direct: blood_stream,S026,direct
+368.0,P10-01,barrier_report,False,True,warning from P06-10,report
+368.0,P10-02,barrier_report,False,True,warning from P06-10,report
+368.0,P10-03,barrier_report,False,True,warning from P06-10,report
+368.0,P10-16,barrier_report,False,True,warning from P06-10,report

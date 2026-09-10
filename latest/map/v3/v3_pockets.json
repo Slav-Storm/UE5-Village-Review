@@ -1,0 +1,434 @@
+[
+  {
+    "shelter": "NorthBarn",
+    "xy": [
+      11.299987856640945,
+      -55.20000170665566
+    ],
+    "people": [
+      "P01-01",
+      "P01-02",
+      "P01-03",
+      "P01-05"
+    ],
+    "count": 4,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Farmstead_West",
+    "xy": [
+      10.71373756750713,
+      -44.81520992321123
+    ],
+    "people": [
+      "P01-06",
+      "P03-01",
+      "P03-02",
+      "P03-03",
+      "P03-04",
+      "P03-05",
+      "P03-06",
+      "P03-07"
+    ],
+    "count": 8,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "SouthBarn",
+    "xy": [
+      -21.500000000000007,
+      -53.900000000000006
+    ],
+    "people": [
+      "P02-01",
+      "P02-02",
+      "P02-03",
+      "P02-04",
+      "P02-05",
+      "P02-06"
+    ],
+    "count": 6,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Farmstead_South",
+    "xy": [
+      -20.004663250524004,
+      -42.889977263076325
+    ],
+    "people": [
+      "P04-01",
+      "P04-02",
+      "P04-03",
+      "P04-04",
+      "P04-05",
+      "P04-06"
+    ],
+    "count": 6,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "WitchHome",
+    "xy": [
+      -11.000000000000002,
+      -3.0
+    ],
+    "people": [
+      "P05-03",
+      "P05-04",
+      "P05-05",
+      "P05-06"
+    ],
+    "count": 4,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "NeedleHouse",
+    "xy": [
+      2.803019047486295,
+      21.220845540683065
+    ],
+    "people": [
+      "P06-01",
+      "P06-02"
+    ],
+    "count": 2,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "CollapsedCellarCottage",
+    "xy": [
+      15.453649110207552,
+      13.178053791298524
+    ],
+    "people": [
+      "P06-03",
+      "P06-04",
+      "P06-11",
+      "P06-12"
+    ],
+    "count": 4,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Cottage_04",
+    "xy": [
+      -27.418755248485926,
+      5.268819614788562
+    ],
+    "people": [
+      "P06-05",
+      "P06-06",
+      "P06-07",
+      "P06-14"
+    ],
+    "count": 4,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident. The surviving M05 child reached familiar cover after witnessing the parent's boundary death; Bone pressured the encounter but did not complete a human strike on the child."
+  },
+  {
+    "shelter": "Cottage_09",
+    "xy": [
+      -9.624845430574828,
+      26.772424530943187
+    ],
+    "people": [
+      "P06-08",
+      "P08-01",
+      "P08-02"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "CrookedCottage_YardShed",
+    "xy": [
+      40.93139718561748,
+      25.474449905110394
+    ],
+    "people": [
+      "P06-10",
+      "P10-01",
+      "P10-02",
+      "P10-03",
+      "P10-16"
+    ],
+    "count": 5,
+    "reason": "A physical search was assigned but had not reached the threshold by withdrawal/closure. No completed detection or lethal corridor reached these occupants."
+  },
+  {
+    "shelter": "Blacksmith",
+    "xy": [
+      -34.43788572681491,
+      18.562125696674876
+    ],
+    "people": [
+      "P07-01",
+      "P07-02",
+      "P07-04"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "AbandonedCottage",
+    "xy": [
+      -11.770161950686402,
+      71.75979490611692
+    ],
+    "people": [
+      "P08-11",
+      "P12-01",
+      "P12-02"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Cottage_03_YardShed",
+    "xy": [
+      2.3695414283676928,
+      95.73557443669856
+    ],
+    "people": [
+      "P08-20"
+    ],
+    "count": 1,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Cottage_07",
+    "xy": [
+      37.80250029662195,
+      46.73107441796052
+    ],
+    "people": [
+      "P10-10",
+      "P10-11",
+      "P10-12",
+      "P10-17",
+      "P10-18",
+      "P10-19",
+      "P10-20",
+      "P10-21"
+    ],
+    "count": 8,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "CrushedHome",
+    "xy": [
+      -27.88307244680624,
+      61.19427883797796
+    ],
+    "people": [
+      "P11-01",
+      "P11-02",
+      "P11-15"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "RearCottage",
+    "xy": [
+      -45.3496550612422,
+      62.592764474378114
+    ],
+    "people": [
+      "P11-03",
+      "P11-04",
+      "P11-16",
+      "P11-21",
+      "P11-22"
+    ],
+    "count": 5,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "EndRowCottage",
+    "xy": [
+      -48.817499959784996,
+      77.13793811959616
+    ],
+    "people": [
+      "P11-05",
+      "P11-06",
+      "P11-17",
+      "P15-01",
+      "P15-02",
+      "P15-03"
+    ],
+    "count": 6,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "WeaverCottage",
+    "xy": [
+      -41.232134381598044,
+      38.28402912726026
+    ],
+    "people": [
+      "P11-07",
+      "P11-08",
+      "P11-18"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Cottage_02",
+    "xy": [
+      -14.260708779836456,
+      58.04842827233592
+    ],
+    "people": [
+      "P11-09",
+      "P11-10"
+    ],
+    "count": 2,
+    "reason": "A search branch reached the footprint, but did not lead to a lethal executed attack on these occupants. Coarse response, cover, competing cues and the terminal clock left them alive."
+  },
+  {
+    "shelter": "Cottage_05",
+    "xy": [
+      -37.899308185831046,
+      50.76175294041746
+    ],
+    "people": [
+      "P11-11",
+      "P11-12",
+      "P11-19"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Cottage_10",
+    "xy": [
+      -28.70080697669929,
+      47.735625027594516
+    ],
+    "people": [
+      "P11-13",
+      "P11-14",
+      "P11-20"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "UpperCottage",
+    "xy": [
+      -10.564044664642587,
+      91.48448793274292
+    ],
+    "people": [
+      "P12-03",
+      "P12-04",
+      "P12-11",
+      "P12-14",
+      "P16-08"
+    ],
+    "count": 5,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "SealedCellarCottage",
+    "xy": [
+      -42.56494839082513,
+      95.80799058682935
+    ],
+    "people": [
+      "P12-05",
+      "P12-06",
+      "P12-12",
+      "P16-03",
+      "P17-01",
+      "P17-02"
+    ],
+    "count": 6,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Cottage_03",
+    "xy": [
+      1.805349113823439,
+      88.76703122568291
+    ],
+    "people": [
+      "P12-07",
+      "P12-08",
+      "P12-13"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Cottage_11",
+    "xy": [
+      7.287964464667403,
+      70.89099528457265
+    ],
+    "people": [
+      "P12-10"
+    ],
+    "count": 1,
+    "reason": "A search branch reached the footprint, but did not lead to a lethal executed attack on these occupants. Coarse response, cover, competing cues and the terminal clock left them alive."
+  },
+  {
+    "shelter": "Church",
+    "xy": [
+      23.500000000000007,
+      97.65569151098175
+    ],
+    "people": [
+      "P13-01"
+    ],
+    "count": 1,
+    "reason": "The caretaker used the rope at +100 and then sheltered. No physical search branch or acquired Bone attack reached the church before closure; the bell signalled emergency only."
+  },
+  {
+    "shelter": "SplitRoofCottage",
+    "xy": [
+      55.19936134675863,
+      52.90877321473297
+    ],
+    "people": [
+      "P14-01",
+      "P14-02",
+      "P14-05",
+      "P14-06"
+    ],
+    "count": 4,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "Cottage_08",
+    "xy": [
+      50.50795002114778,
+      74.0386999582112
+    ],
+    "people": [
+      "P14-03",
+      "P14-04",
+      "P14-07"
+    ],
+    "count": 3,
+    "reason": "No executed search branch reached this footprint. It lay outside the chosen local search network or was passed over by its limited branch budget. The retained occupants were not exposed by an executed Bone incident."
+  },
+  {
+    "shelter": "MayorHall",
+    "xy": [
+      1.70175531794579,
+      145.99999999999994
+    ],
+    "people": [
+      "P16-04",
+      "P16-05",
+      "P16-06",
+      "P16-07"
+    ],
+    "count": 4,
+    "reason": "House guard and three staff remained inside. The Witch's chosen target was the Mayor. No Blood/Bone attack reached their room before her timed final killing. Their subsequent reactions are unexecuted."
+  }
+]

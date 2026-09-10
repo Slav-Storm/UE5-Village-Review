@@ -1,0 +1,28 @@
+{
+  "original": 170,
+  "alive_t90": 163,
+  "injured_t90": 4,
+  "deaths": 57,
+  "survivors": 113,
+  "injured_survivors": 0,
+  "causes": {
+    "Bone": 6,
+    "Blood": 45,
+    "Barrier": 5,
+    "Witch": 1
+  },
+  "cycles": 35,
+  "arrival": 313.9233248158662,
+  "terminal": 373.9233248158662,
+  "streams": 29,
+  "tested_footprints": 13,
+  "reached_footprints": 12,
+  "splits": 9,
+  "movement_commitments": 148,
+  "search_departures": 15,
+  "barrier_direct_witnesses": 14,
+  "barrier_report_recipients": 22,
+  "final_minute_blood_deaths": 15,
+  "near_total_premise": "FAILED: this parameterisation and decision policy leaves a surviving majority.",
+  "critical_limit": "A failed implementation/parameterisation is not proof that the user's conceptual V3 mechanics cannot work."
+}

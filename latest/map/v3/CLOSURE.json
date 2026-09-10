@@ -1,0 +1,14 @@
+{
+  "branch": "V3",
+  "closed_utc": "2026-09-10T09:41:18.824096+00:00",
+  "end_s": 373.9233248158662,
+  "state_sha256": "4e140cc8aa682004dd8ab1b79602a661b4a2ea46ba5229018dade32cafdbb1f8",
+  "source_boundary": "Approved T0, T1 and Bone completion through T90 only; no V1/V2 simulation records imported.",
+  "code_sha256": {
+    "engine_v3.py": "4d5c9434560513160d5ec1a45b5ff4ec5e9e9aafdbda931f9432f13a7bb2d919",
+    "geometry_v3.py": "8a3b69b833da12f9aead708ec3072163d030d38991199e4660a821d867a336bf",
+    "initial_v3.py": "623af6c4528537dc6c5b3e7b2041c0c5396f9a556752ce614cce57da9d396efc",
+    "inspect_sources_v3.py": "b6c18c2e09719f3f47cc706980f38da1f5591cf2df16ea0d2aede4cb7f11e414"
+  },
+  "initial_state_sha256": "47d094922d3c37164badcbaa81da7ca340fc5d5635dcbe2cdde35338cc1fa78d"
+}

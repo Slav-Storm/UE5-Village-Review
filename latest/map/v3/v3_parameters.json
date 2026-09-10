@@ -1,0 +1,48 @@
+{
+  "branch": "V3 independent from approved T90",
+  "seed": 30910,
+  "blood_walk_m_s": 1.55,
+  "bone_burst_m_s": 8.0,
+  "human_walk_m_s": 1.25,
+  "human_flight_m_s": 2.3,
+  "assisted_injured_m_s": 0.65,
+  "stream_front_m_s": [
+    0.8,
+    1.8
+  ],
+  "stream_radius_m": [
+    24,
+    82
+  ],
+  "stream_slots": [
+    2,
+    9
+  ],
+  "stream_budget_m": [
+    55,
+    430
+  ],
+  "stream_presence_radius_m": 3.2,
+  "stream_idle_withdraw_s": 32,
+  "blood_charge_s": 5,
+  "blood_recovery_s": 7,
+  "blood_attack_range_m": [
+    11,
+    34
+  ],
+  "blood_halfwidth_m": [
+    3.5,
+    10.5
+  ],
+  "blood_carried_resource_cap": 48,
+  "fatal_resource_units": 1.0,
+  "injury_resource_units": 0.22,
+  "resource_note": "Relative accessible-volume bookkeeping; not litres, biological estimates, or a gameplay buff. Each person contributes at most one fatal source; prior injury remainder avoids double counting.",
+  "sensing": "Visible/activity cues or a physically completed search path; indoor headcounts never passed to Blood's decision scoring.",
+  "bone_novelty": "Repeated monster impacts discounted; human fleeing, door movement, protection and visible pulsing stream response retain value.",
+  "witch_road_speed": 1.1,
+  "witch_stair_speed": 0.85,
+  "mayor_confrontation_s": 60,
+  "calibration": "Working physical strengths fixed before running; no casualty/count target in decision code.",
+  "identity_note": "Pre90 sources label cohorts/microgroups, not each resident. Pxx-nn are new stable V3 person-level refinements of those existing counts, not additional villagers or V1/V2 person-ledger imports."
+}
