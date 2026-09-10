@@ -1,0 +1,42 @@
+{
+  "status": "passed consistency checks; narrative premise FAILED",
+  "checked_utc": "2026-09-10T08:29:21.452971+00:00",
+  "population": {
+    "alive": 58,
+    "fatalities": 112,
+    "injured": 0
+  },
+  "source_files_preserved": 131,
+  "V1_and_pre90_files_unchanged": true,
+  "initial_163_with_4_injured": true,
+  "initial_B3_B4_zero": true,
+  "no_post90_V1_inputs": true,
+  "comparison_only_after_V2_terminal": true,
+  "cycles": 157,
+  "events": 63,
+  "civilian_movements": 78,
+  "actor_movements": 34,
+  "resource_conservation": {
+    "generated_units": 112.0,
+    "remaining_units": 86.06226879205637,
+    "carried_units": 25.937731207943635,
+    "error": -7.105427357601002e-15
+  },
+  "all_draws_within_local_control": true,
+  "all_Blood_fatalities_inside_executed_envelopes": true,
+  "all_Bone_fatalities_precise_within_reach": true,
+  "all_barrier_fatalities_at_boundary": true,
+  "guard_recognition_time": 165.94709244649798,
+  "guard_death_time": 213.94709244649798,
+  "guard_encounter_s": 48.0,
+  "witch_arrival": 313.9233248158662,
+  "mayor_final_death": 373.9233248158662,
+  "no_post_terminal_casualties": true,
+  "limitations": [
+    "2D roof projection / symbolic doorway links; no live UE collision, light or acoustics validation.",
+    "Blood proxy units, thresholds, coarse sensory bands and force model are working parameters, not calibrated gameplay balance.",
+    "Unlabelled T0 household members receive within-feature placement refinements; all named/moving pre90 endpoints remain preserved.",
+    "Bone spending late intervals investigating impact sounds is this policy branch, not a unique prediction or proof of all possible attention patterns.",
+    "Fifty-eight survivors constitute a clear failure of the intended near-total narrative. Do not quietly remove them."
+  ]
+}

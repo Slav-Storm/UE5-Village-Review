@@ -1,0 +1,947 @@
+time,recipient_group,category,mode,source,content
+90.0,P06G08,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P08G01,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P08G04,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P08G05,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P08G06,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P08G07,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P08G09,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P08G10,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P09G02,Blood,direct,V2E001,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+90.0,P08G01,Witch,direct,direct proximity,"called to familiar calm woman; ignored, no explanation of responsibility"
+91.91999999999999,P06G04,Blood,reported,P06G08,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+91.91999999999999,P11G05,Blood,reported,P08G06,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+91.91999999999999,P10G02,Blood,reported,P08G08,reported direct first Blood attack
+91.91999999999999,P10G09,Blood,reported,P08G08,reported direct first Blood attack
+91.91999999999999,P09G01,Blood,reported,P09G02,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+92.0,P06G09,Bone,direct,V2E003,"direct deliberate object strike at [-33.199999999999996, 8.5]"
+92.0,P07G01,Bone,direct,V2E003,"direct deliberate object strike at [-33.199999999999996, 8.5]"
+93.5,P05G03,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G02,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G03,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G04,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G05,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G06,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G07,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G08,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P06G09,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P07G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P07G02,Blood,direct,V2E004,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+93.5,P08G01,Blood,direct,V2E004,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+93.5,P08G04,Blood,direct,V2E004,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+93.5,P08G05,Blood,direct,V2E004,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+93.5,P08G06,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P08G07,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P08G08,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P08G09,Blood,direct,V2E004,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+93.5,P08G10,Blood,direct,V2E004,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+93.5,P09G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P09G02,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P09G03,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G02,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G03,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G04,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G05,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G06,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G07,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G08,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P10G09,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G02,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G03,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G04,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G05,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G06,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G07,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G08,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G09,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G10,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P11G11,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P12G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P12G02,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P12G03,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P12G04,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P12G05,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P12G06,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P12G07,Blood,direct,V2E004,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+93.5,P12G08,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P13G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P14G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P14G02,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P14G03,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P14G04,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P15G01,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P16G02,sound,heard,V2E004,heavy crash / screams; cause and exact victims not visible
+93.5,P12G05,Blood,reported,P12G07,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+93.91999999999999,P01G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P01G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P01G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P02G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P02G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P02G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P02G04,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P03G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P03G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P04G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P04G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P04G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P05G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G04,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G05,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G06,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G07,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G08,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P06G09,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P07G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P07G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P08G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P08G04,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P08G05,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P08G06,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P08G07,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P08G08,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P08G09,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P08G10,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P09G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P09G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P09G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G04,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G05,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G06,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G07,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G08,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P10G09,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G04,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G05,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G06,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G07,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G08,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G09,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G10,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P11G11,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P12G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P12G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P12G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P12G04,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P12G05,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P12G06,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P12G07,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P12G08,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P13G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P14G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P14G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P14G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P14G04,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P15G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P16G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P16G02,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P16G03,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P16G04,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P16G05,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P16G06,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+93.91999999999999,P17G01,sound,heard,V2E005,"public emergency bell; no attacker, location, barrier rule or safe-route information"
+95.63175360702274,P06G09,Bone,direct,V2E006,"direct observation / stalking at [-43.97084452843231, 17.20380027586915]"
+95.63175360702274,P07G01,Bone,direct,V2E006,"direct observation / stalking at [-43.97084452843231, 17.20380027586915]"
+97.00655476328204,P11G07,Blood,reported,P08G01,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+97.00655476328204,P11G07,Bone,reported,P08G01,reported direct precision attacker witness
+98.54466076292678,P14G03,barrier,direct,V2E007,direct reactive strike at boundary
+98.54466076292678,P14G03,deaths,direct,V2E007,P14G03:01
+100.5,P08G04,Blood,direct,V2E008,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+100.5,P08G05,Blood,direct,V2E008,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+100.5,P08G09,Blood,direct,V2E008,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+100.5,P08G10,Blood,direct,V2E008,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+100.5,P09G03,Blood,direct,V2E008,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+100.5,P10G09,Blood,direct,V2E008,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+101.15876519011924,P11G01,Blood,reported,P08G10,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+101.15876519011924,P11G08,Blood,reported,P08G10,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+103.38072774289539,P06G09,Bone,direct,V2E009,"direct deliberate object strike at [-33.199999999999996, 8.5]"
+103.38072774289539,P07G02,Bone,direct,V2E009,"direct deliberate object strike at [-33.199999999999996, 8.5]"
+103.925419684013,P06G03,Blood,reported,P07G02,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+103.925419684013,P06G03,Bone,reported,P07G02,"reported direct deliberate object strike at [-33.199999999999996, 8.5]"
+103.925419684013,P06G07,Blood,reported,P07G02,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+103.925419684013,P06G07,Bone,reported,P07G02,"reported direct deliberate object strike at [-33.199999999999996, 8.5]"
+103.925419684013,P11G06,Blood,reported,P08G01,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+103.925419684013,P11G06,Bone,reported,P08G01,reported direct precision attacker witness
+104.0,P06G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P06G02,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P06G03,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P06G04,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P06G05,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P06G06,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P06G07,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P06G08,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P06G09,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P07G01,Blood,direct,V2E010,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+104.0,P07G02,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P08G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P08G06,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P08G07,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P08G08,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P08G09,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P08G10,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P09G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P09G02,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P09G03,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G02,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G03,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G04,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G05,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G06,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G07,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G08,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P10G09,Blood,direct,V2E010,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+104.0,P10G09,deaths,direct,V2E010,"P08G05:01,P08G05:02"
+104.0,P11G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G02,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G03,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G04,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G05,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G06,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G07,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G08,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G09,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G10,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P11G11,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P12G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P12G02,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P12G03,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P12G04,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P12G05,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P12G06,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P12G07,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P12G08,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P13G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P14G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P14G02,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P14G03,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P14G04,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P15G01,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.0,P16G02,sound,heard,V2E010,heavy crash / screams; cause and exact victims not visible
+104.07346794503758,P06G09,Blood,reported,P07G02,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+104.5445881153517,P11G11,Blood,reported,P08G09,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+109.80494150079625,P01G02,barrier,direct,V2E011,direct reactive strike at boundary
+109.80494150079625,P01G02,deaths,direct,V2E011,P01G02:01
+109.96225323581285,P15G01,barrier,direct,V2E012,direct reactive strike at boundary
+109.96225323581285,P15G01,deaths,direct,V2E012,P15G01:01
+110.85683340942796,P02G01,barrier,direct,V2E013,direct reactive strike at boundary
+110.85683340942796,P02G01,deaths,direct,V2E013,P02G01:01
+114.24662303387844,P11G04,Blood,reported,P07G01,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+114.24662303387844,P11G04,Bone,reported,P07G01,"reported direct observation / stalking at [-43.97084452843231, 17.20380027586915]"
+114.5,P06G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P06G02,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P06G03,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P06G04,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P06G05,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P06G06,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P06G07,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P06G08,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P06G09,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P07G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P07G02,Blood,direct,V2E015,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+114.5,P08G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P08G06,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P08G07,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P08G08,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P08G09,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P08G10,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P09G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P09G02,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P09G03,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G02,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G03,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G04,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G05,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G06,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G07,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G08,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P10G09,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G02,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G03,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G04,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G05,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G06,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G07,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G08,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G09,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G10,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P11G11,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P12G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P12G02,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P12G03,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P12G04,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P12G05,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P12G06,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P12G07,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P12G08,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P13G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P14G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P14G02,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P14G03,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P14G04,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P15G01,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+114.5,P16G02,sound,heard,V2E015,heavy crash / screams; cause and exact victims not visible
+115.0,P06G09,Bone,direct,V2E016,"direct precise attack at [-34.3, 9.2]"
+115.0,P06G09,deaths,direct,V2E016,P06G09:01
+116.98862725737155,P14G02,barrier,reported,P14G03,reported lethal reactive boundary; not personally witnessed
+118.23074788213623,P11G02,Blood,reported,P08G10,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+118.23074788213623,P11G10,Blood,reported,P08G10,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+121.5,P12G05,Blood,direct,V2E017,"direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+122.55029803516238,P12G08,Blood,reported,P08G09,"reported direct visible windup at [-2.2088023688951393, 44.52432308637402]"
+125.0,P06G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P06G02,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P06G03,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P06G04,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P06G05,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P06G06,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P06G07,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P06G08,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P06G09,Blood,direct,V2E018,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+125.0,P07G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P07G02,Blood,direct,V2E018,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+125.0,P08G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P08G06,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P08G07,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P08G08,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P08G09,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P08G10,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G02,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G03,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G04,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G05,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G06,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G07,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G08,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P10G09,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G02,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G03,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G04,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G05,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G06,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G07,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G08,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G09,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G10,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P11G11,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P12G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P12G02,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P12G03,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P12G04,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P12G05,Blood,direct,V2E018,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+125.0,P12G06,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P12G07,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P12G08,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P13G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P14G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P14G02,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P14G03,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P14G04,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P15G01,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+125.0,P16G02,sound,heard,V2E018,heavy crash / screams; cause and exact victims not visible
+128.61917469007383,P06G09,Bone,direct,V2E019,"direct deliberate object strike at [-24.113804467641327, 13.888641008453332]"
+128.61917469007383,P07G02,Bone,direct,V2E019,"direct deliberate object strike at [-24.113804467641327, 13.888641008453332]"
+129.15397041461,P08G10,barrier,reported,P15G01,reported lethal reactive boundary; not personally witnessed
+129.15397041461,P11G02,barrier,reported,P15G01,reported lethal reactive boundary; not personally witnessed
+129.15397041461,P11G10,barrier,reported,P15G01,reported lethal reactive boundary; not personally witnessed
+132.0,P10G03,Witch,direct,direct proximity,"called to familiar calm woman; ignored, no explanation of responsibility"
+132.0,P10G08,Witch,direct,direct proximity,"called to familiar calm woman; ignored, no explanation of responsibility"
+135.5,P01G02,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G02,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G03,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G04,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G05,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G06,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G07,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G08,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P06G09,Blood,direct,V2E023,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+135.5,P07G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P07G02,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P08G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P08G08,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P08G09,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P08G10,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P10G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P10G02,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P10G03,Blood,direct,V2E023,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+135.5,P10G04,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P10G05,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P10G06,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P10G07,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P10G08,Blood,direct,V2E023,"direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+135.5,P10G09,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G02,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G03,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G04,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G06,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G07,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G08,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G09,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G10,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P11G11,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P12G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P12G02,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P12G03,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P12G04,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P12G05,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P12G06,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P12G07,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P12G08,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P13G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P14G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P14G02,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P14G03,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P14G04,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P15G01,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+135.5,P16G02,sound,heard,V2E023,heavy crash / screams; cause and exact victims not visible
+141.55845930690876,P06G04,Bone,direct,V2E024,"direct observation / stalking at [-13.283416135315603, 29.93757738884499]"
+141.55845930690876,P06G08,Bone,direct,V2E024,"direct observation / stalking at [-13.283416135315603, 29.93757738884499]"
+145.04328979034358,P01G01,barrier,reported,P01G02,reported lethal reactive boundary; not personally witnessed
+145.04328979034358,P01G03,barrier,reported,P01G02,reported lethal reactive boundary; not personally witnessed
+145.04328979034358,P03G01,barrier,reported,P01G02,reported lethal reactive boundary; not personally witnessed
+145.04328979034358,P03G02,barrier,reported,P01G02,reported lethal reactive boundary; not personally witnessed
+145.60542005357166,P02G02,barrier,reported,P02G01,reported lethal reactive boundary; not personally witnessed
+145.60542005357166,P02G03,barrier,reported,P02G01,reported lethal reactive boundary; not personally witnessed
+145.60542005357166,P02G04,barrier,reported,P02G01,reported lethal reactive boundary; not personally witnessed
+145.60542005357166,P04G01,barrier,reported,P02G01,reported lethal reactive boundary; not personally witnessed
+145.60542005357166,P04G02,barrier,reported,P02G01,reported lethal reactive boundary; not personally witnessed
+145.60542005357166,P04G03,barrier,reported,P02G01,reported lethal reactive boundary; not personally witnessed
+146.0,P06G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P06G02,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P06G03,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P06G05,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P06G06,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P06G07,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P06G09,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P07G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P07G02,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P08G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P08G08,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P08G09,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P08G10,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G02,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G03,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G04,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G05,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G06,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G07,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G08,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P10G09,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G02,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G03,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G04,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G06,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G07,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G08,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G09,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G10,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P11G11,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P12G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P12G02,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P12G03,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P12G04,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P12G05,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P12G06,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P12G07,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P12G08,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P13G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P14G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P14G02,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P14G03,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P14G04,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P15G01,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+146.0,P16G02,sound,heard,V2E026,heavy crash / screams; cause and exact victims not visible
+156.17532233999157,P12G02,Blood,reported,P10G03,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+156.17532233999157,P12G06,Blood,reported,P10G03,"reported direct blood strike at [-2.2088023688951393, 44.52432308637402]"
+156.5,P06G02,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P06G03,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P06G06,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P06G07,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P06G09,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P07G01,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P07G02,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P08G01,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P08G08,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P08G09,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P08G10,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G01,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G02,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G03,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G04,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G05,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G06,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G07,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G08,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P10G09,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G01,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G02,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G03,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G04,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G06,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G07,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G08,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G09,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G10,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P11G11,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P12G01,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P12G02,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P12G03,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P12G04,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P12G05,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P12G06,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P12G07,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P12G08,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P13G01,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P14G01,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P14G02,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P14G03,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P14G04,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P15G01,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+156.5,P16G02,sound,heard,V2E028,heavy crash / screams; cause and exact victims not visible
+157.1999407340808,P05G03,barrier,direct,V2E029,direct reactive strike at boundary
+157.1999407340808,P05G03,deaths,direct,V2E029,P05G03:01
+165.94709244649798,P11G11,Bone,direct,V2E031,"direct guard recognition at [23.5, 84.4]"
+165.94709244649798,P13G01,Bone,direct,V2E031,"direct guard recognition at [23.5, 84.4]"
+165.94709244649798,P16G02,Bone,direct,V2E031,"direct guard recognition at [23.5, 84.4]"
+167.0,P06G02,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P06G03,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P06G06,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P06G07,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P06G09,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P07G01,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P07G02,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P08G01,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P08G09,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P08G10,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P10G01,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P10G03,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P10G04,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P10G06,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P10G07,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P10G08,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P10G09,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G01,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G02,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G03,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G04,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G06,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G07,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G08,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G09,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G10,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P11G11,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P12G01,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P12G02,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P12G03,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P12G04,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P12G05,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P12G06,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P12G07,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P12G08,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P13G01,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P14G01,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P14G02,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P14G03,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P14G04,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P15G01,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P16G02,sound,heard,V2E032,heavy crash / screams; cause and exact victims not visible
+167.0,P16G02,Blood,reported,P13G01,reported direct first Blood attack
+178.00581064068638,P13G01,Bone,direct,V2E034,"direct guard torment at [6.088262961032423, 97.54894588180716]"
+178.00581064068638,P16G02,Bone,direct,V2E034,"direct guard torment at [6.088262961032423, 97.54894588180716]"
+179.54736153835947,P06G02,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P06G03,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P06G06,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P06G07,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P06G09,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P07G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P08G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P08G09,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P08G10,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P10G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P10G03,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P10G04,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P10G06,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P10G07,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P10G08,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P10G09,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G02,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G03,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G04,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G06,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G08,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G09,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G10,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P11G11,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P12G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P12G02,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P12G03,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P12G04,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P12G05,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P12G06,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P12G07,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P12G08,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P13G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P14G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P14G02,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P14G03,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P14G04,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P15G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P16G02,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P16G03,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P16G06,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+179.54736153835947,P17G01,sound,heard,V2E035,heavy crash / screams; cause and exact victims not visible
+183.5705951813561,P11G11,Bone,direct,V2E036,"direct guard torment at [-3.505274531027556, 99.90543011171845]"
+183.5705951813561,P16G02,Bone,direct,V2E036,"direct guard torment at [-3.505274531027556, 99.90543011171845]"
+183.5705951813561,P16G03,Bone,direct,V2E036,"direct guard torment at [-3.505274531027556, 99.90543011171845]"
+183.5705951813561,P16G06,Bone,direct,V2E036,"direct guard torment at [-3.505274531027556, 99.90543011171845]"
+183.5705951813561,P17G01,Bone,direct,V2E036,"direct guard torment at [-3.505274531027556, 99.90543011171845]"
+188.94709244649798,P16G04,Bone,reported,P16G06,"reported direct guard torment at [-3.505274531027556, 99.90543011171845]"
+190.5024691980033,P16G02,Bone,direct,V2E038,"direct guard torment at [-4, 100]"
+190.5024691980033,P16G03,Bone,direct,V2E038,"direct guard torment at [-4, 100]"
+192.45155896823738,P06G02,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P06G03,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P06G06,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P06G07,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P06G09,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P07G01,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P08G01,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P08G09,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P08G10,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P10G01,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P10G03,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P10G04,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P10G06,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P10G07,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P10G08,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P10G09,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G01,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G02,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G03,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G04,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G06,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G08,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G09,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G10,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P11G11,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P12G02,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P12G03,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P12G04,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P12G05,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P12G06,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P12G07,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P12G08,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P13G01,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P14G01,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P14G02,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P14G03,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P14G04,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P15G01,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+192.45155896823738,P16G02,sound,heard,V2E039,heavy crash / screams; cause and exact victims not visible
+196.1464717353915,P10G03,Bone,reported,P13G01,"reported direct guard torment at [6.088262961032423, 97.54894588180716]"
+196.1464717353915,P10G08,Bone,reported,P13G01,"reported direct guard torment at [6.088262961032423, 97.54894588180716]"
+196.1464717353915,P10G09,Bone,reported,P13G01,"reported direct guard torment at [6.088262961032423, 97.54894588180716]"
+196.1464717353915,P11G09,Blood,reported,P13G01,reported direct first Blood attack
+196.1464717353915,P11G09,Bone,reported,P13G01,"reported direct guard torment at [6.088262961032423, 97.54894588180716]"
+196.1464717353915,P12G02,Bone,reported,P13G01,"reported direct guard torment at [6.088262961032423, 97.54894588180716]"
+196.1464717353915,P12G06,Bone,reported,P13G01,"reported direct guard torment at [6.088262961032423, 97.54894588180716]"
+196.94709244649798,P16G02,Bone,direct,V2E040,"direct guard torment at [-4, 100]"
+197.08333121534196,P16G01,Bone,reported,P16G06,"reported direct guard torment at [-3.505274531027556, 99.90543011171845]"
+197.08333121534196,P16G05,Bone,reported,P16G06,"reported direct guard torment at [-3.505274531027556, 99.90543011171845]"
+202.95155896823738,P06G02,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P06G03,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P06G06,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P06G07,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P06G09,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P07G01,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P08G01,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P08G09,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P08G10,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P10G01,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P10G03,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P10G04,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P10G06,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P10G07,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P10G08,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P10G09,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P11G02,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P11G03,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P11G04,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P11G06,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P11G09,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P11G10,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P11G11,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P12G02,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P12G03,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P12G04,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P12G05,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P12G06,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P12G07,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P12G08,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P13G01,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P14G01,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P14G02,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P14G03,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P14G04,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P15G01,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+202.95155896823738,P16G02,sound,heard,V2E042,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P06G02,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P06G03,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P06G06,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P06G07,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P06G09,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P07G01,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P08G01,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P08G09,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P08G10,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P10G01,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P10G03,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P10G04,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P10G06,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P10G07,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P10G08,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P10G09,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P11G02,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P11G03,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P11G04,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P11G06,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P11G09,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P11G10,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P11G11,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P12G02,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P12G03,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P12G04,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P12G06,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P12G08,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P13G01,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P14G01,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P14G02,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P14G03,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P14G04,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P15G01,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+213.45155896823738,P16G02,sound,heard,V2E044,heavy crash / screams; cause and exact victims not visible
+223.58319810665552,P02G01,Bone,reported,P05G03,reported direct precision attacker witness
+223.58319810665552,P02G02,Bone,reported,P05G03,reported direct precision attacker witness
+223.58319810665552,P02G03,Bone,reported,P05G03,reported direct precision attacker witness
+223.58319810665552,P02G04,Bone,reported,P05G03,reported direct precision attacker witness
+223.58319810665552,P04G01,Bone,reported,P05G03,reported direct precision attacker witness
+223.58319810665552,P04G02,Bone,reported,P05G03,reported direct precision attacker witness
+223.58319810665552,P04G03,Bone,reported,P05G03,reported direct precision attacker witness
+229.15603324227774,P06G02,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P06G03,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P06G06,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P06G07,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P06G09,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P07G01,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P08G09,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P08G10,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P10G01,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P10G03,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P10G04,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P10G06,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P10G07,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P10G08,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P10G09,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P11G02,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P11G03,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P11G04,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P11G09,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P11G10,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P11G11,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P12G02,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P12G03,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P12G04,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P12G06,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P12G08,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P13G01,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P14G01,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P14G02,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P14G03,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P14G04,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+229.15603324227774,P15G01,sound,heard,V2E047,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P06G02,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P06G03,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P06G06,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P06G07,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P06G09,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P08G09,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P08G10,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P10G01,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P10G03,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P10G04,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P10G06,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P10G07,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P10G08,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P10G09,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P11G02,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P11G03,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P11G09,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P11G10,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P11G11,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P12G02,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P12G03,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P12G04,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P12G06,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P12G08,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P13G01,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P14G01,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P14G02,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P14G03,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P14G04,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+243.8531872062193,P15G01,sound,heard,V2E049,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P06G02,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P06G03,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P06G06,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P06G07,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P06G09,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P08G09,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P10G01,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P10G03,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P10G04,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P10G06,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P10G07,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P10G08,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P10G09,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P11G03,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P11G09,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P11G11,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P12G02,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P12G03,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P12G04,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P12G06,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P12G08,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P13G01,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P14G01,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P14G02,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P14G03,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+258.5379272636854,P14G04,sound,heard,V2E051,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P06G02,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P06G03,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P06G06,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P06G07,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P06G09,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P08G09,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P10G01,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P10G03,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P10G04,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P10G06,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P10G07,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P10G08,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P10G09,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P11G09,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P11G11,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P12G02,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P12G03,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P12G04,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P12G06,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P12G08,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+276.8248737730833,P13G01,sound,heard,V2E053,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P06G02,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P06G03,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P06G06,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P06G07,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P06G09,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P08G09,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P10G01,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P10G03,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P10G04,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P10G06,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P10G07,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P10G08,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P10G09,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P11G09,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P11G11,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P12G02,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P12G04,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P12G06,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P12G08,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P13G01,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P14G02,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P14G03,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P16G01,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P16G03,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P16G04,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P16G05,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P16G06,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+296.3248737730833,P17G01,sound,heard,V2E055,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P06G02,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P06G03,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P06G06,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P06G07,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P06G09,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P10G01,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P10G03,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P10G04,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P10G06,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P10G07,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P10G08,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P10G09,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P11G09,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P11G11,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P12G02,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P12G06,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P13G01,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P14G02,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P14G03,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P16G01,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P16G03,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P16G04,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P16G05,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P16G06,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+312.06143128813426,P17G01,sound,heard,V2E057,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P06G02,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P06G03,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P06G06,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P06G07,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P06G09,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P10G01,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P10G04,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P10G06,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P10G07,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P14G01,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P14G02,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P14G03,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P14G04,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P16G01,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P16G03,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P16G04,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P16G05,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P16G06,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+343.0398812696686,P17G01,sound,heard,V2E060,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P06G02,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P06G06,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P10G01,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P10G04,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P10G06,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P10G07,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P14G01,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P14G04,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P16G01,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P16G03,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P16G04,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P16G05,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P16G06,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+368.07626054684533,P17G01,sound,heard,V2E062,heavy crash / screams; cause and exact victims not visible
+373.9233248158662,P16G03,deaths,direct,V2E063,P16G01:01
+373.9233248158662,P16G04,deaths,direct,V2E063,P16G01:01
+373.9233248158662,P16G05,deaths,direct,V2E063,P16G01:01
+373.9233248158662,P16G06,deaths,direct,V2E063,P16G01:01
+373.9233248158662,P17G01,deaths,direct,V2E063,P16G01:01

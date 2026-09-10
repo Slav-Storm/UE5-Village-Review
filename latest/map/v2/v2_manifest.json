@@ -1,0 +1,249 @@
+{
+  "title": "MASSACRE SIMULATION V2 \u2014 RE-SIMULATED FROM T+90",
+  "prepared_utc": "2026-09-10T08:50:24.981064+00:00",
+  "terminal_s": 373.9233248158662,
+  "fatalities": 112,
+  "survivors": 58,
+  "injured_survivors": 0,
+  "verdict": "NARRATIVE / RULE FAILURE: near-total premise not achieved",
+  "no_UE_changes": true,
+  "files": {
+    "01_v2_full_chronology.png": {
+      "bytes": 386795,
+      "sha256": "0a47797aa9cfacb2378c549702494ead2bc8cb7944094eff45681520ce2ee4b8",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "01_v2_full_chronology.svg": {
+      "bytes": 782535,
+      "sha256": "186b8aafee9024e4b1384a9ce545d1d1b7bf3690b8210547bcaa09c4979763e3"
+    },
+    "02_v2_blood_incidents.png": {
+      "bytes": 410588,
+      "sha256": "798488c317ac638154fc65bc26077e93f1504caa43c93011dc287665f0f062d7",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "02_v2_blood_incidents.svg": {
+      "bytes": 397711,
+      "sha256": "915592ab67c9d46ec3cd0cb25a365539965ded0e5dc316b329e1d2aa27e81a9a"
+    },
+    "03_v2_blood_power_growth.png": {
+      "bytes": 379099,
+      "sha256": "89caa5e14ceb21f592e8bac770eaa946c209253f9c63ea130ec8b923f72126fd",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "03_v2_blood_power_growth.svg": {
+      "bytes": 431117,
+      "sha256": "2cdb77973dcde4bffac7cf3a2cb84841fb90a3910db70e6c43b305e9824c34af"
+    },
+    "04_v2_bone_pattern.png": {
+      "bytes": 376559,
+      "sha256": "2f3382be7fb087b98aeb7887d4ae4b5ac5bafbf559e761b9f243b288fc3c4168",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "04_v2_bone_pattern.svg": {
+      "bytes": 390218,
+      "sha256": "a2fea249d486f04c2145aec95a42f4861774e046c896a9d215760c98fb134474"
+    },
+    "05_v2_bone_guard_sequence.png": {
+      "bytes": 190011,
+      "sha256": "1fadeeae29bc30ed917a2d5e1023b7341dae211eeec33b26b87071e2d438d38c",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "05_v2_bone_guard_sequence.svg": {
+      "bytes": 59179,
+      "sha256": "f581c328fc6742163790cf19cb049b7b32e65eb1f75950d81130cdcca90c1786"
+    },
+    "06_v2_witch_route.png": {
+      "bytes": 371632,
+      "sha256": "00f725e193d276a14c0b2410a5fe082a6b2b954c6beeff932631031489ca3da5",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "06_v2_witch_route.svg": {
+      "bytes": 390202,
+      "sha256": "04a6556233a3324885192130540fa1704666e5bfb39a05821a3a5b670330b698"
+    },
+    "07_v2_mayor_final_minute.png": {
+      "bytes": 203911,
+      "sha256": "ac6d526547e0e7cf4a64715c0b5fc1aedf95ba6df84bbe5d3a313bd50854ad4c",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "07_v2_mayor_final_minute.svg": {
+      "bytes": 91289,
+      "sha256": "d1e38075773e0493578b73a22d290aae40235817ef322fead2870e5602cc8c8b"
+    },
+    "08_v2_civilian_movement.png": {
+      "bytes": 402067,
+      "sha256": "5aa5186e8b37b266045eb75ba1867d2cdfdf1bf08dc329e1f5c40419e864a198",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "08_v2_civilian_movement.svg": {
+      "bytes": 758968,
+      "sha256": "c8d378793771e8f587ca00ee1fcce8a4dce62055ae37a48fc2f4536fbd169d3a"
+    },
+    "09_v2_barrier_knowledge.png": {
+      "bytes": 378773,
+      "sha256": "af1a676c0d4b796e9857506c2d1b0027a5c2922ee70264a590158761d8ab33b2",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "09_v2_barrier_knowledge.svg": {
+      "bytes": 752452,
+      "sha256": "ca95017fe520d73e649625d56cce92b3307f4662a513536f80393c9e85e4142d"
+    },
+    "10_v2_casualty_progression.png": {
+      "bytes": 373045,
+      "sha256": "de52d3a3813114429b6c7c5a76c76c55e55a76a7f089ddd47758c8c2014eb180",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "10_v2_casualty_progression.svg": {
+      "bytes": 751898,
+      "sha256": "b38dc99cf26a24bd58761aa728701961195bd4fd1c106c93e96f915d9191ab9d"
+    },
+    "11_v2_final_aftermath.png": {
+      "bytes": 411594,
+      "sha256": "a94c4b0e629b9220da2c6b5c2d9c0678fa27dbcdb9944346f8b2009b9d8b3337",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "11_v2_final_aftermath.svg": {
+      "bytes": 657162,
+      "sha256": "93abc5bdb4268c3607bff860ac3541c1e6eb683259e88041581f9c5bee8e1110"
+    },
+    "12_v2_story_seeds.png": {
+      "bytes": 390256,
+      "sha256": "42bcdf8bff9f6ec977fb64b437ad4667d78f5fff54c32ede487aa9ef075e0e49",
+      "dimensions": [
+        3600,
+        2520
+      ]
+    },
+    "12_v2_story_seeds.svg": {
+      "bytes": 722637,
+      "sha256": "dbeb50655bc52491599572bfb3fc25af87c5f09f97c45c0b22671f26da6a41c5"
+    },
+    "engine_v2.py": {
+      "bytes": 51568,
+      "sha256": "34574616b63390abdb67ee24d6b65281c7faf2f972d7c2fa0daf39786e120d7b"
+    },
+    "MASSACRE_V2_FULL_SIMULATION.md": {
+      "bytes": 64396,
+      "sha256": "d19a40caed85db3ba5257fd319354ab922e10fa27f6c0e14d5ff35d583abed18"
+    },
+    "pulse_v2.py": {
+      "bytes": 1421,
+      "sha256": "e80ef40da3ac44e0f78d4ce69ac8686b7fa2d2af3245233fa2fc85bd74df5801"
+    },
+    "README.md": {
+      "bytes": 4857,
+      "sha256": "6d003d222f1e4b96ce45e9aec31f9e0209fc6f7d9bf1ada0e72c03e8ed7e7e25"
+    },
+    "render_v2.py": {
+      "bytes": 23213,
+      "sha256": "4596a080abc42ff0cbf4e0f2d0bf7be6dca9ffc0395f2ecd247fd3f43bb2968c"
+    },
+    "spatial_v2.py": {
+      "bytes": 6546,
+      "sha256": "9ed22a212da3916d347cba0476083df1b3b882450fe8929e823cf922fdb63e40"
+    },
+    "v2_actions.jsonl": {
+      "bytes": 194152,
+      "sha256": "1b2cc9cc48adea729ea53cd89c44e036911933e492133e4ac1d06d303fca964e"
+    },
+    "v2_amplification_diagnostic.json": {
+      "bytes": 1546,
+      "sha256": "af7942cafafacada1f8b6e070b547bca1f322695e67aabc43a6a5426a86a5b1c"
+    },
+    "v2_blood_power.csv": {
+      "bytes": 24193,
+      "sha256": "9cea71bec6a3005c5e993a7f35dc549648ddadbdcc445068276a81849451da03"
+    },
+    "v2_casualties.csv": {
+      "bytes": 20974,
+      "sha256": "f57a685df734276224740e309ac7cf70c8acbe9ab15013c7fb9dc0218aa53b96"
+    },
+    "v2_event_ledger.csv": {
+      "bytes": 13192,
+      "sha256": "699c3d881087ef24adfff89ff8c06894daeaa77edb23796192f4bb3547a20854"
+    },
+    "v2_final_state.json": {
+      "bytes": 42365,
+      "sha256": "3b8a92dc0f6a2976d87903b0036587f1ac77be7a9395cbaaeaef46b7b1af74bb"
+    },
+    "v2_handoff_90.json": {
+      "bytes": 85268,
+      "sha256": "bf9080b61385068d88bb19f622cd237f5981c886926649a87b6f3084cd031a8b"
+    },
+    "v2_initial_state.json": {
+      "bytes": 48370,
+      "sha256": "f5c540c090790492a71ec25c2f449fa03ca99d8bc84b4cbba1025db7b38858b9"
+    },
+    "v2_knowledge.csv": {
+      "bytes": 94845,
+      "sha256": "b80b4ff97ae413377c350d253badfb64481356d84787a9765b5cdaa71e2a3d82"
+    },
+    "v2_movements.csv": {
+      "bytes": 12820,
+      "sha256": "63649d55823a00c4159d688cf78756c8ed1cf74990d12186a57bdc08b7e0e8e3"
+    },
+    "v2_preservation.json": {
+      "bytes": 14161,
+      "sha256": "60b30cb392d98427ef4bc1036b2ea77a2c401e575302aecf6c1079556e1ba8c1"
+    },
+    "v2_reactions.jsonl": {
+      "bytes": 1144520,
+      "sha256": "63de7d36afdb4a32ae9ad102ba2aa9eec6100167304e49477a294abf79bb3ccb"
+    },
+    "v2_rules.json": {
+      "bytes": 3033,
+      "sha256": "3ca27e8cd0f10fb916be9a06b21cfce887aaa0a9ffbd54e79f075b9b539e4d42"
+    },
+    "v2_simulation.json": {
+      "bytes": 3135070,
+      "sha256": "c2f50e9dbedee15e2254a1e0fe73aafa7818398ef62ba87e1bb25ec80e9ebc22"
+    },
+    "v2_survivors.csv": {
+      "bytes": 21824,
+      "sha256": "d00d4e86d155f1ba90398e43a061e163e95a464915d8e8de19f5510bf750c7eb"
+    },
+    "v2_validation.json": {
+      "bytes": 1841,
+      "sha256": "34c7c45e1623ed981c2432dec78fd6982118c962bbb20e5fcd8769ffe899f460"
+    },
+    "v2_vs_v1.json": {
+      "bytes": 1289,
+      "sha256": "b48d51a2308a3b148332903df661cd529f24df9cf33aa537f0e4bad7d06c5d7f"
+    }
+  },
+  "presentation_qa": "All twelve sheets inspected; repeated-location incident labels consolidated; 256-colour PNGs and compact SVGs retain source geometry separately."
+}

@@ -1,0 +1,1889 @@
+{
+  "time": 90.0,
+  "population": {
+    "alive": 163,
+    "fatalities": 7,
+    "injured": 4
+  },
+  "actors": {
+    "Blood": [
+      -2.2088023688951393,
+      44.52432308637402
+    ],
+    "Bone": [
+      -37.5,
+      8.8
+    ],
+    "Witch": [
+      -15.556599900140176,
+      36.37393621055349
+    ]
+  },
+  "groups": {
+    "P01G01": {
+      "members": [
+        "P01G01:01",
+        "P01G01:02",
+        "P01G01:03"
+      ],
+      "xy": [
+        5.8,
+        -61.8
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts long-field workers",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P01G02": {
+      "members": [
+        "P01G02:01",
+        "P01G02:02"
+      ],
+      "xy": [
+        27.0,
+        -38.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts middle-strip workers",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P01G03": {
+      "members": [
+        "P01G03:01"
+      ],
+      "xy": [
+        9.2,
+        -36.3
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts orchard witness",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "local report of lower-road attacks, identity unclear",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P02G01": {
+      "members": [
+        "P02G01:01",
+        "P02G01:02"
+      ],
+      "xy": [
+        -35.0,
+        -48.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts remaining field workers",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P02G02": {
+      "members": [
+        "P02G02:01",
+        "P02G02:02"
+      ],
+      "xy": [
+        -25.4,
+        -51.3
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts storage returners",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P02G03": {
+      "members": [
+        "P02G03:01"
+      ],
+      "xy": [
+        -19.2,
+        -59.6
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts pasture gate keeper",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P02G04": {
+      "members": [
+        "P02G04:01"
+      ],
+      "xy": [
+        -19.2,
+        -59.6
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts second pasture keeper",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P03G01": {
+      "members": [
+        "P03G01:01",
+        "P03G01:02",
+        "P03G01:03"
+      ],
+      "xy": [
+        10.71373756750713,
+        -44.81520992321123
+      ],
+      "building": "Farmstead_West",
+      "intention": "T+90 panic interrupts farmhouse family",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "local report of lower-road attacks, identity unclear",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P03G02": {
+      "members": [
+        "P03G02:01",
+        "P03G02:02",
+        "P03G02:03",
+        "P03G02:04"
+      ],
+      "xy": [
+        8.0,
+        -35.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts barn yard household",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "local report of lower-road attacks, identity unclear",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P04G01": {
+      "members": [
+        "P04G01:01",
+        "P04G01:02",
+        "P04G01:03"
+      ],
+      "xy": [
+        -20.004663250524004,
+        -42.889977263076325
+      ],
+      "building": "Farmstead_South",
+      "intention": "T+90 panic interrupts farmhouse family",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P04G02": {
+      "members": [
+        "P04G02:01",
+        "P04G02:02"
+      ],
+      "xy": [
+        -24.7,
+        -59.8
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts barn storage pair",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P04G03": {
+      "members": [
+        "P04G03:01"
+      ],
+      "xy": [
+        -16.0,
+        -52.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts farmyard resident",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P05G03": {
+      "members": [
+        "P05G03:01",
+        "P05G03:02",
+        "P05G03:03",
+        "P05G03:04"
+      ],
+      "xy": [
+        -1.5262873000506019,
+        -19.2598640571334
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts recoiled agricultural witnesses",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "direct precision attacker witness",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G01": {
+      "members": [
+        "P06G01:01",
+        "P06G01:02"
+      ],
+      "xy": [
+        2.803019047486295,
+        21.220845540683065
+      ],
+      "building": "NeedleHouse",
+      "intention": "T+90 panic interrupts household NeedleHouse",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G02": {
+      "members": [
+        "P06G02:01",
+        "P06G02:02"
+      ],
+      "xy": [
+        15.453649110207552,
+        13.178053791298524
+      ],
+      "building": "CollapsedCellarCottage",
+      "intention": "T+90 panic interrupts household CollapsedCellarCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G03": {
+      "members": [
+        "P06G03:01",
+        "P06G03:02",
+        "P06G03:03"
+      ],
+      "xy": [
+        -27.418755248485926,
+        5.268819614788562
+      ],
+      "building": "Cottage_04",
+      "intention": "T+90 panic interrupts household Cottage_04",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "local report of lower-road attacks, identity unclear",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G04": {
+      "members": [
+        "P06G04:01"
+      ],
+      "xy": [
+        -9.624845430574828,
+        26.772424530943187
+      ],
+      "building": "Cottage_09",
+      "intention": "T+90 panic interrupts household Cottage_09",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G05": {
+      "members": [
+        "P06G05:01"
+      ],
+      "xy": [
+        4.981360664733714,
+        15.479563432591547
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts yard NeedleHouse",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G06": {
+      "members": [
+        "P06G06:01"
+      ],
+      "xy": [
+        10.727286826789951,
+        17.247298433697274
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts yard CollapsedCellarCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G07": {
+      "members": [
+        "P06G07:01"
+      ],
+      "xy": [
+        -26.020322068764052,
+        9.616659813718298
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts yard Cottage_04",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G08": {
+      "members": [
+        "P06G08:01"
+      ],
+      "xy": [
+        -16.20495098328913,
+        28.30928137853598
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts yard Cottage_09",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P06G09": {
+      "members": [
+        "P06G09:01",
+        "P06G09:02"
+      ],
+      "xy": [
+        -34.3,
+        9.2
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts parent and child",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "direct precision attacker witness",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P07G01": {
+      "members": [
+        "P07G01:01",
+        "P07G01:02"
+      ],
+      "xy": [
+        -39.5,
+        11.7
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts smith and apprentice",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P07G02": {
+      "members": [
+        "P07G02:01"
+      ],
+      "xy": [
+        -30.8,
+        27.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts repair customer",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P08G01": {
+      "members": [
+        "P08G01:01",
+        "P08G01:02"
+      ],
+      "xy": [
+        -18.0,
+        35.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts water carriers",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "direct precision attacker witness",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P08G04": {
+      "members": [
+        "P08G04:01",
+        "P08G04:02"
+      ],
+      "xy": [
+        -0.3,
+        48.5
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts injured stall pair west",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P08G05": {
+      "members": [
+        "P08G05:01",
+        "P08G05:02"
+      ],
+      "xy": [
+        4.0,
+        50.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts injured stall pair east",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P08G06": {
+      "members": [
+        "P08G06:01"
+      ],
+      "xy": [
+        -11.0,
+        52.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts western warning neighbour",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P08G07": {
+      "members": [
+        "P08G07:01",
+        "P08G07:02",
+        "P08G07:03",
+        "P08G07:04",
+        "P08G07:05"
+      ],
+      "xy": [
+        -8.0,
+        48.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts frontage neighbours",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P08G08": {
+      "members": [
+        "P08G08:01",
+        "P08G08:02",
+        "P08G08:03"
+      ],
+      "xy": [
+        22.595337642065502,
+        40.79786922579858
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts passers already in old quarter",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P08G09": {
+      "members": [
+        "P08G09:01",
+        "P08G09:02",
+        "P08G09:03",
+        "P08G09:04"
+      ],
+      "xy": [
+        10.0,
+        49.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts eastern junction passers",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P08G10": {
+      "members": [
+        "P08G10:01",
+        "P08G10:02",
+        "P08G10:03"
+      ],
+      "xy": [
+        -12.0,
+        45.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts western junction passers",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P09G01": {
+      "members": [
+        "P09G01:01",
+        "P09G01:02",
+        "P09G01:03",
+        "P09G01:04",
+        "P09G01:05",
+        "P09G01:06",
+        "P09G01:07"
+      ],
+      "xy": [
+        6.28189057712183,
+        34.47847219638517
+      ],
+      "building": "Tavern",
+      "intention": "T+90 panic interrupts indoor customers and staff",
+      "knowledge": {
+        "Blood": "nearby attack warning; exact attacker unclear",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P09G02": {
+      "members": [
+        "P09G02:01",
+        "P09G02:02",
+        "P09G02:03",
+        "P09G02:04"
+      ],
+      "xy": [
+        1.4,
+        42.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts porch customers",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P09G03": {
+      "members": [
+        "P09G03:01",
+        "P09G03:02",
+        "P09G03:03"
+      ],
+      "xy": [
+        14.1,
+        30.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts receiving staff and delivery hand",
+      "knowledge": {
+        "Blood": "nearby attack warning; exact attacker unclear",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G01": {
+      "members": [
+        "P10G01:01",
+        "P10G01:02",
+        "P10G01:03"
+      ],
+      "xy": [
+        37.62248458949683,
+        33.04321460135457
+      ],
+      "building": "CrookedCottage",
+      "intention": "T+90 panic interrupts household CrookedCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G02": {
+      "members": [
+        "P10G02:01",
+        "P10G02:02",
+        "P10G02:03"
+      ],
+      "xy": [
+        20.27965221380489,
+        36.893105540212346
+      ],
+      "building": "Cottage_01",
+      "intention": "T+90 panic interrupts household Cottage_01",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G03": {
+      "members": [
+        "P10G03:01",
+        "P10G03:02",
+        "P10G03:03"
+      ],
+      "xy": [
+        24.515647050656685,
+        24.465429714281115
+      ],
+      "building": "Cottage_06",
+      "intention": "T+90 panic interrupts household Cottage_06",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G04": {
+      "members": [
+        "P10G04:01",
+        "P10G04:02",
+        "P10G04:03"
+      ],
+      "xy": [
+        37.80250029662195,
+        46.73107441796052
+      ],
+      "building": "Cottage_07",
+      "intention": "T+90 panic interrupts household Cottage_07",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G05": {
+      "members": [
+        "P10G05:01",
+        "P10G05:02"
+      ],
+      "xy": [
+        26.73205604889141,
+        42.37008607615638
+      ],
+      "building": "Cottage_12",
+      "intention": "T+90 panic interrupts household Cottage_12",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G06": {
+      "members": [
+        "P10G06:01",
+        "P10G06:02"
+      ],
+      "xy": [
+        29.7,
+        32.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts shared-yard neighbours",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G07": {
+      "members": [
+        "P10G07:01",
+        "P10G07:02",
+        "P10G07:03",
+        "P10G07:04",
+        "P10G07:05"
+      ],
+      "xy": [
+        37.7,
+        51.9
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts children and caregiver",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G08": {
+      "members": [
+        "P10G08:01"
+      ],
+      "xy": [
+        28.0,
+        24.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts yard resident",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P10G09": {
+      "members": [
+        "P10G09:01",
+        "P10G09:02"
+      ],
+      "xy": [
+        27.0,
+        34.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts alley walkers",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G01": {
+      "members": [
+        "P11G01:01",
+        "P11G01:02"
+      ],
+      "xy": [
+        -27.88307244680624,
+        61.19427883797796
+      ],
+      "building": "CrushedHome",
+      "intention": "T+90 panic interrupts household CrushedHome",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G02": {
+      "members": [
+        "P11G02:01",
+        "P11G02:02"
+      ],
+      "xy": [
+        -45.3496550612422,
+        62.592764474378114
+      ],
+      "building": "RearCottage",
+      "intention": "T+90 panic interrupts household RearCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G03": {
+      "members": [
+        "P11G03:01",
+        "P11G03:02"
+      ],
+      "xy": [
+        -48.817499959784996,
+        77.13793811959616
+      ],
+      "building": "EndRowCottage",
+      "intention": "T+90 panic interrupts household EndRowCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G04": {
+      "members": [
+        "P11G04:01",
+        "P11G04:02"
+      ],
+      "xy": [
+        -41.232134381598044,
+        38.28402912726026
+      ],
+      "building": "WeaverCottage",
+      "intention": "T+90 panic interrupts household WeaverCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G05": {
+      "members": [
+        "P11G05:01",
+        "P11G05:02"
+      ],
+      "xy": [
+        -14.260708779836456,
+        58.04842827233592
+      ],
+      "building": "Cottage_02",
+      "intention": "T+90 panic interrupts household Cottage_02",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G06": {
+      "members": [
+        "P11G06:01",
+        "P11G06:02"
+      ],
+      "xy": [
+        -37.899308185831046,
+        50.76175294041746
+      ],
+      "building": "Cottage_05",
+      "intention": "T+90 panic interrupts household Cottage_05",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G07": {
+      "members": [
+        "P11G07:01",
+        "P11G07:02"
+      ],
+      "xy": [
+        -28.70080697669929,
+        47.735625027594516
+      ],
+      "building": "Cottage_10",
+      "intention": "T+90 panic interrupts household Cottage_10",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G08": {
+      "members": [
+        "P11G08:01"
+      ],
+      "xy": [
+        -22.0,
+        58.4
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts firewood carrier",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G09": {
+      "members": [
+        "P11G09:01",
+        "P11G09:02"
+      ],
+      "xy": [
+        -38.0,
+        70.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts yard neighbours",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G10": {
+      "members": [
+        "P11G10:01",
+        "P11G10:02",
+        "P11G10:03"
+      ],
+      "xy": [
+        -36.0,
+        60.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts washing household",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P11G11": {
+      "members": [
+        "P11G11:01",
+        "P11G11:02"
+      ],
+      "xy": [
+        -24.0,
+        71.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts between-yard walkers",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P12G01": {
+      "members": [
+        "P12G01:01",
+        "P12G01:02"
+      ],
+      "xy": [
+        -11.770161950686402,
+        71.75979490611692
+      ],
+      "building": "AbandonedCottage",
+      "intention": "T+90 panic interrupts household AbandonedCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P12G02": {
+      "members": [
+        "P12G02:01",
+        "P12G02:02"
+      ],
+      "xy": [
+        -10.564044664642587,
+        91.48448793274292
+      ],
+      "building": "UpperCottage",
+      "intention": "T+90 panic interrupts household UpperCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P12G03": {
+      "members": [
+        "P12G03:01",
+        "P12G03:02"
+      ],
+      "xy": [
+        -42.56494839082513,
+        95.80799058682935
+      ],
+      "building": "SealedCellarCottage",
+      "intention": "T+90 panic interrupts household SealedCellarCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P12G04": {
+      "members": [
+        "P12G04:01",
+        "P12G04:02"
+      ],
+      "xy": [
+        1.805349113823439,
+        88.76703122568291
+      ],
+      "building": "Cottage_03",
+      "intention": "T+90 panic interrupts household Cottage_03",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P12G05": {
+      "members": [
+        "P12G05:01",
+        "P12G05:02"
+      ],
+      "xy": [
+        7.287964464667403,
+        70.89099528457265
+      ],
+      "building": "Cottage_11",
+      "intention": "T+90 panic interrupts household Cottage_11",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P12G06": {
+      "members": [
+        "P12G06:01",
+        "P12G06:02"
+      ],
+      "xy": [
+        -21.0,
+        89.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts upper garden pair",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P12G07": {
+      "members": [
+        "P12G07:01"
+      ],
+      "xy": [
+        0.0,
+        74.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts middle yard resident",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P12G08": {
+      "members": [
+        "P12G08:01"
+      ],
+      "xy": [
+        -18.995464369040974,
+        96.90336720470583
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts returning upper resident",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P13G01": {
+      "members": [
+        "P13G01:01"
+      ],
+      "xy": [
+        23.5,
+        83.7
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts church caretaker",
+      "knowledge": {
+        "Blood": "direct first Blood attack",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P14G01": {
+      "members": [
+        "P14G01:01",
+        "P14G01:02"
+      ],
+      "xy": [
+        55.19936134675863,
+        52.90877321473297
+      ],
+      "building": "SplitRoofCottage",
+      "intention": "T+90 panic interrupts household SplitRoofCottage",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P14G02": {
+      "members": [
+        "P14G02:01",
+        "P14G02:02"
+      ],
+      "xy": [
+        50.50795002114778,
+        74.0386999582112
+      ],
+      "building": "Cottage_08",
+      "intention": "T+90 panic interrupts household Cottage_08",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P14G03": {
+      "members": [
+        "P14G03:01",
+        "P14G03:02"
+      ],
+      "xy": [
+        58.0,
+        60.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts animal-yard pair",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P14G04": {
+      "members": [
+        "P14G04:01"
+      ],
+      "xy": [
+        47.0,
+        65.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts animal-yard resident",
+      "knowledge": {
+        "Blood": "heard unspecified violence",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P15G01": {
+      "members": [
+        "P15G01:01",
+        "P15G01:02",
+        "P15G01:03"
+      ],
+      "xy": [
+        -47.00881055535887,
+        70.31556044675717
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts returning woodcutters",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 2,
+        "barrier_evidence": "visual inference only",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P16G01": {
+      "members": [
+        "P16G01:01"
+      ],
+      "xy": [
+        2.0,
+        146.0
+      ],
+      "building": "MayorHall",
+      "intention": "T+90 panic interrupts Mayor",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P16G02": {
+      "members": [
+        "P16G02:01"
+      ],
+      "xy": [
+        2.0,
+        124.8
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts entrance guard",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 2,
+        "barrier_evidence": "visual inference only",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P16G03": {
+      "members": [
+        "P16G03:01"
+      ],
+      "xy": [
+        -20.0,
+        132.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts service guard",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P16G04": {
+      "members": [
+        "P16G04:01"
+      ],
+      "xy": [
+        1.0,
+        137.5
+      ],
+      "building": "MayorHall",
+      "intention": "T+90 panic interrupts house duty guard",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P16G05": {
+      "members": [
+        "P16G05:01",
+        "P16G05:02",
+        "P16G05:03"
+      ],
+      "xy": [
+        7.0,
+        145.0
+      ],
+      "building": "MayorHall",
+      "intention": "T+90 panic interrupts resident house staff",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 0,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P16G06": {
+      "members": [
+        "P16G06:01"
+      ],
+      "xy": [
+        -13.0,
+        130.0
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts stable worker",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 1,
+        "barrier_evidence": "no contact evidence",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    },
+    "P17G01": {
+      "members": [
+        "P17G01:01",
+        "P17G01:02"
+      ],
+      "xy": [
+        -41.33943261627502,
+        155.59528725184182
+      ],
+      "building": null,
+      "intention": "T+90 panic interrupts provisions cart pair",
+      "knowledge": {
+        "Blood": "unidentified emergency",
+        "Bone": "no identified Bone knowledge",
+        "barrier_stage": 2,
+        "barrier_evidence": "visual inference only",
+        "Witch": [],
+        "family": [],
+        "warnings": [],
+        "routes": [],
+        "deaths": [],
+        "public_emergency": true
+      }
+    }
+  },
+  "blood_power": {
+    "time": 90.0,
+    "xy": [
+      -2.2088023688951393,
+      44.52432308637402
+    ],
+    "accessible_units": 6.416,
+    "carried_units": 0.0,
+    "state": "Fed",
+    "saturation": 0.2998386317570637,
+    "emotion_multiplier": 1.0,
+    "control_m": 43.99354527028255,
+    "sense_m": 36.1928997973108,
+    "range_m": 18.69693400338421,
+    "width_m": 10.79741810811302,
+    "pressure": 1.869612716216953,
+    "source_ids": [
+      "RS0003",
+      "RS0004",
+      "RS0005",
+      "RS0006",
+      "RS0007",
+      "RS0008",
+      "RS0009",
+      "RS0010",
+      "RS0011"
+    ],
+    "movement_speed_m_s": 1.5
+  },
+  "mayor_state": "alive at home, emergency unexplained"
+}

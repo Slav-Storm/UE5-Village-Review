@@ -1,0 +1,49 @@
+{
+  "method": "Post-closure frozen-position/aim/cover diagnostic. Remove only emotional multiplier for the final two executed strikes; keep actual blood saturation. Not a re-simulation: target choice, travel, reactions, resources and timings might change in a full counterfactual. No casualty was changed.",
+  "events": [
+    {
+      "event": "V2E060",
+      "time": 343.039881,
+      "actual_deaths": 15,
+      "actual_range_m": 37,
+      "without_emotion_range_m": 31.840121127705178,
+      "actual_width_m": 26,
+      "without_emotion_width_m": 21.86536516017278,
+      "still_fatal_same_frozen_positions": [
+        "P10G03:01",
+        "P10G03:02",
+        "P10G03:03",
+        "P10G08:01",
+        "P10G09:01",
+        "P10G09:02",
+        "P11G09:01",
+        "P11G09:02",
+        "P11G11:01",
+        "P11G11:02",
+        "P12G02:01",
+        "P12G02:02",
+        "P12G06:01",
+        "P12G06:02",
+        "P13G01:01"
+      ],
+      "outside_unamplified_footprint": [],
+      "below_fatal_pressure_without_emotion": []
+    },
+    {
+      "event": "V2E062",
+      "time": 368.076261,
+      "actual_deaths": 3,
+      "actual_range_m": 37,
+      "without_emotion_range_m": 31.91322614477061,
+      "actual_width_m": 26,
+      "without_emotion_width_m": 21.92692727980683,
+      "still_fatal_same_frozen_positions": [
+        "P14G02:01",
+        "P14G02:02",
+        "P14G03:02"
+      ],
+      "outside_unamplified_footprint": [],
+      "below_fatal_pressure_without_emotion": []
+    }
+  ]
+}

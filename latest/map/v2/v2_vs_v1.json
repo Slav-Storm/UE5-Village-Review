@@ -1,0 +1,55 @@
+{
+  "performed_after_closed_V2": true,
+  "v1_sha256": "e47ceef016d1e6108a4cb6c6426f17851e2019d1b010ea7c61c2ddbdde8460b7",
+  "v1_reference": {
+    "fatalities": 73,
+    "survivors": 97,
+    "terminal": 312.625
+  },
+  "v2": {
+    "fatalities": 112,
+    "survivors": 58,
+    "terminal": 373.9233248158662,
+    "arrival": 313.9233248158662,
+    "arrival_population": {
+      "alive": 77,
+      "fatalities": 93,
+      "injured": 0
+    }
+  },
+  "fatality_delta": 39,
+  "survivor_delta": -39,
+  "v1_actor_deaths": {
+    "Blood": 55,
+    "Bone": 13,
+    "barrier": 4,
+    "Witch": 1
+  },
+  "v2_actor_deaths": {
+    "Barrier": 5,
+    "Bone": 5,
+    "Blood": 101,
+    "Witch": 1
+  },
+  "v2_final_minute_fatalities": [
+    {
+      "event": "V2E060",
+      "time": 343.039881,
+      "actor": "Blood",
+      "fatalities": 15
+    },
+    {
+      "event": "V2E062",
+      "time": 368.076261,
+      "actor": "Blood",
+      "fatalities": 3
+    },
+    {
+      "event": "V2E063",
+      "time": 373.923325,
+      "actor": "Witch",
+      "fatalities": 1
+    }
+  ],
+  "verdict": "Another narrative/rule failure for near-total massacre. The increased destruction does not reach all surviving pockets within the fixed route plus one-minute confrontation."
+}

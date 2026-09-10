@@ -1,0 +1,57 @@
+{
+  "schema": "village.v2.rules.1",
+  "frozen_before_outcome": true,
+  "start_time": 90,
+  "blood": {
+    "speed_m_s": 1.5,
+    "minimum_decision_recovery_s": 7,
+    "minimum_attack_windup_s": 3,
+    "fresh_fatal_source_units": 1.0,
+    "injury_initial_units": 0.15,
+    "injury_extra_per_s": 0.006,
+    "injury_extra_cap": 0.5,
+    "source_notes": "Dimensionless accessible blood-volume proxies, not litres or kill-score buffs. Injury stops adding when dead; fatal increment excludes previously shed blood. No full-village resource sum.",
+    "control_radius_base_m": 32,
+    "control_radius_cap_m": 72,
+    "sense_radius_base_m": 23,
+    "sense_radius_cap_m": 67,
+    "attack_range_base_m": 13,
+    "attack_range_cap_m": 32,
+    "attack_width_base_m": 6,
+    "attack_width_cap_m": 22,
+    "saturation_scale_units": 18,
+    "growth_formula": "s=1-exp(-accessible_units/18); bounded dimensions interpolate by s. Final emotional amplification multiplies dimensions by up to 1.22 locally; never speed. State labels use actual accessible units: <2 Awakened, 2-12 Fed,12-32 Saturated,>=32 Deluge.",
+    "sense": "Signals aggregate nearby living sources into coarse presence/density bearings. Quiet single signals attenuate severely; stone attenuates more than timber. No exact headcount/identity is returned to Blood decisions.",
+    "reuse": "Sources remain at their causal locations; draw is bounded by current control radius. Recently controlled blood may be carried, with finite capacity and conservation ledger; no remote teleport/global access."
+  },
+  "witch": {
+    "road_speed_m_s": 1.1,
+    "stair_speed_m_s": 0.85,
+    "confrontation_s": 60,
+    "arrival": "Recomputed from preserved MainStreet, stair route, courtyard and minimal mansion interior walk. No V1 timing imported.",
+    "final_death": "Mayor personally killed exactly at arrival+60, irrespective of survivors. No post-terminal fatalities."
+  },
+  "bone": {
+    "burst_speed_cap_m_s": 7.5,
+    "attack_reach_m": 12,
+    "son_killer_guard": "P16 entrance guard",
+    "recognition": "Must have local sight; no remote identity knowledge. Prolong rather than immediate kill. Precise final strike before terminal; no other guard guilt assigned."
+  },
+  "civilians": {
+    "uninjured_walk_m_s": 1.2,
+    "frightened_run_m_s": 2.4,
+    "family_speed_m_s": 1.45,
+    "injured_with_help_m_s": 0.6,
+    "reaction_latency_s": [
+      1,
+      5
+    ],
+    "knowledge": "Separate direct sight, sound, warning and inference. B4 only direct witnessed reactive attack; warnings record report without falsely claiming witnessed contact."
+  },
+  "barrier": {
+    "active_at_s": 90,
+    "reacts_only_to_contact": true,
+    "no_inward_random_attacks": true
+  },
+  "phase_contract": "Each call selects one action commitment from current percepts, then separate reaction decisions; commitments move on one continuous clock. Reactions cannot retroactively change a resolved action; new stimuli go to the next action decision."
+}

@@ -1,0 +1,982 @@
+{
+  "time": 373.9233248158662,
+  "arrival": 313.9233248158662,
+  "confrontation_s": 60,
+  "population": {
+    "alive": 58,
+    "fatalities": 112,
+    "injured": 0
+  },
+  "original_population": 170,
+  "fatalities_by_actor": {
+    "Barrier": 5,
+    "Bone": 5,
+    "Blood": 101,
+    "Witch": 1
+  },
+  "actors": {
+    "Blood": {
+      "xy": [
+        22.443875472374504,
+        77.40522253427282
+      ],
+      "state": "recover pressure / sample changed local field"
+    },
+    "Bone": {
+      "xy": [
+        22.443875472374504,
+        77.40522253427282
+      ],
+      "state": "sound investigation"
+    },
+    "Witch": {
+      "xy": [
+        2,
+        146
+      ],
+      "state": "killed personally by Witch; primary event ended"
+    }
+  },
+  "barrier": "opaque / contact-reactive; no deactivation or post-terminal events authored",
+  "survivor_locations": {
+    "Farmstead_West": 12,
+    "Farmstead_South": 14,
+    "CollapsedCellarCottage": 3,
+    "Cottage_04": 5,
+    "CrookedCottage": 5,
+    "Cottage_07": 8,
+    "SplitRoofCottage": 3,
+    "MayorHall": 8
+  },
+  "survivors": [
+    {
+      "id": "P01G01:01",
+      "source_cohort": "P01",
+      "micro": null,
+      "role": "long-field workers",
+      "group": "P01G01",
+      "xy": [
+        10.063737567507129,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P01G01:02",
+      "source_cohort": "P01",
+      "micro": null,
+      "role": "long-field workers",
+      "group": "P01G01",
+      "xy": [
+        10.71373756750713,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P01G01:03",
+      "source_cohort": "P01",
+      "micro": null,
+      "role": "long-field workers",
+      "group": "P01G01",
+      "xy": [
+        11.36373756750713,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P01G02:02",
+      "source_cohort": "P01",
+      "micro": null,
+      "role": "middle-strip workers",
+      "group": "P01G02",
+      "xy": [
+        10.71373756750713,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P01G03:01",
+      "source_cohort": "P01",
+      "micro": null,
+      "role": "orchard witness",
+      "group": "P01G03",
+      "xy": [
+        10.71373756750713,
+        -44.81520992321123
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P02G01:02",
+      "source_cohort": "P02",
+      "micro": null,
+      "role": "remaining field workers",
+      "group": "P02G01",
+      "xy": [
+        -20.004663250524004,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P02G02:01",
+      "source_cohort": "P02",
+      "micro": null,
+      "role": "storage returners",
+      "group": "P02G02",
+      "xy": [
+        -20.654663250524003,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P02G02:02",
+      "source_cohort": "P02",
+      "micro": null,
+      "role": "storage returners",
+      "group": "P02G02",
+      "xy": [
+        -20.004663250524004,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P02G03:01",
+      "source_cohort": "P02",
+      "micro": "M02",
+      "role": "pasture gate keeper",
+      "group": "P02G03",
+      "xy": [
+        -20.004663250524004,
+        -42.889977263076325
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P02G04:01",
+      "source_cohort": "P02",
+      "micro": null,
+      "role": "second pasture keeper",
+      "group": "P02G04",
+      "xy": [
+        -20.004663250524004,
+        -42.889977263076325
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P03G01:01",
+      "source_cohort": "P03",
+      "micro": null,
+      "role": "farmhouse family",
+      "group": "P03G01",
+      "xy": [
+        10.063737567507129,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "farmhouse household draws together at home; distant emergency has no identified local attacker",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P03G01:02",
+      "source_cohort": "P03",
+      "micro": null,
+      "role": "farmhouse family",
+      "group": "P03G01",
+      "xy": [
+        10.71373756750713,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "farmhouse household draws together at home; distant emergency has no identified local attacker",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P03G01:03",
+      "source_cohort": "P03",
+      "micro": null,
+      "role": "farmhouse family",
+      "group": "P03G01",
+      "xy": [
+        11.36373756750713,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "farmhouse household draws together at home; distant emergency has no identified local attacker",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P03G02:01",
+      "source_cohort": "P03",
+      "micro": null,
+      "role": "barn yard household",
+      "group": "P03G02",
+      "xy": [
+        10.063737567507129,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P03G02:02",
+      "source_cohort": "P03",
+      "micro": null,
+      "role": "barn yard household",
+      "group": "P03G02",
+      "xy": [
+        10.71373756750713,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P03G02:03",
+      "source_cohort": "P03",
+      "micro": null,
+      "role": "barn yard household",
+      "group": "P03G02",
+      "xy": [
+        11.36373756750713,
+        -45.215209923211226
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P03G02:04",
+      "source_cohort": "P03",
+      "micro": null,
+      "role": "barn yard household",
+      "group": "P03G02",
+      "xy": [
+        10.063737567507129,
+        -44.56520992321123
+      ],
+      "place": "Farmstead_West",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned to farm household after separate local warnings/contact; the farmhouse stayed outside Blood's executed attack reach and below the sensed northern concentrations. Bone never acquired this farm group.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P04G01:01",
+      "source_cohort": "P04",
+      "micro": null,
+      "role": "farmhouse family",
+      "group": "P04G01",
+      "xy": [
+        -20.654663250524003,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "farmhouse household draws together at home; distant emergency has no identified local attacker",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P04G01:02",
+      "source_cohort": "P04",
+      "micro": null,
+      "role": "farmhouse family",
+      "group": "P04G01",
+      "xy": [
+        -20.004663250524004,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "farmhouse household draws together at home; distant emergency has no identified local attacker",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P04G01:03",
+      "source_cohort": "P04",
+      "micro": null,
+      "role": "farmhouse family",
+      "group": "P04G01",
+      "xy": [
+        -19.354663250524005,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "farmhouse household draws together at home; distant emergency has no identified local attacker",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P04G02:01",
+      "source_cohort": "P04",
+      "micro": "M03",
+      "role": "barn storage pair",
+      "group": "P04G02",
+      "xy": [
+        -20.654663250524003,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P04G02:02",
+      "source_cohort": "P04",
+      "micro": "M03",
+      "role": "barn storage pair",
+      "group": "P04G02",
+      "xy": [
+        -20.004663250524004,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P04G03:01",
+      "source_cohort": "P04",
+      "micro": null,
+      "role": "farmyard resident",
+      "group": "P04G03",
+      "xy": [
+        -20.004663250524004,
+        -42.889977263076325
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P05G03:02",
+      "source_cohort": "P05",
+      "micro": null,
+      "role": "recoiled agricultural witnesses",
+      "group": "P05G03",
+      "xy": [
+        -20.004663250524004,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P05G03:03",
+      "source_cohort": "P05",
+      "micro": null,
+      "role": "recoiled agricultural witnesses",
+      "group": "P05G03",
+      "xy": [
+        -19.354663250524005,
+        -43.289977263076324
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P05G03:04",
+      "source_cohort": "P05",
+      "micro": null,
+      "role": "recoiled agricultural witnesses",
+      "group": "P05G03",
+      "xy": [
+        -20.654663250524003,
+        -42.639977263076325
+      ],
+      "place": "Farmstead_South",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Returned along known farm access after blackout/barrier discovery. The group remained on the lower agricultural side, outside both actors' executed incidents; no global sensing or cleanup was allowed.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P06G02:01",
+      "source_cohort": "P06",
+      "micro": null,
+      "role": "household CollapsedCellarCottage",
+      "group": "P06G02",
+      "xy": [
+        14.803649110207552,
+        12.778053791298523
+      ],
+      "place": "CollapsedCellarCottage",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Quiet lower household drew its yard resident inside. It was not intersected by an executed attack; stronger/nearer perceived signals repeatedly took Blood elsewhere.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P06G02:02",
+      "source_cohort": "P06",
+      "micro": null,
+      "role": "household CollapsedCellarCottage",
+      "group": "P06G02",
+      "xy": [
+        15.453649110207552,
+        12.778053791298523
+      ],
+      "place": "CollapsedCellarCottage",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Quiet lower household drew its yard resident inside. It was not intersected by an executed attack; stronger/nearer perceived signals repeatedly took Blood elsewhere.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P06G03:01",
+      "source_cohort": "P06",
+      "micro": null,
+      "role": "household Cottage_04",
+      "group": "P06G03",
+      "xy": [
+        -28.068755248485925,
+        4.868819614788562
+      ],
+      "place": "Cottage_04",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Household stayed in its lower cottage. The surviving M05 child reached it when Bone changed attention. Blood selected other sensed concentrations; Bone did not systematically search this home.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P06G03:02",
+      "source_cohort": "P06",
+      "micro": null,
+      "role": "household Cottage_04",
+      "group": "P06G03",
+      "xy": [
+        -27.418755248485926,
+        4.868819614788562
+      ],
+      "place": "Cottage_04",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Household stayed in its lower cottage. The surviving M05 child reached it when Bone changed attention. Blood selected other sensed concentrations; Bone did not systematically search this home.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P06G03:03",
+      "source_cohort": "P06",
+      "micro": null,
+      "role": "household Cottage_04",
+      "group": "P06G03",
+      "xy": [
+        -26.768755248485927,
+        4.868819614788562
+      ],
+      "place": "Cottage_04",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Household stayed in its lower cottage. The surviving M05 child reached it when Bone changed attention. Blood selected other sensed concentrations; Bone did not systematically search this home.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P06G06:01",
+      "source_cohort": "P06",
+      "micro": null,
+      "role": "yard CollapsedCellarCottage",
+      "group": "P06G06",
+      "xy": [
+        15.453649110207552,
+        13.178053791298524
+      ],
+      "place": "CollapsedCellarCottage",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Quiet lower household drew its yard resident inside. It was not intersected by an executed attack; stronger/nearer perceived signals repeatedly took Blood elsewhere.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P06G07:01",
+      "source_cohort": "P06",
+      "micro": null,
+      "role": "yard Cottage_04",
+      "group": "P06G07",
+      "xy": [
+        -27.418755248485926,
+        5.268819614788562
+      ],
+      "place": "Cottage_04",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Household stayed in its lower cottage. The surviving M05 child reached it when Bone changed attention. Blood selected other sensed concentrations; Bone did not systematically search this home.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P06G09:02",
+      "source_cohort": "P06",
+      "micro": "M05",
+      "role": "child",
+      "group": "P06G09",
+      "xy": [
+        -27.418755248485926,
+        4.868819614788562
+      ],
+      "place": "Cottage_04",
+      "injured": false,
+      "intention": "surviving child uses Bone looking away to reach the household",
+      "why_survived": "Household stayed in its lower cottage. The surviving M05 child reached it when Bone changed attention. Blood selected other sensed concentrations; Bone did not systematically search this home.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G01:01",
+      "source_cohort": "P10",
+      "micro": null,
+      "role": "household CrookedCottage",
+      "group": "P10G01",
+      "xy": [
+        36.97248458949683,
+        32.64321460135457
+      ],
+      "place": "CrookedCottage",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Shared-yard neighbours joined this household. It remained behind local timber cover outside the executed pressure corridors. Blood perceived competing concentrations and never performed a whole-quarter sweep.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G01:02",
+      "source_cohort": "P10",
+      "micro": null,
+      "role": "household CrookedCottage",
+      "group": "P10G01",
+      "xy": [
+        37.62248458949683,
+        32.64321460135457
+      ],
+      "place": "CrookedCottage",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Shared-yard neighbours joined this household. It remained behind local timber cover outside the executed pressure corridors. Blood perceived competing concentrations and never performed a whole-quarter sweep.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G01:03",
+      "source_cohort": "P10",
+      "micro": null,
+      "role": "household CrookedCottage",
+      "group": "P10G01",
+      "xy": [
+        38.27248458949683,
+        32.64321460135457
+      ],
+      "place": "CrookedCottage",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Shared-yard neighbours joined this household. It remained behind local timber cover outside the executed pressure corridors. Blood perceived competing concentrations and never performed a whole-quarter sweep.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G04:01",
+      "source_cohort": "P10",
+      "micro": null,
+      "role": "household Cottage_07",
+      "group": "P10G04",
+      "xy": [
+        37.15250029662195,
+        46.33107441796052
+      ],
+      "place": "Cottage_07",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Children/caregiver joined the existing household. Their grouped presence was not guaranteed safety, but no selected attack corridor intersected their final room in this branch; Blood followed other signals.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G04:02",
+      "source_cohort": "P10",
+      "micro": null,
+      "role": "household Cottage_07",
+      "group": "P10G04",
+      "xy": [
+        37.80250029662195,
+        46.33107441796052
+      ],
+      "place": "Cottage_07",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Children/caregiver joined the existing household. Their grouped presence was not guaranteed safety, but no selected attack corridor intersected their final room in this branch; Blood followed other signals.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G04:03",
+      "source_cohort": "P10",
+      "micro": null,
+      "role": "household Cottage_07",
+      "group": "P10G04",
+      "xy": [
+        38.45250029662195,
+        46.33107441796052
+      ],
+      "place": "Cottage_07",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Children/caregiver joined the existing household. Their grouped presence was not guaranteed safety, but no selected attack corridor intersected their final room in this branch; Blood followed other signals.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G06:01",
+      "source_cohort": "P10",
+      "micro": "M08",
+      "role": "shared-yard neighbours",
+      "group": "P10G06",
+      "xy": [
+        36.97248458949683,
+        32.64321460135457
+      ],
+      "place": "CrookedCottage",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Shared-yard neighbours joined this household. It remained behind local timber cover outside the executed pressure corridors. Blood perceived competing concentrations and never performed a whole-quarter sweep.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G06:02",
+      "source_cohort": "P10",
+      "micro": "M08",
+      "role": "shared-yard neighbours",
+      "group": "P10G06",
+      "xy": [
+        37.62248458949683,
+        32.64321460135457
+      ],
+      "place": "CrookedCottage",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Shared-yard neighbours joined this household. It remained behind local timber cover outside the executed pressure corridors. Blood perceived competing concentrations and never performed a whole-quarter sweep.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G07:01",
+      "source_cohort": "P10",
+      "micro": "M09",
+      "role": "caregiver",
+      "group": "P10G07",
+      "xy": [
+        37.15250029662195,
+        46.33107441796052
+      ],
+      "place": "Cottage_07",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Children/caregiver joined the existing household. Their grouped presence was not guaranteed safety, but no selected attack corridor intersected their final room in this branch; Blood followed other signals.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G07:02",
+      "source_cohort": "P10",
+      "micro": "M09",
+      "role": "child",
+      "group": "P10G07",
+      "xy": [
+        37.80250029662195,
+        46.33107441796052
+      ],
+      "place": "Cottage_07",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Children/caregiver joined the existing household. Their grouped presence was not guaranteed safety, but no selected attack corridor intersected their final room in this branch; Blood followed other signals.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G07:03",
+      "source_cohort": "P10",
+      "micro": "M09",
+      "role": "child",
+      "group": "P10G07",
+      "xy": [
+        38.45250029662195,
+        46.33107441796052
+      ],
+      "place": "Cottage_07",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Children/caregiver joined the existing household. Their grouped presence was not guaranteed safety, but no selected attack corridor intersected their final room in this branch; Blood followed other signals.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G07:04",
+      "source_cohort": "P10",
+      "micro": "M09",
+      "role": "child",
+      "group": "P10G07",
+      "xy": [
+        37.15250029662195,
+        46.98107441796052
+      ],
+      "place": "Cottage_07",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Children/caregiver joined the existing household. Their grouped presence was not guaranteed safety, but no selected attack corridor intersected their final room in this branch; Blood followed other signals.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P10G07:05",
+      "source_cohort": "P10",
+      "micro": "M09",
+      "role": "child",
+      "group": "P10G07",
+      "xy": [
+        37.80250029662195,
+        46.98107441796052
+      ],
+      "place": "Cottage_07",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Children/caregiver joined the existing household. Their grouped presence was not guaranteed safety, but no selected attack corridor intersected their final room in this branch; Blood followed other signals.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P14G01:01",
+      "source_cohort": "P14",
+      "micro": null,
+      "role": "household SplitRoofCottage",
+      "group": "P14G01",
+      "xy": [
+        54.54936134675863,
+        52.50877321473297
+      ],
+      "place": "SplitRoofCottage",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Household and animal-yard resident remained in the eastern cottage. The final nearby wave struck the other edge refuge; this footprint lay outside it.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P14G01:02",
+      "source_cohort": "P14",
+      "micro": null,
+      "role": "household SplitRoofCottage",
+      "group": "P14G01",
+      "xy": [
+        55.19936134675863,
+        52.50877321473297
+      ],
+      "place": "SplitRoofCottage",
+      "injured": false,
+      "intention": "household stays together inside and listens; exact threat unknown",
+      "why_survived": "Household and animal-yard resident remained in the eastern cottage. The final nearby wave struck the other edge refuge; this footprint lay outside it.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P14G04:01",
+      "source_cohort": "P14",
+      "micro": null,
+      "role": "animal-yard resident",
+      "group": "P14G04",
+      "xy": [
+        55.19936134675863,
+        52.90877321473297
+      ],
+      "place": "SplitRoofCottage",
+      "injured": false,
+      "intention": "inside chosen refuge / household; tries to close entrance and quiet companions",
+      "why_survived": "Household and animal-yard resident remained in the eastern cottage. The final nearby wave struck the other edge refuge; this footprint lay outside it.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P16G03:01",
+      "source_cohort": "P16",
+      "micro": null,
+      "role": "service guard",
+      "group": "P16G03",
+      "xy": [
+        1.70175531794579,
+        145.99999999999994
+      ],
+      "place": "MayorHall",
+      "injured": false,
+      "intention": "recoils from the personal confrontation; no escape outcome assigned",
+      "why_survived": "Staff, two guards and delivery people remained on the estate. They recoiled from Witch securing the Mayor; she did not hunt them, and neither monster reached their occupied room before the terminal death.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P16G04:01",
+      "source_cohort": "P16",
+      "micro": null,
+      "role": "house duty guard",
+      "group": "P16G04",
+      "xy": [
+        1.0,
+        137.5
+      ],
+      "place": "MayorHall",
+      "injured": false,
+      "intention": "recoils from the personal confrontation; no escape outcome assigned",
+      "why_survived": "Staff, two guards and delivery people remained on the estate. They recoiled from Witch securing the Mayor; she did not hunt them, and neither monster reached their occupied room before the terminal death.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P16G05:01",
+      "source_cohort": "P16",
+      "micro": null,
+      "role": "resident house staff",
+      "group": "P16G05",
+      "xy": [
+        6.35,
+        144.6
+      ],
+      "place": "MayorHall",
+      "injured": false,
+      "intention": "recoils from the personal confrontation; no escape outcome assigned",
+      "why_survived": "Staff, two guards and delivery people remained on the estate. They recoiled from Witch securing the Mayor; she did not hunt them, and neither monster reached their occupied room before the terminal death.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P16G05:02",
+      "source_cohort": "P16",
+      "micro": null,
+      "role": "resident house staff",
+      "group": "P16G05",
+      "xy": [
+        7.0,
+        144.6
+      ],
+      "place": "MayorHall",
+      "injured": false,
+      "intention": "recoils from the personal confrontation; no escape outcome assigned",
+      "why_survived": "Staff, two guards and delivery people remained on the estate. They recoiled from Witch securing the Mayor; she did not hunt them, and neither monster reached their occupied room before the terminal death.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P16G05:03",
+      "source_cohort": "P16",
+      "micro": null,
+      "role": "resident house staff",
+      "group": "P16G05",
+      "xy": [
+        7.65,
+        144.6
+      ],
+      "place": "MayorHall",
+      "injured": false,
+      "intention": "recoils from the personal confrontation; no escape outcome assigned",
+      "why_survived": "Staff, two guards and delivery people remained on the estate. They recoiled from Witch securing the Mayor; she did not hunt them, and neither monster reached their occupied room before the terminal death.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P16G06:01",
+      "source_cohort": "P16",
+      "micro": null,
+      "role": "stable worker",
+      "group": "P16G06",
+      "xy": [
+        1.70175531794579,
+        145.99999999999994
+      ],
+      "place": "MayorHall",
+      "injured": false,
+      "intention": "recoils from the personal confrontation; no escape outcome assigned",
+      "why_survived": "Staff, two guards and delivery people remained on the estate. They recoiled from Witch securing the Mayor; she did not hunt them, and neither monster reached their occupied room before the terminal death.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P17G01:01",
+      "source_cohort": "P17",
+      "micro": "M12",
+      "role": "provisions cart pair",
+      "group": "P17G01",
+      "xy": [
+        1.0517553179457901,
+        145.59999999999994
+      ],
+      "place": "MayorHall",
+      "injured": false,
+      "intention": "recoils from the personal confrontation; no escape outcome assigned",
+      "why_survived": "Staff, two guards and delivery people remained on the estate. They recoiled from Witch securing the Mayor; she did not hunt them, and neither monster reached their occupied room before the terminal death.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    },
+    {
+      "id": "P17G01:02",
+      "source_cohort": "P17",
+      "micro": "M12",
+      "role": "provisions cart pair",
+      "group": "P17G01",
+      "xy": [
+        1.70175531794579,
+        145.59999999999994
+      ],
+      "place": "MayorHall",
+      "injured": false,
+      "intention": "recoils from the personal confrontation; no escape outcome assigned",
+      "why_survived": "Staff, two guards and delivery people remained on the estate. They recoiled from Witch securing the Mayor; she did not hunt them, and neither monster reached their occupied room before the terminal death.",
+      "canon_status": "Provisional failed-branch result; no new survivor lore locked."
+    }
+  ],
+  "narrative_verdict": "FAIL: 58 survivors; near-total-massacre premise not achieved. No quota deaths or post-Mayor cleanup."
+}

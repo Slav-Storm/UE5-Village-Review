@@ -1,0 +1,113 @@
+id,cohort,role,time,actor,event,x_m,y_m,intention,direct_death_witness_groups,building,accessible_blood_units_generated
+P01G02:01,P01,middle-strip workers,109.80494150079625,Barrier,V2E011,60.66840055135362,-38.0,field workers try the near field edge toward woodland,"[""P01G02""]",,1.0
+P02G01:01,P02,remaining field workers,110.85683340942796,Barrier,V2E013,-70.45661679602753,-48.0,field workers try the near field edge toward woodland,"[""P02G01""]",,1.0
+P05G01:01,P05,M01 handcart worker,4,Bone,E01,-0.7454818255216089,-11.116566489395732,M01 handcart worker,"""preserved T1/Step2B record""",,1.0
+P05G02:01,P05,M01 accompanying worker,6,Bone,E02,-1.1954818255216089,-11.666566489395732,M01 accompanying worker,"""preserved T1/Step2B record""",,1.0
+P05G03:01,P05,recoiled agricultural witnesses,157.1999407340808,Barrier,V2E029,-1.5262873000506019,-163.7397366354071,"tries the known approach or nearby clearing exit, not knowing contact is lethal","[""P05G03""]",,1.0
+P06G01:01,P06,household NeedleHouse,156.5,Blood,V2E028,2.153019047486295,20.820845540683067,household stays together inside and listens; exact threat unknown,[],NeedleHouse,1.0
+P06G01:02,P06,household NeedleHouse,156.5,Blood,V2E028,2.803019047486295,20.820845540683067,household stays together inside and listens; exact threat unknown,[],NeedleHouse,1.0
+P06G04:01,P06,household Cottage_09,146.0,Blood,V2E026,-14.877399970580123,29.341668653450334,leaves locally threatened position for familiar cover; no knowledge of later target,[],,1.0
+P06G05:01,P06,yard NeedleHouse,156.5,Blood,V2E028,2.803019047486295,21.220845540683065,inside chosen refuge / household; tries to close entrance and quiet companions,[],NeedleHouse,1.0
+P06G08:01,P06,yard Cottage_09,146.0,Blood,V2E026,-14.877399970580123,29.341668653450334,leaves locally threatened position for familiar cover; no knowledge of later target,[],,1.0
+P06G09:01,P06,parent,115.0,Bone,V2E016,-34.949999999999996,8.799999999999999,"parent holds child still at coop, knowing Bone is watching","[""P06G09""]",,1.0
+P07G01:01,P07,smith and apprentice,243.8531872062193,Blood,V2E049,-41.88213438159804,37.88402912726026,shuts work yard and heads toward household after no useful reply,[],WeaverCottage,1.0
+P07G01:02,P07,smith and apprentice,243.8531872062193,Blood,V2E049,-41.232134381598044,37.88402912726026,shuts work yard and heads toward household after no useful reply,[],WeaverCottage,1.0
+P07G02:01,P07,repair customer,179.54736153835947,Blood,V2E035,-28.70080697669929,47.735625027594516,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_10,1.0
+P07G03:01,P07,assistant walking home,45,Bone,B11,-28.401767137845624,37.62347907123548,assistant walking home,"""preserved T1/Step2B record""",,1.0
+P08G01:01,P08,water carriers,229.15603324227774,Blood,V2E047,-38.549308185831045,50.36175294041746,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_05,1.0
+P08G01:02,P08,water carriers,229.15603324227774,Blood,V2E047,-37.899308185831046,50.36175294041746,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_05,1.0
+P08G02:01,P08,struck well users,56,Blood,E03,-4.0,49.0,struck well users,"""preserved T1/Step2B record""",,1.0
+P08G02:02,P08,struck well users,56,Blood,E03,-4.0,49.0,struck well users,"""preserved T1/Step2B record""",,1.0
+P08G03:01,P08,struck stall workers,56,Blood,E03,3.0,49.0,struck stall workers,"""preserved T1/Step2B record""",,1.0
+P08G03:02,P08,struck stall workers,56,Blood,E03,3.0,49.0,struck stall workers,"""preserved T1/Step2B record""",,1.0
+P08G04:01,P08,injured stall pair west,104.0,Blood,V2E010,-0.8616205945327241,56.499535051459056,leaves locally threatened position for familiar cover; no knowledge of later target,[],,1.0
+P08G04:02,P08,injured stall pair west,104.0,Blood,V2E010,-0.21162059453272408,56.499535051459056,leaves locally threatened position for familiar cover; no knowledge of later target,[],,1.0
+P08G05:01,P08,injured stall pair east,104.0,Blood,V2E010,0.1244113132555239,57.35600268333799,leaves locally threatened position for familiar cover; no knowledge of later target,"[""P10G09""]",,1.0
+P08G05:02,P08,injured stall pair east,104.0,Blood,V2E010,0.7744113132555239,57.35600268333799,leaves locally threatened position for familiar cover; no knowledge of later target,"[""P10G09""]",,1.0
+P08G06:01,P08,western warning neighbour,135.5,Blood,V2E023,-14.260708779836456,58.04842827233592,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_02,1.0
+P08G07:01,P08,frontage neighbours,135.5,Blood,V2E023,-14.910708779836456,57.64842827233592,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_02,1.0
+P08G07:02,P08,frontage neighbours,135.5,Blood,V2E023,-14.260708779836456,57.64842827233592,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_02,1.0
+P08G07:03,P08,frontage neighbours,135.5,Blood,V2E023,-13.610708779836456,57.64842827233592,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_02,1.0
+P08G07:04,P08,frontage neighbours,135.5,Blood,V2E023,-14.910708779836456,58.29842827233592,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_02,1.0
+P08G07:05,P08,frontage neighbours,135.5,Blood,V2E023,-14.260708779836456,58.29842827233592,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_02,1.0
+P08G08:01,P08,passers already in old quarter,167.0,Blood,V2E032,19.629652213804892,36.49310554021235,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_01,1.0
+P08G08:02,P08,passers already in old quarter,167.0,Blood,V2E032,20.27965221380489,36.49310554021235,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_01,1.0
+P08G08:03,P08,passers already in old quarter,167.0,Blood,V2E032,20.92965221380489,36.49310554021235,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_01,1.0
+P08G09:01,P08,eastern junction passers,312.06143128813426,Blood,V2E057,-11.214044664642588,91.08448793274292,inside chosen refuge / household; tries to close entrance and quiet companions,[],UpperCottage,1.0
+P08G09:02,P08,eastern junction passers,312.06143128813426,Blood,V2E057,-10.564044664642587,91.08448793274292,inside chosen refuge / household; tries to close entrance and quiet companions,[],UpperCottage,1.0
+P08G09:03,P08,eastern junction passers,312.06143128813426,Blood,V2E057,-9.914044664642587,91.08448793274292,inside chosen refuge / household; tries to close entrance and quiet companions,[],UpperCottage,1.0
+P08G09:04,P08,eastern junction passers,312.06143128813426,Blood,V2E057,-11.214044664642588,91.73448793274292,inside chosen refuge / household; tries to close entrance and quiet companions,[],UpperCottage,1.0
+P08G10:01,P08,western junction passers,258.5379272636854,Blood,V2E051,-45.9996550612422,62.192764474378116,inside chosen refuge / household; tries to close entrance and quiet companions,[],RearCottage,1.0
+P08G10:02,P08,western junction passers,258.5379272636854,Blood,V2E051,-45.3496550612422,62.192764474378116,inside chosen refuge / household; tries to close entrance and quiet companions,[],RearCottage,1.0
+P08G10:03,P08,western junction passers,258.5379272636854,Blood,V2E051,-44.699655061242204,62.192764474378116,inside chosen refuge / household; tries to close entrance and quiet companions,[],RearCottage,1.0
+P09G01:01,P09,indoor customers and staff,125.0,Blood,V2E018,5.63189057712183,34.07847219638517,customers pause conversation and shelter together behind tavern walls,[],Tavern,1.0
+P09G01:02,P09,indoor customers and staff,125.0,Blood,V2E018,6.28189057712183,34.07847219638517,customers pause conversation and shelter together behind tavern walls,[],Tavern,1.0
+P09G01:03,P09,indoor customers and staff,125.0,Blood,V2E018,6.93189057712183,34.07847219638517,customers pause conversation and shelter together behind tavern walls,[],Tavern,1.0
+P09G01:04,P09,indoor customers and staff,125.0,Blood,V2E018,5.63189057712183,34.72847219638517,customers pause conversation and shelter together behind tavern walls,[],Tavern,1.0
+P09G01:05,P09,indoor customers and staff,125.0,Blood,V2E018,6.28189057712183,34.72847219638517,customers pause conversation and shelter together behind tavern walls,[],Tavern,1.0
+P09G01:06,P09,indoor customers and staff,125.0,Blood,V2E018,6.93189057712183,34.72847219638517,customers pause conversation and shelter together behind tavern walls,[],Tavern,1.0
+P09G01:07,P09,indoor customers and staff,125.0,Blood,V2E018,5.63189057712183,35.37847219638517,customers pause conversation and shelter together behind tavern walls,[],Tavern,1.0
+P09G02:01,P09,porch customers,125.0,Blood,V2E018,5.63189057712183,34.07847219638517,inside chosen refuge / household; tries to close entrance and quiet companions,[],Tavern,1.0
+P09G02:02,P09,porch customers,125.0,Blood,V2E018,6.28189057712183,34.07847219638517,inside chosen refuge / household; tries to close entrance and quiet companions,[],Tavern,1.0
+P09G02:03,P09,porch customers,125.0,Blood,V2E018,6.93189057712183,34.07847219638517,inside chosen refuge / household; tries to close entrance and quiet companions,[],Tavern,1.0
+P09G02:04,P09,porch customers,125.0,Blood,V2E018,5.63189057712183,34.72847219638517,inside chosen refuge / household; tries to close entrance and quiet companions,[],Tavern,1.0
+P09G03:01,P09,receiving staff and delivery hand,125.0,Blood,V2E018,5.63189057712183,34.07847219638517,inside chosen refuge / household; tries to close entrance and quiet companions,[],Tavern,1.0
+P09G03:02,P09,receiving staff and delivery hand,125.0,Blood,V2E018,6.28189057712183,34.07847219638517,inside chosen refuge / household; tries to close entrance and quiet companions,[],Tavern,1.0
+P09G03:03,P09,receiving staff and delivery hand,125.0,Blood,V2E018,6.93189057712183,34.07847219638517,inside chosen refuge / household; tries to close entrance and quiet companions,[],Tavern,1.0
+P10G02:01,P10,household Cottage_01,167.0,Blood,V2E032,19.629652213804892,36.49310554021235,household stays together inside and listens; exact threat unknown,[],Cottage_01,1.0
+P10G02:02,P10,household Cottage_01,167.0,Blood,V2E032,20.27965221380489,36.49310554021235,household stays together inside and listens; exact threat unknown,[],Cottage_01,1.0
+P10G02:03,P10,household Cottage_01,167.0,Blood,V2E032,20.92965221380489,36.49310554021235,household stays together inside and listens; exact threat unknown,[],Cottage_01,1.0
+P10G03:01,P10,household Cottage_06,343.0398812696686,Blood,V2E060,22.85000000000001,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P10G03:02,P10,household Cottage_06,343.0398812696686,Blood,V2E060,23.500000000000007,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P10G03:03,P10,household Cottage_06,343.0398812696686,Blood,V2E060,24.150000000000006,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P10G05:01,P10,household Cottage_12,167.0,Blood,V2E032,26.08205604889141,41.970086076156385,household stays together inside and listens; exact threat unknown,[],Cottage_12,1.0
+P10G05:02,P10,household Cottage_12,167.0,Blood,V2E032,26.73205604889141,41.970086076156385,household stays together inside and listens; exact threat unknown,[],Cottage_12,1.0
+P10G08:01,P10,yard resident,343.0398812696686,Blood,V2E060,23.500000000000007,97.65569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P10G09:01,P10,alley walkers,343.0398812696686,Blood,V2E060,22.85000000000001,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P10G09:02,P10,alley walkers,343.0398812696686,Blood,V2E060,23.500000000000007,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P11G01:01,P11,household CrushedHome,202.95155896823738,Blood,V2E042,-28.533072446806237,60.79427883797796,household stays together inside and listens; exact threat unknown,[],CrushedHome,1.0
+P11G01:02,P11,household CrushedHome,202.95155896823738,Blood,V2E042,-27.88307244680624,60.79427883797796,household stays together inside and listens; exact threat unknown,[],CrushedHome,1.0
+P11G02:01,P11,household RearCottage,258.5379272636854,Blood,V2E051,-45.9996550612422,62.192764474378116,household stays together inside and listens; exact threat unknown,[],RearCottage,1.0
+P11G02:02,P11,household RearCottage,258.5379272636854,Blood,V2E051,-45.3496550612422,62.192764474378116,household stays together inside and listens; exact threat unknown,[],RearCottage,1.0
+P11G03:01,P11,household EndRowCottage,276.8248737730833,Blood,V2E053,-49.467499959784995,76.73793811959615,household stays together inside and listens; exact threat unknown,[],EndRowCottage,1.0
+P11G03:02,P11,household EndRowCottage,276.8248737730833,Blood,V2E053,-48.817499959784996,76.73793811959615,household stays together inside and listens; exact threat unknown,[],EndRowCottage,1.0
+P11G04:01,P11,household WeaverCottage,243.8531872062193,Blood,V2E049,-41.88213438159804,37.88402912726026,household stays together inside and listens; exact threat unknown,[],WeaverCottage,1.0
+P11G04:02,P11,household WeaverCottage,243.8531872062193,Blood,V2E049,-41.232134381598044,37.88402912726026,household stays together inside and listens; exact threat unknown,[],WeaverCottage,1.0
+P11G05:01,P11,household Cottage_02,135.5,Blood,V2E023,-14.910708779836456,57.64842827233592,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_02,1.0
+P11G05:02,P11,household Cottage_02,135.5,Blood,V2E023,-14.260708779836456,57.64842827233592,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_02,1.0
+P11G06:01,P11,household Cottage_05,229.15603324227774,Blood,V2E047,-38.549308185831045,50.36175294041746,household stays together inside and listens; exact threat unknown,[],Cottage_05,1.0
+P11G06:02,P11,household Cottage_05,229.15603324227774,Blood,V2E047,-37.899308185831046,50.36175294041746,household stays together inside and listens; exact threat unknown,[],Cottage_05,1.0
+P11G07:01,P11,household Cottage_10,179.54736153835947,Blood,V2E035,-29.35080697669929,47.33562502759452,household stays together inside and listens; exact threat unknown,[],Cottage_10,1.0
+P11G07:02,P11,household Cottage_10,179.54736153835947,Blood,V2E035,-28.70080697669929,47.33562502759452,household stays together inside and listens; exact threat unknown,[],Cottage_10,1.0
+P11G08:01,P11,firewood carrier,202.95155896823738,Blood,V2E042,-27.88307244680624,61.19427883797796,inside chosen refuge / household; tries to close entrance and quiet companions,[],CrushedHome,1.0
+P11G09:01,P11,yard neighbours,343.0398812696686,Blood,V2E060,22.85000000000001,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P11G09:02,P11,yard neighbours,343.0398812696686,Blood,V2E060,23.500000000000007,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P11G10:01,P11,washing household,258.5379272636854,Blood,V2E051,-45.9996550612422,62.192764474378116,inside chosen refuge / household; tries to close entrance and quiet companions,[],RearCottage,1.0
+P11G10:02,P11,washing household,258.5379272636854,Blood,V2E051,-45.3496550612422,62.192764474378116,inside chosen refuge / household; tries to close entrance and quiet companions,[],RearCottage,1.0
+P11G10:03,P11,washing household,258.5379272636854,Blood,V2E051,-44.699655061242204,62.192764474378116,inside chosen refuge / household; tries to close entrance and quiet companions,[],RearCottage,1.0
+P11G11:01,P11,between-yard walkers,343.0398812696686,Blood,V2E060,22.85000000000001,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P11G11:02,P11,between-yard walkers,343.0398812696686,Blood,V2E060,23.500000000000007,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P12G01:01,P12,household AbandonedCottage,192.45155896823738,Blood,V2E039,-12.420161950686403,71.35979490611692,household stays together inside and listens; exact threat unknown,[],AbandonedCottage,1.0
+P12G01:02,P12,household AbandonedCottage,192.45155896823738,Blood,V2E039,-11.770161950686402,71.35979490611692,household stays together inside and listens; exact threat unknown,[],AbandonedCottage,1.0
+P12G02:01,P12,household UpperCottage,343.0398812696686,Blood,V2E060,22.85000000000001,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P12G02:02,P12,household UpperCottage,343.0398812696686,Blood,V2E060,23.500000000000007,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P12G03:01,P12,household SealedCellarCottage,296.3248737730833,Blood,V2E055,-43.21494839082513,95.40799058682934,household stays together inside and listens; exact threat unknown,[],SealedCellarCottage,1.0
+P12G03:02,P12,household SealedCellarCottage,296.3248737730833,Blood,V2E055,-42.56494839082513,95.40799058682934,household stays together inside and listens; exact threat unknown,[],SealedCellarCottage,1.0
+P12G04:01,P12,household Cottage_03,312.06143128813426,Blood,V2E057,1.1553491138234389,88.36703122568291,household stays together inside and listens; exact threat unknown,[],Cottage_03,1.0
+P12G04:02,P12,household Cottage_03,312.06143128813426,Blood,V2E057,1.805349113823439,88.36703122568291,household stays together inside and listens; exact threat unknown,[],Cottage_03,1.0
+P12G05:01,P12,household Cottage_11,213.45155896823738,Blood,V2E044,6.6379644646674025,70.49099528457265,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_11,1.0
+P12G05:02,P12,household Cottage_11,213.45155896823738,Blood,V2E044,7.287964464667403,70.49099528457265,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_11,1.0
+P12G06:01,P12,upper garden pair,343.0398812696686,Blood,V2E060,22.85000000000001,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P12G06:02,P12,upper garden pair,343.0398812696686,Blood,V2E060,23.500000000000007,97.25569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P12G07:01,P12,middle yard resident,213.45155896823738,Blood,V2E044,7.287964464667403,70.89099528457265,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_11,1.0
+P12G08:01,P12,returning upper resident,312.06143128813426,Blood,V2E057,-10.564044664642587,91.48448793274292,inside chosen refuge / household; tries to close entrance and quiet companions,[],UpperCottage,1.0
+P13G01:01,P13,church caretaker,343.0398812696686,Blood,V2E060,23.500000000000007,97.65569151098175,inside chosen refuge / household; tries to close entrance and quiet companions,[],Church,1.0
+P14G02:01,P14,household Cottage_08,368.07626054684533,Blood,V2E062,49.85795002114778,73.63869995821119,household stays together inside and listens; exact threat unknown,[],Cottage_08,1.0
+P14G02:02,P14,household Cottage_08,368.07626054684533,Blood,V2E062,50.50795002114778,73.63869995821119,household stays together inside and listens; exact threat unknown,[],Cottage_08,1.0
+P14G03:01,P14,animal-yard pair,98.54466076292678,Barrier,V2E007,73.38038937326822,60.0,tries nearby woodland exit after blackout; boundary behaviour unknown,"[""P14G03""]",,1.0
+P14G03:02,P14,animal-yard pair,368.07626054684533,Blood,V2E062,50.50795002114778,73.63869995821119,inside chosen refuge / household; tries to close entrance and quiet companions,[],Cottage_08,1.0
+P15G01:01,P15,returning woodcutters,109.96225323581285,Barrier,V2E012,-79.72578611867121,70.31556044675717,tests familiar forest working trail beyond the observed sheet,"[""P15G01""]",,1.0
+P15G01:02,P15,returning woodcutters,258.5379272636854,Blood,V2E051,-45.3496550612422,62.192764474378116,inside chosen refuge / household; tries to close entrance and quiet companions,[],RearCottage,1.0
+P15G01:03,P15,returning woodcutters,258.5379272636854,Blood,V2E051,-44.699655061242204,62.192764474378116,inside chosen refuge / household; tries to close entrance and quiet companions,[],RearCottage,1.0
+P16G01:01,P16,Mayor,373.9233248158662,Witch,V2E063,2.0,146.0,secured by Witch,"[""P16G03"", ""P16G04"", ""P16G05"", ""P16G06"", ""P17G01""]",MayorHall,1.0
+P16G02:01,P16,entrance guard,213.94709244649798,Bone,V2E045,-4,100,"recognized guard retreats uphill, tries to keep Bone away from nearby people",[],,1.0

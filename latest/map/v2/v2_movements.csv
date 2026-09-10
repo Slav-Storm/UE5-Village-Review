@@ -1,0 +1,79 @@
+id,group,start,intended_end,executed_end,speed_m_s,executed_length_m,purpose,why
+V2M0001,P01G01,90.0,102.58411361971993,102.58411361971993,1.9,23.909815877467864,shelter,farm workers return to their household to find family and understand darkness
+V2M0002,P01G02,90.0,109.80494150079625,109.80494150079625,1.7,33.66840055135362,boundary,field workers try the near field edge toward woodland
+V2M0003,P01G03,90.0,98.57658153696951,98.57658153696951,1.9,16.295504920242067,shelter,farm workers return to their household to find family and understand darkness
+V2M0004,P02G01,90.0,110.85683340942796,110.85683340942796,1.7,35.45661679602753,boundary,field workers try the near field edge toward woodland
+V2M0005,P02G02,90.0,102.09063876158417,102.09063876158417,1.9,22.972213647009923,shelter,farm workers return to their household to find family and understand darkness
+V2M0006,P02G03,90.0,101.88661356221033,101.88661356221033,1.9,22.584565768199617,shelter,farm workers return to their household to find family and understand darkness
+V2M0007,P02G04,90.0,101.88661356221033,101.88661356221033,1.9,22.584565768199617,shelter,farm workers return to their household to find family and understand darkness
+V2M0008,P03G02,90.0,98.56757548456278,98.56757548456278,1.9,16.278393420669282,shelter,farm workers return to their household to find family and understand darkness
+V2M0009,P04G02,90.0,104.5445881153517,104.5445881153517,1.9,27.63471741916822,shelter,farm workers return to their household to find family and understand darkness
+V2M0010,P04G03,90.0,97.36945416033636,97.36945416033636,1.9,14.001962904639083,shelter,farm workers return to their household to find family and understand darkness
+V2M0011,P05G03,90.0,157.1999407340808,157.1999407340808,2.15,144.4798725782737,boundary,"tries the known approach or nearby clearing exit, not knowing contact is lethal"
+V2M0012,P06G05,90.0,93.23191719668671,93.23191719668671,1.9,6.140642673704747,shelter,returns to household/family rather than unexplained darkness
+V2M0013,P06G06,90.0,93.28250851620346,93.28250851620346,1.9,6.2367661807865815,shelter,returns to household/family rather than unexplained darkness
+V2M0014,P06G07,90.0,92.40379027537165,92.40379027537165,1.9,4.567201523206131,shelter,returns to household/family rather than unexplained darkness
+V2M0015,P06G08,90.0,93.55641973687514,93.55641973687514,1.9,6.757197500062763,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0016,P07G02,90.0,156.27407014356504,103.38072774289539,2.15,28.768564647225084,boundary,"tries the known approach or nearby clearing exit, not knowing contact is lethal"
+V2M0017,P08G01,90.0,103.925419684013,103.925419684013,1.9,26.458297399624684,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0018,P08G04,90.0,190.2419903684727,104.0,0.6,8.4,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0019,P08G05,90.0,189.13133935466044,104.0,0.6,8.4,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0020,P08G06,90.0,101.15876519011924,101.15876519011924,1.9,21.201653861226553,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0021,P08G07,90.0,103.24181587206533,103.24181587206533,1.9,25.15945015692412,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0022,P08G08,90.0,93.31284219984323,93.31284219984323,1.9,6.29440017970214,shelter,returns to household/family rather than unexplained darkness
+V2M0023,P08G09,90.0,122.55029803516238,122.55029803516238,1.9,61.845566266808525,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0024,P08G10,90.0,118.23074788213623,118.23074788213623,1.9,53.63842097605883,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0025,P09G02,90.0,94.71944865399095,94.71944865399095,1.9,8.966952442582809,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0026,P09G03,90.0,106.49470476897787,106.49470476897787,1.9,31.339939061057937,shelter,tavern workers/customers draw inside together after nearby violence
+V2M0027,P10G06,90.0,97.56366006947704,97.56366006947704,1.9,14.370954132006371,shelter,returns to household/family rather than unexplained darkness
+V2M0028,P10G07,90.0,102.27182561249275,102.27182561249275,1.45,17.794147138114475,shelter,returns to household/family rather than unexplained darkness
+V2M0029,P10G08,90.0,94.57539757366406,94.57539757366406,1.9,8.69325538996171,shelter,returns to household/family rather than unexplained darkness
+V2M0030,P10G09,90.0,118.27369697182303,100.5,1.7,17.849999999999998,authority,seeks help toward church and the road to the Mayor
+V2M0031,P11G08,90.0,99.26743602227444,99.26743602227444,1.9,17.608128442321426,shelter,returns to household/family rather than unexplained darkness
+V2M0032,P11G09,90.0,97.94104392065013,97.94104392065013,1.9,15.087983449235248,shelter,returns to household/family rather than unexplained darkness
+V2M0033,P11G10,90.0,103.29558545043666,103.29558545043666,1.9,25.261612355829644,shelter,returns to household/family rather than unexplained darkness
+V2M0034,P11G11,90.0,116.50767494688276,116.50767494688276,1.7,45.06304740970069,authority,seeks help toward church and the road to the Mayor
+V2M0035,P12G06,90.0,99.98273577065245,99.98273577065245,1.9,18.967197964239663,shelter,returns to household/family rather than unexplained darkness
+V2M0036,P12G07,90.0,98.83148201689482,98.83148201689482,1.9,16.779815832100166,shelter,returns to household/family rather than unexplained darkness
+V2M0037,P12G08,90.0,97.00655476328204,97.00655476328204,1.9,13.312454050235875,shelter,returns to household/family rather than unexplained darkness
+V2M0038,P13G01,90.0,91.91999999999999,91.91999999999999,1.25,2.3999999999999844,bell,moves to accessible bell rope to signal a public emergency
+V2M0039,P14G03,90.0,98.54466076292678,98.54466076292678,1.8,15.380389373268207,boundary,tries nearby woodland exit after blackout; boundary behaviour unknown
+V2M0040,P14G04,90.0,99.62153998574392,99.62153998574392,1.9,18.28092597291345,shelter,returns to household/family rather than unexplained darkness
+V2M0041,P15G01,90.0,109.96225323581285,109.96225323581285,1.65,32.9377178390912,boundary,tests familiar forest working trail beyond the observed sheet
+V2M0042,P16G03,90.0,104.07346794503758,104.07346794503758,1.6,22.517548712060115,report,service guard carries his own enclosure observation to the house
+V2M0043,P17G01,90.0,127.45081181074903,127.45081181074903,1.0,37.45081181074903,delivery,cart crew takes enclosure concern and provisions to estate service access
+V2M0044,P07G01,92.0,114.24662303387844,114.24662303387844,1.9,42.268583764369026,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0045,P16G02,93.91999999999999,124.61123870414141,124.61123870414141,1.55,47.57141999141921,investigate,bell confirms public emergency; entrance guard descends toward callers at the upper junction
+V2M0046,P14G03,98.54466076292678,116.98862725737155,116.98862725737155,1.9,35.043536339445055,shelter,witnessed boundary strike; retreats to shelter and warns within earshot
+V2M0047,P10G09,100.5,125.40287533969067,125.40287533969067,1.9,47.31546314541227,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0048,P07G02,103.38072774289539,130.66125778820367,130.66125778820367,1.9,51.83300708608573,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0049,P01G02,109.80494150079625,145.04328979034358,145.04328979034358,1.9,66.9528617501399,shelter,witnessed boundary strike; retreats to shelter and warns within earshot
+V2M0050,P15G01,109.96225323581285,129.15397041461,129.15397041461,1.9,36.46426263971458,shelter,witnessed boundary strike; retreats to shelter and warns within earshot
+V2M0051,P02G01,110.85683340942796,145.60542005357166,145.60542005357166,1.9,66.02231462387303,shelter,witnessed boundary strike; retreats to shelter and warns within earshot
+V2M0052,P10G03,114.0,156.17532233999157,156.17532233999157,1.9,80.13311244598395,shelter,household chooses public church shelter after emergency bell; no promise of safety
+V2M0053,P10G08,114.0,156.17532233999157,156.17532233999157,1.9,80.13311244598395,shelter,household chooses public church shelter after emergency bell; no promise of safety
+V2M0054,P11G05,114.0,147.41983265880228,114.5,1.9,0.95,shelter,household chooses public church shelter after emergency bell; no promise of safety
+V2M0055,P11G09,114.0,162.07331438567866,162.07331438567866,1.9,91.33929733278944,shelter,household chooses public church shelter after emergency bell; no promise of safety
+V2M0056,P12G02,114.0,145.28633045300484,145.28633045300484,1.9,59.44402786070917,shelter,household chooses public church shelter after emergency bell; no promise of safety
+V2M0057,P12G05,114.0,138.94360968598536,121.5,1.9,14.25,shelter,household chooses public church shelter after emergency bell; no promise of safety
+V2M0058,P12G06,114.0,145.28633045300484,145.28633045300484,1.9,59.44402786070917,shelter,household chooses public church shelter after emergency bell; no promise of safety
+V2M0059,P11G05,114.5,119.75154474113512,119.75154474113512,1.9,9.977935008156724,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0060,P06G09,115.0,154.74184317518186,125.0,1.45,14.5,shelter,surviving child seeks household cover after the parent is struck
+V2M0061,P16G03,116.50767494688276,128.71404850972098,128.71404850972098,1.5,18.309560344257317,service,returns to service access to organize staff and incoming cart
+V2M0062,P12G05,121.5,129.0,129.0,1.9,14.249999999999998,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0063,P06G09,125.0,135.24274131673332,128.61917469007383,1.45,5.247803300607059,shelter,surviving child seeks household cover after the parent is struck
+V2M0064,P06G09,128.61917469007383,162.43193174913014,135.5,1.45,9.977196699392941,shelter,surviving child seeks household cover after the parent is struck
+V2M0065,P06G09,135.5,148.16959586720424,148.16959586720424,1.45,18.37091400744613,shelter,surviving child seeks household cover after the parent is struck
+V2M0066,P06G04,141.55845930690876,161.57211472011213,146.0,1.9,8.438927316873357,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0067,P06G08,141.55845930690876,161.57211472011213,146.0,1.9,8.438927316873357,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0068,P05G03,157.1999407340808,223.58319810665552,223.58319810665552,1.9,126.12818900789196,shelter,turns back along the familiar farmland approach after boundary strike; no nearby safe shelter is known
+V2M0069,P11G11,165.94709244649798,189.9355179841452,183.5705951813561,1.9,33.484655196230456,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0070,P13G01,165.94709244649798,191.15144335077122,178.00581064068638,1.9,22.91156456895796,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0071,P16G02,165.94709244649798,183.8504191744389,183.8504191744389,1.8,32.225988110293684,guard retreat,"recognized guard retreats uphill, tries to keep Bone away from nearby people"
+V2M0072,P13G01,178.00581064068638,196.1464717353915,196.1464717353915,1.9,34.46725607993971,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0073,P11G11,183.5705951813561,208.75245831932398,208.75245831932398,1.9,47.84553996213893,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0074,P16G03,183.5705951813561,198.0518548171447,198.0518548171447,1.9,27.514393307998287,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0075,P16G06,183.5705951813561,197.08333121534196,197.08333121534196,1.9,25.674198464573106,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0076,P17G01,183.5705951813561,197.56527097789376,197.56527097789376,1.9,26.589884013421532,shelter,leaves locally threatened position for familiar cover; no knowledge of later target
+V2M0077,P16G02,190.5024691980033,190.5024691980033,190.5024691980033,1.8,0.0,guard retreat,"recognized guard retreats uphill, tries to keep Bone away from nearby people"
+V2M0078,P16G02,196.94709244649798,196.94709244649798,196.94709244649798,1.8,0.0,guard retreat,"recognized guard retreats uphill, tries to keep Bone away from nearby people"
