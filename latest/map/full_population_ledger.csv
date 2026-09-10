@@ -1,0 +1,171 @@
+person,origin_cohort,current_group,role,alive,injured,death_event,death_time_s,attacker,attempted_activity,exposure,direct_barrier_level,received_barrier_warning
+R01:01,P01,R01,ordinary villager,True,False,,,,,,B1,False
+R01:02,P01,R01,ordinary villager,True,False,,,,,,B1,False
+R01:03,P01,R01,ordinary villager,True,False,,,,,,B1,False
+R02:01,P01,R02,ordinary villager,True,False,,,,,,B1,False
+R02:02,P01,R02,ordinary villager,True,False,,,,,,B1,False
+R03:01,P01,R03,ordinary villager,True,False,,,,,,B1,False
+R04:01,P02,R04L,ordinary villager,True,False,,,,,,B1,False
+R04:02,P02,R04,ordinary villager,True,False,,,,,,B1,False
+R05:01,P02,R05,ordinary villager,True,False,,,,,,B1,False
+R05:02,P02,R05,ordinary villager,True,False,,,,,,B1,False
+R06:01,P02,R06,ordinary villager,True,False,,,,,,B1,False
+R06:02,P02,R06,ordinary villager,True,False,,,,,,B1,False
+R07:01,P03,R07,ordinary villager,True,False,,,,,,B0,False
+R07:02,P03,R07,ordinary villager,True,False,,,,,,B0,False
+R07:03,P03,R07,ordinary villager,True,False,,,,,,B0,False
+R08:01,P03,R08,ordinary villager,True,False,,,,,,B1,False
+R08:02,P03,R08,ordinary villager,True,False,,,,,,B1,False
+R09:01,P03,R09,ordinary villager,True,False,,,,,,B1,False
+R09:02,P03,R09,ordinary villager,True,False,,,,,,B1,False
+R10:01,P04,R10,ordinary villager,True,False,,,,,,B0,False
+R10:02,P04,R10,ordinary villager,True,False,,,,,,B0,False
+R10:03,P04,R10,ordinary villager,True,False,,,,,,B0,False
+R11:01,P04,R11,ordinary villager,True,False,,,,,,B1,False
+R11:02,P04,R11,ordinary villager,True,False,,,,,,B1,False
+R12:01,P04,R12,ordinary villager,True,False,,,,,,B1,False
+R13:01,P05,R13,ordinary villager,True,False,,,,,,B1,False
+R13:02,P05,R13,ordinary villager,True,False,,,,,,B1,False
+R13:03,P05,R13,ordinary villager,True,False,,,,,,B1,False
+R13:04,P05,R13,ordinary villager,True,False,,,,,,B1,False
+R14:01,P06,R14,parent,True,False,,,,,,B0,False
+R14:02,P06,R14,child,True,False,,,,,,B0,False
+R15:01,P06,R15,ordinary villager,True,False,,,,,,B0,False
+R15:02,P06,R15,ordinary villager,True,False,,,,,,B0,False
+R15:03,P06,R15,ordinary villager,True,False,,,,,,B0,False
+R16:01,P06,R16,ordinary villager,True,False,,,,,,B0,False
+R16:02,P06,R16,ordinary villager,True,False,,,,,,B0,False
+R16:03,P06,R16,ordinary villager,True,False,,,,,,B0,False
+R17:01,P06,R17,ordinary villager,True,False,,,,,,B0,False
+R17:02,P06,R17,ordinary villager,True,False,,,,,,B0,False
+R18:01,P06,R18,ordinary villager,True,False,,,,,,B1,False
+R18:02,P06,R18,ordinary villager,True,False,,,,,,B1,False
+R19:01,P06,R19,ordinary villager,True,False,,,,,,B1,False
+R19:02,P06,R19,ordinary villager,True,False,,,,,,B1,False
+R20:01,P07,R20S,smith,False,False,A01_BONE_SMITH,117,Bone,protect,Smith stepped into the open attempting to protect the nearby parent/child; direct precise exposure.,B1,False
+R20:02,P07,R20,apprentice,True,False,,,,,,B1,False
+R21:01,P07,R21,ordinary villager,True,False,,,,,,B1,False
+R22:01,P08,R22,ordinary villager,False,False,E_BLOOD_2,108,Blood,HELP,Direct central mass of the broad surge. Already unable to stand while asking for help.,,False
+R22:02,P08,R22,ordinary villager,False,False,E_BLOOD_2,108,Blood,HELP,Direct central mass of the broad surge. Already unable to stand while asking for help.,,False
+R23:01,P08,R23,ordinary villager,True,True,,,,,,B0,False
+R24:01,P08,R24,ordinary villager,True,True,,,,,,B0,False
+R25:01,P08,R25,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,continue entry attempt,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B1,False
+R26:01,P08,R26,ordinary villager,False,False,E_BLOOD_2,108,Blood,HELP,"Direct central mass of the broad surge. Kneeling beside the non-ambulant people, beginning assistance.",,False
+R26:02,P08,R26,ordinary villager,False,False,E_BLOOD_2,108,Blood,HELP,"Direct central mass of the broad surge. Kneeling beside the non-ambulant people, beginning assistance.",,False
+R27:01,P08,R27,ordinary villager,True,False,,,,,,B1,False
+R28:01,P08,R28,ordinary villager,True,True,,,,,,B1,False
+R29:01,P08,R29,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,continue entry attempt,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B1,False
+R30:01,P08,R30,ordinary villager,True,False,,,,,,B1,False
+R30:02,P08,R30,ordinary villager,True,False,,,,,,B1,False
+R30:03,P08,R30,ordinary villager,True,False,,,,,,B1,False
+R31:01,P08,R31,ordinary villager,True,False,,,,,,B1,False
+R31:02,P08,R31,ordinary villager,True,False,,,,,,B1,False
+R32:01,P08,R32,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,continue entry attempt,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B1,False
+R32:02,P08,R32,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,continue entry attempt,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B1,False
+R33:01,P08,R33,ordinary villager,True,False,,,,,,B1,False
+R33:02,P08,R33,ordinary villager,True,False,,,,,,B1,False
+R34:01,P09,R34,ordinary villager,True,True,,,,,,B1,False
+R34:02,P09,R34,ordinary villager,True,True,,,,,,B1,False
+R35:01,P08,R35,ordinary villager,True,False,,,,,,B1,False
+R35:02,P08,R35,ordinary villager,True,False,,,,,,B1,False
+R35:03,P08,R35,ordinary villager,True,False,,,,,,B1,False
+R36:01,P09,R36,ordinary villager,True,False,,,,,,B1,False
+R36:02,P09,R36,ordinary villager,True,False,,,,,,B1,False
+R37:01,P09,R37,ordinary villager,True,False,,,,,,B0,False
+R37:02,P09,R37,ordinary villager,True,False,,,,,,B0,False
+R37:03,P09,R37,ordinary villager,True,False,,,,,,B0,False
+R38:01,P09,R38,ordinary villager,True,False,,,,,,B0,False
+R38:02,P09,R38,ordinary villager,True,False,,,,,,B0,False
+R38:03,P09,R38,ordinary villager,True,False,,,,,,B0,False
+R38:04,P09,R38,ordinary villager,True,False,,,,,,B0,False
+R39:01,P09,R39,ordinary villager,True,False,,,,,,B1,False
+R39:02,P09,R39,ordinary villager,True,False,,,,,,B1,False
+R39:03,P09,R39,ordinary villager,True,False,,,,,,B1,False
+R40:01,P10,R40,ordinary villager,True,False,,,,,,B0,False
+R40:02,P10,R40,ordinary villager,True,False,,,,,,B0,False
+R40:03,P10,R40,ordinary villager,True,False,,,,,,B0,False
+R40:04,P10,R40,ordinary villager,True,False,,,,,,B0,False
+R41:01,P10,R41,ordinary villager,True,False,,,,,,B0,False
+R41:02,P10,R41,ordinary villager,True,False,,,,,,B0,False
+R41:03,P10,R41,ordinary villager,True,False,,,,,,B0,False
+R41:04,P10,R41,ordinary villager,True,False,,,,,,B0,False
+R42:01,P10,R42,ordinary villager,True,False,,,,,,B0,False
+R42:02,P10,R42,ordinary villager,True,False,,,,,,B0,False
+R43:01,P10,R43,ordinary villager,True,False,,,,,,B0,False
+R43:02,P10,R43,ordinary villager,True,False,,,,,,B0,False
+R44:01,P10,R44,ordinary villager,True,False,,,,,,B0,False
+R44:02,P10,R44,ordinary villager,True,False,,,,,,B0,False
+R45:01,P10,R45,ordinary villager,True,False,,,,,,B1,False
+R45:02,P10,R45,ordinary villager,True,False,,,,,,B1,False
+R46:01,P10,R46,caregiver,True,False,,,,,,B1,False
+R46:02,P10,R46,child in caregiver group,True,False,,,,,,B1,False
+R46:03,P10,R46,child in caregiver group,True,False,,,,,,B1,False
+R46:04,P10,R46,child in caregiver group,True,False,,,,,,B1,False
+R46:05,P10,R46,child in caregiver group,True,False,,,,,,B1,False
+R47:01,P10,R47,ordinary villager,True,False,,,,,,B1,False
+R48:01,P10,R48,ordinary villager,True,False,,,,,,B1,False
+R48:02,P10,R48,ordinary villager,True,False,,,,,,B1,False
+R49:01,P11,R49,ordinary villager,True,False,,,,,,B0,False
+R49:02,P11,R49,ordinary villager,True,False,,,,,,B0,False
+R50:01,P11,R50,ordinary villager,True,False,,,,,,B0,False
+R50:02,P11,R50,ordinary villager,True,False,,,,,,B0,False
+R51:01,P11,R51,ordinary villager,True,False,,,,,,B0,False
+R51:02,P11,R51,ordinary villager,True,False,,,,,,B0,False
+R52:01,P11,R52,ordinary villager,True,False,,,,,,B0,False
+R52:02,P11,R52,ordinary villager,True,False,,,,,,B0,False
+R53:01,P11,R53,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,barricade quietly,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B0,False
+R53:02,P11,R53,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,barricade quietly,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B0,False
+R54:01,P11,R54,ordinary villager,True,False,,,,,,B0,False
+R54:02,P11,R54,ordinary villager,True,False,,,,,,B0,False
+R55:01,P11,R55,ordinary villager,True,False,,,,,,B0,False
+R55:02,P11,R55,ordinary villager,True,False,,,,,,B0,False
+R56:01,P11,R56,ordinary villager,True,False,,,,,,B1,False
+R57:01,P11,R57,ordinary villager,True,False,,,,,,B1,False
+R57:02,P11,R57,ordinary villager,True,False,,,,,,B1,False
+R58:01,P11,R58L,ordinary villager,False,False,A02_BARRIER_WEST,123.04,barrier,continue chosen movement,B2 was an untested suspicion. The walker continues a familiar forest exit and physically meets the sealed rim.,B2,False
+R58:02,P11,R58,ordinary villager,True,False,,,,,,B4,False
+R58:03,P11,R58,ordinary villager,True,False,,,,,,B4,False
+R59:01,P11,R59,ordinary villager,True,False,,,,,,B1,False
+R59:02,P11,R59,ordinary villager,True,False,,,,,,B1,False
+R60:01,P12,R60,ordinary villager,True,False,,,,,,B0,False
+R60:02,P12,R60,ordinary villager,True,False,,,,,,B0,False
+R61:01,P12,R61,ordinary villager,True,False,,,,,,B0,False
+R61:02,P12,R61,ordinary villager,True,False,,,,,,B0,False
+R62:01,P12,R62,ordinary villager,True,False,,,,,,B0,False
+R62:02,P12,R62,ordinary villager,True,False,,,,,,B0,False
+R63:01,P12,R63,ordinary villager,True,False,,,,,,B0,False
+R63:02,P12,R63,ordinary villager,True,False,,,,,,B0,False
+R64:01,P12,R64,ordinary villager,True,False,,,,,,B0,False
+R64:02,P12,R64,ordinary villager,True,False,,,,,,B0,False
+R65:01,P12,R65,ordinary villager,True,False,,,,,,B1,False
+R65:02,P12,R65,ordinary villager,True,False,,,,,,B1,False
+R65:03,P12,R65,ordinary villager,True,False,,,,,,B1,False
+R66:01,P12,R66,ordinary villager,True,False,,,,,,B1,False
+R67:01,P13,R67,ordinary villager,True,False,,,,,,B1,False
+R68:01,P14,R68,ordinary villager,True,False,,,,,,B0,False
+R68:02,P14,R68,ordinary villager,True,False,,,,,,B0,False
+R69:01,P14,R69,ordinary villager,True,False,,,,,,B0,False
+R69:02,P14,R69,ordinary villager,True,False,,,,,,B0,False
+R70:01,P14,R70L,ordinary villager,False,False,A03_BARRIER_EAST,129.909,barrier,continue chosen movement,This pair has received no west-trail report. B1 does not reveal contact lethality; their original cautious approach reaches the boundary.,B1,False
+R70:02,P14,R70,ordinary villager,True,False,,,,,,B4,False
+R71:01,P14,R71,ordinary villager,True,False,,,,,,B1,False
+R72:01,P15,R72,ordinary villager,True,False,,,,,,B4,False
+R72:02,P15,R72,ordinary villager,True,False,,,,,,B4,False
+R72:03,P15,R72,ordinary villager,True,False,,,,,,B4,False
+R73:01,P16,R73,Mayor,True,False,,,,,,B0,False
+R74:01,P16,R74,entrance guard,True,False,,,,,,B2,False
+R75:01,P16,R75,service guard,True,False,,,,,,B1,False
+R76:01,P16,R76,house-duty guard,True,False,,,,,,B0,False
+R77:01,P16,R77,ordinary villager,True,False,,,,,,B0,False
+R77:02,P16,R77,ordinary villager,True,False,,,,,,B0,False
+R77:03,P16,R77,ordinary villager,True,False,,,,,,B0,False
+R78:01,P16,R78,ordinary villager,True,False,,,,,,B1,False
+R79:01,P17,R79,ordinary villager,True,False,,,,,,B2,False
+R79:02,P17,R79,ordinary villager,True,False,,,,,,B2,False
+P05:M01:01,P05,prior_deceased,ordinary villager,False,False,T1_E01,4,Bone,ordinary T0 handcart/well/stall activity,First handcart worker is struck while continuing the approved homeward walk. No flight or prior warning is assigned to that person.,B0,False
+P05:M01:02,P05,prior_deceased,ordinary villager,False,False,T1_E02,6,Bone,shocked immediate witness,The accompanying helper is caught in the immediate shocked witness reaction. The other four P05 people are not hidden or silently removed; their warnings begin locally.,B0,False
+P08:well:01,P08,prior_deceased,ordinary villager,False,False,T1_E03,56,Blood,ordinary T0 handcart/well/stall activity,A broad first strike reaches the remaining two well users and six people trading/working at the two stall positions. Provisional accounting: two well users and two stall people killed; four stall people nonfatally injured through T90. M04 has already walked away normally.,B0,False
+P08:well:02,P08,prior_deceased,ordinary villager,False,False,T1_E03,56,Blood,ordinary T0 handcart/well/stall activity,A broad first strike reaches the remaining two well users and six people trading/working at the two stall positions. Provisional accounting: two well users and two stall people killed; four stall people nonfatally injured through T90. M04 has already walked away normally.,B0,False
+P08:stall:01,P08,prior_deceased,ordinary villager,False,False,T1_E03,56,Blood,ordinary T0 handcart/well/stall activity,A broad first strike reaches the remaining two well users and six people trading/working at the two stall positions. Provisional accounting: two well users and two stall people killed; four stall people nonfatally injured through T90. M04 has already walked away normally.,B0,False
+P08:stall:02,P08,prior_deceased,ordinary villager,False,False,T1_E03,56,Blood,ordinary T0 handcart/well/stall activity,A broad first strike reaches the remaining two well users and six people trading/working at the two stall positions. Provisional accounting: two well users and two stall people killed; four stall people nonfatally injured through T90. M04 has already walked away normally.,B0,False
+P07:assistant,P07,prior_deceased,smith assistant,False,False,B11,45,Bone,ordinary homeward walk,Inherited precise interception on approved T0/T1 assistant trip.,B0,False

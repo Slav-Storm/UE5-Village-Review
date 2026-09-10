@@ -1,3 +1,12 @@
+# Current review: autonomous massacre simulation
+
+Read [MASSACRE_FULL_SIMULATION.md](MASSACRE_FULL_SIMULATION.md) for the current stage and chronological handoff. [full_simulation.json](full_simulation.json) consolidates incremental movement, stable civilian identities, knowledge, events, actor choices and surviving pockets. Separate `C##_reaction.json` and `C##_action.json` files preserve each causal increment. Earlier T0/T1/Step2B/Step3/Step4 files remain immutable.
+
+The new [early milestone map](12_early_barrier_shelter.png) covers the first two independent barrier discoveries and first shelter failure. Edit the independent JSON or cycle records, reconcile changes into the consolidated layer, and run `python render_full_simulation.py .` to regenerate its maps, notes and CSVs. Python, matplotlib, numpy, Pillow and shapely are required. This does not connect to UE.
+
+The same orientation/scale and 2D projection caveats apply. Prior geometry and all 50 prior artifacts remain preserved. User authorization now extends to the primary massacre conclusion, with the Mayor's final death by the Witch and survivors explicitly flagged rather than silently removed.
+<!-- AUTONOMOUS INDEX END -->
+
 # Current review: Step 4 / second supernatural action
 
 Start with [T3_SECOND_ACTION.md](T3_SECOND_ACTION.md), [10 second action](10_T3_second_action.png) and [11 local reception](11_T3_event_reception.png). The current handoff is **canonical +109**: 159 survivors, four injured, one second after Blood's second impact. Step 3 actor markers were frozen review references; this pass reconciles them with the unchanged +90–105 civilian movements.
