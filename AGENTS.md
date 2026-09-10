@@ -57,3 +57,8 @@ Autonomous continuation is now explicitly authorized by the user after Step 4. P
 
 
 Autonomous branch terminal checkpoint: the authorized simulation now ends at +312.625 with the Mayor killed personally by the Witch as the final death. Census: 73 fatalities, 97 survivors, two injured survivors. This branch does not achieve the intended near-total massacre; preserve those outcomes and the explicit mismatch for user review. Do not automatically resume, kill hidden people, author post-Mayor events or translate anything into UE. Await a new user request. Preserve the 50 prior source artifacts and nine early published C00-C04 files. Full-review JSON/CSV, final map SVG/PNG and offline rendering scripts are review-only material; the actual UE project remains excluded.
+
+
+## Current V2 branch boundary
+
+The user explicitly authorized a new V2 simulation from approved T+90 only. Every V1 post90 event, T2/T3 continuation, movement, knowledge and outcome is historical and must not constrain V2. V2 is now CLOSED in latest/map/v2/: 112 fatalities, 58 survivors, no injured survivors; Witch arrival +313.923324816, Mayor final death +373.923324816 after sixty seconds. This is another failure of the near-total premise, honestly retained. Preserve all prior map files and V1 completely. Do not resume, add quota deaths, define subsequent barrier/Witch fate or edit UE without a new user request. The folder contains lightweight 2D review PNG/SVG, JSON/JSONL/CSV, Markdown and small offline planning/rendering Python scripts. No source assets or live UE actor dumps are permitted. The current V2 instruction supersedes older post90 continuation rules above for this branch.

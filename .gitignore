@@ -72,3 +72,13 @@
 
 !/latest/map/render_final_maps.py
 !/latest/map/full_validation.json
+
+# Separate user-authorized V2 2D planning review; preserve V1.
+!/latest/map/v2/
+!/latest/map/v2/*.png
+!/latest/map/v2/*.svg
+!/latest/map/v2/*.json
+!/latest/map/v2/*.jsonl
+!/latest/map/v2/*.csv
+!/latest/map/v2/*.md
+!/latest/map/v2/*.py
