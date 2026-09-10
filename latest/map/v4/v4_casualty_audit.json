@@ -1,0 +1,4306 @@
+[
+  {
+    "person": "P05-01",
+    "t": 4,
+    "killer": "Bone",
+    "xy": [
+      -0.7454818255,
+      -11.1165664894
+    ],
+    "pre90": true,
+    "intention": "Taking produce handcart home",
+    "event": "approved pre90 history",
+    "bone_contributing": true,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P05-02",
+    "t": 6,
+    "killer": "Bone",
+    "xy": [
+      -1.1954818255,
+      -11.6665664894
+    ],
+    "pre90": true,
+    "intention": "Taking produce handcart home",
+    "event": "approved pre90 history",
+    "bone_contributing": true,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P07-03",
+    "t": 45,
+    "killer": "Bone",
+    "xy": [
+      -28.4017671378,
+      37.6234790712
+    ],
+    "pre90": true,
+    "intention": "Walking home after workshop",
+    "event": "approved pre90 history",
+    "bone_contributing": true,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-03",
+    "t": 56,
+    "killer": "Blood",
+    "xy": [
+      -4.9,
+      49.6
+    ],
+    "pre90": true,
+    "intention": "Collecting water",
+    "event": "approved pre90 history",
+    "bone_contributing": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-04",
+    "t": 56,
+    "killer": "Blood",
+    "xy": [
+      -4.9,
+      49.6
+    ],
+    "pre90": true,
+    "intention": "Collecting water",
+    "event": "approved pre90 history",
+    "bone_contributing": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-05",
+    "t": 56,
+    "killer": "Blood",
+    "xy": [
+      2,
+      49
+    ],
+    "pre90": true,
+    "intention": "Ordinary stall transaction",
+    "event": "approved pre90 history",
+    "bone_contributing": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-06",
+    "t": 56,
+    "killer": "Blood",
+    "xy": [
+      2,
+      49
+    ],
+    "pre90": true,
+    "intention": "Ordinary stall transaction",
+    "event": "approved pre90 history",
+    "bone_contributing": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P06-13",
+    "t": 94,
+    "xy": [
+      -34.3,
+      9.2
+    ],
+    "intention": "Concealed beside coop; parent shelters child",
+    "killer": "Bone",
+    "event": "E040",
+    "injury": true,
+    "exposure": "Local intended precise strike during Concealed beside coop; parent shelters child",
+    "witness_groups": [
+      "parent-child",
+      "lower-yard-west",
+      "smith-pair"
+    ],
+    "witness_people": [
+      "P06-09",
+      "P06-10",
+      "P06-14",
+      "P07-01",
+      "P07-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 94,
+        "cause": "Bone E-M05-injury",
+        "destination": "Cottage_04"
+      }
+    ]
+  },
+  {
+    "person": "P08-07",
+    "t": 98,
+    "xy": [
+      3,
+      50.8
+    ],
+    "intention": "Injured at first public strike",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "stall-injured",
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-08",
+      "P08-09",
+      "P08-10",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-08",
+    "t": 98,
+    "xy": [
+      3,
+      50.8
+    ],
+    "intention": "Injured at first public strike",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "stall-injured",
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-09",
+      "P08-10",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-09",
+    "t": 98,
+    "xy": [
+      3,
+      50.8
+    ],
+    "intention": "Injured at first public strike",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "stall-injured",
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-10",
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-10",
+    "t": 98,
+    "xy": [
+      3,
+      50.8
+    ],
+    "intention": "Injured at first public strike",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "stall-injured",
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-12",
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-12",
+    "t": 98,
+    "xy": [
+      3.0,
+      50.8
+    ],
+    "intention": "Neighbours reach already-visible injured stall users to lift them",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-13",
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-13",
+    "t": 98,
+    "xy": [
+      3.0,
+      50.8
+    ],
+    "intention": "Neighbours reach already-visible injured stall users to lift them",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-14",
+      "P08-15",
+      "P08-16",
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-14",
+    "t": 98,
+    "xy": [
+      3.0,
+      50.8
+    ],
+    "intention": "Neighbours reach already-visible injured stall users to lift them",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-15",
+      "P08-16",
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-15",
+    "t": 98,
+    "xy": [
+      3.0,
+      50.8
+    ],
+    "intention": "Neighbours reach already-visible injured stall users to lift them",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-16",
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-16",
+    "t": 98,
+    "xy": [
+      3.0,
+      50.8
+    ],
+    "intention": "Neighbours reach already-visible injured stall users to lift them",
+    "killer": "Blood",
+    "event": "E044",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "centre-goods",
+      "centre-neighbours"
+    ],
+    "witness_people": [
+      "P08-20",
+      "P08-21",
+      "P08-22"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P06-13",
+    "t": 102,
+    "xy": [
+      -32.552,
+      3.671
+    ],
+    "intention": "Wounded parent pulls child toward the household door",
+    "killer": "Bone",
+    "event": "E051",
+    "injury": false,
+    "exposure": "Local intended precise strike during Wounded parent pulls child toward the household door",
+    "witness_groups": [
+      "parent-child"
+    ],
+    "witness_people": [
+      "P06-14"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E-M05-injury"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 94,
+        "cause": "Bone E-M05-injury",
+        "destination": "Cottage_04"
+      }
+    ]
+  },
+  {
+    "person": "P07-02",
+    "t": 108,
+    "xy": [
+      -36.4084,
+      10.8437
+    ],
+    "intention": "Smith tries to pull apprentice away from blocked rescue route",
+    "killer": "Bone",
+    "event": "E066",
+    "injury": false,
+    "exposure": "Local intended precise strike during Smith tries to pull apprentice away from blocked rescue route",
+    "witness_groups": [
+      "smith-pair"
+    ],
+    "witness_people": [
+      "P07-01"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E062",
+      "Bone forge route denial"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 106,
+        "cause": "Bone forge route denial",
+        "destination": [
+          -40,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "person": "P09-04",
+    "t": 110,
+    "xy": [
+      6.2819,
+      34.4785
+    ],
+    "intention": "Four occupants stay silent behind surviving interior partitions, believing outside is more dangerous",
+    "killer": "Blood",
+    "event": "E069",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "tavern-service-runners",
+      "tavern-delivery",
+      "tavern-inside"
+    ],
+    "witness_people": [
+      "P09-01",
+      "P09-02",
+      "P09-03",
+      "P09-05",
+      "P09-06",
+      "P09-07",
+      "P09-12",
+      "P09-13",
+      "P09-14"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-05",
+    "t": 110,
+    "xy": [
+      6.2819,
+      34.4785
+    ],
+    "intention": "Four occupants stay silent behind surviving interior partitions, believing outside is more dangerous",
+    "killer": "Blood",
+    "event": "E069",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "tavern-service-runners",
+      "tavern-delivery",
+      "tavern-inside"
+    ],
+    "witness_people": [
+      "P09-01",
+      "P09-02",
+      "P09-03",
+      "P09-06",
+      "P09-07",
+      "P09-12",
+      "P09-13",
+      "P09-14"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-06",
+    "t": 110,
+    "xy": [
+      6.2819,
+      34.4785
+    ],
+    "intention": "Four occupants stay silent behind surviving interior partitions, believing outside is more dangerous",
+    "killer": "Blood",
+    "event": "E069",
+    "injury": true,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "tavern-service-runners",
+      "tavern-delivery",
+      "tavern-inside"
+    ],
+    "witness_people": [
+      "P09-01",
+      "P09-02",
+      "P09-03",
+      "P09-07",
+      "P09-12",
+      "P09-13",
+      "P09-14"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-07",
+    "t": 110,
+    "xy": [
+      6.2819,
+      34.4785
+    ],
+    "intention": "Four occupants stay silent behind surviving interior partitions, believing outside is more dangerous",
+    "killer": "Blood",
+    "event": "E069",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "tavern-service-runners",
+      "tavern-delivery",
+      "tavern-inside"
+    ],
+    "witness_people": [
+      "P09-01",
+      "P09-02",
+      "P09-03",
+      "P09-06",
+      "P09-12",
+      "P09-13",
+      "P09-14"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P05-03",
+    "t": 122,
+    "xy": [
+      15.7445,
+      -52.8023
+    ],
+    "intention": "Lower witnesses seek barn workers to warn them about the precise attacker, avoiding their original northward road",
+    "killer": "Bone",
+    "event": "E087",
+    "injury": false,
+    "exposure": "Local intended precise strike during Lower witnesses seek barn workers to warn them about the precise attacker, avoiding their original northward road",
+    "witness_groups": [
+      "approach-witnesses"
+    ],
+    "witness_people": [
+      "P05-04",
+      "P05-05",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P15-01",
+    "t": 130,
+    "xy": [
+      -73.9032,
+      82.418
+    ],
+    "intention": "Try familiar working edge because the woods might still offer a way out; barrier behaviour untested",
+    "killer": "Barrier",
+    "event": "E100",
+    "injury": false,
+    "exposure": "Physical attempt to cross opaque reactive boundary",
+    "witness_groups": [
+      "foresters"
+    ],
+    "witness_people": [
+      "P15-02",
+      "P15-03"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P02-03",
+    "t": 130,
+    "xy": [
+      -58.1229,
+      -75.9726
+    ],
+    "intention": "Try familiar working edge because the woods might still offer a way out; barrier behaviour untested",
+    "killer": "Barrier",
+    "event": "E102",
+    "injury": false,
+    "exposure": "Physical attempt to cross opaque reactive boundary",
+    "witness_groups": [
+      "west-field"
+    ],
+    "witness_people": [
+      "P02-04"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-20",
+    "t": 134,
+    "xy": [
+      24.0,
+      57.0
+    ],
+    "intention": "Surviving east-side goods buyers leave the impact junction by market lane",
+    "killer": "Blood",
+    "event": "E108",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "entrance-guard",
+      "tavern-porch",
+      "stall-thief",
+      "centre-goods"
+    ],
+    "witness_people": [
+      "P08-21",
+      "P08-22",
+      "P08-24",
+      "P09-08",
+      "P09-09",
+      "P09-10",
+      "P09-11",
+      "P16-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-21",
+    "t": 134,
+    "xy": [
+      24.0,
+      57.0
+    ],
+    "intention": "Surviving east-side goods buyers leave the impact junction by market lane",
+    "killer": "Blood",
+    "event": "E108",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "entrance-guard",
+      "tavern-porch",
+      "stall-thief",
+      "centre-goods"
+    ],
+    "witness_people": [
+      "P08-22",
+      "P08-24",
+      "P09-08",
+      "P09-09",
+      "P09-10",
+      "P09-11",
+      "P16-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-22",
+    "t": 134,
+    "xy": [
+      24.0,
+      57.0
+    ],
+    "intention": "Surviving east-side goods buyers leave the impact junction by market lane",
+    "killer": "Blood",
+    "event": "E108",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "entrance-guard",
+      "tavern-porch",
+      "stall-thief",
+      "centre-goods"
+    ],
+    "witness_people": [
+      "P08-24",
+      "P09-08",
+      "P09-09",
+      "P09-10",
+      "P09-11",
+      "P16-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-08",
+    "t": 134,
+    "xy": [
+      25.6458,
+      53.2965
+    ],
+    "intention": "Porch escapees veer along market lane as Blood approaches their paused junction",
+    "killer": "Blood",
+    "event": "E108",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "tavern-porch",
+      "stall-thief"
+    ],
+    "witness_people": [
+      "P08-24",
+      "P09-09",
+      "P09-10",
+      "P09-11"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "Blood visible approach"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-09",
+    "t": 134,
+    "xy": [
+      25.6458,
+      53.2965
+    ],
+    "intention": "Porch escapees veer along market lane as Blood approaches their paused junction",
+    "killer": "Blood",
+    "event": "E108",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "tavern-porch",
+      "stall-thief"
+    ],
+    "witness_people": [
+      "P08-24",
+      "P09-10",
+      "P09-11"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "Blood visible approach"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-10",
+    "t": 134,
+    "xy": [
+      25.6458,
+      53.2965
+    ],
+    "intention": "Porch escapees veer along market lane as Blood approaches their paused junction",
+    "killer": "Blood",
+    "event": "E108",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "tavern-porch",
+      "stall-thief"
+    ],
+    "witness_people": [
+      "P08-24",
+      "P09-11"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "Blood visible approach"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-11",
+    "t": 134,
+    "xy": [
+      25.6458,
+      53.2965
+    ],
+    "intention": "Porch escapees veer along market lane as Blood approaches their paused junction",
+    "killer": "Blood",
+    "event": "E108",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "tavern-porch",
+      "stall-thief"
+    ],
+    "witness_people": [
+      "P08-24"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "Blood visible approach"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P03-04",
+    "t": 134,
+    "xy": [
+      17.1198,
+      -49.3102
+    ],
+    "intention": "Yard household chooses nearby family home after the barn is punctured",
+    "killer": "Bone",
+    "event": "E112",
+    "injury": false,
+    "exposure": "Local intended precise strike during Yard household chooses nearby family home after the barn is punctured",
+    "witness_groups": [
+      "east-yard"
+    ],
+    "witness_people": [
+      "P03-05",
+      "P03-06",
+      "P03-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E092",
+      "Bone barn puncture"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 126,
+        "cause": "Bone barn puncture",
+        "destination": "Farmstead_West"
+      }
+    ]
+  },
+  {
+    "person": "P09-12",
+    "t": 160,
+    "xy": [
+      12.673,
+      18.196
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Bone",
+    "event": "E172",
+    "injury": true,
+    "exposure": "Local intended precise strike during Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "witness_groups": [
+      "tavern-service-runners-split5",
+      "tavern-delivery",
+      "old-Cottage_06-split5"
+    ],
+    "witness_people": [
+      "P09-01",
+      "P09-13",
+      "P09-14",
+      "P10-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "E069 tavern breach",
+      "Bone E156",
+      "E156"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 151,
+        "cause": "E156",
+        "destination": "CollapsedCellarCottage"
+      },
+      {
+        "t": 160,
+        "cause": "Bone lower guide injury",
+        "destination": "CollapsedCellarCottage"
+      }
+    ]
+  },
+  {
+    "person": "P10-07",
+    "t": 166,
+    "xy": [
+      15.4536,
+      13.1781
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Bone",
+    "event": "E175",
+    "injury": false,
+    "exposure": "Local intended precise strike during Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "E156"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 151,
+        "cause": "E156",
+        "destination": "CollapsedCellarCottage"
+      }
+    ]
+  },
+  {
+    "person": "P08-11",
+    "t": 168,
+    "xy": [
+      -20.0,
+      65.0
+    ],
+    "intention": "Caller disagrees with staying beside the visible probing stream and seeks western neighbours",
+    "killer": "Blood",
+    "event": "E177",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "centre-caller"
+    ],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Cottage_02"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-01",
+    "t": 168,
+    "xy": [
+      -14.2607,
+      58.0484
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E177",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "west-CrushedHome"
+    ],
+    "witness_people": [
+      "P11-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-09",
+    "t": 168,
+    "xy": [
+      -14.2607,
+      58.0484
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E177",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "west-Cottage_02"
+    ],
+    "witness_people": [
+      "P11-10"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-15",
+    "t": 168,
+    "xy": [
+      -14.2607,
+      58.0484
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E177",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-16",
+    "t": 168,
+    "xy": [
+      -14.2607,
+      58.0484
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E177",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "west-yard-neighbours"
+    ],
+    "witness_people": [
+      "P11-17",
+      "P11-18"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P12-09",
+    "t": 168,
+    "xy": [
+      -4.819,
+      56.6783
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E177",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Cottage_11"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-02",
+    "t": 176,
+    "xy": [
+      -14.2607,
+      58.0484
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Previously breached refuge",
+    "witness_groups": [
+      "west-yard-neighbours-split6",
+      "west-Cottage_02",
+      "firewood",
+      "west-CrushedHome-split6"
+    ],
+    "witness_people": [
+      "P11-01",
+      "P11-09",
+      "P11-10",
+      "P11-15",
+      "P11-16"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-09",
+    "t": 176,
+    "xy": [
+      -19.1677,
+      50.3323
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "water-pair",
+      "west-Cottage_02",
+      "west-Cottage_10-split6",
+      "west-CrushedHome-split6",
+      "west-yard-neighbours-split6",
+      "firewood"
+    ],
+    "witness_people": [
+      "P08-01",
+      "P08-02",
+      "P11-01",
+      "P11-10",
+      "P11-13",
+      "P11-15",
+      "P11-16"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E177"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-10",
+    "t": 176,
+    "xy": [
+      -19.1677,
+      50.3323
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "water-pair",
+      "west-Cottage_02",
+      "west-Cottage_10-split6",
+      "west-CrushedHome-split6",
+      "west-yard-neighbours-split6",
+      "firewood"
+    ],
+    "witness_people": [
+      "P08-01",
+      "P08-02",
+      "P11-01",
+      "P11-13",
+      "P11-15",
+      "P11-16"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E177"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-15",
+    "t": 176,
+    "xy": [
+      -19.1677,
+      50.3323
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "water-pair",
+      "west-Cottage_10-split6",
+      "west-CrushedHome-split6",
+      "west-yard-neighbours-split6",
+      "firewood"
+    ],
+    "witness_people": [
+      "P08-01",
+      "P08-02",
+      "P11-01",
+      "P11-13",
+      "P11-16"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome",
+      "E177"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-17",
+    "t": 176,
+    "xy": [
+      -14.2607,
+      58.0484
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Previously breached refuge",
+    "witness_groups": [
+      "west-yard-neighbours",
+      "west-yard-neighbours-split6",
+      "west-CrushedHome-split6"
+    ],
+    "witness_people": [
+      "P11-01",
+      "P11-16",
+      "P11-18"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-18",
+    "t": 176,
+    "xy": [
+      -14.2607,
+      58.0484
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Previously breached refuge",
+    "witness_groups": [
+      "west-yard-neighbours-split6",
+      "west-CrushedHome-split6"
+    ],
+    "witness_people": [
+      "P11-01",
+      "P11-16"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-01",
+    "t": 176,
+    "xy": [
+      -19.1677,
+      50.3323
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "water-pair",
+      "west-yard-neighbours-split6",
+      "west-CrushedHome-split6",
+      "west-Cottage_10-split6"
+    ],
+    "witness_people": [
+      "P08-01",
+      "P08-02",
+      "P11-13",
+      "P11-16"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome",
+      "E177"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-13",
+    "t": 176,
+    "xy": [
+      -21.9315,
+      59.7904
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "west-Cottage_10-split6",
+      "west-yard-neighbours-split6"
+    ],
+    "witness_people": [
+      "P11-16"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Cottage_10",
+      "E177"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P11-16",
+    "t": 176,
+    "xy": [
+      -19.1677,
+      50.3323
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E203",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "water-pair",
+      "west-yard-neighbours-split6"
+    ],
+    "witness_people": [
+      "P08-01",
+      "P08-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CrushedHome",
+      "E177"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-21",
+    "t": 180,
+    "xy": [
+      38.6708,
+      57.6337
+    ],
+    "intention": "Caregiver keeps the children together toward public help at church",
+    "killer": "Bone",
+    "event": "E210",
+    "injury": false,
+    "exposure": "Local intended precise strike during Caregiver keeps the children together toward public help at church",
+    "witness_groups": [
+      "stall-thief",
+      "east-passers",
+      "children-yard"
+    ],
+    "witness_people": [
+      "P08-18",
+      "P08-19",
+      "P08-24",
+      "P10-17",
+      "P10-18",
+      "P10-19",
+      "P10-20"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E199",
+      "Bone family refuge denial"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 174,
+        "cause": "Bone family refuge denial",
+        "destination": [
+          33,
+          73
+        ]
+      }
+    ]
+  },
+  {
+    "person": "P12-14",
+    "t": 196,
+    "xy": [
+      25.0,
+      84.0
+    ],
+    "intention": "Upper returner approaches to help hold the entrance for the children",
+    "killer": "Bone",
+    "event": "E252",
+    "injury": true,
+    "exposure": "Local intended precise strike during Upper returner approaches to help hold the entrance for the children",
+    "witness_groups": [
+      "children-yard",
+      "upper-Cottage_11",
+      "upper-returner",
+      "stall-thief",
+      "entrance-guard"
+    ],
+    "witness_people": [
+      "P08-24",
+      "P10-17",
+      "P10-18",
+      "P10-19",
+      "P10-20",
+      "P12-10",
+      "P16-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 196,
+        "cause": "Bone church helper injury",
+        "destination": "Church"
+      }
+    ]
+  },
+  {
+    "person": "P12-14",
+    "t": 206,
+    "xy": [
+      18.9094,
+      86.9767
+    ],
+    "intention": "Wounded helper tries to reach the church with guard assistance",
+    "killer": "Bone",
+    "event": "E258",
+    "injury": false,
+    "exposure": "Local intended precise strike during Wounded helper tries to reach the church with guard assistance",
+    "witness_groups": [
+      "upper-returner",
+      "stall-thief"
+    ],
+    "witness_people": [
+      "P08-24"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone church helper injury"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 196,
+        "cause": "Bone church helper injury",
+        "destination": "Church"
+      }
+    ]
+  },
+  {
+    "person": "P09-06",
+    "t": 216,
+    "xy": [
+      14.0,
+      24.0
+    ],
+    "intention": "Injured last tavern occupant tries service exit after hearing renewed attacks and losing usable cover",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "tavern-inside"
+    ],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E069 tavern breach"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-14",
+    "t": 216,
+    "xy": [
+      15.4536,
+      13.1781
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "E069 tavern breach",
+      "Bone E156",
+      "E156",
+      "Bone lower guide injury"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 151,
+        "cause": "E156",
+        "destination": "CollapsedCellarCottage"
+      },
+      {
+        "t": 160,
+        "cause": "Bone lower guide injury",
+        "destination": "CollapsedCellarCottage"
+      }
+    ]
+  },
+  {
+    "person": "P10-04",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "old-Cottage_01"
+    ],
+    "witness_people": [
+      "P10-05",
+      "P10-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-05",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "old-Cottage_01"
+    ],
+    "witness_people": [
+      "P10-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-06",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": true,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-09",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-13",
+    "t": 216,
+    "xy": [
+      15.4536,
+      13.1781
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "old-Cottage_12"
+    ],
+    "witness_people": [
+      "P10-14"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108",
+      "search-Cottage_06"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-15",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "yard-neighbours"
+    ],
+    "witness_people": [
+      "P10-16"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-OldQuarterStore"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-16",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-OldQuarterStore"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-23",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "old-alley"
+    ],
+    "witness_people": [
+      "P10-24"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-24",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-03",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "E069 tavern breach"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-12",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "E069 tavern breach",
+      "Bone E156",
+      "E156",
+      "Bone lower guide injury",
+      "search-CollapsedCellarCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 151,
+        "cause": "E156",
+        "destination": "CollapsedCellarCottage"
+      },
+      {
+        "t": 160,
+        "cause": "Bone lower guide injury",
+        "destination": "CollapsedCellarCottage"
+      }
+    ]
+  },
+  {
+    "person": "P09-13",
+    "t": 216,
+    "xy": [
+      24.5156,
+      24.4654
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "E069 tavern breach",
+      "Bone E156",
+      "E156",
+      "Bone lower guide injury",
+      "search-CollapsedCellarCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 151,
+        "cause": "E156",
+        "destination": "CollapsedCellarCottage"
+      },
+      {
+        "t": 160,
+        "cause": "Bone lower guide injury",
+        "destination": "CollapsedCellarCottage"
+      }
+    ]
+  },
+  {
+    "person": "P10-08",
+    "t": 216,
+    "xy": [
+      15.4536,
+      13.1781
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Cottage_06"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-02",
+    "t": 216,
+    "xy": [
+      15.4536,
+      13.1781
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E267",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "E069 tavern breach",
+      "search-Cottage_06"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P16-03",
+    "t": 238,
+    "xy": [
+      -5.0,
+      110.0
+    ],
+    "intention": "Service guard sees the entrance guard retreating under pressure and comes down to assist, without inheriting his historical guilt",
+    "killer": "Bone",
+    "event": "E295",
+    "injury": false,
+    "exposure": "Local intended precise strike during Service guard sees the entrance guard retreating under pressure and comes down to assist, without inheriting his historical guilt",
+    "witness_groups": [
+      "stable-staff",
+      "service-guard",
+      "entrance-guard",
+      "delivery-helper"
+    ],
+    "witness_people": [
+      "P16-02",
+      "P16-08",
+      "P17-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P16-02",
+    "t": 254,
+    "xy": [
+      2.0,
+      124.0
+    ],
+    "intention": "Guard reaches for the formal gate after his assisting colleague is killed",
+    "killer": "Bone",
+    "event": "E318",
+    "injury": false,
+    "exposure": "Local intended precise strike during Guard reaches for the formal gate after his assisting colleague is killed",
+    "witness_groups": [
+      "entrance-guard",
+      "delivery-helper",
+      "delivery",
+      "stable-staff"
+    ],
+    "witness_people": [
+      "P16-08",
+      "P17-01",
+      "P17-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E246",
+      "Bone recognition threat",
+      "Bone targeted rescue interruption",
+      "Bone E264",
+      "Bone upper route denial",
+      "Bone mobile recognition fixation",
+      "Bone E291",
+      "Bone stair threat",
+      "Bone colleague rescue interruption",
+      "Bone E315"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 188,
+        "cause": "Bone recognition threat",
+        "destination": [
+          23.5,
+          84
+        ]
+      },
+      {
+        "t": 206,
+        "cause": "Bone targeted rescue interruption",
+        "destination": [
+          -3,
+          99
+        ]
+      },
+      {
+        "t": 212,
+        "cause": "Bone upper route denial",
+        "destination": [
+          -8,
+          99
+        ]
+      },
+      {
+        "t": 222,
+        "cause": "Bone mobile recognition fixation",
+        "destination": [
+          -3,
+          111
+        ]
+      },
+      {
+        "t": 230,
+        "cause": "Bone stair threat",
+        "destination": [
+          -3,
+          116
+        ]
+      },
+      {
+        "t": 238,
+        "cause": "Bone colleague rescue interruption",
+        "destination": [
+          2,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "person": "P01-01",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "east-tools"
+    ],
+    "witness_people": [
+      "P01-02",
+      "P01-03"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P01-02",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "east-tools"
+    ],
+    "witness_people": [
+      "P01-03"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P01-03",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": true,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P01-04",
+    "t": 258,
+    "xy": [
+      10.7137,
+      -44.8152
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "strip-workers"
+    ],
+    "witness_people": [
+      "P01-05"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone farm cry"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 122,
+        "cause": "Bone farm cry",
+        "destination": "Farmstead_West"
+      }
+    ]
+  },
+  {
+    "person": "P01-06",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Turn toward familiar barn after seeing Blood approaching the farmyard",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Farmstead_West",
+      "search-Farmstead_West"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P02-06",
+    "t": 258,
+    "xy": [
+      3.3097,
+      -37.3123
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "west-home-split10",
+      "pasture-partner"
+    ],
+    "witness_people": [
+      "P04-01"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Farmstead_South"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P03-01",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Turn toward familiar barn after seeing Blood approaching the farmyard",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "east-home"
+    ],
+    "witness_people": [
+      "P03-02",
+      "P03-03"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Farmstead_West",
+      "search-Farmstead_West"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P03-02",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Turn toward familiar barn after seeing Blood approaching the farmyard",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "east-home"
+    ],
+    "witness_people": [
+      "P03-03"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Farmstead_West",
+      "search-Farmstead_West"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P03-03",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Turn toward familiar barn after seeing Blood approaching the farmyard",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": true,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Farmstead_West",
+      "search-Farmstead_West"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P03-05",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Turn toward familiar barn after seeing Blood approaching the farmyard",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "east-yard"
+    ],
+    "witness_people": [
+      "P03-06",
+      "P03-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E092",
+      "Bone barn puncture",
+      "Bone farm helper attack",
+      "search-Farmstead_West",
+      "search-Farmstead_West"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 126,
+        "cause": "Bone barn puncture",
+        "destination": "Farmstead_West"
+      },
+      {
+        "t": 134,
+        "cause": "Bone farm helper attack",
+        "destination": "Farmstead_West"
+      }
+    ]
+  },
+  {
+    "person": "P03-06",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Turn toward familiar barn after seeing Blood approaching the farmyard",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "east-yard"
+    ],
+    "witness_people": [
+      "P03-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E092",
+      "Bone barn puncture",
+      "Bone farm helper attack",
+      "search-Farmstead_West",
+      "search-Farmstead_West"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 126,
+        "cause": "Bone barn puncture",
+        "destination": "Farmstead_West"
+      },
+      {
+        "t": 134,
+        "cause": "Bone farm helper attack",
+        "destination": "Farmstead_West"
+      }
+    ]
+  },
+  {
+    "person": "P03-07",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Turn toward familiar barn after seeing Blood approaching the farmyard",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": true,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E092",
+      "Bone barn puncture",
+      "Bone farm helper attack",
+      "search-Farmstead_West",
+      "search-Farmstead_West"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 126,
+        "cause": "Bone barn puncture",
+        "destination": "Farmstead_West"
+      },
+      {
+        "t": 134,
+        "cause": "Bone farm helper attack",
+        "destination": "Farmstead_West"
+      }
+    ]
+  },
+  {
+    "person": "P05-04",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Three surviving witnesses run for the barn workers they were trying to warn",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "approach-witnesses"
+    ],
+    "witness_people": [
+      "P05-05",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone farm warning interception"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 122,
+        "cause": "Bone farm warning interception",
+        "destination": "NorthBarn"
+      }
+    ]
+  },
+  {
+    "person": "P05-05",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Three surviving witnesses run for the barn workers they were trying to warn",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "approach-witnesses"
+    ],
+    "witness_people": [
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone farm warning interception"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 122,
+        "cause": "Bone farm warning interception",
+        "destination": "NorthBarn"
+      }
+    ]
+  },
+  {
+    "person": "P05-06",
+    "t": 258,
+    "xy": [
+      11.3,
+      -55.2
+    ],
+    "intention": "Three surviving witnesses run for the barn workers they were trying to warn",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": true,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone farm warning interception"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 122,
+        "cause": "Bone farm warning interception",
+        "destination": "NorthBarn"
+      }
+    ]
+  },
+  {
+    "person": "P04-01",
+    "t": 258,
+    "xy": [
+      3.3097,
+      -37.3123
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E325",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "west-home-split10"
+    ],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Farmstead_South"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P17-02",
+    "t": 262,
+    "xy": [
+      -12.0,
+      134.0
+    ],
+    "intention": "Helper goes toward stable worker to warn them instead of following driver",
+    "killer": "Bone",
+    "event": "E339",
+    "injury": true,
+    "exposure": "Local intended precise strike during Helper goes toward stable worker to warn them instead of following driver",
+    "witness_groups": [
+      "delivery-helper",
+      "delivery",
+      "stable-staff"
+    ],
+    "witness_people": [
+      "P16-08",
+      "P17-01"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 262,
+        "cause": "Bone service-yard injury",
+        "destination": [
+          -11,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "person": "P02-01",
+    "t": 266,
+    "xy": [
+      -21.5,
+      -53.9
+    ],
+    "intention": "Tool workers seek storage shelter",
+    "killer": "Blood",
+    "event": "E344",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "east-yard",
+      "east-tools",
+      "east-home",
+      "west-tools",
+      "approach-witnesses"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P02-02",
+      "P03-03",
+      "P03-07",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P02-04",
+    "t": 266,
+    "xy": [
+      -21.5,
+      -53.9
+    ],
+    "intention": "Shaken direct B4 witness goes to warn farm workers in person",
+    "killer": "Blood",
+    "event": "E344",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "east-yard",
+      "approach-witnesses",
+      "east-home",
+      "east-tools"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P03-03",
+      "P03-07",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P02-05",
+    "t": 266,
+    "xy": [
+      -21.5,
+      -53.9
+    ],
+    "intention": "Keeper seeks tools and family at barn after public bell",
+    "killer": "Blood",
+    "event": "E344",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "east-yard",
+      "approach-witnesses",
+      "east-home",
+      "east-tools"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P03-03",
+      "P03-07",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P04-02",
+    "t": 266,
+    "xy": [
+      -20.0047,
+      -42.89
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E344",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "west-home"
+    ],
+    "witness_people": [
+      "P04-03"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P04-04",
+    "t": 266,
+    "xy": [
+      -21.5,
+      -53.9
+    ],
+    "intention": "Storage pair gathers inside familiar barn",
+    "killer": "Blood",
+    "event": "E344",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "east-yard",
+      "east-tools",
+      "barn-storage",
+      "east-home",
+      "approach-witnesses"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P03-03",
+      "P03-07",
+      "P04-05",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P04-06",
+    "t": 266,
+    "xy": [
+      -21.5,
+      -53.9
+    ],
+    "intention": "Yard worker helps close barn doors",
+    "killer": "Blood",
+    "event": "E344",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "east-yard",
+      "approach-witnesses",
+      "east-home",
+      "east-tools"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P03-03",
+      "P03-07",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P02-01",
+    "t": 272,
+    "xy": [
+      -18.8981,
+      -49.5979
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "west-field",
+      "pasture-keeper",
+      "east-yard",
+      "east-tools",
+      "barn-storage",
+      "east-home",
+      "west-tools",
+      "approach-witnesses",
+      "west-yard"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P02-02",
+      "P02-04",
+      "P02-05",
+      "P03-03",
+      "P03-07",
+      "P04-04",
+      "P04-05",
+      "P04-06",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P02-02",
+    "t": 272,
+    "xy": [
+      -18.8981,
+      -49.5979
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "west-field",
+      "pasture-keeper",
+      "east-yard",
+      "east-tools",
+      "barn-storage",
+      "east-home",
+      "west-tools",
+      "approach-witnesses",
+      "west-yard"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P02-04",
+      "P02-05",
+      "P03-03",
+      "P03-07",
+      "P04-04",
+      "P04-05",
+      "P04-06",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P02-04",
+    "t": 272,
+    "xy": [
+      -18.8981,
+      -49.5979
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "west-field",
+      "pasture-keeper",
+      "east-yard",
+      "east-tools",
+      "barn-storage",
+      "east-home",
+      "approach-witnesses",
+      "west-yard"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P02-05",
+      "P03-03",
+      "P03-07",
+      "P04-04",
+      "P04-05",
+      "P04-06",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P02-05",
+    "t": 272,
+    "xy": [
+      -18.8981,
+      -49.5979
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "pasture-keeper",
+      "east-yard",
+      "east-tools",
+      "barn-storage",
+      "east-home",
+      "approach-witnesses",
+      "west-yard"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P03-03",
+      "P03-07",
+      "P04-04",
+      "P04-05",
+      "P04-06",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P04-02",
+    "t": 272,
+    "xy": [
+      -25.9606,
+      -41.6372
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "west-home"
+    ],
+    "witness_people": [
+      "P04-03"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P04-03",
+    "t": 272,
+    "xy": [
+      -25.9606,
+      -41.6372
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": true,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "west-home"
+    ],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P04-04",
+    "t": 272,
+    "xy": [
+      -18.8981,
+      -49.5979
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "east-yard",
+      "east-tools",
+      "barn-storage",
+      "east-home",
+      "approach-witnesses",
+      "west-yard"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P03-03",
+      "P03-07",
+      "P04-05",
+      "P04-06",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P04-05",
+    "t": 272,
+    "xy": [
+      -18.8981,
+      -49.5979
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "east-yard",
+      "east-tools",
+      "barn-storage",
+      "east-home",
+      "approach-witnesses",
+      "west-yard"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P03-03",
+      "P03-07",
+      "P04-06",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P04-06",
+    "t": 272,
+    "xy": [
+      -18.8981,
+      -49.5979
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E358",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "east-yard",
+      "east-tools",
+      "east-home",
+      "approach-witnesses",
+      "west-yard"
+    ],
+    "witness_people": [
+      "P01-03",
+      "P03-03",
+      "P03-07",
+      "P05-06"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E344"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P17-01",
+    "t": 280,
+    "xy": [
+      -44.1995,
+      176.2272
+    ],
+    "intention": "Driver tries the apparent forest-side opening after abandoning cart; he has seen the sheet but has no lethal-contact warning",
+    "killer": "Barrier",
+    "event": "E360",
+    "injury": false,
+    "exposure": "Physical attempt to cross opaque reactive boundary",
+    "witness_groups": [
+      "delivery"
+    ],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone seen at gate"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 266,
+        "cause": "Bone seen at gate",
+        "destination": [
+          -44.1995,
+          176.2272
+        ]
+      }
+    ]
+  },
+  {
+    "person": "P08-23",
+    "t": 280,
+    "xy": [
+      14.445,
+      97.7908
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Bone",
+    "event": "E363",
+    "injury": false,
+    "exposure": "Local intended precise strike during Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "witness_groups": [
+      "centre-transit"
+    ],
+    "witness_people": [
+      "P08-25",
+      "P08-26"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "search-Cottage_13",
+      "search-Cottage_11",
+      "search-UpperCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P13-01",
+    "t": 300,
+    "xy": [
+      6.8068,
+      92.3038
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Bone",
+    "event": "E395",
+    "injury": false,
+    "exposure": "Local intended precise strike during Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "witness_groups": [
+      "caretaker",
+      "upper-Cottage_11",
+      "centre-transit",
+      "upper-UpperCottage-split13",
+      "children-yard",
+      "upper-Cottage_03"
+    ],
+    "witness_people": [
+      "P08-26",
+      "P10-17",
+      "P10-18",
+      "P10-19",
+      "P10-20",
+      "P12-03",
+      "P12-07",
+      "P12-08",
+      "P12-10"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "search-Church",
+      "Bone E388"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P09-14",
+    "t": 314.0,
+    "xy": [
+      48.5578,
+      67.7771
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Bone",
+    "event": "E451",
+    "injury": false,
+    "exposure": "Local intended precise strike during Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "witness_groups": [
+      "tavern-delivery",
+      "old-Cottage_06-split8",
+      "tavern-service-runners-split8"
+    ],
+    "witness_people": [
+      "P09-02",
+      "P10-08"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "E044 tavern corner damage",
+      "E069 tavern breach",
+      "Bone E156",
+      "E156",
+      "Bone lower guide injury",
+      "E267",
+      "search-CrookedCottage",
+      "search-SplitRoofCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 151,
+        "cause": "E156",
+        "destination": "CollapsedCellarCottage"
+      },
+      {
+        "t": 160,
+        "cause": "Bone lower guide injury",
+        "destination": "CollapsedCellarCottage"
+      }
+    ]
+  },
+  {
+    "person": "P14-06",
+    "t": 324.0,
+    "xy": [
+      50.508,
+      74.0387
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Bone",
+    "event": "E470",
+    "injury": false,
+    "exposure": "Local intended precise strike during Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "witness_groups": [
+      "edge-animal-split15",
+      "edge-animal",
+      "east-passers-split5",
+      "edge-Cottage_08-split15",
+      "tavern-service-runners-split5",
+      "stall-thief",
+      "old-Cottage_07-split13",
+      "cellar-cottage-family"
+    ],
+    "witness_people": [
+      "P06-06",
+      "P06-07",
+      "P08-17",
+      "P08-24",
+      "P09-01",
+      "P10-10",
+      "P14-03",
+      "P14-05",
+      "P14-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "Bone E456"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-01",
+    "t": 332.0,
+    "xy": [
+      68.1757,
+      78.0609
+    ],
+    "intention": "Household chooses nearby forest edge rather than another visibly compromised house",
+    "killer": "Barrier",
+    "event": "E474",
+    "injury": false,
+    "exposure": "Physical attempt to cross opaque reactive boundary",
+    "witness_groups": [
+      "old-Cottage_12",
+      "edge-animal",
+      "old-CrookedCottage"
+    ],
+    "witness_people": [
+      "P10-02",
+      "P10-03",
+      "P10-14",
+      "P14-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "search-CrookedCottage",
+      "search-SplitRoofCottage",
+      "search-Cottage_08",
+      "Bone C08 shutter pressure"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 318.0,
+        "cause": "Bone C08 shutter pressure",
+        "destination": [
+          68.1757,
+          78.0609
+        ]
+      }
+    ]
+  },
+  {
+    "person": "P08-25",
+    "t": 332.0,
+    "xy": [
+      -65.8527,
+      104.314
+    ],
+    "intention": "Try the western woodland edge without having received the foresters' lethal-contact report",
+    "killer": "Barrier",
+    "event": "E476",
+    "injury": false,
+    "exposure": "Physical attempt to cross opaque reactive boundary",
+    "witness_groups": [
+      "upper-edge-runner"
+    ],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "search-Cottage_13",
+      "search-Cottage_11",
+      "search-UpperCottage",
+      "Bone upper watcher attack"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 280,
+        "cause": "Bone upper watcher attack",
+        "destination": [
+          -65.8527,
+          104.314
+        ]
+      }
+    ]
+  },
+  {
+    "person": "P10-02",
+    "t": 336.0,
+    "xy": [
+      64.0,
+      85.0
+    ],
+    "intention": "Recoil from lethal boundary response and seek nearby cover rather than try again",
+    "killer": "Bone",
+    "event": "E478",
+    "injury": false,
+    "exposure": "Local intended precise strike during Recoil from lethal boundary response and seek nearby cover rather than try again",
+    "witness_groups": [
+      "old-CrookedCottage",
+      "cellar-cottage-family",
+      "edge-animal"
+    ],
+    "witness_people": [
+      "P06-06",
+      "P06-07",
+      "P10-03",
+      "P14-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "search-CrookedCottage",
+      "search-SplitRoofCottage",
+      "search-Cottage_08",
+      "Bone C08 shutter pressure",
+      "Bone-origin forced flight then local barrier discovery"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 318.0,
+        "cause": "Bone C08 shutter pressure",
+        "destination": [
+          68.1757,
+          78.0609
+        ]
+      },
+      {
+        "t": 332.0,
+        "cause": "Bone-origin forced flight then local barrier discovery",
+        "destination": [
+          64,
+          85
+        ]
+      }
+    ]
+  },
+  {
+    "person": "P08-18",
+    "t": 342.0,
+    "xy": [
+      55.0653,
+      54.36
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E483",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "east-passers"
+    ],
+    "witness_people": [
+      "P08-19"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "search-Cottage_01",
+      "Bone family refuge denial",
+      "search-SplitRoofCottage",
+      "search-CrookedCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 174,
+        "cause": "Bone family refuge denial",
+        "destination": "SplitRoofCottage"
+      }
+    ]
+  },
+  {
+    "person": "P10-12",
+    "t": 342.0,
+    "xy": [
+      55.1994,
+      52.9088
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E483",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Cottage_07"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-14",
+    "t": 342.0,
+    "xy": [
+      55.1994,
+      52.9088
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E483",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108",
+      "search-Cottage_06",
+      "E267",
+      "search-CrookedCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-22",
+    "t": 342.0,
+    "xy": [
+      55.0653,
+      54.36
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E483",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108",
+      "search-CrookedCottage",
+      "search-SplitRoofCottage",
+      "search-CrookedCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P14-01",
+    "t": 342.0,
+    "xy": [
+      55.0653,
+      54.36
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E483",
+    "injury": true,
+    "exposure": "Sheltering behind first-damaged wall; nonfatal debris exposure",
+    "witness_groups": [
+      "edge-SplitRoofCottage"
+    ],
+    "witness_people": [
+      "P14-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.25,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-SplitRoofCottage",
+      "search-CrookedCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P14-03",
+    "t": 348.0,
+    "xy": [
+      23.5,
+      97.6557
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Bone",
+    "event": "E510",
+    "injury": false,
+    "exposure": "Local intended precise strike during Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "witness_groups": [
+      "foresters-split14",
+      "west-EndRowCottage"
+    ],
+    "witness_people": [
+      "P11-05",
+      "P11-06",
+      "P15-02"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "E456"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 318.0,
+        "cause": "E456",
+        "destination": "Church"
+      }
+    ]
+  },
+  {
+    "person": "P06-06",
+    "t": 360.0,
+    "xy": [
+      41.1171,
+      79.7517
+    ],
+    "intention": "Two family members stay low inside; opening another exit seems more dangerous",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "old-Cottage_12",
+      "cellar-cottage-family",
+      "old-Cottage_06-split8",
+      "tavern-service-runners-split8",
+      "old-Cottage_12-split11",
+      "edge-animal",
+      "old-yard-worker",
+      "east-passers-split16",
+      "edge-SplitRoofCottage-split16",
+      "old-Cottage_07"
+    ],
+    "witness_people": [
+      "P06-07",
+      "P08-18",
+      "P09-02",
+      "P10-08",
+      "P10-12",
+      "P10-13",
+      "P10-14",
+      "P10-22",
+      "P14-01",
+      "P14-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CollapsedCellarCottage",
+      "search-Cottage_06",
+      "search-CrookedCottage",
+      "search-SplitRoofCottage",
+      "search-Cottage_08"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P06-07",
+    "t": 360.0,
+    "xy": [
+      41.1171,
+      79.7517
+    ],
+    "intention": "Two family members stay low inside; opening another exit seems more dangerous",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "old-Cottage_12",
+      "cellar-cottage-family",
+      "old-Cottage_06-split8",
+      "tavern-service-runners-split8",
+      "old-Cottage_12-split11",
+      "edge-animal",
+      "old-yard-worker",
+      "east-passers-split16",
+      "edge-SplitRoofCottage-split16",
+      "old-Cottage_07"
+    ],
+    "witness_people": [
+      "P08-18",
+      "P09-02",
+      "P10-08",
+      "P10-12",
+      "P10-13",
+      "P10-14",
+      "P10-22",
+      "P14-01",
+      "P14-07"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-CollapsedCellarCottage",
+      "search-Cottage_06",
+      "search-CrookedCottage",
+      "search-SplitRoofCottage",
+      "search-Cottage_08"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-19",
+    "t": 360.0,
+    "xy": [
+      55.1994,
+      52.9088
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Previously breached refuge",
+    "witness_groups": [
+      "edge-SplitRoofCottage-split16",
+      "old-yard-worker",
+      "east-passers-split16"
+    ],
+    "witness_people": [
+      "P08-18",
+      "P10-22",
+      "P14-01"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "search-Cottage_01",
+      "Bone family refuge denial",
+      "search-SplitRoofCottage",
+      "search-CrookedCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 174,
+        "cause": "Bone family refuge denial",
+        "destination": "SplitRoofCottage"
+      }
+    ]
+  },
+  {
+    "person": "P10-12",
+    "t": 360.0,
+    "xy": [
+      46.7018,
+      72.1392
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "old-Cottage_12",
+      "tavern-service-runners-split8",
+      "old-Cottage_06-split8",
+      "old-Cottage_12-split11",
+      "old-Cottage_07"
+    ],
+    "witness_people": [
+      "P09-02",
+      "P10-08",
+      "P10-13",
+      "P10-14"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Cottage_07",
+      "E483"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-14",
+    "t": 360.0,
+    "xy": [
+      46.7018,
+      72.1392
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "old-Cottage_12-split11",
+      "old-Cottage_12",
+      "tavern-service-runners-split8",
+      "old-Cottage_06-split8"
+    ],
+    "witness_people": [
+      "P09-02",
+      "P10-08",
+      "P10-13"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108",
+      "search-Cottage_06",
+      "E267",
+      "search-CrookedCottage",
+      "E483"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-22",
+    "t": 360.0,
+    "xy": [
+      49.8228,
+      65.76
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "tavern-service-runners-split8",
+      "old-Cottage_06-split8",
+      "old-yard-worker",
+      "east-passers-split16",
+      "edge-SplitRoofCottage-split16"
+    ],
+    "witness_people": [
+      "P08-18",
+      "P09-02",
+      "P10-08",
+      "P14-01"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108",
+      "search-CrookedCottage",
+      "search-SplitRoofCottage",
+      "search-CrookedCottage",
+      "E483"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P14-02",
+    "t": 360.0,
+    "xy": [
+      55.1994,
+      52.9088
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Previously breached refuge",
+    "witness_groups": [
+      "edge-SplitRoofCottage-split16",
+      "east-passers-split16"
+    ],
+    "witness_people": [
+      "P08-18",
+      "P14-01"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-SplitRoofCottage",
+      "search-CrookedCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P14-04",
+    "t": 360.0,
+    "xy": [
+      50.508,
+      74.0387
+    ],
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "tavern-service-runners-split8",
+      "old-Cottage_06-split8"
+    ],
+    "witness_people": [
+      "P09-02",
+      "P10-08"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-13",
+    "t": 360.0,
+    "xy": [
+      46.7018,
+      72.1392
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "old-Cottage_12-split11",
+      "tavern-service-runners-split8",
+      "old-Cottage_06-split8"
+    ],
+    "witness_people": [
+      "P09-02",
+      "P10-08"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "E108",
+      "search-Cottage_06",
+      "E267",
+      "search-CrookedCottage",
+      "E483"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P10-11",
+    "t": 360.0,
+    "xy": [
+      50.508,
+      74.0387
+    ],
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Repeated pressure through previously damaged shelter face",
+    "witness_groups": [
+      "tavern-service-runners-split8",
+      "old-Cottage_06-split8"
+    ],
+    "witness_people": [
+      "P09-02",
+      "P10-08"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-Cottage_07",
+      "search-SplitRoofCottage"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P08-18",
+    "t": 360.0,
+    "xy": [
+      49.8228,
+      65.76
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "tavern-service-runners-split8",
+      "old-Cottage_06-split8",
+      "edge-SplitRoofCottage-split16",
+      "east-passers-split16"
+    ],
+    "witness_people": [
+      "P09-02",
+      "P10-08",
+      "P14-01"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": true,
+    "contributing_causes": [
+      "search-Cottage_01",
+      "Bone family refuge denial",
+      "search-SplitRoofCottage",
+      "search-CrookedCottage",
+      "E483"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": true,
+    "bone_movement_chain": [
+      {
+        "t": 174,
+        "cause": "Bone family refuge denial",
+        "destination": "SplitRoofCottage"
+      }
+    ]
+  },
+  {
+    "person": "P14-01",
+    "t": 360.0,
+    "xy": [
+      49.8228,
+      65.76
+    ],
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "killer": "Blood",
+    "event": "E524",
+    "injury": false,
+    "exposure": "Exposed corridor",
+    "witness_groups": [
+      "tavern-service-runners-split8",
+      "old-Cottage_06-split8",
+      "edge-SplitRoofCottage-split16"
+    ],
+    "witness_people": [
+      "P09-02",
+      "P10-08"
+    ],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 0.75,
+    "bone_contributing": false,
+    "contributing_causes": [
+      "search-SplitRoofCottage",
+      "search-CrookedCottage",
+      "E483"
+    ],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": []
+  },
+  {
+    "person": "P16-01",
+    "t": 366.001,
+    "xy": [
+      2,
+      146
+    ],
+    "intention": "Secured by the Witch for the final confrontation; unable to escape, awaiting her decision",
+    "killer": "Witch",
+    "event": "E538",
+    "injury": false,
+    "exposure": "Personally secured during final confrontation; minimal terminal event, no cinematic choreography",
+    "witness_groups": [],
+    "witness_people": [],
+    "local_knowledge": "Only listed witnesses receive the cause/death; others may later hear reports.",
+    "blood_units": 1,
+    "bone_contributing": false,
+    "contributing_causes": [],
+    "pre90": false,
+    "bone_direct_or_chain": false,
+    "bone_movement_chain": [],
+    "recorded_prior_intention": "Remain with household behind closed cover; listen and assess unfamiliar blackout",
+    "review_annotation": "Context clarified from recorded Witch arrival/restraint event after closure; no position, timing, casualty or outcome changed."
+  }
+]

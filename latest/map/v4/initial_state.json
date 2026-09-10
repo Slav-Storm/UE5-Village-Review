@@ -1,0 +1,7763 @@
+{
+  "t": 90,
+  "groups": {
+    "east-tools": {
+      "id": "east-tools",
+      "origin": "P01",
+      "members": [
+        "P01-01",
+        "P01-02",
+        "P01-03"
+      ],
+      "xy": [
+        5.8,
+        -61.8
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Long-field workers at tool return",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            5.8,
+            -61.8
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "report: orchard warning",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "strip-workers": {
+      "id": "strip-workers",
+      "origin": "P01",
+      "members": [
+        "P01-04",
+        "P01-05"
+      ],
+      "xy": [
+        31,
+        -35
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Finishing middle-strip work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            31,
+            -35
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "orchard": {
+      "id": "orchard",
+      "origin": "P01",
+      "members": [
+        "P01-06"
+      ],
+      "xy": [
+        9.2,
+        -36.3
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Orchard warning relay",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            9.2,
+            -36.3
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "report: lower approach attack",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-tools": {
+      "id": "west-tools",
+      "origin": "P02",
+      "members": [
+        "P02-01",
+        "P02-02"
+      ],
+      "xy": [
+        -25.4,
+        -51.3
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Field workers storing tools",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -25.4,
+            -51.3
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-field": {
+      "id": "west-field",
+      "origin": "P02",
+      "members": [
+        "P02-03",
+        "P02-04"
+      ],
+      "xy": [
+        -31.6,
+        -77
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Finishing western long field",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -31.6,
+            -77
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "pasture-keeper": {
+      "id": "pasture-keeper",
+      "origin": "P02",
+      "members": [
+        "P02-05"
+      ],
+      "xy": [
+        -19.2,
+        -59.6
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M02",
+      "intention": "Returning after pasture gate check",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -19.2,
+            -59.6
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "pasture-partner": {
+      "id": "pasture-partner",
+      "origin": "P02",
+      "members": [
+        "P02-06"
+      ],
+      "xy": [
+        -19.2,
+        -59.6
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Second pasture keeper returning",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -19.2,
+            -59.6
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "east-home": {
+      "id": "east-home",
+      "origin": "P03",
+      "members": [
+        "P03-01",
+        "P03-02",
+        "P03-03"
+      ],
+      "xy": [
+        10.7137,
+        -44.8152
+      ],
+      "home": "Farmstead_West",
+      "shelter": "Farmstead_West",
+      "micro": null,
+      "intention": "Farmhouse supper and child care",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            10.7137,
+            -44.8152
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "report: farm warning",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "east-yard": {
+      "id": "east-yard",
+      "origin": "P03",
+      "members": [
+        "P03-04",
+        "P03-05",
+        "P03-06",
+        "P03-07"
+      ],
+      "xy": [
+        17.5,
+        -55.5
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Barn and farmyard storage",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            17.5,
+            -55.5
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "report: orchard warning",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-home": {
+      "id": "west-home",
+      "origin": "P04",
+      "members": [
+        "P04-01",
+        "P04-02",
+        "P04-03"
+      ],
+      "xy": [
+        -20.0047,
+        -42.89
+      ],
+      "home": "Farmstead_South",
+      "shelter": "Farmstead_South",
+      "micro": null,
+      "intention": "Farmhouse supper preparation",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -20.0047,
+            -42.89
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "barn-storage": {
+      "id": "barn-storage",
+      "origin": "P04",
+      "members": [
+        "P04-04",
+        "P04-05"
+      ],
+      "xy": [
+        -24.7,
+        -59.8
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M03",
+      "intention": "Fodder and tools at barn",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -24.7,
+            -59.8
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-yard": {
+      "id": "west-yard",
+      "origin": "P04",
+      "members": [
+        "P04-06"
+      ],
+      "xy": [
+        -27,
+        -49
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Farmyard work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -27,
+            -49
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "handcart": {
+      "id": "handcart",
+      "origin": "P05",
+      "members": [
+        "P05-01",
+        "P05-02"
+      ],
+      "xy": [
+        -0.7454818255,
+        -11.1165664894
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M01",
+      "intention": "Taking produce handcart home",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -0.7454818255,
+            -11.1165664894
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "approach-witnesses": {
+      "id": "approach-witnesses",
+      "origin": "P05",
+      "members": [
+        "P05-03",
+        "P05-04",
+        "P05-05",
+        "P05-06"
+      ],
+      "xy": [
+        -1.52628730005,
+        -19.2598640571
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Recoiled after seeing handcart pair killed",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -1.52628730005,
+            -19.2598640571
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "direct: first two precise attacks",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [
+          "P05-01",
+          "P05-02"
+        ],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "c04-family": {
+      "id": "c04-family",
+      "origin": "P06",
+      "members": [
+        "P06-01",
+        "P06-02",
+        "P06-03"
+      ],
+      "xy": [
+        -27.4188,
+        5.2688
+      ],
+      "home": "Cottage_04",
+      "shelter": "Cottage_04",
+      "micro": null,
+      "intention": "Household warned by parent",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -27.4188,
+            5.2688
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "report: parent saw creature",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "needle-family": {
+      "id": "needle-family",
+      "origin": "P06",
+      "members": [
+        "P06-04",
+        "P06-05"
+      ],
+      "xy": [
+        2.803,
+        21.2208
+      ],
+      "home": "NeedleHouse",
+      "shelter": "NeedleHouse",
+      "micro": null,
+      "intention": "Supper preparation",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            2.803,
+            21.2208
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "cellar-cottage-family": {
+      "id": "cellar-cottage-family",
+      "origin": "P06",
+      "members": [
+        "P06-06",
+        "P06-07"
+      ],
+      "xy": [
+        15.4536,
+        13.1781
+      ],
+      "home": "CollapsedCellarCottage",
+      "shelter": "CollapsedCellarCottage",
+      "micro": null,
+      "intention": "Washing and supper",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            15.4536,
+            13.1781
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "c09-resident": {
+      "id": "c09-resident",
+      "origin": "P06",
+      "members": [
+        "P06-08"
+      ],
+      "xy": [
+        -9.6248,
+        26.7724
+      ],
+      "home": "Cottage_09",
+      "shelter": "Cottage_09",
+      "micro": null,
+      "intention": "Household cooking",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -9.6248,
+            26.7724
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "lower-yard-west": {
+      "id": "lower-yard-west",
+      "origin": "P06",
+      "members": [
+        "P06-09",
+        "P06-10"
+      ],
+      "xy": [
+        -19,
+        18
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Washing and wood storage",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -19,
+            18
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "report: lower cries",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "lower-yard-east": {
+      "id": "lower-yard-east",
+      "origin": "P06",
+      "members": [
+        "P06-11",
+        "P06-12"
+      ],
+      "xy": [
+        13,
+        21
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Garden and household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            13,
+            21
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: public impact",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "parent-child": {
+      "id": "parent-child",
+      "origin": "P06",
+      "members": [
+        "P06-13",
+        "P06-14"
+      ],
+      "xy": [
+        -34.3,
+        9.2
+      ],
+      "home": "Cottage_04",
+      "shelter": null,
+      "micro": "M05",
+      "intention": "Concealed beside coop; parent shelters child",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -34.3,
+            9.2
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "direct: deliberate torment at coop",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "smith-pair": {
+      "id": "smith-pair",
+      "origin": "P07",
+      "members": [
+        "P07-01",
+        "P07-02"
+      ],
+      "xy": [
+        -39.5,
+        11.7
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M07",
+      "intention": "Smith and apprentice at unfinished wheel",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -39.5,
+            11.7
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: heavy impact and screams",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "assistant": {
+      "id": "assistant",
+      "origin": "P07",
+      "members": [
+        "P07-03"
+      ],
+      "xy": [
+        -28.4017671378,
+        37.6234790712
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Walking home after workshop",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -28.4017671378,
+            37.6234790712
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "smith-customer": {
+      "id": "smith-customer",
+      "origin": "P07",
+      "members": [
+        "P07-04"
+      ],
+      "xy": [
+        -25.8,
+        21
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Collecting repaired item",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -25.8,
+            21
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: heavy impact",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "water-pair": {
+      "id": "water-pair",
+      "origin": "P08",
+      "members": [
+        "P08-01",
+        "P08-02"
+      ],
+      "xy": [
+        -18,
+        35
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M04",
+      "intention": "Stopped water carriers who saw assistant killed",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -18,
+            35
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: major impact",
+        "bone": "direct: assistant killed",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [
+          "P07-03"
+        ],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "well-fatal": {
+      "id": "well-fatal",
+      "origin": "P08",
+      "members": [
+        "P08-03",
+        "P08-04"
+      ],
+      "xy": [
+        -4.9,
+        49.6
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Collecting water",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -4.9,
+            49.6
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "stall-fatal": {
+      "id": "stall-fatal",
+      "origin": "P08",
+      "members": [
+        "P08-05",
+        "P08-06"
+      ],
+      "xy": [
+        2,
+        49
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Ordinary stall transaction",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            2,
+            49
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "stall-injured": {
+      "id": "stall-injured",
+      "origin": "P08",
+      "members": [
+        "P08-07",
+        "P08-08",
+        "P08-09",
+        "P08-10"
+      ],
+      "xy": [
+        3,
+        50.8
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Injured at first public strike",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            3,
+            50.8
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "direct: first public attack",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "centre-caller": {
+      "id": "centre-caller",
+      "origin": "P08",
+      "members": [
+        "P08-11"
+      ],
+      "xy": [
+        -11,
+        52
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Warning western frontage",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -11,
+            52
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "direct: public attack",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "centre-neighbours": {
+      "id": "centre-neighbours",
+      "origin": "P08",
+      "members": [
+        "P08-12",
+        "P08-13",
+        "P08-14",
+        "P08-15",
+        "P08-16"
+      ],
+      "xy": [
+        -6,
+        50.5
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Neighbours near well and injured",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -6,
+            50.5
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "direct: public attack",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "east-passers": {
+      "id": "east-passers",
+      "origin": "P08",
+      "members": [
+        "P08-17",
+        "P08-18",
+        "P08-19"
+      ],
+      "xy": [
+        22.5953376421,
+        40.7978692258
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Already left centre for older homes",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            22.5953376421,
+            40.7978692258
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: crash behind",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "centre-goods": {
+      "id": "centre-goods",
+      "origin": "P08",
+      "members": [
+        "P08-20",
+        "P08-21",
+        "P08-22"
+      ],
+      "xy": [
+        8,
+        54
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Goods collection interrupted",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            8,
+            54
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "direct: public attack",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "centre-transit": {
+      "id": "centre-transit",
+      "origin": "P08",
+      "members": [
+        "P08-23",
+        "P08-24",
+        "P08-25",
+        "P08-26"
+      ],
+      "xy": [
+        -3,
+        57
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Through traffic halted at junction",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -3,
+            57
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "direct: public attack",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "tavern-inside": {
+      "id": "tavern-inside",
+      "origin": "P09",
+      "members": [
+        "P09-01",
+        "P09-02",
+        "P09-03",
+        "P09-04",
+        "P09-05",
+        "P09-06",
+        "P09-07"
+      ],
+      "xy": [
+        6.2819,
+        34.4785
+      ],
+      "home": "Tavern",
+      "shelter": "Tavern",
+      "micro": null,
+      "intention": "Six customers and one preparation staff",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            6.2819,
+            34.4785
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "report: danger outside; identities uncertain",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "tavern-porch": {
+      "id": "tavern-porch",
+      "origin": "P09",
+      "members": [
+        "P09-08",
+        "P09-09",
+        "P09-10",
+        "P09-11"
+      ],
+      "xy": [
+        1.4,
+        42
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Porch patrons at threshold",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            1.4,
+            42
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "direct: first public strike",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "tavern-delivery": {
+      "id": "tavern-delivery",
+      "origin": "P09",
+      "members": [
+        "P09-12",
+        "P09-13",
+        "P09-14"
+      ],
+      "xy": [
+        14.1,
+        30
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M06",
+      "intention": "Two staff and delivery hand receiving barrels",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            14.1,
+            30
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: screams, no direct view",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "old-CrookedCottage": {
+      "id": "old-CrookedCottage",
+      "origin": "P10",
+      "members": [
+        "P10-01",
+        "P10-02",
+        "P10-03"
+      ],
+      "xy": [
+        37.6225,
+        33.0432
+      ],
+      "home": "CrookedCottage",
+      "shelter": "CrookedCottage",
+      "micro": null,
+      "intention": "Family preparing supper",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            37.6225,
+            33.0432
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: distant crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "old-Cottage_01": {
+      "id": "old-Cottage_01",
+      "origin": "P10",
+      "members": [
+        "P10-04",
+        "P10-05",
+        "P10-06"
+      ],
+      "xy": [
+        20.2797,
+        36.8931
+      ],
+      "home": "Cottage_01",
+      "shelter": "Cottage_01",
+      "micro": null,
+      "intention": "Family preparing supper",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            20.2797,
+            36.8931
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: distant crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "old-Cottage_06": {
+      "id": "old-Cottage_06",
+      "origin": "P10",
+      "members": [
+        "P10-07",
+        "P10-08",
+        "P10-09"
+      ],
+      "xy": [
+        24.5156,
+        24.4654
+      ],
+      "home": "Cottage_06",
+      "shelter": "Cottage_06",
+      "micro": null,
+      "intention": "Family preparing supper",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            24.5156,
+            24.4654
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: distant crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "old-Cottage_07": {
+      "id": "old-Cottage_07",
+      "origin": "P10",
+      "members": [
+        "P10-10",
+        "P10-11",
+        "P10-12"
+      ],
+      "xy": [
+        37.8025,
+        46.7311
+      ],
+      "home": "Cottage_07",
+      "shelter": "Cottage_07",
+      "micro": null,
+      "intention": "Family preparing supper",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            37.8025,
+            46.7311
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: distant crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "old-Cottage_12": {
+      "id": "old-Cottage_12",
+      "origin": "P10",
+      "members": [
+        "P10-13",
+        "P10-14"
+      ],
+      "xy": [
+        26.7321,
+        42.3701
+      ],
+      "home": "Cottage_12",
+      "shelter": "Cottage_12",
+      "micro": null,
+      "intention": "Family preparing supper",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            26.7321,
+            42.3701
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: distant crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "yard-neighbours": {
+      "id": "yard-neighbours",
+      "origin": "P10",
+      "members": [
+        "P10-15",
+        "P10-16"
+      ],
+      "xy": [
+        29.7,
+        32
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M08",
+      "intention": "Shared-yard storage conversation",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            29.7,
+            32
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: impact and cries",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "children-yard": {
+      "id": "children-yard",
+      "origin": "P10",
+      "members": [
+        "P10-17",
+        "P10-18",
+        "P10-19",
+        "P10-20",
+        "P10-21"
+      ],
+      "xy": [
+        37.7,
+        51.9
+      ],
+      "home": "Cottage_07",
+      "shelter": null,
+      "micro": "M09",
+      "intention": "Caregiver gathered four children",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            37.7,
+            51.9
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: public attack and warnings",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "old-yard-worker": {
+      "id": "old-yard-worker",
+      "origin": "P10",
+      "members": [
+        "P10-22"
+      ],
+      "xy": [
+        29,
+        48.5
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Yard household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            29,
+            48.5
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: impact",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "old-alley": {
+      "id": "old-alley",
+      "origin": "P10",
+      "members": [
+        "P10-23",
+        "P10-24"
+      ],
+      "xy": [
+        27.5,
+        34.5
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Walking narrow shared passage",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            27.5,
+            34.5
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: cries",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-CrushedHome": {
+      "id": "west-CrushedHome",
+      "origin": "P11",
+      "members": [
+        "P11-01",
+        "P11-02"
+      ],
+      "xy": [
+        -27.8831,
+        61.1943
+      ],
+      "home": "CrushedHome",
+      "shelter": "CrushedHome",
+      "micro": null,
+      "intention": "Indoor household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -27.8831,
+            61.1943
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: indistinct crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-RearCottage": {
+      "id": "west-RearCottage",
+      "origin": "P11",
+      "members": [
+        "P11-03",
+        "P11-04"
+      ],
+      "xy": [
+        -45.3497,
+        62.5928
+      ],
+      "home": "RearCottage",
+      "shelter": "RearCottage",
+      "micro": null,
+      "intention": "Indoor household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -45.3497,
+            62.5928
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: indistinct crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-EndRowCottage": {
+      "id": "west-EndRowCottage",
+      "origin": "P11",
+      "members": [
+        "P11-05",
+        "P11-06"
+      ],
+      "xy": [
+        -48.8175,
+        77.1379
+      ],
+      "home": "EndRowCottage",
+      "shelter": "EndRowCottage",
+      "micro": null,
+      "intention": "Indoor household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -48.8175,
+            77.1379
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: indistinct crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-WeaverCottage": {
+      "id": "west-WeaverCottage",
+      "origin": "P11",
+      "members": [
+        "P11-07",
+        "P11-08"
+      ],
+      "xy": [
+        -41.2321,
+        38.284
+      ],
+      "home": "WeaverCottage",
+      "shelter": "WeaverCottage",
+      "micro": null,
+      "intention": "Indoor household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -41.2321,
+            38.284
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: indistinct crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-Cottage_02": {
+      "id": "west-Cottage_02",
+      "origin": "P11",
+      "members": [
+        "P11-09",
+        "P11-10"
+      ],
+      "xy": [
+        -14.2607,
+        58.0484
+      ],
+      "home": "Cottage_02",
+      "shelter": "Cottage_02",
+      "micro": null,
+      "intention": "Indoor household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -14.2607,
+            58.0484
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: indistinct crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-Cottage_05": {
+      "id": "west-Cottage_05",
+      "origin": "P11",
+      "members": [
+        "P11-11",
+        "P11-12"
+      ],
+      "xy": [
+        -37.8993,
+        50.7618
+      ],
+      "home": "Cottage_05",
+      "shelter": "Cottage_05",
+      "micro": null,
+      "intention": "Indoor household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -37.8993,
+            50.7618
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: indistinct crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-Cottage_10": {
+      "id": "west-Cottage_10",
+      "origin": "P11",
+      "members": [
+        "P11-13",
+        "P11-14"
+      ],
+      "xy": [
+        -28.7008,
+        47.7356
+      ],
+      "home": "Cottage_10",
+      "shelter": "Cottage_10",
+      "micro": null,
+      "intention": "Indoor household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -28.7008,
+            47.7356
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: indistinct crash",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "firewood": {
+      "id": "firewood",
+      "origin": "P11",
+      "members": [
+        "P11-15"
+      ],
+      "xy": [
+        -22,
+        58.4
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M10",
+      "intention": "Carrying fuel for supper",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -22,
+            58.4
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: heavy impact",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-yard-neighbours": {
+      "id": "west-yard-neighbours",
+      "origin": "P11",
+      "members": [
+        "P11-16",
+        "P11-17",
+        "P11-18"
+      ],
+      "xy": [
+        -35,
+        70
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Talking and bringing washing in",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -35,
+            70
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: screams",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-yard-trades": {
+      "id": "west-yard-trades",
+      "origin": "P11",
+      "members": [
+        "P11-19",
+        "P11-20"
+      ],
+      "xy": [
+        -30,
+        52.5
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Household trade work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -30,
+            52.5
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: impact",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "west-shortcut": {
+      "id": "west-shortcut",
+      "origin": "P11",
+      "members": [
+        "P11-21",
+        "P11-22"
+      ],
+      "xy": [
+        -45,
+        72
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Walking between households",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -45,
+            72
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 2,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": [
+          "forest crew inferred enclosure"
+        ]
+      }
+    },
+    "upper-AbandonedCottage": {
+      "id": "upper-AbandonedCottage",
+      "origin": "P12",
+      "members": [
+        "P12-01",
+        "P12-02"
+      ],
+      "xy": [
+        -11.7702,
+        71.7598
+      ],
+      "home": "AbandonedCottage",
+      "shelter": "AbandonedCottage",
+      "micro": null,
+      "intention": "Indoor supper and household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -11.7702,
+            71.7598
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "upper-UpperCottage": {
+      "id": "upper-UpperCottage",
+      "origin": "P12",
+      "members": [
+        "P12-03",
+        "P12-04"
+      ],
+      "xy": [
+        -10.564,
+        91.4845
+      ],
+      "home": "UpperCottage",
+      "shelter": "UpperCottage",
+      "micro": null,
+      "intention": "Indoor supper and household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -10.564,
+            91.4845
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "upper-SealedCellarCottage": {
+      "id": "upper-SealedCellarCottage",
+      "origin": "P12",
+      "members": [
+        "P12-05",
+        "P12-06"
+      ],
+      "xy": [
+        -42.5649,
+        95.808
+      ],
+      "home": "SealedCellarCottage",
+      "shelter": "SealedCellarCottage",
+      "micro": null,
+      "intention": "Indoor supper and household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -42.5649,
+            95.808
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "upper-Cottage_03": {
+      "id": "upper-Cottage_03",
+      "origin": "P12",
+      "members": [
+        "P12-07",
+        "P12-08"
+      ],
+      "xy": [
+        1.8053,
+        88.767
+      ],
+      "home": "Cottage_03",
+      "shelter": "Cottage_03",
+      "micro": null,
+      "intention": "Indoor supper and household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            1.8053,
+            88.767
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "upper-Cottage_11": {
+      "id": "upper-Cottage_11",
+      "origin": "P12",
+      "members": [
+        "P12-09",
+        "P12-10"
+      ],
+      "xy": [
+        7.288,
+        70.891
+      ],
+      "home": "Cottage_11",
+      "shelter": "Cottage_11",
+      "micro": null,
+      "intention": "Indoor supper and household work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            7.288,
+            70.891
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "upper-yards": {
+      "id": "upper-yards",
+      "origin": "P12",
+      "members": [
+        "P12-11",
+        "P12-12",
+        "P12-13"
+      ],
+      "xy": [
+        -19,
+        82
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Garden tidying",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -19,
+            82
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: indistinct impacts",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "upper-returner": {
+      "id": "upper-returner",
+      "origin": "P12",
+      "members": [
+        "P12-14"
+      ],
+      "xy": [
+        -18.995464369,
+        96.903367205
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Already returned uphill on ordinary route",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -18.995464369,
+            96.903367205
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "caretaker": {
+      "id": "caretaker",
+      "origin": "P13",
+      "members": [
+        "P13-01"
+      ],
+      "xy": [
+        23.5,
+        83.7
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M13",
+      "intention": "At church public entrance",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            23.5,
+            83.7
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: crash and screams; uncertain source",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "edge-SplitRoofCottage": {
+      "id": "edge-SplitRoofCottage",
+      "origin": "P14",
+      "members": [
+        "P14-01",
+        "P14-02"
+      ],
+      "xy": [
+        55.1994,
+        52.9088
+      ],
+      "home": "SplitRoofCottage",
+      "shelter": "SplitRoofCottage",
+      "micro": null,
+      "intention": "Indoor family food preparation",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            55.1994,
+            52.9088
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "edge-Cottage_08": {
+      "id": "edge-Cottage_08",
+      "origin": "P14",
+      "members": [
+        "P14-03",
+        "P14-04"
+      ],
+      "xy": [
+        50.508,
+        74.0387
+      ],
+      "home": "Cottage_08",
+      "shelter": "Cottage_08",
+      "micro": null,
+      "intention": "Indoor family food preparation",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            50.508,
+            74.0387
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "edge-animal": {
+      "id": "edge-animal",
+      "origin": "P14",
+      "members": [
+        "P14-05",
+        "P14-06",
+        "P14-07"
+      ],
+      "xy": [
+        58,
+        65
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Feeding animals outdoors",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            58,
+            65
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: cries in settlement",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "foresters": {
+      "id": "foresters",
+      "origin": "P15",
+      "members": [
+        "P15-01",
+        "P15-02",
+        "P15-03"
+      ],
+      "xy": [
+        -47.0088105554,
+        70.3155604468
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M11",
+      "intention": "Returned on forest work trail",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -47.0088105554,
+            70.3155604468
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "heard: distant crash",
+        "bone": "unknown",
+        "barrier": 2,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "mayor": {
+      "id": "mayor",
+      "origin": "P16",
+      "members": [
+        "P16-01"
+      ],
+      "xy": [
+        2,
+        146
+      ],
+      "home": "MayorHall",
+      "shelter": "MayorHall",
+      "micro": null,
+      "intention": "Mayor inside mansion",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            2,
+            146
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "entrance-guard": {
+      "id": "entrance-guard",
+      "origin": "P16",
+      "members": [
+        "P16-02"
+      ],
+      "xy": [
+        2,
+        125
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Guard on ordinary formal gate duty",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            2,
+            125
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 2,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "service-guard": {
+      "id": "service-guard",
+      "origin": "P16",
+      "members": [
+        "P16-03"
+      ],
+      "xy": [
+        -22,
+        132
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Guard on ordinary service access duty",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -22,
+            132
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "house-guard": {
+      "id": "house-guard",
+      "origin": "P16",
+      "members": [
+        "P16-04"
+      ],
+      "xy": [
+        1,
+        139
+      ],
+      "home": "MayorHall",
+      "shelter": "MayorHall",
+      "micro": null,
+      "intention": "Guard on house duty",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            1,
+            139
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "estate-staff": {
+      "id": "estate-staff",
+      "origin": "P16",
+      "members": [
+        "P16-05",
+        "P16-06",
+        "P16-07"
+      ],
+      "xy": [
+        -8,
+        144
+      ],
+      "home": "MayorHall",
+      "shelter": "MayorHall",
+      "micro": null,
+      "intention": "Resident staff preparing evening service",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -8,
+            144
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "stable-staff": {
+      "id": "stable-staff",
+      "origin": "P16",
+      "members": [
+        "P16-08"
+      ],
+      "xy": [
+        -11.5,
+        135.5
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": null,
+      "intention": "Stable and grounds work",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -11.5,
+            135.5
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 1,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    },
+    "delivery": {
+      "id": "delivery",
+      "origin": "P17",
+      "members": [
+        "P17-01",
+        "P17-02"
+      ],
+      "xy": [
+        -41.3394326163,
+        155.5952872518
+      ],
+      "home": null,
+      "shelter": null,
+      "micro": "M12",
+      "intention": "Provisions cart paused on real switchback",
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -41.3394326163,
+            155.5952872518
+          ]
+        }
+      ],
+      "knowledge": {
+        "catastrophe": "direct: opaque daylight loss",
+        "blood": "unknown",
+        "bone": "unknown",
+        "barrier": 2,
+        "barrier_reports": [],
+        "specific_deaths": [],
+        "witch": [],
+        "warnings": []
+      }
+    }
+  },
+  "people": {
+    "P01-01": {
+      "id": "P01-01",
+      "origin": "P01",
+      "micro": null,
+      "initial_group": "east-tools",
+      "group": "east-tools",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        5.8,
+        -61.8
+      ],
+      "role": "Long-field workers at tool return",
+      "knowledge": [],
+      "events": []
+    },
+    "P01-02": {
+      "id": "P01-02",
+      "origin": "P01",
+      "micro": null,
+      "initial_group": "east-tools",
+      "group": "east-tools",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        5.8,
+        -61.8
+      ],
+      "role": "Long-field workers at tool return",
+      "knowledge": [],
+      "events": []
+    },
+    "P01-03": {
+      "id": "P01-03",
+      "origin": "P01",
+      "micro": null,
+      "initial_group": "east-tools",
+      "group": "east-tools",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        5.8,
+        -61.8
+      ],
+      "role": "Long-field workers at tool return",
+      "knowledge": [],
+      "events": []
+    },
+    "P01-04": {
+      "id": "P01-04",
+      "origin": "P01",
+      "micro": null,
+      "initial_group": "strip-workers",
+      "group": "strip-workers",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        31,
+        -35
+      ],
+      "role": "Finishing middle-strip work",
+      "knowledge": [],
+      "events": []
+    },
+    "P01-05": {
+      "id": "P01-05",
+      "origin": "P01",
+      "micro": null,
+      "initial_group": "strip-workers",
+      "group": "strip-workers",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        31,
+        -35
+      ],
+      "role": "Finishing middle-strip work",
+      "knowledge": [],
+      "events": []
+    },
+    "P01-06": {
+      "id": "P01-06",
+      "origin": "P01",
+      "micro": null,
+      "initial_group": "orchard",
+      "group": "orchard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        9.2,
+        -36.3
+      ],
+      "role": "Orchard warning relay",
+      "knowledge": [],
+      "events": []
+    },
+    "P02-01": {
+      "id": "P02-01",
+      "origin": "P02",
+      "micro": null,
+      "initial_group": "west-tools",
+      "group": "west-tools",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -25.4,
+        -51.3
+      ],
+      "role": "Field workers storing tools",
+      "knowledge": [],
+      "events": []
+    },
+    "P02-02": {
+      "id": "P02-02",
+      "origin": "P02",
+      "micro": null,
+      "initial_group": "west-tools",
+      "group": "west-tools",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -25.4,
+        -51.3
+      ],
+      "role": "Field workers storing tools",
+      "knowledge": [],
+      "events": []
+    },
+    "P02-03": {
+      "id": "P02-03",
+      "origin": "P02",
+      "micro": null,
+      "initial_group": "west-field",
+      "group": "west-field",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -31.6,
+        -77
+      ],
+      "role": "Finishing western long field",
+      "knowledge": [],
+      "events": []
+    },
+    "P02-04": {
+      "id": "P02-04",
+      "origin": "P02",
+      "micro": null,
+      "initial_group": "west-field",
+      "group": "west-field",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -31.6,
+        -77
+      ],
+      "role": "Finishing western long field",
+      "knowledge": [],
+      "events": []
+    },
+    "P02-05": {
+      "id": "P02-05",
+      "origin": "P02",
+      "micro": "M02",
+      "initial_group": "pasture-keeper",
+      "group": "pasture-keeper",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -19.2,
+        -59.6
+      ],
+      "role": "Returning after pasture gate check",
+      "knowledge": [],
+      "events": []
+    },
+    "P02-06": {
+      "id": "P02-06",
+      "origin": "P02",
+      "micro": null,
+      "initial_group": "pasture-partner",
+      "group": "pasture-partner",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -19.2,
+        -59.6
+      ],
+      "role": "Second pasture keeper returning",
+      "knowledge": [],
+      "events": []
+    },
+    "P03-01": {
+      "id": "P03-01",
+      "origin": "P03",
+      "micro": null,
+      "initial_group": "east-home",
+      "group": "east-home",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        10.7137,
+        -44.8152
+      ],
+      "role": "Farmhouse supper and child care",
+      "knowledge": [],
+      "events": []
+    },
+    "P03-02": {
+      "id": "P03-02",
+      "origin": "P03",
+      "micro": null,
+      "initial_group": "east-home",
+      "group": "east-home",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        10.7137,
+        -44.8152
+      ],
+      "role": "Farmhouse supper and child care",
+      "knowledge": [],
+      "events": []
+    },
+    "P03-03": {
+      "id": "P03-03",
+      "origin": "P03",
+      "micro": null,
+      "initial_group": "east-home",
+      "group": "east-home",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        10.7137,
+        -44.8152
+      ],
+      "role": "Farmhouse supper and child care",
+      "knowledge": [],
+      "events": []
+    },
+    "P03-04": {
+      "id": "P03-04",
+      "origin": "P03",
+      "micro": null,
+      "initial_group": "east-yard",
+      "group": "east-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        17.5,
+        -55.5
+      ],
+      "role": "Barn and farmyard storage",
+      "knowledge": [],
+      "events": []
+    },
+    "P03-05": {
+      "id": "P03-05",
+      "origin": "P03",
+      "micro": null,
+      "initial_group": "east-yard",
+      "group": "east-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        17.5,
+        -55.5
+      ],
+      "role": "Barn and farmyard storage",
+      "knowledge": [],
+      "events": []
+    },
+    "P03-06": {
+      "id": "P03-06",
+      "origin": "P03",
+      "micro": null,
+      "initial_group": "east-yard",
+      "group": "east-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        17.5,
+        -55.5
+      ],
+      "role": "Barn and farmyard storage",
+      "knowledge": [],
+      "events": []
+    },
+    "P03-07": {
+      "id": "P03-07",
+      "origin": "P03",
+      "micro": null,
+      "initial_group": "east-yard",
+      "group": "east-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        17.5,
+        -55.5
+      ],
+      "role": "Barn and farmyard storage",
+      "knowledge": [],
+      "events": []
+    },
+    "P04-01": {
+      "id": "P04-01",
+      "origin": "P04",
+      "micro": null,
+      "initial_group": "west-home",
+      "group": "west-home",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -20.0047,
+        -42.89
+      ],
+      "role": "Farmhouse supper preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P04-02": {
+      "id": "P04-02",
+      "origin": "P04",
+      "micro": null,
+      "initial_group": "west-home",
+      "group": "west-home",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -20.0047,
+        -42.89
+      ],
+      "role": "Farmhouse supper preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P04-03": {
+      "id": "P04-03",
+      "origin": "P04",
+      "micro": null,
+      "initial_group": "west-home",
+      "group": "west-home",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -20.0047,
+        -42.89
+      ],
+      "role": "Farmhouse supper preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P04-04": {
+      "id": "P04-04",
+      "origin": "P04",
+      "micro": "M03",
+      "initial_group": "barn-storage",
+      "group": "barn-storage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -24.7,
+        -59.8
+      ],
+      "role": "Fodder and tools at barn",
+      "knowledge": [],
+      "events": []
+    },
+    "P04-05": {
+      "id": "P04-05",
+      "origin": "P04",
+      "micro": "M03",
+      "initial_group": "barn-storage",
+      "group": "barn-storage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -24.7,
+        -59.8
+      ],
+      "role": "Fodder and tools at barn",
+      "knowledge": [],
+      "events": []
+    },
+    "P04-06": {
+      "id": "P04-06",
+      "origin": "P04",
+      "micro": null,
+      "initial_group": "west-yard",
+      "group": "west-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -27,
+        -49
+      ],
+      "role": "Farmyard work",
+      "knowledge": [],
+      "events": []
+    },
+    "P05-01": {
+      "id": "P05-01",
+      "origin": "P05",
+      "micro": "M01",
+      "initial_group": "handcart",
+      "group": "handcart",
+      "alive": false,
+      "injured": false,
+      "initial_xy": [
+        -0.7454818255,
+        -11.1165664894
+      ],
+      "role": "Taking produce handcart home",
+      "knowledge": [],
+      "events": [],
+      "pre90_death": {
+        "t": 4,
+        "killer": "Bone",
+        "xy": [
+          -0.7454818255,
+          -11.1165664894
+        ]
+      }
+    },
+    "P05-02": {
+      "id": "P05-02",
+      "origin": "P05",
+      "micro": "M01",
+      "initial_group": "handcart",
+      "group": "handcart",
+      "alive": false,
+      "injured": false,
+      "initial_xy": [
+        -0.7454818255,
+        -11.1165664894
+      ],
+      "role": "Taking produce handcart home",
+      "knowledge": [],
+      "events": [],
+      "pre90_death": {
+        "t": 6,
+        "killer": "Bone",
+        "xy": [
+          -1.1954818255,
+          -11.6665664894
+        ]
+      }
+    },
+    "P05-03": {
+      "id": "P05-03",
+      "origin": "P05",
+      "micro": null,
+      "initial_group": "approach-witnesses",
+      "group": "approach-witnesses",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -1.52628730005,
+        -19.2598640571
+      ],
+      "role": "Recoiled after seeing handcart pair killed",
+      "knowledge": [],
+      "events": []
+    },
+    "P05-04": {
+      "id": "P05-04",
+      "origin": "P05",
+      "micro": null,
+      "initial_group": "approach-witnesses",
+      "group": "approach-witnesses",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -1.52628730005,
+        -19.2598640571
+      ],
+      "role": "Recoiled after seeing handcart pair killed",
+      "knowledge": [],
+      "events": []
+    },
+    "P05-05": {
+      "id": "P05-05",
+      "origin": "P05",
+      "micro": null,
+      "initial_group": "approach-witnesses",
+      "group": "approach-witnesses",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -1.52628730005,
+        -19.2598640571
+      ],
+      "role": "Recoiled after seeing handcart pair killed",
+      "knowledge": [],
+      "events": []
+    },
+    "P05-06": {
+      "id": "P05-06",
+      "origin": "P05",
+      "micro": null,
+      "initial_group": "approach-witnesses",
+      "group": "approach-witnesses",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -1.52628730005,
+        -19.2598640571
+      ],
+      "role": "Recoiled after seeing handcart pair killed",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-01": {
+      "id": "P06-01",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "c04-family",
+      "group": "c04-family",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -27.4188,
+        5.2688
+      ],
+      "role": "Household warned by parent",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-02": {
+      "id": "P06-02",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "c04-family",
+      "group": "c04-family",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -27.4188,
+        5.2688
+      ],
+      "role": "Household warned by parent",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-03": {
+      "id": "P06-03",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "c04-family",
+      "group": "c04-family",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -27.4188,
+        5.2688
+      ],
+      "role": "Household warned by parent",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-04": {
+      "id": "P06-04",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "needle-family",
+      "group": "needle-family",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        2.803,
+        21.2208
+      ],
+      "role": "Supper preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-05": {
+      "id": "P06-05",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "needle-family",
+      "group": "needle-family",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        2.803,
+        21.2208
+      ],
+      "role": "Supper preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-06": {
+      "id": "P06-06",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "cellar-cottage-family",
+      "group": "cellar-cottage-family",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        15.4536,
+        13.1781
+      ],
+      "role": "Washing and supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-07": {
+      "id": "P06-07",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "cellar-cottage-family",
+      "group": "cellar-cottage-family",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        15.4536,
+        13.1781
+      ],
+      "role": "Washing and supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-08": {
+      "id": "P06-08",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "c09-resident",
+      "group": "c09-resident",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -9.6248,
+        26.7724
+      ],
+      "role": "Household cooking",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-09": {
+      "id": "P06-09",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "lower-yard-west",
+      "group": "lower-yard-west",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -19,
+        18
+      ],
+      "role": "Washing and wood storage",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-10": {
+      "id": "P06-10",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "lower-yard-west",
+      "group": "lower-yard-west",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -19,
+        18
+      ],
+      "role": "Washing and wood storage",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-11": {
+      "id": "P06-11",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "lower-yard-east",
+      "group": "lower-yard-east",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        13,
+        21
+      ],
+      "role": "Garden and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-12": {
+      "id": "P06-12",
+      "origin": "P06",
+      "micro": null,
+      "initial_group": "lower-yard-east",
+      "group": "lower-yard-east",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        13,
+        21
+      ],
+      "role": "Garden and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-13": {
+      "id": "P06-13",
+      "origin": "P06",
+      "micro": "M05",
+      "initial_group": "parent-child",
+      "group": "parent-child",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -34.3,
+        9.2
+      ],
+      "role": "Concealed beside coop; parent shelters child",
+      "knowledge": [],
+      "events": []
+    },
+    "P06-14": {
+      "id": "P06-14",
+      "origin": "P06",
+      "micro": "M05",
+      "initial_group": "parent-child",
+      "group": "parent-child",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -34.3,
+        9.2
+      ],
+      "role": "Concealed beside coop; parent shelters child",
+      "knowledge": [],
+      "events": []
+    },
+    "P07-01": {
+      "id": "P07-01",
+      "origin": "P07",
+      "micro": "M07",
+      "initial_group": "smith-pair",
+      "group": "smith-pair",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -39.5,
+        11.7
+      ],
+      "role": "Smith and apprentice at unfinished wheel",
+      "knowledge": [],
+      "events": []
+    },
+    "P07-02": {
+      "id": "P07-02",
+      "origin": "P07",
+      "micro": "M07",
+      "initial_group": "smith-pair",
+      "group": "smith-pair",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -39.5,
+        11.7
+      ],
+      "role": "Smith and apprentice at unfinished wheel",
+      "knowledge": [],
+      "events": []
+    },
+    "P07-03": {
+      "id": "P07-03",
+      "origin": "P07",
+      "micro": null,
+      "initial_group": "assistant",
+      "group": "assistant",
+      "alive": false,
+      "injured": false,
+      "initial_xy": [
+        -28.4017671378,
+        37.6234790712
+      ],
+      "role": "Walking home after workshop",
+      "knowledge": [],
+      "events": [],
+      "pre90_death": {
+        "t": 45,
+        "killer": "Bone",
+        "xy": [
+          -28.4017671378,
+          37.6234790712
+        ]
+      }
+    },
+    "P07-04": {
+      "id": "P07-04",
+      "origin": "P07",
+      "micro": null,
+      "initial_group": "smith-customer",
+      "group": "smith-customer",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -25.8,
+        21
+      ],
+      "role": "Collecting repaired item",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-01": {
+      "id": "P08-01",
+      "origin": "P08",
+      "micro": "M04",
+      "initial_group": "water-pair",
+      "group": "water-pair",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -18,
+        35
+      ],
+      "role": "Stopped water carriers who saw assistant killed",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-02": {
+      "id": "P08-02",
+      "origin": "P08",
+      "micro": "M04",
+      "initial_group": "water-pair",
+      "group": "water-pair",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -18,
+        35
+      ],
+      "role": "Stopped water carriers who saw assistant killed",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-03": {
+      "id": "P08-03",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "well-fatal",
+      "group": "well-fatal",
+      "alive": false,
+      "injured": false,
+      "initial_xy": [
+        -4.9,
+        49.6
+      ],
+      "role": "Collecting water",
+      "knowledge": [],
+      "events": [],
+      "pre90_death": {
+        "t": 56,
+        "killer": "Blood",
+        "xy": [
+          -4.9,
+          49.6
+        ]
+      }
+    },
+    "P08-04": {
+      "id": "P08-04",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "well-fatal",
+      "group": "well-fatal",
+      "alive": false,
+      "injured": false,
+      "initial_xy": [
+        -4.9,
+        49.6
+      ],
+      "role": "Collecting water",
+      "knowledge": [],
+      "events": [],
+      "pre90_death": {
+        "t": 56,
+        "killer": "Blood",
+        "xy": [
+          -4.9,
+          49.6
+        ]
+      }
+    },
+    "P08-05": {
+      "id": "P08-05",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "stall-fatal",
+      "group": "stall-fatal",
+      "alive": false,
+      "injured": false,
+      "initial_xy": [
+        2,
+        49
+      ],
+      "role": "Ordinary stall transaction",
+      "knowledge": [],
+      "events": [],
+      "pre90_death": {
+        "t": 56,
+        "killer": "Blood",
+        "xy": [
+          2,
+          49
+        ]
+      }
+    },
+    "P08-06": {
+      "id": "P08-06",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "stall-fatal",
+      "group": "stall-fatal",
+      "alive": false,
+      "injured": false,
+      "initial_xy": [
+        2,
+        49
+      ],
+      "role": "Ordinary stall transaction",
+      "knowledge": [],
+      "events": [],
+      "pre90_death": {
+        "t": 56,
+        "killer": "Blood",
+        "xy": [
+          2,
+          49
+        ]
+      }
+    },
+    "P08-07": {
+      "id": "P08-07",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "stall-injured",
+      "group": "stall-injured",
+      "alive": true,
+      "injured": true,
+      "initial_xy": [
+        3,
+        50.8
+      ],
+      "role": "Injured at first public strike",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-08": {
+      "id": "P08-08",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "stall-injured",
+      "group": "stall-injured",
+      "alive": true,
+      "injured": true,
+      "initial_xy": [
+        3,
+        50.8
+      ],
+      "role": "Injured at first public strike",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-09": {
+      "id": "P08-09",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "stall-injured",
+      "group": "stall-injured",
+      "alive": true,
+      "injured": true,
+      "initial_xy": [
+        3,
+        50.8
+      ],
+      "role": "Injured at first public strike",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-10": {
+      "id": "P08-10",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "stall-injured",
+      "group": "stall-injured",
+      "alive": true,
+      "injured": true,
+      "initial_xy": [
+        3,
+        50.8
+      ],
+      "role": "Injured at first public strike",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-11": {
+      "id": "P08-11",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-caller",
+      "group": "centre-caller",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -11,
+        52
+      ],
+      "role": "Warning western frontage",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-12": {
+      "id": "P08-12",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-neighbours",
+      "group": "centre-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -6,
+        50.5
+      ],
+      "role": "Neighbours near well and injured",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-13": {
+      "id": "P08-13",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-neighbours",
+      "group": "centre-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -6,
+        50.5
+      ],
+      "role": "Neighbours near well and injured",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-14": {
+      "id": "P08-14",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-neighbours",
+      "group": "centre-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -6,
+        50.5
+      ],
+      "role": "Neighbours near well and injured",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-15": {
+      "id": "P08-15",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-neighbours",
+      "group": "centre-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -6,
+        50.5
+      ],
+      "role": "Neighbours near well and injured",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-16": {
+      "id": "P08-16",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-neighbours",
+      "group": "centre-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -6,
+        50.5
+      ],
+      "role": "Neighbours near well and injured",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-17": {
+      "id": "P08-17",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "east-passers",
+      "group": "east-passers",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        22.5953376421,
+        40.7978692258
+      ],
+      "role": "Already left centre for older homes",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-18": {
+      "id": "P08-18",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "east-passers",
+      "group": "east-passers",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        22.5953376421,
+        40.7978692258
+      ],
+      "role": "Already left centre for older homes",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-19": {
+      "id": "P08-19",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "east-passers",
+      "group": "east-passers",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        22.5953376421,
+        40.7978692258
+      ],
+      "role": "Already left centre for older homes",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-20": {
+      "id": "P08-20",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-goods",
+      "group": "centre-goods",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        8,
+        54
+      ],
+      "role": "Goods collection interrupted",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-21": {
+      "id": "P08-21",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-goods",
+      "group": "centre-goods",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        8,
+        54
+      ],
+      "role": "Goods collection interrupted",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-22": {
+      "id": "P08-22",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-goods",
+      "group": "centre-goods",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        8,
+        54
+      ],
+      "role": "Goods collection interrupted",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-23": {
+      "id": "P08-23",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-transit",
+      "group": "centre-transit",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -3,
+        57
+      ],
+      "role": "Through traffic halted at junction",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-24": {
+      "id": "P08-24",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-transit",
+      "group": "centre-transit",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -3,
+        57
+      ],
+      "role": "Through traffic halted at junction",
+      "knowledge": [],
+      "events": [],
+      "opportunist": "Takes the stall takings for personal gain while others attend injuries; no prior supernatural knowledge."
+    },
+    "P08-25": {
+      "id": "P08-25",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-transit",
+      "group": "centre-transit",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -3,
+        57
+      ],
+      "role": "Through traffic halted at junction",
+      "knowledge": [],
+      "events": []
+    },
+    "P08-26": {
+      "id": "P08-26",
+      "origin": "P08",
+      "micro": null,
+      "initial_group": "centre-transit",
+      "group": "centre-transit",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -3,
+        57
+      ],
+      "role": "Through traffic halted at junction",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-01": {
+      "id": "P09-01",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-inside",
+      "group": "tavern-inside",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        6.2819,
+        34.4785
+      ],
+      "role": "Six customers and one preparation staff",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-02": {
+      "id": "P09-02",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-inside",
+      "group": "tavern-inside",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        6.2819,
+        34.4785
+      ],
+      "role": "Six customers and one preparation staff",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-03": {
+      "id": "P09-03",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-inside",
+      "group": "tavern-inside",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        6.2819,
+        34.4785
+      ],
+      "role": "Six customers and one preparation staff",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-04": {
+      "id": "P09-04",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-inside",
+      "group": "tavern-inside",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        6.2819,
+        34.4785
+      ],
+      "role": "Six customers and one preparation staff",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-05": {
+      "id": "P09-05",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-inside",
+      "group": "tavern-inside",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        6.2819,
+        34.4785
+      ],
+      "role": "Six customers and one preparation staff",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-06": {
+      "id": "P09-06",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-inside",
+      "group": "tavern-inside",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        6.2819,
+        34.4785
+      ],
+      "role": "Six customers and one preparation staff",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-07": {
+      "id": "P09-07",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-inside",
+      "group": "tavern-inside",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        6.2819,
+        34.4785
+      ],
+      "role": "Six customers and one preparation staff",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-08": {
+      "id": "P09-08",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-porch",
+      "group": "tavern-porch",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        1.4,
+        42
+      ],
+      "role": "Porch patrons at threshold",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-09": {
+      "id": "P09-09",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-porch",
+      "group": "tavern-porch",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        1.4,
+        42
+      ],
+      "role": "Porch patrons at threshold",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-10": {
+      "id": "P09-10",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-porch",
+      "group": "tavern-porch",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        1.4,
+        42
+      ],
+      "role": "Porch patrons at threshold",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-11": {
+      "id": "P09-11",
+      "origin": "P09",
+      "micro": null,
+      "initial_group": "tavern-porch",
+      "group": "tavern-porch",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        1.4,
+        42
+      ],
+      "role": "Porch patrons at threshold",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-12": {
+      "id": "P09-12",
+      "origin": "P09",
+      "micro": "M06",
+      "initial_group": "tavern-delivery",
+      "group": "tavern-delivery",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        14.1,
+        30
+      ],
+      "role": "Two staff and delivery hand receiving barrels",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-13": {
+      "id": "P09-13",
+      "origin": "P09",
+      "micro": "M06",
+      "initial_group": "tavern-delivery",
+      "group": "tavern-delivery",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        14.1,
+        30
+      ],
+      "role": "Two staff and delivery hand receiving barrels",
+      "knowledge": [],
+      "events": []
+    },
+    "P09-14": {
+      "id": "P09-14",
+      "origin": "P09",
+      "micro": "M06",
+      "initial_group": "tavern-delivery",
+      "group": "tavern-delivery",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        14.1,
+        30
+      ],
+      "role": "Two staff and delivery hand receiving barrels",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-01": {
+      "id": "P10-01",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-CrookedCottage",
+      "group": "old-CrookedCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.6225,
+        33.0432
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-02": {
+      "id": "P10-02",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-CrookedCottage",
+      "group": "old-CrookedCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.6225,
+        33.0432
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-03": {
+      "id": "P10-03",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-CrookedCottage",
+      "group": "old-CrookedCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.6225,
+        33.0432
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-04": {
+      "id": "P10-04",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_01",
+      "group": "old-Cottage_01",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        20.2797,
+        36.8931
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-05": {
+      "id": "P10-05",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_01",
+      "group": "old-Cottage_01",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        20.2797,
+        36.8931
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-06": {
+      "id": "P10-06",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_01",
+      "group": "old-Cottage_01",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        20.2797,
+        36.8931
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-07": {
+      "id": "P10-07",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_06",
+      "group": "old-Cottage_06",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        24.5156,
+        24.4654
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-08": {
+      "id": "P10-08",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_06",
+      "group": "old-Cottage_06",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        24.5156,
+        24.4654
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-09": {
+      "id": "P10-09",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_06",
+      "group": "old-Cottage_06",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        24.5156,
+        24.4654
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-10": {
+      "id": "P10-10",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_07",
+      "group": "old-Cottage_07",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.8025,
+        46.7311
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-11": {
+      "id": "P10-11",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_07",
+      "group": "old-Cottage_07",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.8025,
+        46.7311
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-12": {
+      "id": "P10-12",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_07",
+      "group": "old-Cottage_07",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.8025,
+        46.7311
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-13": {
+      "id": "P10-13",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_12",
+      "group": "old-Cottage_12",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        26.7321,
+        42.3701
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-14": {
+      "id": "P10-14",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-Cottage_12",
+      "group": "old-Cottage_12",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        26.7321,
+        42.3701
+      ],
+      "role": "Family preparing supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-15": {
+      "id": "P10-15",
+      "origin": "P10",
+      "micro": "M08",
+      "initial_group": "yard-neighbours",
+      "group": "yard-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        29.7,
+        32
+      ],
+      "role": "Shared-yard storage conversation",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-16": {
+      "id": "P10-16",
+      "origin": "P10",
+      "micro": "M08",
+      "initial_group": "yard-neighbours",
+      "group": "yard-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        29.7,
+        32
+      ],
+      "role": "Shared-yard storage conversation",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-17": {
+      "id": "P10-17",
+      "origin": "P10",
+      "micro": "M09",
+      "initial_group": "children-yard",
+      "group": "children-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.7,
+        51.9
+      ],
+      "role": "Caregiver gathered four children",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-18": {
+      "id": "P10-18",
+      "origin": "P10",
+      "micro": "M09",
+      "initial_group": "children-yard",
+      "group": "children-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.7,
+        51.9
+      ],
+      "role": "Caregiver gathered four children",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-19": {
+      "id": "P10-19",
+      "origin": "P10",
+      "micro": "M09",
+      "initial_group": "children-yard",
+      "group": "children-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.7,
+        51.9
+      ],
+      "role": "Caregiver gathered four children",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-20": {
+      "id": "P10-20",
+      "origin": "P10",
+      "micro": "M09",
+      "initial_group": "children-yard",
+      "group": "children-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.7,
+        51.9
+      ],
+      "role": "Caregiver gathered four children",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-21": {
+      "id": "P10-21",
+      "origin": "P10",
+      "micro": "M09",
+      "initial_group": "children-yard",
+      "group": "children-yard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        37.7,
+        51.9
+      ],
+      "role": "Caregiver gathered four children",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-22": {
+      "id": "P10-22",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-yard-worker",
+      "group": "old-yard-worker",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        29,
+        48.5
+      ],
+      "role": "Yard household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-23": {
+      "id": "P10-23",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-alley",
+      "group": "old-alley",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        27.5,
+        34.5
+      ],
+      "role": "Walking narrow shared passage",
+      "knowledge": [],
+      "events": []
+    },
+    "P10-24": {
+      "id": "P10-24",
+      "origin": "P10",
+      "micro": null,
+      "initial_group": "old-alley",
+      "group": "old-alley",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        27.5,
+        34.5
+      ],
+      "role": "Walking narrow shared passage",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-01": {
+      "id": "P11-01",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-CrushedHome",
+      "group": "west-CrushedHome",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -27.8831,
+        61.1943
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-02": {
+      "id": "P11-02",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-CrushedHome",
+      "group": "west-CrushedHome",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -27.8831,
+        61.1943
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-03": {
+      "id": "P11-03",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-RearCottage",
+      "group": "west-RearCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -45.3497,
+        62.5928
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-04": {
+      "id": "P11-04",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-RearCottage",
+      "group": "west-RearCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -45.3497,
+        62.5928
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-05": {
+      "id": "P11-05",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-EndRowCottage",
+      "group": "west-EndRowCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -48.8175,
+        77.1379
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-06": {
+      "id": "P11-06",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-EndRowCottage",
+      "group": "west-EndRowCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -48.8175,
+        77.1379
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-07": {
+      "id": "P11-07",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-WeaverCottage",
+      "group": "west-WeaverCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -41.2321,
+        38.284
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-08": {
+      "id": "P11-08",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-WeaverCottage",
+      "group": "west-WeaverCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -41.2321,
+        38.284
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-09": {
+      "id": "P11-09",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-Cottage_02",
+      "group": "west-Cottage_02",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -14.2607,
+        58.0484
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-10": {
+      "id": "P11-10",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-Cottage_02",
+      "group": "west-Cottage_02",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -14.2607,
+        58.0484
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-11": {
+      "id": "P11-11",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-Cottage_05",
+      "group": "west-Cottage_05",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -37.8993,
+        50.7618
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-12": {
+      "id": "P11-12",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-Cottage_05",
+      "group": "west-Cottage_05",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -37.8993,
+        50.7618
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-13": {
+      "id": "P11-13",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-Cottage_10",
+      "group": "west-Cottage_10",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -28.7008,
+        47.7356
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-14": {
+      "id": "P11-14",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-Cottage_10",
+      "group": "west-Cottage_10",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -28.7008,
+        47.7356
+      ],
+      "role": "Indoor household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-15": {
+      "id": "P11-15",
+      "origin": "P11",
+      "micro": "M10",
+      "initial_group": "firewood",
+      "group": "firewood",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -22,
+        58.4
+      ],
+      "role": "Carrying fuel for supper",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-16": {
+      "id": "P11-16",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-yard-neighbours",
+      "group": "west-yard-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -35,
+        70
+      ],
+      "role": "Talking and bringing washing in",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-17": {
+      "id": "P11-17",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-yard-neighbours",
+      "group": "west-yard-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -35,
+        70
+      ],
+      "role": "Talking and bringing washing in",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-18": {
+      "id": "P11-18",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-yard-neighbours",
+      "group": "west-yard-neighbours",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -35,
+        70
+      ],
+      "role": "Talking and bringing washing in",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-19": {
+      "id": "P11-19",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-yard-trades",
+      "group": "west-yard-trades",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -30,
+        52.5
+      ],
+      "role": "Household trade work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-20": {
+      "id": "P11-20",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-yard-trades",
+      "group": "west-yard-trades",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -30,
+        52.5
+      ],
+      "role": "Household trade work",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-21": {
+      "id": "P11-21",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-shortcut",
+      "group": "west-shortcut",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -45,
+        72
+      ],
+      "role": "Walking between households",
+      "knowledge": [],
+      "events": []
+    },
+    "P11-22": {
+      "id": "P11-22",
+      "origin": "P11",
+      "micro": null,
+      "initial_group": "west-shortcut",
+      "group": "west-shortcut",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -45,
+        72
+      ],
+      "role": "Walking between households",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-01": {
+      "id": "P12-01",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-AbandonedCottage",
+      "group": "upper-AbandonedCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -11.7702,
+        71.7598
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-02": {
+      "id": "P12-02",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-AbandonedCottage",
+      "group": "upper-AbandonedCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -11.7702,
+        71.7598
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-03": {
+      "id": "P12-03",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-UpperCottage",
+      "group": "upper-UpperCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -10.564,
+        91.4845
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-04": {
+      "id": "P12-04",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-UpperCottage",
+      "group": "upper-UpperCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -10.564,
+        91.4845
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-05": {
+      "id": "P12-05",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-SealedCellarCottage",
+      "group": "upper-SealedCellarCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -42.5649,
+        95.808
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-06": {
+      "id": "P12-06",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-SealedCellarCottage",
+      "group": "upper-SealedCellarCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -42.5649,
+        95.808
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-07": {
+      "id": "P12-07",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-Cottage_03",
+      "group": "upper-Cottage_03",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        1.8053,
+        88.767
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-08": {
+      "id": "P12-08",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-Cottage_03",
+      "group": "upper-Cottage_03",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        1.8053,
+        88.767
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-09": {
+      "id": "P12-09",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-Cottage_11",
+      "group": "upper-Cottage_11",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        7.288,
+        70.891
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-10": {
+      "id": "P12-10",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-Cottage_11",
+      "group": "upper-Cottage_11",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        7.288,
+        70.891
+      ],
+      "role": "Indoor supper and household work",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-11": {
+      "id": "P12-11",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-yards",
+      "group": "upper-yards",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -19,
+        82
+      ],
+      "role": "Garden tidying",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-12": {
+      "id": "P12-12",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-yards",
+      "group": "upper-yards",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -19,
+        82
+      ],
+      "role": "Garden tidying",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-13": {
+      "id": "P12-13",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-yards",
+      "group": "upper-yards",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -19,
+        82
+      ],
+      "role": "Garden tidying",
+      "knowledge": [],
+      "events": []
+    },
+    "P12-14": {
+      "id": "P12-14",
+      "origin": "P12",
+      "micro": null,
+      "initial_group": "upper-returner",
+      "group": "upper-returner",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -18.995464369,
+        96.903367205
+      ],
+      "role": "Already returned uphill on ordinary route",
+      "knowledge": [],
+      "events": []
+    },
+    "P13-01": {
+      "id": "P13-01",
+      "origin": "P13",
+      "micro": "M13",
+      "initial_group": "caretaker",
+      "group": "caretaker",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        23.5,
+        83.7
+      ],
+      "role": "At church public entrance",
+      "knowledge": [],
+      "events": []
+    },
+    "P14-01": {
+      "id": "P14-01",
+      "origin": "P14",
+      "micro": null,
+      "initial_group": "edge-SplitRoofCottage",
+      "group": "edge-SplitRoofCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        55.1994,
+        52.9088
+      ],
+      "role": "Indoor family food preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P14-02": {
+      "id": "P14-02",
+      "origin": "P14",
+      "micro": null,
+      "initial_group": "edge-SplitRoofCottage",
+      "group": "edge-SplitRoofCottage",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        55.1994,
+        52.9088
+      ],
+      "role": "Indoor family food preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P14-03": {
+      "id": "P14-03",
+      "origin": "P14",
+      "micro": null,
+      "initial_group": "edge-Cottage_08",
+      "group": "edge-Cottage_08",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        50.508,
+        74.0387
+      ],
+      "role": "Indoor family food preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P14-04": {
+      "id": "P14-04",
+      "origin": "P14",
+      "micro": null,
+      "initial_group": "edge-Cottage_08",
+      "group": "edge-Cottage_08",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        50.508,
+        74.0387
+      ],
+      "role": "Indoor family food preparation",
+      "knowledge": [],
+      "events": []
+    },
+    "P14-05": {
+      "id": "P14-05",
+      "origin": "P14",
+      "micro": null,
+      "initial_group": "edge-animal",
+      "group": "edge-animal",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        58,
+        65
+      ],
+      "role": "Feeding animals outdoors",
+      "knowledge": [],
+      "events": []
+    },
+    "P14-06": {
+      "id": "P14-06",
+      "origin": "P14",
+      "micro": null,
+      "initial_group": "edge-animal",
+      "group": "edge-animal",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        58,
+        65
+      ],
+      "role": "Feeding animals outdoors",
+      "knowledge": [],
+      "events": []
+    },
+    "P14-07": {
+      "id": "P14-07",
+      "origin": "P14",
+      "micro": null,
+      "initial_group": "edge-animal",
+      "group": "edge-animal",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        58,
+        65
+      ],
+      "role": "Feeding animals outdoors",
+      "knowledge": [],
+      "events": []
+    },
+    "P15-01": {
+      "id": "P15-01",
+      "origin": "P15",
+      "micro": "M11",
+      "initial_group": "foresters",
+      "group": "foresters",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -47.0088105554,
+        70.3155604468
+      ],
+      "role": "Returned on forest work trail",
+      "knowledge": [],
+      "events": []
+    },
+    "P15-02": {
+      "id": "P15-02",
+      "origin": "P15",
+      "micro": "M11",
+      "initial_group": "foresters",
+      "group": "foresters",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -47.0088105554,
+        70.3155604468
+      ],
+      "role": "Returned on forest work trail",
+      "knowledge": [],
+      "events": []
+    },
+    "P15-03": {
+      "id": "P15-03",
+      "origin": "P15",
+      "micro": "M11",
+      "initial_group": "foresters",
+      "group": "foresters",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -47.0088105554,
+        70.3155604468
+      ],
+      "role": "Returned on forest work trail",
+      "knowledge": [],
+      "events": []
+    },
+    "P16-01": {
+      "id": "P16-01",
+      "origin": "P16",
+      "micro": null,
+      "initial_group": "mayor",
+      "group": "mayor",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        2,
+        146
+      ],
+      "role": "Mayor inside mansion",
+      "knowledge": [],
+      "events": []
+    },
+    "P16-02": {
+      "id": "P16-02",
+      "origin": "P16",
+      "micro": null,
+      "initial_group": "entrance-guard",
+      "group": "entrance-guard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        2,
+        125
+      ],
+      "role": "Guard on ordinary formal gate duty",
+      "knowledge": [],
+      "events": []
+    },
+    "P16-03": {
+      "id": "P16-03",
+      "origin": "P16",
+      "micro": null,
+      "initial_group": "service-guard",
+      "group": "service-guard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -22,
+        132
+      ],
+      "role": "Guard on ordinary service access duty",
+      "knowledge": [],
+      "events": []
+    },
+    "P16-04": {
+      "id": "P16-04",
+      "origin": "P16",
+      "micro": null,
+      "initial_group": "house-guard",
+      "group": "house-guard",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        1,
+        139
+      ],
+      "role": "Guard on house duty",
+      "knowledge": [],
+      "events": []
+    },
+    "P16-05": {
+      "id": "P16-05",
+      "origin": "P16",
+      "micro": null,
+      "initial_group": "estate-staff",
+      "group": "estate-staff",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -8,
+        144
+      ],
+      "role": "Resident staff preparing evening service",
+      "knowledge": [],
+      "events": []
+    },
+    "P16-06": {
+      "id": "P16-06",
+      "origin": "P16",
+      "micro": null,
+      "initial_group": "estate-staff",
+      "group": "estate-staff",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -8,
+        144
+      ],
+      "role": "Resident staff preparing evening service",
+      "knowledge": [],
+      "events": []
+    },
+    "P16-07": {
+      "id": "P16-07",
+      "origin": "P16",
+      "micro": null,
+      "initial_group": "estate-staff",
+      "group": "estate-staff",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -8,
+        144
+      ],
+      "role": "Resident staff preparing evening service",
+      "knowledge": [],
+      "events": []
+    },
+    "P16-08": {
+      "id": "P16-08",
+      "origin": "P16",
+      "micro": null,
+      "initial_group": "stable-staff",
+      "group": "stable-staff",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -11.5,
+        135.5
+      ],
+      "role": "Stable and grounds work",
+      "knowledge": [],
+      "events": []
+    },
+    "P17-01": {
+      "id": "P17-01",
+      "origin": "P17",
+      "micro": "M12",
+      "initial_group": "delivery",
+      "group": "delivery",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -41.3394326163,
+        155.5952872518
+      ],
+      "role": "Provisions cart paused on real switchback",
+      "knowledge": [],
+      "events": [],
+      "opportunist": "Will try to retain the provisions cart and demand valuables for a place; no magical foreknowledge."
+    },
+    "P17-02": {
+      "id": "P17-02",
+      "origin": "P17",
+      "micro": "M12",
+      "initial_group": "delivery",
+      "group": "delivery",
+      "alive": true,
+      "injured": false,
+      "initial_xy": [
+        -41.3394326163,
+        155.5952872518
+      ],
+      "role": "Provisions cart paused on real switchback",
+      "knowledge": [],
+      "events": []
+    }
+  },
+  "casualties": [
+    {
+      "person": "P05-01",
+      "t": 4,
+      "killer": "Bone",
+      "xy": [
+        -0.7454818255,
+        -11.1165664894
+      ],
+      "pre90": true,
+      "intention": "Taking produce handcart home",
+      "event": "approved pre90 history",
+      "bone_contributing": true
+    },
+    {
+      "person": "P05-02",
+      "t": 6,
+      "killer": "Bone",
+      "xy": [
+        -1.1954818255,
+        -11.6665664894
+      ],
+      "pre90": true,
+      "intention": "Taking produce handcart home",
+      "event": "approved pre90 history",
+      "bone_contributing": true
+    },
+    {
+      "person": "P07-03",
+      "t": 45,
+      "killer": "Bone",
+      "xy": [
+        -28.4017671378,
+        37.6234790712
+      ],
+      "pre90": true,
+      "intention": "Walking home after workshop",
+      "event": "approved pre90 history",
+      "bone_contributing": true
+    },
+    {
+      "person": "P08-03",
+      "t": 56,
+      "killer": "Blood",
+      "xy": [
+        -4.9,
+        49.6
+      ],
+      "pre90": true,
+      "intention": "Collecting water",
+      "event": "approved pre90 history",
+      "bone_contributing": false
+    },
+    {
+      "person": "P08-04",
+      "t": 56,
+      "killer": "Blood",
+      "xy": [
+        -4.9,
+        49.6
+      ],
+      "pre90": true,
+      "intention": "Collecting water",
+      "event": "approved pre90 history",
+      "bone_contributing": false
+    },
+    {
+      "person": "P08-05",
+      "t": 56,
+      "killer": "Blood",
+      "xy": [
+        2,
+        49
+      ],
+      "pre90": true,
+      "intention": "Ordinary stall transaction",
+      "event": "approved pre90 history",
+      "bone_contributing": false
+    },
+    {
+      "person": "P08-06",
+      "t": 56,
+      "killer": "Blood",
+      "xy": [
+        2,
+        49
+      ],
+      "pre90": true,
+      "intention": "Ordinary stall transaction",
+      "event": "approved pre90 history",
+      "bone_contributing": false
+    }
+  ],
+  "actors": {
+    "Blood": {
+      "xy": [
+        -2.2088023688951393,
+        44.52432308637402
+      ],
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -2.2088023688951393,
+            44.52432308637402
+          ]
+        }
+      ]
+    },
+    "Bone": {
+      "xy": [
+        -37.5,
+        8.8
+      ],
+      "motion": null,
+      "history": [
+        {
+          "t": 90,
+          "xy": [
+            -37.5,
+            8.8
+          ]
+        }
+      ]
+    }
+  },
+  "witch": {
+    "xyz": [
+      [
+        -15.556599900140176,
+        36.37393621055349,
+        5.639787035645556
+      ],
+      [
+        -15.4821,
+        36.4533,
+        5.656
+      ],
+      [
+        -14.8835,
+        37.0453,
+        5.786
+      ],
+      [
+        -14.2481,
+        37.6314,
+        5.935
+      ],
+      [
+        -13.5773,
+        38.2107,
+        6.078
+      ],
+      [
+        -12.8724,
+        38.7822,
+        6.217
+      ],
+      [
+        -12.1347,
+        39.3451,
+        6.356
+      ],
+      [
+        -11.3655,
+        39.8985,
+        6.49
+      ],
+      [
+        -10.5661,
+        40.4416,
+        6.616
+      ],
+      [
+        -9.7379,
+        40.9735,
+        6.731
+      ],
+      [
+        -8.8821,
+        41.4932,
+        6.835
+      ],
+      [
+        -8.0,
+        42.0,
+        6.933
+      ],
+      [
+        -7.4181,
+        42.3139,
+        6.997
+      ],
+      [
+        -6.8068,
+        42.6225,
+        7.065
+      ],
+      [
+        -6.168,
+        42.926,
+        7.135
+      ],
+      [
+        -5.5034,
+        43.2246,
+        7.207
+      ],
+      [
+        -4.8148,
+        43.5185,
+        7.282
+      ],
+      [
+        -4.104,
+        43.808,
+        7.359
+      ],
+      [
+        -3.3727,
+        44.0933,
+        7.438
+      ],
+      [
+        -2.6228,
+        44.3745,
+        7.518
+      ],
+      [
+        -1.856,
+        44.652,
+        7.6
+      ],
+      [
+        -1.0741,
+        44.9259,
+        7.684
+      ],
+      [
+        -0.2788,
+        45.1965,
+        7.769
+      ],
+      [
+        0.528,
+        45.464,
+        7.855
+      ],
+      [
+        1.3446,
+        45.7286,
+        7.942
+      ],
+      [
+        2.1692,
+        45.9905,
+        8.03
+      ],
+      [
+        3.0,
+        46.25,
+        8.118
+      ],
+      [
+        3.8353,
+        46.5073,
+        8.207
+      ],
+      [
+        4.6732,
+        46.7625,
+        8.296
+      ],
+      [
+        5.512,
+        47.016,
+        8.385
+      ],
+      [
+        6.3499,
+        47.2679,
+        8.473
+      ],
+      [
+        7.1852,
+        47.5185,
+        8.562
+      ],
+      [
+        8.016,
+        47.768,
+        8.651
+      ],
+      [
+        8.8406,
+        48.0166,
+        8.748
+      ],
+      [
+        9.6572,
+        48.2645,
+        8.856
+      ],
+      [
+        10.464,
+        48.512,
+        8.981
+      ],
+      [
+        11.2593,
+        48.7593,
+        9.127
+      ],
+      [
+        12.0412,
+        49.0065,
+        9.292
+      ],
+      [
+        12.808,
+        49.254,
+        9.469
+      ],
+      [
+        13.5579,
+        49.5019,
+        9.651
+      ],
+      [
+        14.2892,
+        49.7505,
+        9.827
+      ],
+      [
+        15.0,
+        50.0,
+        9.987
+      ],
+      [
+        15.8468,
+        50.2915,
+        10.145
+      ],
+      [
+        16.7055,
+        50.5674,
+        10.288
+      ],
+      [
+        17.5736,
+        50.8294,
+        10.431
+      ],
+      [
+        18.4486,
+        51.0797,
+        10.575
+      ],
+      [
+        19.328,
+        51.32,
+        10.72
+      ],
+      [
+        20.2093,
+        51.5523,
+        10.864
+      ],
+      [
+        21.0901,
+        51.7786,
+        11.008
+      ],
+      [
+        21.9678,
+        52.0006,
+        11.151
+      ],
+      [
+        22.8399,
+        52.2205,
+        11.294
+      ],
+      [
+        23.704,
+        52.44,
+        11.435
+      ],
+      [
+        24.5575,
+        52.6611,
+        11.575
+      ],
+      [
+        25.398,
+        52.8858,
+        11.713
+      ],
+      [
+        26.2228,
+        53.1158,
+        11.848
+      ],
+      [
+        27.0297,
+        53.3533,
+        11.981
+      ],
+      [
+        27.816,
+        53.6,
+        12.112
+      ],
+      [
+        28.5793,
+        53.8579,
+        12.24
+      ],
+      [
+        29.317,
+        54.129,
+        12.364
+      ],
+      [
+        30.0267,
+        54.415,
+        12.485
+      ],
+      [
+        30.7059,
+        54.7181,
+        12.603
+      ],
+      [
+        31.352,
+        55.04,
+        12.717
+      ],
+      [
+        31.9626,
+        55.3827,
+        12.828
+      ],
+      [
+        32.5352,
+        55.7482,
+        12.936
+      ],
+      [
+        33.0673,
+        56.1382,
+        13.04
+      ],
+      [
+        33.5564,
+        56.5549,
+        13.142
+      ],
+      [
+        34.0,
+        57.0,
+        13.242
+      ],
+      [
+        34.5073,
+        57.6076,
+        13.367
+      ],
+      [
+        34.9785,
+        58.276,
+        13.497
+      ],
+      [
+        35.4124,
+        58.9984,
+        13.63
+      ],
+      [
+        35.808,
+        59.768,
+        13.767
+      ],
+      [
+        36.1641,
+        60.5781,
+        13.907
+      ],
+      [
+        36.4795,
+        61.422,
+        14.05
+      ],
+      [
+        36.7532,
+        62.2929,
+        14.194
+      ],
+      [
+        36.984,
+        63.184,
+        14.34
+      ],
+      [
+        37.1708,
+        64.0886,
+        14.487
+      ],
+      [
+        37.3125,
+        65.0,
+        14.633
+      ],
+      [
+        37.4079,
+        65.9114,
+        14.778
+      ],
+      [
+        37.456,
+        66.816,
+        14.921
+      ],
+      [
+        37.4556,
+        67.7071,
+        15.062
+      ],
+      [
+        37.4055,
+        68.578,
+        15.201
+      ],
+      [
+        37.3047,
+        69.4219,
+        15.335
+      ],
+      [
+        37.152,
+        70.232,
+        15.466
+      ],
+      [
+        36.9463,
+        71.0016,
+        15.592
+      ],
+      [
+        36.6865,
+        71.724,
+        15.713
+      ],
+      [
+        36.3714,
+        72.3924,
+        15.831
+      ],
+      [
+        36.0,
+        73.0,
+        15.943
+      ],
+      [
+        35.6377,
+        73.4689,
+        16.037
+      ],
+      [
+        35.2193,
+        73.9175,
+        16.134
+      ],
+      [
+        34.748,
+        74.3467,
+        16.235
+      ],
+      [
+        34.2269,
+        74.7569,
+        16.34
+      ],
+      [
+        33.6588,
+        75.149,
+        16.45
+      ],
+      [
+        33.0469,
+        75.5234,
+        16.581
+      ],
+      [
+        32.3942,
+        75.881,
+        16.795
+      ],
+      [
+        31.7037,
+        76.2222,
+        17.015
+      ],
+      [
+        30.9785,
+        76.5479,
+        17.243
+      ],
+      [
+        30.2216,
+        76.8585,
+        17.478
+      ],
+      [
+        29.4361,
+        77.1548,
+        17.719
+      ],
+      [
+        28.625,
+        77.4375,
+        17.965
+      ],
+      [
+        27.7913,
+        77.7071,
+        18.216
+      ],
+      [
+        26.9381,
+        77.9644,
+        18.472
+      ],
+      [
+        26.0684,
+        78.21,
+        18.731
+      ],
+      [
+        25.1852,
+        78.4444,
+        18.993
+      ],
+      [
+        24.2916,
+        78.6685,
+        19.257
+      ],
+      [
+        23.3906,
+        78.8828,
+        19.523
+      ],
+      [
+        22.4853,
+        79.088,
+        19.789
+      ],
+      [
+        21.5787,
+        79.2847,
+        20.055
+      ],
+      [
+        20.6738,
+        79.4736,
+        20.299
+      ],
+      [
+        19.7737,
+        79.6554,
+        20.452
+      ],
+      [
+        18.8814,
+        79.8306,
+        20.605
+      ],
+      [
+        18.0,
+        80.0,
+        20.755
+      ],
+      [
+        17.2934,
+        80.1225,
+        20.875
+      ],
+      [
+        16.5742,
+        80.2243,
+        20.996
+      ],
+      [
+        15.843,
+        80.307,
+        21.119
+      ],
+      [
+        15.1004,
+        80.3721,
+        21.244
+      ],
+      [
+        14.3472,
+        80.4213,
+        21.37
+      ],
+      [
+        13.584,
+        80.456,
+        21.498
+      ],
+      [
+        12.8114,
+        80.4778,
+        21.628
+      ],
+      [
+        12.0302,
+        80.4883,
+        21.758
+      ],
+      [
+        11.241,
+        80.489,
+        21.89
+      ],
+      [
+        10.4444,
+        80.4815,
+        22.024
+      ],
+      [
+        9.6412,
+        80.4673,
+        22.158
+      ],
+      [
+        8.832,
+        80.448,
+        22.294
+      ],
+      [
+        8.0174,
+        80.4251,
+        22.43
+      ],
+      [
+        7.1982,
+        80.4003,
+        22.567
+      ],
+      [
+        6.375,
+        80.375,
+        22.705
+      ],
+      [
+        5.5484,
+        80.3508,
+        22.843
+      ],
+      [
+        4.7192,
+        80.3293,
+        22.982
+      ],
+      [
+        3.888,
+        80.312,
+        23.121
+      ],
+      [
+        3.0554,
+        80.3005,
+        23.261
+      ],
+      [
+        2.2222,
+        80.2963,
+        23.4
+      ],
+      [
+        1.389,
+        80.301,
+        23.54
+      ],
+      [
+        0.5564,
+        80.3161,
+        23.679
+      ],
+      [
+        -0.2748,
+        80.3433,
+        23.818
+      ],
+      [
+        -1.104,
+        80.384,
+        23.957
+      ],
+      [
+        -1.9306,
+        80.4398,
+        24.096
+      ],
+      [
+        -2.7538,
+        80.5123,
+        24.234
+      ],
+      [
+        -3.573,
+        80.603,
+        24.372
+      ],
+      [
+        -4.3876,
+        80.7135,
+        24.509
+      ],
+      [
+        -5.1968,
+        80.8453,
+        24.647
+      ],
+      [
+        -6.0,
+        81.0,
+        24.783
+      ],
+      [
+        -6.7604,
+        81.1611,
+        24.914
+      ],
+      [
+        -7.5403,
+        81.3318,
+        25.047
+      ],
+      [
+        -8.3376,
+        81.5119,
+        25.184
+      ],
+      [
+        -9.1504,
+        81.7012,
+        25.324
+      ],
+      [
+        -9.9766,
+        81.8995,
+        25.466
+      ],
+      [
+        -10.8142,
+        82.1067,
+        25.61
+      ],
+      [
+        -11.6612,
+        82.3225,
+        25.756
+      ],
+      [
+        -12.5156,
+        82.5469,
+        25.904
+      ],
+      [
+        -13.3754,
+        82.7795,
+        26.053
+      ],
+      [
+        -14.2385,
+        83.0203,
+        26.203
+      ],
+      [
+        -15.103,
+        83.269,
+        26.354
+      ],
+      [
+        -15.9668,
+        83.5254,
+        26.505
+      ],
+      [
+        -16.8279,
+        83.7894,
+        26.655
+      ],
+      [
+        -17.6843,
+        84.0608,
+        26.806
+      ],
+      [
+        -18.534,
+        84.3394,
+        26.955
+      ],
+      [
+        -19.375,
+        84.625,
+        27.104
+      ],
+      [
+        -20.2052,
+        84.9174,
+        27.251
+      ],
+      [
+        -21.0227,
+        85.2166,
+        27.397
+      ],
+      [
+        -21.8254,
+        85.5221,
+        27.541
+      ],
+      [
+        -22.6113,
+        85.834,
+        27.682
+      ],
+      [
+        -23.3784,
+        86.1519,
+        27.821
+      ],
+      [
+        -24.1248,
+        86.4758,
+        27.957
+      ],
+      [
+        -24.8482,
+        86.8055,
+        28.09
+      ],
+      [
+        -25.5469,
+        87.1406,
+        28.22
+      ],
+      [
+        -26.2187,
+        87.4812,
+        28.346
+      ],
+      [
+        -26.8616,
+        87.8269,
+        28.468
+      ],
+      [
+        -27.4736,
+        88.1776,
+        28.586
+      ],
+      [
+        -28.0527,
+        88.5332,
+        28.7
+      ],
+      [
+        -28.597,
+        88.8934,
+        28.809
+      ],
+      [
+        -29.1042,
+        89.2581,
+        28.914
+      ],
+      [
+        -29.5726,
+        89.627,
+        29.013
+      ],
+      [
+        -30.0,
+        90.0,
+        29.108
+      ],
+      [
+        -30.6824,
+        90.6978,
+        29.272
+      ],
+      [
+        -31.2867,
+        91.4527,
+        29.433
+      ],
+      [
+        -31.8148,
+        92.2569,
+        29.594
+      ],
+      [
+        -32.2689,
+        93.1029,
+        29.755
+      ],
+      [
+        -32.6509,
+        93.9828,
+        29.916
+      ],
+      [
+        -32.963,
+        94.8889,
+        30.076
+      ],
+      [
+        -33.2071,
+        95.8135,
+        30.251
+      ],
+      [
+        -33.3855,
+        96.749,
+        30.436
+      ],
+      [
+        -33.5,
+        97.6875,
+        30.62
+      ],
+      [
+        -33.5305,
+        98.2268,
+        30.725
+      ],
+      [
+        -33.1344,
+        98.4961,
+        30.737
+      ],
+      [
+        -32.6483,
+        98.8498,
+        30.751
+      ],
+      [
+        -32.083,
+        99.2729,
+        30.767
+      ],
+      [
+        -31.4495,
+        99.7503,
+        30.786
+      ],
+      [
+        -30.759,
+        100.2668,
+        30.807
+      ],
+      [
+        -30.0224,
+        100.8075,
+        30.828
+      ],
+      [
+        -29.2507,
+        101.3572,
+        30.851
+      ],
+      [
+        -28.4549,
+        101.9008,
+        30.874
+      ],
+      [
+        -27.6461,
+        102.4233,
+        30.896
+      ],
+      [
+        -26.8351,
+        102.9095,
+        30.919
+      ],
+      [
+        -26.0331,
+        103.3444,
+        30.94
+      ],
+      [
+        -25.2511,
+        103.713,
+        30.961
+      ],
+      [
+        -24.5,
+        104.0,
+        30.98
+      ],
+      [
+        -23.6879,
+        104.2406,
+        31.0
+      ],
+      [
+        -22.8431,
+        104.4406,
+        31.021
+      ],
+      [
+        -21.9744,
+        104.6012,
+        31.041
+      ],
+      [
+        -21.0903,
+        104.7239,
+        31.063
+      ],
+      [
+        -20.1995,
+        104.81,
+        31.084
+      ],
+      [
+        -19.3106,
+        104.8608,
+        31.105
+      ],
+      [
+        -18.4322,
+        104.8777,
+        31.126
+      ],
+      [
+        -17.5729,
+        104.862,
+        31.146
+      ],
+      [
+        -16.7415,
+        104.815,
+        31.166
+      ],
+      [
+        -15.9464,
+        104.7381,
+        31.185
+      ],
+      [
+        -15.1964,
+        104.6327,
+        31.203
+      ],
+      [
+        -14.5,
+        104.5,
+        31.219
+      ],
+      [
+        -13.6495,
+        104.2344,
+        31.24
+      ],
+      [
+        -12.869,
+        103.8483,
+        31.261
+      ],
+      [
+        -12.1481,
+        103.3741,
+        31.282
+      ],
+      [
+        -11.4767,
+        102.8443,
+        31.302
+      ],
+      [
+        -10.8443,
+        102.2915,
+        31.322
+      ],
+      [
+        -10.2407,
+        101.7481,
+        31.341
+      ],
+      [
+        -9.6557,
+        101.2468,
+        31.359
+      ],
+      [
+        -9.0789,
+        100.8199,
+        31.376
+      ],
+      [
+        -8.5,
+        100.5,
+        31.392
+      ],
+      [
+        -7.432,
+        100.1528,
+        31.418
+      ],
+      [
+        -6.376,
+        99.9864,
+        31.444
+      ],
+      [
+        -5.404,
+        99.9336,
+        31.467
+      ],
+      [
+        -4.588,
+        99.9272,
+        31.486
+      ],
+      [
+        -4.0,
+        99.9,
+        31.5
+      ],
+      [
+        -4.0,
+        99.9,
+        30.6
+      ],
+      [
+        -3.9368,
+        100.1539,
+        30.777
+      ],
+      [
+        -3.8736,
+        100.4077,
+        30.953
+      ],
+      [
+        -3.8104,
+        100.6616,
+        31.13
+      ],
+      [
+        -3.7472,
+        100.9154,
+        31.307
+      ],
+      [
+        -3.684,
+        101.1693,
+        31.484
+      ],
+      [
+        -3.6208,
+        101.4231,
+        31.66
+      ],
+      [
+        -3.5576,
+        101.677,
+        31.837
+      ],
+      [
+        -3.4944,
+        101.9309,
+        32.014
+      ],
+      [
+        -3.4312,
+        102.1847,
+        32.191
+      ],
+      [
+        -3.368,
+        102.4386,
+        32.367
+      ],
+      [
+        -3.3048,
+        102.6924,
+        32.544
+      ],
+      [
+        -3.2416,
+        102.9463,
+        32.721
+      ],
+      [
+        -3.1784,
+        103.2001,
+        32.898
+      ],
+      [
+        -3.1152,
+        103.454,
+        33.074
+      ],
+      [
+        -2.7528,
+        104.9096,
+        33.074
+      ],
+      [
+        -2.6896,
+        105.1634,
+        33.251
+      ],
+      [
+        -2.6264,
+        105.4173,
+        33.428
+      ],
+      [
+        -2.5632,
+        105.6711,
+        33.605
+      ],
+      [
+        -2.5,
+        105.925,
+        33.781
+      ],
+      [
+        -2.4368,
+        106.1789,
+        33.958
+      ],
+      [
+        -2.3736,
+        106.4327,
+        34.135
+      ],
+      [
+        -2.3104,
+        106.6866,
+        34.312
+      ],
+      [
+        -2.2472,
+        106.9404,
+        34.488
+      ],
+      [
+        -2.184,
+        107.1943,
+        34.665
+      ],
+      [
+        -2.1208,
+        107.4481,
+        34.842
+      ],
+      [
+        -2.0576,
+        107.702,
+        35.019
+      ],
+      [
+        -1.9944,
+        107.9559,
+        35.195
+      ],
+      [
+        -1.9312,
+        108.2097,
+        35.372
+      ],
+      [
+        -1.868,
+        108.4636,
+        35.549
+      ],
+      [
+        -1.5056,
+        109.9191,
+        35.549
+      ],
+      [
+        -1.4424,
+        110.173,
+        35.725
+      ],
+      [
+        -1.3792,
+        110.4269,
+        35.902
+      ],
+      [
+        -1.316,
+        110.6807,
+        36.079
+      ],
+      [
+        -1.2528,
+        110.9346,
+        36.256
+      ],
+      [
+        -1.1896,
+        111.1884,
+        36.432
+      ],
+      [
+        -1.1264,
+        111.4423,
+        36.609
+      ],
+      [
+        -1.0632,
+        111.6961,
+        36.786
+      ],
+      [
+        -1.0,
+        111.95,
+        36.963
+      ],
+      [
+        -0.9368,
+        112.2039,
+        37.139
+      ],
+      [
+        -0.8736,
+        112.4577,
+        37.316
+      ],
+      [
+        -0.8104,
+        112.7116,
+        37.493
+      ],
+      [
+        -0.7472,
+        112.9654,
+        37.67
+      ],
+      [
+        -0.684,
+        113.2193,
+        37.846
+      ],
+      [
+        -0.6208,
+        113.4731,
+        38.023
+      ],
+      [
+        -0.5576,
+        113.727,
+        38.2
+      ],
+      [
+        -0.1952,
+        115.1826,
+        38.2
+      ],
+      [
+        -0.132,
+        115.4364,
+        38.377
+      ],
+      [
+        -0.0688,
+        115.6903,
+        38.553
+      ],
+      [
+        -0.0056,
+        115.9441,
+        38.73
+      ],
+      [
+        0.0576,
+        116.198,
+        38.907
+      ],
+      [
+        0.1208,
+        116.4519,
+        39.084
+      ],
+      [
+        0.184,
+        116.7057,
+        39.26
+      ],
+      [
+        0.2472,
+        116.9596,
+        39.437
+      ],
+      [
+        0.3104,
+        117.2134,
+        39.614
+      ],
+      [
+        0.3736,
+        117.4673,
+        39.791
+      ],
+      [
+        0.4368,
+        117.7211,
+        39.967
+      ],
+      [
+        0.5,
+        117.975,
+        40.144
+      ],
+      [
+        0.5632,
+        118.2289,
+        40.321
+      ],
+      [
+        0.6264,
+        118.4827,
+        40.498
+      ],
+      [
+        0.6896,
+        118.7366,
+        40.674
+      ],
+      [
+        1.052,
+        120.1921,
+        40.674
+      ],
+      [
+        1.1152,
+        120.446,
+        40.851
+      ],
+      [
+        1.1784,
+        120.6999,
+        41.028
+      ],
+      [
+        1.2416,
+        120.9537,
+        41.204
+      ],
+      [
+        1.3048,
+        121.2076,
+        41.381
+      ],
+      [
+        1.368,
+        121.4614,
+        41.558
+      ],
+      [
+        1.4312,
+        121.7153,
+        41.735
+      ],
+      [
+        1.4944,
+        121.9691,
+        41.911
+      ],
+      [
+        1.5576,
+        122.223,
+        42.088
+      ],
+      [
+        1.6208,
+        122.4769,
+        42.265
+      ],
+      [
+        1.684,
+        122.7307,
+        42.442
+      ],
+      [
+        1.7472,
+        122.9846,
+        42.618
+      ],
+      [
+        1.8104,
+        123.2384,
+        42.795
+      ],
+      [
+        1.8736,
+        123.4923,
+        42.972
+      ],
+      [
+        1.9368,
+        123.7461,
+        43.149
+      ],
+      [
+        2.0,
+        124.0,
+        43.325
+      ],
+      [
+        2.0,
+        124.0,
+        44.225
+      ],
+      [
+        2.0,
+        132.0,
+        44.225
+      ],
+      [
+        2.0,
+        136.8,
+        44.225
+      ],
+      [
+        2,
+        146,
+        44.225
+      ]
+    ],
+    "length_m": 237.60059504967455,
+    "arrival_s": 306.0005409542496,
+    "speed_m_s": 1.1,
+    "segments_m": [
+      0.11005319808785483,
+      0.8518720326434011,
+      0.8771814920528138,
+      0.8977806692060185,
+      0.9180507938017363,
+      0.9382849780317275,
+      0.9570142109707648,
+      0.9746147803106636,
+      0.9909883198100781,
+      1.006626907051466,
+      1.0220326071119243,
+      0.6642565919883656,
+      0.6881465323606618,
+      0.710688180568665,
+      0.7321469251454932,
+      0.7524441308163687,
+      0.7713468026769787,
+      0.7889466268385965,
+      0.8048748039291573,
+      0.8195806793720808,
+      0.8327333426733907,
+      0.8443645243613691,
+      0.8543292632234946,
+      0.8627964534002216,
+      0.8696555467539998,
+      0.874821633248745,
+      0.8785501579306675,
+      0.8804115230958758,
+      0.8807773214609909,
+      0.8793600059133917,
+      0.8766113448957884,
+      0.8720091111909318,
+      0.866704170983386,
+      0.8602057718941437,
+      0.8531163402490908,
+      0.845562168027875,
+      0.8364809920135662,
+      0.8249651447182464,
+      0.8105112090526578,
+      0.7921979866169823,
+      0.7701213475810159,
+      0.9093989718489895,
+      0.9132006898814747,
+      0.917981813545343,
+      0.9214179779014524,
+      0.9230999133354959,
+      0.9227074184160439,
+      0.9207368407965429,
+      0.9165643949008723,
+      0.9106939222373238,
+      0.9026239859432051,
+      0.892719138363237,
+      0.880894057194167,
+      0.8668448765494312,
+      0.8515766906157052,
+      0.8344396802645492,
+      0.8157961142344337,
+      0.7956585322863061,
+      0.77466837420925,
+      0.7530645722645554,
+      0.730794649679375,
+      0.7089405123139725,
+      0.6878408318790066,
+      0.6678670601249923,
+      0.6505856592332777,
+      0.6363135783558295,
+      0.8013463982573318,
+      0.8280627995508573,
+      0.8531236545776888,
+      0.876100747631234,
+      0.8959180877736515,
+      0.9121915204604782,
+      0.9241831528436393,
+      0.9320106490807875,
+      0.9353097882520011,
+      0.9338334166220443,
+      0.9277802110413871,
+      0.9170952894874141,
+      0.9021864386034575,
+      0.8833446779145783,
+      0.8603974953473458,
+      0.8347097100190026,
+      0.8065188466489768,
+      0.7771735970811217,
+      0.7483118133505504,
+      0.7208742747525445,
+      0.5999704159373217,
+      0.6210551666317606,
+      0.6453970328410215,
+      0.671441918560347,
+      0.6989849926858234,
+      0.7292173681420335,
+      0.7743972171954187,
+      0.8010041760190737,
+      0.8270305496171221,
+      0.8512314432632343,
+      0.8734328480198069,
+      0.8934867094702651,
+      0.9114498614844371,
+      0.9271944402335479,
+      0.9400949154207755,
+      0.9505943403997343,
+      0.9583515899710279,
+      0.9635774436961475,
+      0.9656247355986682,
+      0.9650753597517642,
+      0.9560665353415545,
+      0.9309351481172016,
+      0.9221189348451777,
+      0.9099792964677806,
+      0.7271105899380116,
+      0.7363782180374396,
+      0.7460708612457683,
+      0.7558556542091879,
+      0.7652495540671681,
+      0.7746369020386273,
+      0.7837639950903574,
+      0.7920124304580073,
+      0.8001631896057216,
+      0.8078265964920937,
+      0.8144248768302702,
+      0.8207759316646644,
+      0.8261922112922635,
+      0.830946857506544,
+      0.8350702545295212,
+      0.8383896468826414,
+      0.8410445231971969,
+      0.8429197648649602,
+      0.8443666324529883,
+      0.8447253281392716,
+      0.8448930879111274,
+      0.8442581181131751,
+      0.8431810481741157,
+      0.8417541980887295,
+      0.8400608311306987,
+      0.8378296306529145,
+      0.8356788438150143,
+      0.8333981101490454,
+      0.8313963435089179,
+      0.8291913711562627,
+      0.7882400459250983,
+      0.8093648744540372,
+      0.8287896596845297,
+      0.8462141159304778,
+      0.8614483907930882,
+      0.8747808868511016,
+      0.8861685167054854,
+      0.8956889638708265,
+      0.9030834955860978,
+      0.9085297188314766,
+      0.9121474332584613,
+      0.9136150173897092,
+      0.9130658300473188,
+      0.9109774530689555,
+      0.9065368442595123,
+      0.9005827890871574,
+      0.8923781709566877,
+      0.882690710271722,
+      0.8708579333048498,
+      0.8572055879425935,
+      0.8419167536045331,
+      0.8249364642201286,
+      0.8060388638272904,
+      0.7857313153998704,
+      0.7636750617900218,
+      0.7400762798522844,
+      0.7151632610809956,
+      0.689060352944499,
+      0.6617307080678699,
+      0.6334689653013768,
+      0.6043895846223691,
+      0.5751736781181855,
+      0.9896921743653438,
+      0.9802925583722375,
+      0.9754733466374242,
+      0.9735727040134218,
+      0.9726607887645029,
+      0.9716087792934034,
+      0.9721599508311349,
+      0.9701607134902871,
+      0.9631970203442333,
+      0.5502724234413326,
+      0.4791259750838018,
+      0.6013259515437555,
+      0.7062816010629223,
+      0.7934696024423284,
+      0.8625563749692005,
+      0.9139896334204235,
+      0.947744680808078,
+      0.9640163899021621,
+      0.9631446879882536,
+      0.9458543439663406,
+      0.912569454890968,
+      0.8647722012183326,
+      0.8042892576679146,
+      0.8472276966671957,
+      0.868405458296987,
+      0.8836470166305104,
+      0.8928449473452816,
+      0.89519765973778,
+      0.8905980294161888,
+      0.8788135012617858,
+      0.8596760901641979,
+      0.8329675623936404,
+      0.7990360567583893,
+      0.7575837643455677,
+      0.7091108869563355,
+      0.8912545147150749,
+      0.8710306883227474,
+      0.8631358236106278,
+      0.8554916714965696,
+      0.8401890263506205,
+      0.8123900048622005,
+      0.7706170839009485,
+      0.7177958275164249,
+      0.6616020102750623,
+      1.1233200078339207,
+      1.0693460431497368,
+      0.9737046985611199,
+      0.8162462618597404,
+      0.5887952445460134,
+      0.8999999999999986,
+      0.3158930990065998,
+      0.31525335842779806,
+      0.3158930990066112,
+      0.31581272931913146,
+      0.3158930990066131,
+      0.31525335842778673,
+      0.3158930990066112,
+      0.3158930990066017,
+      0.3158127293191429,
+      0.3153338706831091,
+      0.3158127293191428,
+      0.3158930990065998,
+      0.31581272931914683,
+      0.31533387068310903,
+      1.5000350395907462,
+      0.31581272931913146,
+      0.3158930990066112,
+      0.31581272931913135,
+      0.3153338706831245,
+      0.3158930990066112,
+      0.31581272931913135,
+      0.3158930990066112,
+      0.3152533584277887,
+      0.3158930990066111,
+      0.31581272931913146,
+      0.3158930990066112,
+      0.31533387068312446,
+      0.3158127293191314,
+      0.31589309900661117,
+      1.4999380020520854,
+      0.3153338706831245,
+      0.31589309900661117,
+      0.3158127293191314,
+      0.3158930990066112,
+      0.3152533584277887,
+      0.31589309900661117,
+      0.31581272931913146,
+      0.31589309900661117,
+      0.3153338706831245,
+      0.3158127293191314,
+      0.31589309900661117,
+      0.3158127293191314,
+      0.3153338706831205,
+      0.3158127293191354,
+      0.31589309900661117,
+      1.5000350395907325,
+      0.31581272931914284,
+      0.3153338706831091,
+      0.31581272931914284,
+      0.3158930990065998,
+      0.31589309900661516,
+      0.3152533584277847,
+      0.31589309900661117,
+      0.3158127293191314,
+      0.31589309900661117,
+      0.3152533584278001,
+      0.31589309900659973,
+      0.31589309900661117,
+      0.3158127293191314,
+      0.3153338706831245,
+      1.4999380020520854,
+      0.31589309900661117,
+      0.31589309900661117,
+      0.3152533584277887,
+      0.31589309900661117,
+      0.31581272931913146,
+      0.31589309900661117,
+      0.3152533584277887,
+      0.3158930990066112,
+      0.31589309900661117,
+      0.3158127293191314,
+      0.3153338706831245,
+      0.3158127293191314,
+      0.31589309900661117,
+      0.31581272931913146,
+      0.31533387068312446,
+      0.8999999999999986,
+      8.0,
+      4.800000000000011,
+      9.199999999999989
+    ]
+  },
+  "parameters": {
+    "body_speed_m_s": 1.7019,
+    "bone_burst_m_s": 9.0,
+    "civilian_run_m_s": 2.6,
+    "carrying_injured_m_s": 0.85,
+    "witch_speed_m_s": 1.1,
+    "witch_arrival_s": 306.0005409542496,
+    "terminal_s": 366.0005409542496,
+    "blood_unit": "bounded planning resource, not litres; fatal spill=1, injury=.25; accessible connected sources only",
+    "blood_growth": "q=sqrt(accessible units); saturation >=12 units, deluge >=35, pre90 centre=5 units FED",
+    "attack_reach": "14+2.2*sqrt(units), cap32m; rage multiplier1.18; same body speed",
+    "network_length_budget": "100+85*sqrt(units), cap950m; final rage*1.2",
+    "network_root_path_limit": "90+13*sqrt(units), cap230m; final rage*1.15",
+    "node_branch_range": "45+7*sqrt(units), cap100m; final rage*1.15",
+    "stream_speed": "1.2+.25*sqrt(units), cap3.5m/s; final rage*1.2",
+    "global_new_stream_m_s": "5+1.5*sqrt(units), cap20; final rage*1.2",
+    "concurrent_tips": "2+floor(sqrt(units)), cap10; final rage+3",
+    "secondary_node": "Connected pool >=2 resource units, or established junction allocated2 units; maximum10 nodes",
+    "signal": "physical threshold reached; shelter sum coarse 0-weak /2-5 presence /6+ strong; opacity blocks unconnected detection",
+    "memory": "Empty/weak revisits reduced; high presence memory40s; local search negative results recorded, no universal tracking",
+    "damage": "0intact/1damaged/2breached/3heavily breached; explicit openings change cover and search entrance",
+    "warning": "Close human contact 8m outdoors or same shelter; direct evidence never copied as direct to recipient",
+    "visibility": "roof plan obstruction, daylight loss; audible human emergency within80m external; no exact identity through noise",
+    "planning_limits": "No UE navmesh/terrain collision, interior floorplan/doors are provisional; paths conservatively avoid roof footprints with explicit threshold joins.",
+    "decision_method": "Human-authored event-driven causal choices; deterministic spatial/accounting toolkit. No casualty optimizer, target quota or claimed probabilistic realism."
+  },
+  "source": {
+    "authored_utc": "2026-09-10T11:08:43.713611+00:00",
+    "branch": "V4",
+    "input_boundary": "Only approved pre-T90 inputs; V1/V2/V3 post90 not read",
+    "source_files": {
+      "bone_completion.json": "681aa4458920c1a5274cbc85b1ebcefe856c4911fdbda4e901ba2b901c0ceb90",
+      "design-bible.txt": "e21835db4fa1cddb25413333f1c6780fe0caa560367bea46d9ed6405be6778f9",
+      "map_data.json": "74d919bed2ae713512774241c21ecc477e17349b1bb3dcb8af85d132fdb6f40e",
+      "map_views.json": "017ba6a442ec2b20d40710fa1c01afe38676e0ac16e0894b540a121515d8e216",
+      "massacre_behaviour_rules.json": "81b5bd74cfb7fa7c7b072e7d9a1f1226609f6de5cc8abcc25ba9ad54507af8e1",
+      "t0_activity.json": "1b2d500f6f63e4e54bd86d7647cb2f03de41a4f4b4f2f849373651cbaf16ccd8",
+      "T0_ACTIVITY.md": "a0fb98bb58cce601197faed6d760bb84cfca1ed3b85d2b7adb15d09669c40691",
+      "T1_BONE_COMPLETION.md": "6a254ad660804d0f9e32868f999c33b8f763f13ace454c5210740f18dcdd961f",
+      "T1_FIRST_90_SECONDS.md": "8bb0a0af8fe835cbda5f83ac86884ec645fc98b8defb78167a32c9471f8376f4",
+      "t1_simulation.json": "86a349c9363374db9fe88a53e33588e31de7d8b19b03705fbfc22403c2ffcc8d"
+    },
+    "t90_refinements": "Stable Pxx-nn IDs refine existing T0 subgroups; they are not new population. Exact handoff micro/motion anchors preserved at group level; unpinned interiors and yard subgroups assigned within approved source features."
+  },
+  "events": [],
+  "cycles": [],
+  "structures": {
+    "WitchHome": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "NeedleHouse": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "CrushedHome": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "RearCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "MayorHall": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Farmstead_West": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Farmstead_South": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "CrookedCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "SplitRoofCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "SealedCellarCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "CollapsedCellarCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "EndRowCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "AbandonedCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "UpperCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "WeaverCottage": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Tavern": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Blacksmith": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Church": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_01": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_02": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_03": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_04": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_05": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_06": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_07": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_08": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_09": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_10": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_11": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_12": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_13": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "CrookedCottage_YardShed": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "SealedCellarCottage_YardShed": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "EndRowCottage_YardShed": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_01_YardShed": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_03_YardShed": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "Cottage_09_YardShed": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "NorthBarn": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "SouthBarn": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "OldQuarterSharedShed": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    },
+    "OldQuarterStore": {
+      "state": 0,
+      "openings": [],
+      "events": []
+    }
+  },
+  "network": {
+    "nodes": [],
+    "edges": [],
+    "searches": {},
+    "tasks": []
+  },
+  "resources": [
+    {
+      "id": "pre90-centre",
+      "xy": [
+        0,
+        49
+      ],
+      "units": 5,
+      "connected": true,
+      "event": "approved +56: four fatalities and four injuries"
+    },
+    {
+      "id": "pre90-assistant",
+      "xy": [
+        -28.4017671378,
+        37.6234790712
+      ],
+      "units": 1,
+      "connected": false,
+      "event": "approved +45"
+    },
+    {
+      "id": "pre90-handcart",
+      "xy": [
+        -1,
+        -11.4
+      ],
+      "units": 2,
+      "connected": false,
+      "event": "approved +4/+6"
+    }
+  ],
+  "knowledge_events": [],
+  "moves": [],
+  "stream_events": [],
+  "damage_events": [],
+  "seeds": [],
+  "bone_indirect": [],
+  "notes": []
+}

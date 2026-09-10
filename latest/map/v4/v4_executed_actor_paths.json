@@ -1,0 +1,798 @@
+[
+  {
+    "actor": "Blood",
+    "start": 102,
+    "end": 103.20024608586691,
+    "path": [
+      [
+        -2.2088,
+        44.5243
+      ],
+      [
+        -1.0,
+        43.0
+      ]
+    ],
+    "distance_plan_m": 1.945427441463698,
+    "terrain_allowance_m": 2.042698813536883,
+    "reason": "Porch retreat, close shouting and a crowded doorway make the tavern the strongest plausible nearby concentration after the outdoor aid strike"
+  },
+  {
+    "actor": "Blood",
+    "start": 116,
+    "end": 125.9672537413912,
+    "path": [
+      [
+        -1.0,
+        43.0
+      ],
+      [
+        14.0,
+        49.0
+      ]
+    ],
+    "distance_plan_m": 16.15549442140351,
+    "terrain_allowance_m": 16.96326914247369,
+    "reason": "Connected dense Cottage01 signal outranks weak nearby probes; retain coarse memory when some occupants move east"
+  },
+  {
+    "actor": "Blood",
+    "start": 142,
+    "end": 160,
+    "path": [
+      [
+        14.0,
+        49.0
+      ],
+      [
+        -5.0,
+        48.0
+      ],
+      [
+        -15.060101796037944,
+        49.34134690613839
+      ]
+    ],
+    "distance_plan_m": 29.17542857142857,
+    "terrain_allowance_m": 30.6342,
+    "reason": "Strong connected western shared-household presence outweighs weak nearby thresholds; cross-centre relocation"
+  },
+  {
+    "actor": "Blood",
+    "start": 160,
+    "end": 163.2149287285689,
+    "path": [
+      [
+        -15.0601,
+        49.3413
+      ],
+      [
+        -19.99999999999998,
+        50.99999999999999
+      ]
+    ],
+    "distance_plan_m": 5.210940193477545,
+    "terrain_allowance_m": 5.471487203151423,
+    "reason": "Reacquire the western group through a strengthened adjacent threshold signal; no exact individual tracking"
+  },
+  {
+    "actor": "Blood",
+    "start": 184,
+    "end": 216,
+    "path": [
+      [
+        -20.0,
+        51.0
+      ],
+      [
+        -20.0,
+        39.0
+      ],
+      [
+        -17.0,
+        35.0
+      ],
+      [
+        -15.8301,
+        28.4231
+      ],
+      [
+        -11.2933,
+        20.3969
+      ],
+      [
+        0.0,
+        14.0
+      ],
+      [
+        4.551,
+        15.7511
+      ],
+      [
+        5.492756303582549,
+        16.34272817111792
+      ]
+    ],
+    "distance_plan_m": 51.86742857142857,
+    "terrain_allowance_m": 54.4608,
+    "reason": "The connected lower-house threshold now reports a substantial concentration, stronger than the dispersed western pocket. Blood makes a deliberate long relocation across the village"
+  },
+  {
+    "actor": "Blood",
+    "start": 226,
+    "end": 242,
+    "path": [
+      [
+        5.4928,
+        16.3427
+      ],
+      [
+        1.0,
+        4.0
+      ],
+      [
+        -1.35866142640824,
+        -8.579527607510613
+      ]
+    ],
+    "distance_plan_m": 25.933714285714284,
+    "terrain_allowance_m": 27.2304,
+    "reason": "Newly connected eastern farmhouse gives a substantial remote presence signal; it outweighs the dispersed lower thresholds. Blood walks down the approach"
+  },
+  {
+    "actor": "Blood",
+    "start": 242,
+    "end": 258,
+    "path": [
+      [
+        -1.3587,
+        -8.5795
+      ],
+      [
+        -0.02679346824520601,
+        -34.47898960199274
+      ]
+    ],
+    "distance_plan_m": 25.933714285714284,
+    "terrain_allowance_m": 27.2304,
+    "reason": "Continue down the approach toward the observed farm movement; major attack still requires body range"
+  },
+  {
+    "actor": "Blood",
+    "start": 280,
+    "end": 300,
+    "path": [
+      [
+        -0.0268,
+        -34.479
+      ],
+      [
+        -8.0,
+        -17.0
+      ],
+      [
+        -16.686,
+        -9.2385
+      ],
+      [
+        -16.99733949643292,
+        -7.712945862152694
+      ]
+    ],
+    "distance_plan_m": 32.41714285714285,
+    "terrain_allowance_m": 34.038,
+    "reason": "Recent strong upper refuge memory and unresolved upper streets outweigh weak farm remnants; Blood begins a long climb back through the western village"
+  },
+  {
+    "actor": "Blood",
+    "start": 300,
+    "end": 342.0,
+    "path": [
+      [
+        -16.9973,
+        -7.7129
+      ],
+      [
+        -16.686,
+        3.2385
+      ],
+      [
+        -5.0,
+        7.0
+      ],
+      [
+        13.0,
+        20.0
+      ],
+      [
+        18.3608,
+        24.8744
+      ],
+      [
+        25.8184,
+        30.3093
+      ],
+      [
+        30.6872,
+        30.6413
+      ],
+      [
+        31.0,
+        30.0
+      ],
+      [
+        30.748779742224393,
+        30.51504971646898
+      ]
+    ],
+    "distance_plan_m": 68.076,
+    "terrain_allowance_m": 71.4798,
+    "reason": "Strong live eastern refuge signal outweighs modest upper memory; Blood must cross the village physically before attacking"
+  },
+  {
+    "actor": "Blood",
+    "start": 348.0,
+    "end": 360.0,
+    "path": [
+      [
+        30.7488,
+        30.515
+      ],
+      [
+        30.6872,
+        30.6413
+      ],
+      [
+        31.0191,
+        35.6967
+      ],
+      [
+        33.9491,
+        37.8861
+      ],
+      [
+        42.66465121922558,
+        43.89435064613775
+      ]
+    ],
+    "distance_plan_m": 19.450285714285712,
+    "terrain_allowance_m": 20.4228,
+    "reason": "The connected northern-eastern threshold still gives several overlapping presences while the nearer refuge disperses. Blood moves within real range of the next concentration"
+  },
+  {
+    "actor": "Bone",
+    "start": 100,
+    "end": 100.66766215574488,
+    "path": [
+      [
+        -37.5,
+        8.8
+      ],
+      [
+        -33.5102,
+        4.6973
+      ]
+    ],
+    "distance_plan_m": 5.722818477813186,
+    "terrain_allowance_m": 6.008959401703845,
+    "reason": "Follow the wounded parent's dragging footfall toward the door, maintaining M05 fixation"
+  },
+  {
+    "actor": "Bone",
+    "start": 102,
+    "end": 103.03833081992433,
+    "path": [
+      [
+        -33.5102,
+        4.6973
+      ],
+      [
+        -35.6976,
+        12.3024
+      ],
+      [
+        -35.0,
+        13.0
+      ]
+    ],
+    "distance_plan_m": 8.899978456494212,
+    "terrain_allowance_m": 9.344977379318923,
+    "reason": "The smith's approach toward the child catches attention; Bone shifts off the cottage facade"
+  },
+  {
+    "actor": "Bone",
+    "start": 110,
+    "end": 116,
+    "path": [
+      [
+        -35.0,
+        13.0
+      ],
+      [
+        -35.6976,
+        12.3024
+      ],
+      [
+        -33.423,
+        4.2003
+      ],
+      [
+        -30.0,
+        -3.0
+      ],
+      [
+        -20.0,
+        -17.0
+      ],
+      [
+        -6.115304279258115,
+        -26.545728308010048
+      ]
+    ],
+    "distance_plan_m": 51.42857142857142,
+    "terrain_allowance_m": 54.0,
+    "reason": "Lower-road warning voices and rapid movement draw Bone away from the now-repetitive forge scene; he crosses the lower district at burst speed"
+  },
+  {
+    "actor": "Bone",
+    "start": 116,
+    "end": 118.87321100118646,
+    "path": [
+      [
+        -6.1153,
+        -26.5457
+      ],
+      [
+        4.0,
+        -49.0
+      ]
+    ],
+    "distance_plan_m": 24.627522867312496,
+    "terrain_allowance_m": 25.858899010678122,
+    "reason": "Four people calling warnings and moving toward the eastern barn are a stronger novel stimulus than abandoned forge cover"
+  },
+  {
+    "actor": "Bone",
+    "start": 122,
+    "end": 123.80445083202665,
+    "path": [
+      [
+        4.0,
+        -49.0
+      ],
+      [
+        6.5305,
+        -51.8881
+      ],
+      [
+        15.3494,
+        -51.1667
+      ],
+      [
+        18.0,
+        -52.0
+      ]
+    ],
+    "distance_plan_m": 15.466721417371211,
+    "terrain_allowance_m": 16.24005748823977,
+    "reason": "The barn door begins closing over returning witnesses; Bone circles to its side rather than following the same footsteps"
+  },
+  {
+    "actor": "Bone",
+    "start": 134,
+    "end": 144.2006275488943,
+    "path": [
+      [
+        18.0,
+        -52.0
+      ],
+      [
+        15.0698,
+        -37.7121
+      ],
+      [
+        4.0,
+        -31.0
+      ],
+      [
+        4.0,
+        3.0
+      ],
+      [
+        14.4488,
+        5.9775
+      ],
+      [
+        22.6873,
+        12.4487
+      ],
+      [
+        22.999999999999993,
+        16.999999999999922
+      ]
+    ],
+    "distance_plan_m": 87.4339504190939,
+    "terrain_allowance_m": 91.8056479400486,
+    "reason": "Human shouts moving away from the tavern toward the lower houses are new; Bone abandons the repetitive barn door and makes a long return burst"
+  },
+  {
+    "actor": "Bone",
+    "start": 148,
+    "end": 149.10063113207326,
+    "path": [
+      [
+        23.0,
+        17.0
+      ],
+      [
+        30.99999999999993,
+        21.999999999999957
+      ]
+    ],
+    "distance_plan_m": 9.43398113205652,
+    "terrain_allowance_m": 9.905680188659346,
+    "reason": "Overlapping voices and the lower cottage's hastily closing door attract Bone after his long farm-to-lower burst"
+  },
+  {
+    "actor": "Bone",
+    "start": 166,
+    "end": 169.38527527819414,
+    "path": [
+      [
+        31.0,
+        22.0
+      ],
+      [
+        29.3911,
+        29.961
+      ],
+      [
+        31.0,
+        31.0
+      ],
+      [
+        31.0191,
+        35.6967
+      ],
+      [
+        34.0,
+        40.0
+      ],
+      [
+        32.8036,
+        47.7291
+      ],
+      [
+        33.99999999999991,
+        47.99999999999998
+      ]
+    ],
+    "distance_plan_m": 29.016645241664083,
+    "terrain_allowance_m": 30.46747750374729,
+    "reason": "Visible pulsing search branches uphill and escaping household voices offer a new district stimulus; Bone leaves the repeat lower-door encounter"
+  },
+  {
+    "actor": "Bone",
+    "start": 176,
+    "end": 177.5301967791448,
+    "path": [
+      [
+        34.0,
+        48.0
+      ],
+      [
+        32.8036,
+        47.7291
+      ],
+      [
+        32.4977,
+        49.2626
+      ],
+      [
+        37.999999999999986,
+        57.999999999999986
+      ]
+    ],
+    "distance_plan_m": 13.115972392669732,
+    "terrain_allowance_m": 13.771771012303219,
+    "reason": "Bone follows the caregiver's protective turn after forcing the family out; the repeated empty cottage is already losing interest"
+  },
+  {
+    "actor": "Bone",
+    "start": 184,
+    "end": 185.99973831077827,
+    "path": [
+      [
+        38.0,
+        58.0
+      ],
+      [
+        37.0,
+        63.0
+      ],
+      [
+        29.0,
+        72.0
+      ]
+    ],
+    "distance_plan_m": 17.14061409238508,
+    "terrain_allowance_m": 17.997644797004334,
+    "reason": "The fleeing children reach a uniformed adult who turns toward them; this new protective gesture pulls Bone along the churchward route"
+  },
+  {
+    "actor": "Bone",
+    "start": 194,
+    "end": 195.4,
+    "path": [
+      [
+        29.0,
+        72.0
+      ],
+      [
+        29.0,
+        84.0
+      ]
+    ],
+    "distance_plan_m": 12.0,
+    "terrain_allowance_m": 12.600000000000001,
+    "reason": "Bone changes angle along the church approach instead of striking the guard; he watches the guard attempt a rescue"
+  },
+  {
+    "actor": "Bone",
+    "start": 206,
+    "end": 207.56679655834685,
+    "path": [
+      [
+        29.0,
+        84.0
+      ],
+      [
+        21.7892,
+        84.879
+      ],
+      [
+        16.0,
+        87.0
+      ]
+    ],
+    "distance_plan_m": 13.429684785830059,
+    "terrain_allowance_m": 14.101169025121562,
+    "reason": "Bone allows the recognized guard's retreat, then shifts ahead along the upper junction instead of immediately killing him"
+  },
+  {
+    "actor": "Bone",
+    "start": 222,
+    "end": 225.10024909341996,
+    "path": [
+      [
+        16.0,
+        87.0
+      ],
+      [
+        5.5327,
+        95.025
+      ],
+      [
+        5.0,
+        95.0
+      ],
+      [
+        5.5327,
+        95.025
+      ],
+      [
+        5.5779,
+        95.5618
+      ],
+      [
+        5.5442,
+        96.25
+      ],
+      [
+        5.3372,
+        98.1417
+      ],
+      [
+        -2.999999999999905,
+        101.99999999999996
+      ]
+    ],
+    "distance_plan_m": 26.573563657885384,
+    "terrain_allowance_m": 27.902241840779652,
+    "reason": "Bone overtakes the recognized guard along the upper route and takes a position at the first stair approach"
+  },
+  {
+    "actor": "Bone",
+    "start": 236,
+    "end": 237.2886254520052,
+    "path": [
+      [
+        -3.0,
+        102.0
+      ],
+      [
+        -4.0,
+        113.0
+      ]
+    ],
+    "distance_plan_m": 11.045361017187261,
+    "terrain_allowance_m": 11.597629068046624,
+    "reason": "Bone steps between the two guards' lines, keeping the recognized guard alive while the other attempts protection"
+  },
+  {
+    "actor": "Bone",
+    "start": 242,
+    "end": 243.68259059521654,
+    "path": [
+      [
+        -4.0,
+        113.0
+      ],
+      [
+        4.0,
+        125.0
+      ]
+    ],
+    "distance_plan_m": 14.422205101855956,
+    "terrain_allowance_m": 15.143315356948754,
+    "reason": "Bone follows the recognized guard to the controlled entrance, ending the long church-to-stairs pursuit"
+  },
+  {
+    "actor": "Bone",
+    "start": 254,
+    "end": 256.66552058705236,
+    "path": [
+      [
+        4.0,
+        125.0
+      ],
+      [
+        -16.999999999999904,
+        133.99999999999997
+      ]
+    ],
+    "distance_plan_m": 22.847319317591623,
+    "terrain_allowance_m": 23.989685283471204,
+    "reason": "Abandoned cart and workers arguing at service side interrupt Bone's finished guard fixation; he crosses the grounds toward the new sound"
+  },
+  {
+    "actor": "Bone",
+    "start": 266,
+    "end": 271.1311135454296,
+    "path": [
+      [
+        -17.0,
+        134.0
+      ],
+      [
+        -5.7218,
+        95.9432
+      ],
+      [
+        -5.7789,
+        91.6554
+      ]
+    ],
+    "distance_plan_m": 43.98097324653944,
+    "terrain_allowance_m": 46.180021908866415,
+    "reason": "New movement across the upper western approach is more novel than the service-yard cowering. Bone makes a long lateral relocation to investigate"
+  },
+  {
+    "actor": "Bone",
+    "start": 286,
+    "end": 289.35288167213423,
+    "path": [
+      [
+        -5.7789,
+        91.6554
+      ],
+      [
+        -5.7139,
+        91.6518
+      ],
+      [
+        -2.9682,
+        84.4725
+      ],
+      [
+        6.2327,
+        83.8856
+      ],
+      [
+        18.0,
+        84.0
+      ]
+    ],
+    "distance_plan_m": 28.738985761150317,
+    "terrain_allowance_m": 30.175935049207833,
+    "reason": "New human movement across the church approach and a physically gathering blood probe offer an active stimulus; Bone changes angle across the upper district"
+  },
+  {
+    "actor": "Bone",
+    "start": 306.0005409542496,
+    "end": 310.61587843742683,
+    "path": [
+      [
+        18.0,
+        84.0
+      ],
+      [
+        33.0,
+        78.0
+      ],
+      [
+        47.0,
+        64.0
+      ],
+      [
+        48.999999999999964,
+        61.00000000000005
+      ]
+    ],
+    "distance_plan_m": 39.56003557009077,
+    "terrain_allowance_m": 41.53803734859531,
+    "reason": "The eastern search branch is visibly gathering near a refuge, with new departing voices. Bone makes a sharp church-to-eastern relocation to investigate"
+  },
+  {
+    "actor": "Bone",
+    "start": 314.0,
+    "end": 315.10679718105894,
+    "path": [
+      [
+        49.0,
+        61.0
+      ],
+      [
+        52.0,
+        70.0
+      ]
+    ],
+    "distance_plan_m": 9.486832980505138,
+    "terrain_allowance_m": 9.961174629530396,
+    "reason": "Bone follows the door movement and visibly pulsing search at the crowded northern eastern cottage"
+  },
+  {
+    "actor": "Bone",
+    "start": 332.0,
+    "end": 333.8474181584599,
+    "path": [
+      [
+        52.0,
+        70.0
+      ],
+      [
+        55.8354,
+        71.7094
+      ],
+      [
+        64.0,
+        80.0
+      ]
+    ],
+    "distance_plan_m": 15.835012786799137,
+    "terrain_allowance_m": 16.626763426139096,
+    "reason": "Two eastern boundary witnesses recoil and one turns back for the other; this novel human response draws Bone away from the repeated cottage-door scene"
+  },
+  {
+    "actor": "Bone",
+    "start": 338.0,
+    "end": 342.6031823639137,
+    "path": [
+      [
+        64.0,
+        80.0
+      ],
+      [
+        25.0,
+        84.8438
+      ],
+      [
+        25.0,
+        85.0
+      ]
+    ],
+    "distance_plan_m": 39.45584883354557,
+    "terrain_allowance_m": 41.42864127522285,
+    "reason": "Overlapping human voices at the church entrance are audible across this open upper-eastern gap. Local edge interest has decayed; Bone makes a sharp return relocation"
+  }
+]

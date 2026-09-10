@@ -1,0 +1,85 @@
+{
+  "census": {
+    "alive": 70,
+    "dead": 100,
+    "injured_alive": 10
+  },
+  "fatalities_by_killer": {
+    "Bone": 18,
+    "Blood": 76,
+    "Barrier": 5,
+    "Witch": 1
+  },
+  "body_travel_plan_m": {
+    "Blood": 276.17,
+    "Bone": 539.66
+  },
+  "districts": {
+    "Blood": [
+      "centre",
+      "farms",
+      "lower",
+      "old/eastern"
+    ],
+    "Bone": [
+      "estate",
+      "farms",
+      "lower",
+      "old/eastern",
+      "upper/church"
+    ]
+  },
+  "district_definition": "farms y<0; lower y0-28; estate y>=123; upper/church y>=81; western x<-21 within middle; old/eastern x>16 within middle; remaining centre. Analytical zones only.",
+  "shelters_completed_probes": 41,
+  "total_building_outbuilding_footprints": 41,
+  "shelters_compromised": 36,
+  "secondary_search_nodes": 8,
+  "network_total_trace_m": 2366.0,
+  "network_active_at_close_m": 971.2,
+  "inhabited_yard_proxy_m2": 10570.7,
+  "inhabited_proxy_within_8m_of_any_completed_trace_pct": 83.6,
+  "coverage_definition": "Union of surveyed building/outbuilding footprints buffered5m; percent within8m of actually laid network trace, including withdrawn branches. Proximity is not proof of detection; completed door probes reported separately.",
+  "structural_states": {
+    "0": 17,
+    "3": 15,
+    "2": 8,
+    "1": 1
+  },
+  "breached_or_heavily_breached": 23,
+  "forced_movement_orders": 188,
+  "people_with_forced_movement": 121,
+  "bone_indirect_fatalities_with_recorded_movement_chain": 11,
+  "bone_indirect_people": [
+    "P09-12",
+    "P09-13",
+    "P03-05",
+    "P03-06",
+    "P05-04",
+    "P05-05",
+    "P17-01",
+    "P10-01",
+    "P08-25",
+    "P08-19",
+    "P08-18"
+  ],
+  "bone_contribution_definition": "Direct killer stays separate. Indirect lists non-Bone deaths with a recorded prior Bone-caused movement chain; this is contributing narrative context, not a counterfactual claim that Bone was necessary.",
+  "barrier_contacts": 5,
+  "barrier_deaths_with_bone_forced_movement_chain": 3,
+  "final_minute_fatalities": {
+    "Bone": 4,
+    "Barrier": 2,
+    "Blood": 12,
+    "Witch": 1
+  },
+  "witch_arrival_s": 306.0005409542496,
+  "terminal_s": 366.0005409542496,
+  "guard_recognition_s": 188,
+  "guard_death_s": 254,
+  "guard_torment_s": 66,
+  "witch_blood_intersections_s": [
+    110,
+    134
+  ],
+  "search_reclaims": 65,
+  "search_revisits": 26
+}

@@ -1,0 +1,5533 @@
+[
+  {
+    "person": "P01-03",
+    "origin": "P01",
+    "micro": null,
+    "group": "east-tools",
+    "xy": [
+      -29.0047,
+      -34.89
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "report: orchard warning",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P04-04",
+        "P04-06",
+        "P01-01",
+        "P02-01",
+        "P02-05",
+        "P04-05",
+        "P02-04",
+        "P02-02",
+        "P01-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E092",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E325",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-01",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-04",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-05",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-04",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-06",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E344",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      258,
+      312.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P01-04",
+    "origin": "P01",
+    "micro": null,
+    "group": "strip-workers",
+    "xy": [
+      -29.0047,
+      -34.89
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Farmstead_West",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_West",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E325",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P01-04",
+          "source": "E325",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E344",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      122,
+      258,
+      348.0
+    ],
+    "bone_chain": [
+      "Bone farm cry"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P01-05",
+    "origin": "P01",
+    "micro": null,
+    "group": "strip-workers",
+    "xy": [
+      -29.0047,
+      -34.89
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Farmstead_West",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_West",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E325",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P01-04",
+          "source": "E325",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E344",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      122,
+      258,
+      348.0
+    ],
+    "bone_chain": [
+      "Bone farm cry"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P03-03",
+    "origin": "P03",
+    "micro": null,
+    "group": "east-home",
+    "xy": [
+      -29.0047,
+      -34.89
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "report: farm warning",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P04-04",
+        "P03-01",
+        "P03-02",
+        "P04-06",
+        "P02-01",
+        "P02-05",
+        "P04-05",
+        "P02-04",
+        "P02-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Farmstead_West",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_West",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E325",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-01",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-04",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-05",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-04",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-06",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E344",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      238,
+      242,
+      258,
+      312.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P03-07",
+    "origin": "P03",
+    "micro": null,
+    "group": "east-yard",
+    "xy": [
+      -29.0047,
+      -34.89
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P04-04",
+        "P03-05",
+        "P04-06",
+        "P03-06",
+        "P03-04",
+        "P02-01",
+        "P02-05",
+        "P04-05",
+        "P02-04",
+        "P02-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E092",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Farmstead_West",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_West",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E325",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-01",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-04",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-05",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-04",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-06",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E344",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      126,
+      134,
+      238,
+      242,
+      258,
+      312.0
+    ],
+    "bone_chain": [
+      "Bone barn puncture",
+      "Bone farm helper attack"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P04-03",
+    "origin": "P04",
+    "micro": null,
+    "group": "west-home",
+    "xy": [
+      -29.0047,
+      -34.89
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P04-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-02",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-03",
+          "source": "E358",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      266
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P05-06",
+    "origin": "P05",
+    "micro": null,
+    "group": "approach-witnesses",
+    "xy": [
+      -29.0047,
+      -34.89
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P04-04",
+        "P04-06",
+        "P05-03",
+        "P02-01",
+        "P02-05",
+        "P05-02",
+        "P05-05",
+        "P05-01",
+        "P04-05",
+        "P02-04",
+        "P02-02",
+        "P05-04"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E325",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-01",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-04",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P02-05",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-04",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P04-06",
+          "source": "E344",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E344",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Farmstead_South",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      110,
+      122,
+      258,
+      312.0
+    ],
+    "bone_chain": [
+      "Bone farm warning interception"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-01",
+    "origin": "P06",
+    "micro": null,
+    "group": "c04-family",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: Parent attacked at own doorway; child needs cover",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Blacksmith",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      312.0,
+      342.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-02",
+    "origin": "P06",
+    "micro": null,
+    "group": "c04-family",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: Parent attacked at own doorway; child needs cover",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Blacksmith",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      312.0,
+      342.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-03",
+    "origin": "P06",
+    "micro": null,
+    "group": "c04-family",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: Parent attacked at own doorway; child needs cover",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Blacksmith",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      312.0,
+      342.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-04",
+    "origin": "P06",
+    "micro": null,
+    "group": "needle-family",
+    "xy": [
+      -9.6248,
+      26.7724
+    ],
+    "shelter": "Cottage_09",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Cottage_09, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      142
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-05",
+    "origin": "P06",
+    "micro": null,
+    "group": "needle-family",
+    "xy": [
+      -9.6248,
+      26.7724
+    ],
+    "shelter": "Cottage_09",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Cottage_09, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      142
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-08",
+    "origin": "P06",
+    "micro": null,
+    "group": "c09-resident",
+    "xy": [
+      -28.2463,
+      3.8778
+    ],
+    "shelter": "Cottage_04",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_04, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      142,
+      312.0,
+      342.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-09",
+    "origin": "P06",
+    "micro": null,
+    "group": "lower-yard-west",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "injury",
+          "value": "P06-13",
+          "source": "E040",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Blacksmith",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Blacksmith",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      142,
+      318.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-10",
+    "origin": "P06",
+    "micro": null,
+    "group": "lower-yard-west",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "injury",
+          "value": "P06-13",
+          "source": "E040",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Blacksmith",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Blacksmith",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      142,
+      318.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-11",
+    "origin": "P06",
+    "micro": null,
+    "group": "lower-yard-east",
+    "xy": [
+      -9.6248,
+      26.7724
+    ],
+    "shelter": "Cottage_09",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Cottage_09, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: public impact",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      142
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-12",
+    "origin": "P06",
+    "micro": null,
+    "group": "lower-yard-east",
+    "xy": [
+      -9.6248,
+      26.7724
+    ],
+    "shelter": "Cottage_09",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Cottage_09, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: public impact",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      142
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P06-14",
+    "origin": "P06",
+    "micro": "M05",
+    "group": "parent-child",
+    "xy": [
+      -28.2463,
+      3.8778
+    ],
+    "shelter": "Cottage_04",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_04, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P06-13"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "injury",
+          "value": "P06-13",
+          "source": "E040",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_04",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_09",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      94,
+      102,
+      312.0,
+      342.0
+    ],
+    "bone_chain": [
+      "Bone E-M05-injury",
+      "Bone M05 final attack"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P07-01",
+    "origin": "P07",
+    "micro": "M07",
+    "group": "smith-pair",
+    "xy": [
+      -48.0,
+      -1.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Surviving smith withdraws from exact local threat into lower western yards",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: heavy impact and screams",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P07-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "injury",
+          "value": "P06-13",
+          "source": "E040",
+          "mode": "direct"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E177",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E267",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E344",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      94,
+      106,
+      108
+    ],
+    "bone_chain": [
+      "Bone forge route denial",
+      "Bone E-forge-apprentice"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P07-04",
+    "origin": "P07",
+    "micro": null,
+    "group": "smith-customer",
+    "xy": [
+      -25.8,
+      21
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Collecting repaired item",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: heavy impact",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E177",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E267",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E344",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E358",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P08-01",
+    "origin": "P08",
+    "micro": "M04",
+    "group": "water-pair",
+    "xy": [
+      -24.0,
+      31.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Water carriers avoid the assistant's attack position and move toward lower western homes",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "direct: assistant killed",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P11-01",
+        "P11-09",
+        "P11-16",
+        "P11-15",
+        "P11-10",
+        "P07-03"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E177",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E267",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P08-02",
+    "origin": "P08",
+    "micro": "M04",
+    "group": "water-pair",
+    "xy": [
+      -24.0,
+      31.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Water carriers avoid the assistant's attack position and move toward lower western homes",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "direct: assistant killed",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P11-01",
+        "P11-09",
+        "P11-16",
+        "P11-15",
+        "P11-10",
+        "P07-03"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E177",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E267",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P08-17",
+    "origin": "P08",
+    "micro": null,
+    "group": "east-passers-split5",
+    "xy": [
+      16.8797,
+      91.2934
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: crash behind",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P14-06"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_01",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_01",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E108",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      116,
+      142,
+      216,
+      290,
+      312.0,
+      360.0
+    ],
+    "bone_chain": [
+      "E521"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P08-24",
+    "origin": "P08",
+    "micro": null,
+    "group": "stall-thief",
+    "xy": [
+      16.8797,
+      91.2934
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P10-21",
+        "P08-20",
+        "P09-11",
+        "P08-22",
+        "P09-09",
+        "P09-10",
+        "P09-08",
+        "P14-06",
+        "P12-14",
+        "P08-21"
+      ],
+      "witch": [
+        {
+          "observation": "Saw blood flow around her; causal suspicion, not full explanation",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "observation": "Saw blood flow around her; causal suspicion, not full explanation",
+          "source": "E108",
+          "mode": "direct"
+        }
+      ],
+      "warnings": [
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_13",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_13",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E044",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_13",
+          "mode": "direct"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E177",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P12-14",
+          "source": "E252",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E267",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      98,
+      134,
+      222,
+      290,
+      312.0,
+      360.0
+    ],
+    "bone_chain": [
+      "E521"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P08-26",
+    "origin": "P08",
+    "micro": null,
+    "group": "centre-transit",
+    "xy": [
+      -10.564,
+      91.4845
+    ],
+    "shelter": "UpperCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At UpperCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: public attack",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P08-23",
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_13",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_13",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E044",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_13",
+          "mode": "direct"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E177",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E267",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E524",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      110,
+      222,
+      238,
+      266,
+      280,
+      290,
+      342.0
+    ],
+    "bone_chain": [
+      "Bone upper watcher attack"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P09-01",
+    "origin": "P09",
+    "micro": null,
+    "group": "tavern-service-runners-split5",
+    "xy": [
+      23.5,
+      97.6557
+    ],
+    "shelter": "Church",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Church, structural state 2. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. Prior damage was not assumed to kill every occupant; unhit space and departures remained possible.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: Second impact through tavern wall while evacuating",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P14-06",
+        "P09-05",
+        "P09-07",
+        "P09-04"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E044",
+          "mode": "direct"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P09-06",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E156",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P09-12",
+          "source": "E172",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CollapsedCellarCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      102,
+      130,
+      151,
+      168,
+      184,
+      216,
+      290,
+      312.0
+    ],
+    "bone_chain": [
+      "E156"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P09-02",
+    "origin": "P09",
+    "micro": null,
+    "group": "tavern-service-runners-split8",
+    "xy": [
+      25.0991,
+      84.0009
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P09-07",
+        "P06-07",
+        "P14-04",
+        "P09-04",
+        "P10-22",
+        "P08-18",
+        "P14-01",
+        "P10-11",
+        "P06-06",
+        "P10-12",
+        "P10-14",
+        "P09-14",
+        "P09-05",
+        "P10-13"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E044",
+          "mode": "direct"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P09-06",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E156",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CollapsedCellarCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E267",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E524",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      102,
+      130,
+      184,
+      216,
+      258,
+      300,
+      314.0,
+      342.0
+    ],
+    "bone_chain": [
+      "Bone eastern interception"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P10-03",
+    "origin": "P10",
+    "micro": null,
+    "group": "old-CrookedCottage",
+    "xy": [
+      68.0,
+      96.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Surviving B4 witness separates from refuge traffic and hides inside the forest edge",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Direct boundary experience discouraged another crossing. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: distant crash",
+      "bone": "direct: precise local attack",
+      "barrier": 4,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P10-01",
+        "P10-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E483",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E524",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      216,
+      290,
+      312.0,
+      318.0,
+      332.0,
+      336.0
+    ],
+    "bone_chain": [
+      "Bone C08 shutter pressure",
+      "Bone-origin forced flight then local barrier discovery",
+      "Bone boundary witness attack"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P10-06",
+    "origin": "P10",
+    "micro": null,
+    "group": "old-Cottage_01",
+    "xy": [
+      46.6225,
+      41.0432
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P10-05",
+        "P10-04"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E069",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_01",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_01",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E108",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E267",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E483",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E524",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      142,
+      216,
+      238,
+      290,
+      342.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P10-08",
+    "origin": "P10",
+    "micro": null,
+    "group": "old-Cottage_06-split8",
+    "xy": [
+      25.0991,
+      84.0009
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P06-07",
+        "P14-04",
+        "P10-22",
+        "P08-18",
+        "P14-01",
+        "P10-11",
+        "P06-06",
+        "P10-12",
+        "P10-14",
+        "P09-14",
+        "P10-13"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E156",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_06",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CollapsedCellarCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E267",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CrookedCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E524",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      184,
+      216,
+      258,
+      300,
+      314.0,
+      342.0
+    ],
+    "bone_chain": [
+      "Bone eastern interception"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P10-10",
+    "origin": "P10",
+    "micro": null,
+    "group": "old-Cottage_07-split13",
+    "xy": [
+      23.5,
+      97.6557
+    ],
+    "shelter": "Church",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Church, structural state 2. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. Prior damage was not assumed to kill every occupant; unhit space and departures remained possible.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: distant crash",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P14-06"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E108",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SplitRoofCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      142,
+      290,
+      312.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P10-17",
+    "origin": "P10",
+    "micro": "M09",
+    "group": "children-yard",
+    "xy": [
+      1.8053,
+      88.767
+    ],
+    "shelter": "Cottage_03",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_03, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: public attack and warnings",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P10-21",
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E108",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E199",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P12-14",
+          "source": "E252",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      174,
+      180,
+      188,
+      196,
+      290
+    ],
+    "bone_chain": [
+      "Bone family refuge denial",
+      "Bone caregiver attack",
+      "Bone pursuit",
+      "Bone church helper injury"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P10-18",
+    "origin": "P10",
+    "micro": "M09",
+    "group": "children-yard",
+    "xy": [
+      1.8053,
+      88.767
+    ],
+    "shelter": "Cottage_03",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_03, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: public attack and warnings",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P10-21",
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E108",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E199",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P12-14",
+          "source": "E252",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      174,
+      180,
+      188,
+      196,
+      290
+    ],
+    "bone_chain": [
+      "Bone family refuge denial",
+      "Bone caregiver attack",
+      "Bone pursuit",
+      "Bone church helper injury"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P10-19",
+    "origin": "P10",
+    "micro": "M09",
+    "group": "children-yard",
+    "xy": [
+      1.8053,
+      88.767
+    ],
+    "shelter": "Cottage_03",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_03, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: public attack and warnings",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P10-21",
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E108",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E199",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P12-14",
+          "source": "E252",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      174,
+      180,
+      188,
+      196,
+      290
+    ],
+    "bone_chain": [
+      "Bone family refuge denial",
+      "Bone caregiver attack",
+      "Bone pursuit",
+      "Bone church helper injury"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P10-20",
+    "origin": "P10",
+    "micro": "M09",
+    "group": "children-yard",
+    "xy": [
+      1.8053,
+      88.767
+    ],
+    "shelter": "Cottage_03",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_03, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: public attack and warnings",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P10-21",
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E108",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_07",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E199",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P12-14",
+          "source": "E252",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      174,
+      180,
+      188,
+      196,
+      290
+    ],
+    "bone_chain": [
+      "Bone family refuge denial",
+      "Bone caregiver attack",
+      "Bone pursuit",
+      "Bone church helper injury"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-03",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-RearCottage-split14",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-RearCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-RearCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      312.0,
+      342.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-04",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-RearCottage",
+    "xy": [
+      -45.3497,
+      62.5928
+    ],
+    "shelter": "RearCottage",
+    "injured": false,
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "why_survived": "At RearCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-RearCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-RearCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-05",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-EndRowCottage",
+    "xy": [
+      14.5697,
+      86.9638
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Take the remaining side of the public approach after Bone blocks the attempted entrance",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "direct: local precise predator pressure",
+      "barrier": 1,
+      "barrier_reports": [
+        {
+          "stage": 4,
+          "source": "foresters",
+          "t": 151
+        },
+        {
+          "stage": 4,
+          "source": "foresters",
+          "t": 196
+        }
+      ],
+      "specific_deaths": [
+        "P14-03"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E483",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      312.0,
+      358.0
+    ],
+    "bone_chain": [
+      "Bone final doorway denial"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-06",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-EndRowCottage",
+    "xy": [
+      14.5697,
+      86.9638
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Take the remaining side of the public approach after Bone blocks the attempted entrance",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "direct: local precise predator pressure",
+      "barrier": 1,
+      "barrier_reports": [
+        {
+          "stage": 4,
+          "source": "foresters",
+          "t": 151
+        },
+        {
+          "stage": 4,
+          "source": "foresters",
+          "t": 196
+        }
+      ],
+      "specific_deaths": [
+        "P14-03"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E483",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      312.0,
+      358.0
+    ],
+    "bone_chain": [
+      "Bone final doorway denial"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-07",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-WeaverCottage-split14",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-WeaverCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-WeaverCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      300,
+      342.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-08",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-WeaverCottage",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-WeaverCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-WeaverCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-11",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-Cottage_05",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-WeaverCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-WeaverCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_10",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      142,
+      300,
+      312.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-12",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-Cottage_05",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-WeaverCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-WeaverCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_10",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      142,
+      300,
+      312.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-14",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-Cottage_10",
+    "xy": [
+      -41.2321,
+      38.284
+    ],
+    "shelter": "WeaverCottage",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At WeaverCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct crash",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_10",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_10",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-CrushedHome",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E177",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E203",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_10",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_10",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      142,
+      176,
+      312.0
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-19",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-yard-trades",
+    "xy": [
+      -37.8993,
+      50.7618
+    ],
+    "shelter": "Cottage_05",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Cottage_05, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: impact",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-20",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-yard-trades",
+    "xy": [
+      -37.8993,
+      50.7618
+    ],
+    "shelter": "Cottage_05",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Cottage_05, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: impact",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_05",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-21",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-shortcut",
+    "xy": [
+      -48.8175,
+      77.1379
+    ],
+    "shelter": "EndRowCottage",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At EndRowCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 2,
+      "barrier_reports": [
+        {
+          "stage": 4,
+          "source": "foresters",
+          "t": 151
+        },
+        {
+          "stage": 4,
+          "source": "foresters",
+          "t": 196
+        }
+      ],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        "forest crew inferred enclosure",
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P11-22",
+    "origin": "P11",
+    "micro": null,
+    "group": "west-shortcut",
+    "xy": [
+      -48.8175,
+      77.1379
+    ],
+    "shelter": "EndRowCottage",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At EndRowCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 2,
+      "barrier_reports": [
+        {
+          "stage": 4,
+          "source": "foresters",
+          "t": 151
+        },
+        {
+          "stage": 4,
+          "source": "foresters",
+          "t": 196
+        }
+      ],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        "forest crew inferred enclosure",
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-01",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-AbandonedCottage",
+    "xy": [
+      7.288,
+      70.891
+    ],
+    "shelter": "Cottage_11",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Cottage_11, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E177",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      168
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-02",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-AbandonedCottage",
+    "xy": [
+      7.288,
+      70.891
+    ],
+    "shelter": "Cottage_11",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At Cottage_11, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E177",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      168
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-03",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-UpperCottage-split13",
+    "xy": [
+      1.8053,
+      88.767
+    ],
+    "shelter": "Cottage_03",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_03, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      130,
+      290
+    ],
+    "bone_chain": [
+      "E388"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-04",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-UpperCottage",
+    "xy": [
+      11.8317,
+      95.6105
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      130,
+      360.0
+    ],
+    "bone_chain": [
+      "E521"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-05",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-SealedCellarCottage-split12",
+    "xy": [
+      16.8797,
+      91.2934
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-SealedCellarCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SealedCellarCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      266,
+      360.0
+    ],
+    "bone_chain": [
+      "E521"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-06",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-SealedCellarCottage",
+    "xy": [
+      -42.5649,
+      95.808
+    ],
+    "shelter": "SealedCellarCottage",
+    "injured": false,
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "why_survived": "At SealedCellarCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-SealedCellarCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-SealedCellarCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-07",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-Cottage_03",
+    "xy": [
+      1.8053,
+      88.767
+    ],
+    "shelter": "Cottage_03",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_03, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      130,
+      290
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-08",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-Cottage_03",
+    "xy": [
+      1.8053,
+      88.767
+    ],
+    "shelter": "Cottage_03",
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "At Cottage_03, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E108",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Church",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E388",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      130,
+      290
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-10",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-Cottage_11",
+    "xy": [
+      16.8797,
+      91.2934
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P13-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_11",
+          "mode": "direct"
+        },
+        {
+          "topic": "injury",
+          "value": "P12-14",
+          "source": "E252",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_03",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_03",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      184,
+      290,
+      360.0
+    ],
+    "bone_chain": [
+      "E521"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-11",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-yards",
+    "xy": [
+      -10.564,
+      91.4845
+    ],
+    "shelter": "UpperCottage",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At UpperCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct impacts",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-12",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-yards",
+    "xy": [
+      -10.564,
+      91.4845
+    ],
+    "shelter": "UpperCottage",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At UpperCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct impacts",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P12-13",
+    "origin": "P12",
+    "micro": null,
+    "group": "upper-yards",
+    "xy": [
+      -10.564,
+      91.4845
+    ],
+    "shelter": "UpperCottage",
+    "injured": false,
+    "intention": "Stay silent and move behind intact inner cover after seeing the probe; outside danger is less understood",
+    "why_survived": "At UpperCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: indistinct impacts",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-UpperCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P14-05",
+    "origin": "P14",
+    "micro": null,
+    "group": "edge-animal-split15",
+    "xy": [
+      11.8317,
+      95.6105
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: cries in settlement",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P14-06"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E456",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      318.0,
+      360.0
+    ],
+    "bone_chain": [
+      "E456",
+      "E521"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P14-07",
+    "origin": "P14",
+    "micro": null,
+    "group": "edge-animal",
+    "xy": [
+      61.0,
+      89.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Remaining workers abandon unsafe rescue and seek room beyond the house",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Direct boundary experience discouraged another crossing. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "direct: overwhelming local strike",
+      "bone": "direct: precise local attack",
+      "barrier": 4,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P06-07",
+        "P14-06",
+        "P10-01",
+        "P06-06",
+        "P10-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-Cottage_08",
+          "mode": "direct"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E456",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E483",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E524",
+          "mode": "heard"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      324.0
+    ],
+    "bone_chain": [
+      "Bone C08 protector attack"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P15-02",
+    "origin": "P15",
+    "micro": "M11",
+    "group": "foresters-split14",
+    "xy": [
+      11.8317,
+      95.6105
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Leave newly compromised shelter for a nearby known refuge after local disagreement",
+    "why_survived": "Outside at the terminal clock, still following an interrupted journey. Direct boundary experience discouraged another crossing. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: distant crash",
+      "bone": "direct: precise local attack",
+      "barrier": 4,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P14-03",
+        "P15-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E483",
+          "mode": "heard"
+        },
+        {
+          "topic": "cover",
+          "value": "Shelter damaged; new opening/noise/exposure",
+          "source": "E521",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      116,
+      130,
+      151,
+      312.0,
+      360.0
+    ],
+    "bone_chain": [
+      "E521"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P15-03",
+    "origin": "P15",
+    "micro": "M11",
+    "group": "foresters",
+    "xy": [
+      -48.8175,
+      77.1379
+    ],
+    "shelter": "EndRowCottage",
+    "injured": false,
+    "intention": "Remaining occupants barricade and keep quiet; refusal to leave is ordinary fear",
+    "why_survived": "At EndRowCottage, structural state 0. A probe reached this shelter; detection did not itself authorize a remote attack. No lethal executed attack intersected this person's final shelter/movement after their last relocation. The remaining roof/cover and separation from Blood's body retained protection.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "heard: distant crash",
+      "bone": "unknown",
+      "barrier": 4,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P15-01"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E044",
+          "mode": "heard"
+        },
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E069",
+          "mode": "heard"
+        },
+        {
+          "topic": "search",
+          "value": "Visible thin blood probing the entrance; hiding may be compromised",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        },
+        {
+          "topic": "search",
+          "value": "A physically connected probe reacts visibly at this shelter; new arrival or increased pressure",
+          "source": "search-EndRowCottage",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      90,
+      116,
+      130,
+      151
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P16-04",
+    "origin": "P16",
+    "micro": null,
+    "group": "house-guard",
+    "xy": [
+      -10.0,
+      136.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "House guard withdraws to service workers after Mayor is secured; fear replaces ability to protect authority",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred. Estate workers/house guard moved on local crisis information; neither creation executed an attack on their final service-side position.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": []
+    },
+    "executed_movement_orders": [
+      306.0005409542496
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P16-05",
+    "origin": "P16",
+    "micro": null,
+    "group": "estate-staff",
+    "xy": [
+      -9.0,
+      136.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Domestic staff approach nearby injured workers to offer help; they have only local service-yard knowledge",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred. Estate workers/house guard moved on local crisis information; neither creation executed an attack on their final service-side position.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": []
+    },
+    "executed_movement_orders": [
+      262
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P16-06",
+    "origin": "P16",
+    "micro": null,
+    "group": "estate-staff",
+    "xy": [
+      -9.0,
+      136.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Domestic staff approach nearby injured workers to offer help; they have only local service-yard knowledge",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred. Estate workers/house guard moved on local crisis information; neither creation executed an attack on their final service-side position.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": []
+    },
+    "executed_movement_orders": [
+      262
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P16-07",
+    "origin": "P16",
+    "micro": null,
+    "group": "estate-staff",
+    "xy": [
+      -9.0,
+      136.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Domestic staff approach nearby injured workers to offer help; they have only local service-yard knowledge",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred. Estate workers/house guard moved on local crisis information; neither creation executed an attack on their final service-side position.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "unknown",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [],
+      "witch": [],
+      "warnings": []
+    },
+    "executed_movement_orders": [
+      262
+    ],
+    "bone_chain": [],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P16-08",
+    "origin": "P16",
+    "micro": null,
+    "group": "stable-staff",
+    "xy": [
+      -11.0,
+      136.0
+    ],
+    "shelter": null,
+    "injured": false,
+    "intention": "Stable worker supports injured helper",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred. Estate workers/house guard moved on local crisis information; neither creation executed an attack on their final service-side position.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 1,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P16-03",
+        "P16-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E177",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P17-02",
+          "source": "E339",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      254,
+      262
+    ],
+    "bone_chain": [
+      "Bone service-yard injury"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  },
+  {
+    "person": "P17-02",
+    "origin": "P17",
+    "micro": "M12",
+    "group": "delivery-helper",
+    "xy": [
+      -11.0,
+      136.0
+    ],
+    "shelter": null,
+    "injured": true,
+    "intention": "Wounded helper tries to get behind stable-side cover with assistance",
+    "why_survived": "Outside at the terminal clock, holding at the last chosen local cover/waypoint. Bone had changed this person's movement, but no later completed intended hit reached them. The Mayor's fixed death ends this primary ledger; no cleanup event is inferred. Estate workers/house guard moved on local crisis information; neither creation executed an attack on their final service-side position.",
+    "knowledge": {
+      "catastrophe": "direct: opaque daylight loss",
+      "blood": "unknown",
+      "bone": "direct: precise local attack",
+      "barrier": 2,
+      "barrier_reports": [],
+      "specific_deaths": [
+        "P16-03",
+        "P16-02"
+      ],
+      "witch": [],
+      "warnings": [
+        {
+          "topic": "bell",
+          "value": "Public emergency only",
+          "source": "church bell",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E177",
+          "mode": "heard"
+        },
+        {
+          "topic": "sound",
+          "value": "Heavy impact and human cries nearby; exact victims unknown unless seen",
+          "source": "E203",
+          "mode": "heard"
+        },
+        {
+          "topic": "injury",
+          "value": "P17-02",
+          "source": "E339",
+          "mode": "direct"
+        }
+      ]
+    },
+    "executed_movement_orders": [
+      146,
+      254,
+      262
+    ],
+    "bone_chain": [
+      "Bone service-yard injury"
+    ],
+    "canon_status": "Failed V4 experimental outcome; not approved survivor lore."
+  }
+]

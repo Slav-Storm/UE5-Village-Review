@@ -1,0 +1,286 @@
+{
+  "branch": "V4",
+  "prepared_utc": "2026-09-10T11:57:58.144215+00:00",
+  "state_sha256": "dada687c0e12476c89475db84f4a0ad96e4a8b74a4fb7f5cd1f2ba67522913f6",
+  "geometry_sha256": "cb52e115c55558778d234691d513aa350813ee5432b56764981673c9568fe712",
+  "scene_modified": false,
+  "fresh_UE_captures": false,
+  "files": {
+    "00_v4_contact_sheet.png": {
+      "sha256": "d998cc1083afa0052e780c0b894f205c42b5417fc49f04ddee1f70aa27124988",
+      "bytes": 617838,
+      "dimensions": [
+        1200,
+        1600
+      ]
+    },
+    "01_v4_full_chronology.png": {
+      "sha256": "1db31c3cf125b7dbdc6ad113b25a374680712d3b565fb235ea9651ccd9c9e1eb",
+      "bytes": 380129,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "01_v4_full_chronology.svg": {
+      "sha256": "576d7c813470aada26af97d1557c2d164bb632efe3f88b06350d62e0c04642fe",
+      "bytes": 307098
+    },
+    "02_v4_blood_body_path.png": {
+      "sha256": "f76b8b1dafed1dd1f15ac637093525d8a1af0e83f49aa1ae2553a7a1e5f1d7f3",
+      "bytes": 364026,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "02_v4_blood_body_path.svg": {
+      "sha256": "bd7dab87dabcb9e0774645a0d1a1ffb719523267f267efa02769985228eb9d86",
+      "bytes": 290269
+    },
+    "03_v4_blood_power.png": {
+      "sha256": "f385b395dc0d0a102e277fb60d82bc6f95243e4cd30672294bd6daabfe974f83",
+      "bytes": 129556,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "03_v4_blood_power.svg": {
+      "sha256": "118b165cb9b779206989b3b03efcda7696dc937efece6c75e82cf1e2c2957291",
+      "bytes": 27066
+    },
+    "04_v4_distributed_network.png": {
+      "sha256": "af378231022a31e493bd6f56ddbdffdc6f251c4311cdb01a0a29653f57f40174",
+      "bytes": 521929,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "04_v4_distributed_network.svg": {
+      "sha256": "5f43b0737990cfde6a632ff7f0c9742074d112f316d59c9ca4f1f266fe0c4f5c",
+      "bytes": 1529086
+    },
+    "05_v4_search_memory_frontier.png": {
+      "sha256": "866222a679ef7af04b32f3b7a61fc1c0f210625716222d1c38c65dd7ed21efd3",
+      "bytes": 372163,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "05_v4_search_memory_frontier.svg": {
+      "sha256": "8622517b25308e6f61248362849ee3dd67df73a7442b02cfe07861d7c800b9ad",
+      "bytes": 496674
+    },
+    "06_v4_bone_attention_route.png": {
+      "sha256": "9264f4f6c8602bfc2f9ec1d7403a01c325a15def690b79963da3bad90fe2560b",
+      "bytes": 347821,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "06_v4_bone_attention_route.svg": {
+      "sha256": "c2db476dfbbdbbc402842b51f47204abdb6316321a4eae749cc5110b25200b6e",
+      "bytes": 298009
+    },
+    "07_v4_bone_consequences.png": {
+      "sha256": "0e148966ea3d146963c22dca0d51a5ae9e488975593dee1d5fcb39e326b8158d",
+      "bytes": 348474,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "07_v4_bone_consequences.svg": {
+      "sha256": "f2b5ac23f740b34d6f6e82f363429280edf737bd6445026d32ae9b4d04c926fb",
+      "bytes": 303245
+    },
+    "08_v4_guard_sequence.png": {
+      "sha256": "ed8af72ed5d8512110b576bcdaca3966cd8b317429b5982ab48a5173958345ef",
+      "bytes": 249911,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "08_v4_guard_sequence.svg": {
+      "sha256": "9220fbc3613cea926a9f4815dd3d8ee52d42ff5994424686373ee499b64b14d6",
+      "bytes": 211387
+    },
+    "09_v4_shelter_civilian_movement.png": {
+      "sha256": "adb1643342c6de0dec34a296d045e4b16cdb46a1516785472951dbd1baff4582",
+      "bytes": 389475,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "09_v4_shelter_civilian_movement.svg": {
+      "sha256": "1901326e595b1141e010ddac0f5118d66aa6fa879ccbee3e8335bcbb200d6a74",
+      "bytes": 383444
+    },
+    "10_v4_structural_damage.png": {
+      "sha256": "bf846eb28821aa6cd63376b8de6c12a4c08d6133f8f05d45565db11b90e09b37",
+      "bytes": 376078,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "10_v4_structural_damage.svg": {
+      "sha256": "beb59965aa522ae64fc33019ca73c814848fb428de865cb600b26105c72d5474",
+      "bytes": 287431
+    },
+    "11_v4_barrier_knowledge.png": {
+      "sha256": "80cc0e270e51849fde8b24b98bc32793f81387402e084078670e79720c361eb3",
+      "bytes": 343809,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "11_v4_barrier_knowledge.svg": {
+      "sha256": "b487850181fbcd375b2defd8c4260ddf94802004243399112111b30c74acff93",
+      "bytes": 286727
+    },
+    "12_v4_witch_route.png": {
+      "sha256": "cb227532202b16b6328d736df304faf3348cfc4d939451a42f0b9c5866349fa5",
+      "bytes": 323904,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "12_v4_witch_route.svg": {
+      "sha256": "71706236b8da459c8e87fac2fbb75423227c48e3da3a290d4a1247913907ad90",
+      "bytes": 281404
+    },
+    "13_v4_mayor_final_minute.png": {
+      "sha256": "f9b4836c81cb7ea526f6b3a18ccd644d2f44847e3f22d8f1da41c00f72835030",
+      "bytes": 109507,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "13_v4_mayor_final_minute.svg": {
+      "sha256": "7774f094ad5ea92717269276642ba4fd7a87710c92b5e4dc86eac631ea7220bd",
+      "bytes": 19776
+    },
+    "14_v4_casualty_progression.png": {
+      "sha256": "95c940cfa33254610a5d164c1d5a15036e7cfc5a0766b718069798df9e936785",
+      "bytes": 104806,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "14_v4_casualty_progression.svg": {
+      "sha256": "54806f5b2db9c6c38135208dcdbc8677bb11ebae024554d1b00a35cf25e1028c",
+      "bytes": 27818
+    },
+    "15_v4_final_aftermath.png": {
+      "sha256": "5e0c6919360efb6ec842c40d1f3b3d9dbedfac5327c061339af91d2edd56951d",
+      "bytes": 345991,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "15_v4_final_aftermath.svg": {
+      "sha256": "16332ace9b888f8eb167b14a837e2e478f995d1d14f18687b5e5d80169f1fe5d",
+      "bytes": 315043
+    },
+    "16_v4_environmental_seeds.png": {
+      "sha256": "661caa55350ca4c0ff78551c622065a0fdc827ac73c92b27146d16974698ebae",
+      "bytes": 360311,
+      "dimensions": [
+        1400,
+        1600
+      ]
+    },
+    "16_v4_environmental_seeds.svg": {
+      "sha256": "d57c6373097ad06eb352a45d3a3b53739ab62b4e63bb9fe81c6292b13b6a2fc1",
+      "bytes": 363865
+    },
+    "action_reaction_phases.jsonl": {
+      "sha256": "a6923e8b5d4bf46ddc295a0b79b1d0f0e16b36a994b33cd4a35a02df07e47590",
+      "bytes": 13121
+    },
+    "casualties.csv": {
+      "sha256": "efb1c85f670aa7e8763f0561ed3d80fb71410d3f9662df86c4e563a912761086",
+      "bytes": 57336
+    },
+    "CLOSURE.json": {
+      "sha256": "99de98bd7a31bd10e9b693b312347db14bb7f3d34052831170d2d327ab79ad7b",
+      "bytes": 358
+    },
+    "initial_state.json": {
+      "sha256": "be39a8200e6786292a40c52c6ee4e3e1796b569ff810c4233a751fc87e6c983f",
+      "bytes": 165144
+    },
+    "map_index.json": {
+      "sha256": "7dc164aff1cd29741b420bd40a696849af96d436e90733efe8d5ff6c56ea8e39",
+      "bytes": 2275
+    },
+    "MASSACRE_V4_FULL_SIMULATION.md": {
+      "sha256": "cbbfaa042ed174e76f3bb0748c11d8c3f28a91e46c459edc5ca0a8c29c2fdf81",
+      "bytes": 120055
+    },
+    "parameters.json": {
+      "sha256": "34b6402d6ecc13182e83774290c0707a7f3f12fd82af36ed73603514f9deb7f5",
+      "bytes": 2071
+    },
+    "README.md": {
+      "sha256": "2209ce39f9cdc8548e22d075bcb54f143db36cb400c2eebfb300dad74e542971",
+      "bytes": 3170
+    },
+    "render_v4.py": {
+      "sha256": "b7b157b263a62d5004218c226529ee1e11587bedf881a7d884c01d14095e397e",
+      "bytes": 22295
+    },
+    "source_manifest.json": {
+      "sha256": "7a55e129c4901cd0093d1d6a017e525f5abddfde79bf86fb1512afca044d1463",
+      "bytes": 1722
+    },
+    "survivors.csv": {
+      "sha256": "19b6c0261ff3913383ab447252bec326cafeb64035f452f830f3be8af680f3ae",
+      "bytes": 132692
+    },
+    "v4_casualty_audit.json": {
+      "sha256": "4ccca59448624c4383c13928513dc3f06888d2a449c430b047a1c91198d67ab8",
+      "bytes": 114384
+    },
+    "v4_comparison.json": {
+      "sha256": "a0a55b559d2e2c2e2dd0803517353d99459e4bae90c11e9e6960145b774e7d6d",
+      "bytes": 2572
+    },
+    "v4_cycle_states.json": {
+      "sha256": "e5a8511070a513f30e8dba6cd55d782ba545439086c265151b59cb251cc3d075",
+      "bytes": 1403940
+    },
+    "v4_executed_actor_paths.json": {
+      "sha256": "98a527a8f95b3a9318771496e1b0900e9b8e84c61b50206284e2c956534af522",
+      "bytes": 17209
+    },
+    "v4_metrics.json": {
+      "sha256": "9495601dc32ac63d577551086d1b116605c3ed50744fe961d6848409d463d045",
+      "bytes": 2426
+    },
+    "v4_simulation.json": {
+      "sha256": "dada687c0e12476c89475db84f4a0ad96e4a8b74a4fb7f5cd1f2ba67522913f6",
+      "bytes": 1261104
+    },
+    "v4_survivors.json": {
+      "sha256": "24516be365a8a60709b202c9d46c975ea11973d295504cdfde92c67fdb522757",
+      "bytes": 184054
+    },
+    "v4_validation.json": {
+      "sha256": "ab61b108e2e26ee6a8b5d89c2e152f5fa96eadf184d77aeee1abe957c4451b37",
+      "bytes": 2504
+    }
+  }
+}

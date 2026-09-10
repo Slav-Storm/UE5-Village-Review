@@ -1,0 +1,12 @@
+{
+  "state_sha256": "dada687c0e12476c89475db84f4a0ad96e4a8b74a4fb7f5cd1f2ba67522913f6",
+  "t": 366.0005409542496,
+  "utc": "2026-09-10T11:31:50.414280+00:00",
+  "terminal": "Mayor personally killed by Witch after60-second confrontation",
+  "census": {
+    "alive": 70,
+    "dead": 100,
+    "injured_alive": 10
+  },
+  "prior_branches_read": false
+}

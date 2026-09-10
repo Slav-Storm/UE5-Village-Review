@@ -1,0 +1,115 @@
+{
+  "read_after_closure_utc": "2026-09-10T11:47:45.317203+00:00",
+  "closure_sha256": "dada687c0e12476c89475db84f4a0ad96e4a8b74a4fb7f5cd1f2ba67522913f6",
+  "rows": [
+    {
+      "branch": "V1",
+      "dead": 73,
+      "alive": 97,
+      "Blood": 55,
+      "Bone": 13,
+      "Barrier": 4,
+      "Witch": 1,
+      "Blood_trace": {
+        "sampled_m": 138.9,
+        "sampled_districts": [
+          "centre",
+          "old/eastern"
+        ]
+      },
+      "Bone_trace": {
+        "sampled_m": 247.6,
+        "sampled_districts": [
+          "centre",
+          "estate",
+          "lower",
+          "upper/church",
+          "western"
+        ]
+      }
+    },
+    {
+      "branch": "V2",
+      "dead": 112,
+      "alive": 58,
+      "Blood": 101,
+      "Bone": 5,
+      "Barrier": 5,
+      "Witch": 1,
+      "Blood_trace": {
+        "sampled_m": 112.1,
+        "sampled_districts": [
+          "centre",
+          "old/eastern",
+          "upper/church",
+          "western"
+        ]
+      },
+      "Bone_trace": {
+        "sampled_m": 318.3,
+        "sampled_districts": [
+          "centre",
+          "lower",
+          "old/eastern",
+          "upper/church",
+          "western"
+        ]
+      }
+    },
+    {
+      "branch": "V3",
+      "dead": 57,
+      "alive": 113,
+      "Blood": 45,
+      "Bone": 6,
+      "Barrier": 5,
+      "Witch": 1,
+      "Blood_trace": {
+        "sampled_m": 31.7,
+        "sampled_districts": [
+          "centre",
+          "old/eastern"
+        ]
+      },
+      "Bone_trace": {
+        "sampled_m": 507.6,
+        "sampled_districts": [
+          "centre",
+          "lower",
+          "old/eastern",
+          "upper/church",
+          "western"
+        ]
+      }
+    },
+    {
+      "branch": "V4",
+      "dead": 100,
+      "alive": 70,
+      "Blood": 76,
+      "Bone": 18,
+      "Barrier": 5,
+      "Witch": 1,
+      "Blood_trace": {
+        "sampled_m": 273.3,
+        "sampled_districts": [
+          "centre",
+          "farms",
+          "lower",
+          "old/eastern"
+        ]
+      },
+      "Bone_trace": {
+        "sampled_m": 521.1,
+        "sampled_districts": [
+          "estate",
+          "farms",
+          "lower",
+          "old/eastern",
+          "upper/church"
+        ]
+      }
+    }
+  ],
+  "travel_note": "Historical travel uses sampled snapshot lower bounds and unequal sampling intervals. Only V4 also has clipped executed-order lengths. Do not treat the historical lower bounds as exact."
+}

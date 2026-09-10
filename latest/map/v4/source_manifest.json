@@ -1,0 +1,20 @@
+{
+  "authored_utc": "2026-09-10T11:08:43.713611+00:00",
+  "branch": "V4",
+  "input_boundary": "Only approved pre-T90 inputs; V1/V2/V3 post90 not read",
+  "source_files": {
+    "bone_completion.json": "681aa4458920c1a5274cbc85b1ebcefe856c4911fdbda4e901ba2b901c0ceb90",
+    "design-bible.txt": "e21835db4fa1cddb25413333f1c6780fe0caa560367bea46d9ed6405be6778f9",
+    "map_data.json": "74d919bed2ae713512774241c21ecc477e17349b1bb3dcb8af85d132fdb6f40e",
+    "map_views.json": "017ba6a442ec2b20d40710fa1c01afe38676e0ac16e0894b540a121515d8e216",
+    "massacre_behaviour_rules.json": "81b5bd74cfb7fa7c7b072e7d9a1f1226609f6de5cc8abcc25ba9ad54507af8e1",
+    "t0_activity.json": "1b2d500f6f63e4e54bd86d7647cb2f03de41a4f4b4f2f849373651cbaf16ccd8",
+    "T0_ACTIVITY.md": "a0fb98bb58cce601197faed6d760bb84cfca1ed3b85d2b7adb15d09669c40691",
+    "T1_BONE_COMPLETION.md": "6a254ad660804d0f9e32868f999c33b8f763f13ace454c5210740f18dcdd961f",
+    "T1_FIRST_90_SECONDS.md": "8bb0a0af8fe835cbda5f83ac86884ec645fc98b8defb78167a32c9471f8376f4",
+    "t1_simulation.json": "86a349c9363374db9fe88a53e33588e31de7d8b19b03705fbfc22403c2ffcc8d"
+  },
+  "t90_refinements": "Stable Pxx-nn IDs refine existing T0 subgroups; they are not new population. Exact handoff micro/motion anchors preserved at group level; unpinned interiors and yard subgroups assigned within approved source features.",
+  "post_closure_refinement_audit": "The original refinement intention above was not fully met: P02-03 and P02-04 were pinned outside their assigned SouthLongField, in OuterPasture. Frozen data is preserved and their downstream events are provisional.",
+  "geometry_hash": "cb52e115c55558778d234691d513aa350813ee5432b56764981673c9568fe712"
+}
