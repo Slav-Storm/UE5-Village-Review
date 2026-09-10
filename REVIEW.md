@@ -1,19 +1,47 @@
 <!-- AUTONOMOUS REVIEW START -->
-# AUTONOMOUS MASSACRE SIMULATION — IN PROGRESS
+# AUTONOMOUS MASSACRE SIMULATION — FINAL REVIEW
 
-Published planning stage: **First major shelter failure: the attempted western refuge is breached**, through canonical **+133.500 seconds**. Authored 2026-09-10T06:17:42.631756+00:00. Current census: **150 living, including 5 injured; 20 fatalities from the original 170.** No UE scene edits or new captures.
+**The Witch personally kills the Mayor at T+312.625. He is the final death.** This completes the authorized primary-event planning branch. No UE scene changes or new captures were made.
 
-![Autonomous simulation early milestones](latest/map/12_early_barrier_shelter.png)
+**Result: 73 fatalities and 97 survivors, including two injured survivors, from the original 170. This does not achieve the intended near-total massacre.** The surviving majority is a material narrative mismatch for review. It has been retained explicitly instead of silently killing hidden villagers. These are provisional simulation outcomes, not newly locked survivor lore.
 
-- [Accumulating chronology, cycles, local knowledge and census](latest/map/MASSACRE_FULL_SIMULATION.md)
-- [Editable consolidated layer](latest/map/full_simulation.json), [event ledger](latest/map/full_event_ledger.csv), [individual population ledger](latest/map/full_population_ledger.csv)
-- [Earlier approved Step 4](latest/map/T3_SECOND_ACTION.md), [unchanged base](latest/map/01_village_base_map.png), [clean planning canvas](latest/map/02_massacre_planning_blank.png)
+Prepared 2026-09-10T07:14:46.738769+00:00.
 
-The ground-floor bell instruction now permits a brief first peal at +100, followed by the caretaker returning to the recorded +109 threshold. It communicates a public emergency only. The first western and eastern barrier encounters are separate local discoveries; knowledge does not transfer between the two sides automatically. The first refuge failure follows Blood's existing physical concentration, with occupants and helpers still moving at their assigned paces.
+![Final aftermath planning map](latest/map/20_final_aftermath.png)
 
-Each `C##_reaction.json` / `C##_action.json` pair preserves a recoverable causal increment. All **50** approved pre-continuation map/source files remain byte-identical. This publication is a progress checkpoint, not the final massacre. The user authorized continued alternating increments until the Witch reaches the Mayor as the final death. Her current mapped route gives an arrival around +313; no extra deaths will be invented to make a target count.
+## Review package
 
-Known limits: 2D roof/threshold traversal, hearing and attack-force exposure remain planning approximations. Imported cottage door links are explicitly symbolic where the proxy contains no modelled opening. There are no new roads, final corpses, Blender assets, destruction meshes, boss systems or cutscenes.
+- [Full chronological summary, event ledger, cycles, guard outcomes and limitations](latest/map/MASSACRE_FULL_SIMULATION.md)
+- [Full chronology map](latest/map/13_full_chronology.png)
+- [Blood incident / route map](latest/map/14_blood_incidents.png)
+- [Bone incident-pattern map](latest/map/15_bone_pattern.png)
+- [Witch route and height profile](latest/map/16_witch_route.png)
+- [Civilian movement / escape map](latest/map/17_civilian_movements.png)
+- [Barrier contact / local knowledge map](latest/map/18_barrier_knowledge.png)
+- [Casualty progression map](latest/map/19_casualty_progression.png)
+- [Final aftermath planning map](latest/map/20_final_aftermath.png)
+
+All eight final maps have SVG companions. The [unchanged base](latest/map/01_village_base_map.png), [clean massacre canvas](latest/map/02_massacre_planning_blank.png), [T0 activity map](latest/map/03_T0_normal_activity.png) and all earlier approved layers remain available separately.
+
+## What changed since the previous publication
+
+The [early checkpoint](https://github.com/Slav-Storm/UE5-Village-Review/tree/19d427851a7aedd7bd748f581b105c343e889d8d) stopped at +133.5. This review adds the later alternating reactions/actions through the Mayor. There are 25 reaction/action pairs from the +109 handoff, plus the documented +100 bell overlay. The original 50 map/source files and nine published early cycle files remain byte-identical.
+
+The continuation records independent barrier discoveries, rescue and refuge failures, Bone's attention changes, uneven local warnings, individual guard decisions and the continuous Witch walk. Three estate escapees are still approaching the boundary at the terminal frame; their potential +328.48 contact is unexecuted. No post-Mayor deaths, final corpse poses, production destruction, boss, cutscene or rebuilding are authored.
+
+## Editable data and validation
+
+- [Consolidated simulation JSON](latest/map/full_simulation.json)
+- [Every original person](latest/map/full_population_ledger.csv) and [survivor ledger](latest/map/full_survivors.csv)
+- [Event ledger](latest/map/full_event_ledger.csv), [local knowledge transfers](latest/map/full_knowledge_ledger.csv), [executed versus intended movement](latest/map/full_movement_ledger.csv)
+- Separate C##_reaction.json / C##_action.json files under [latest/map](latest/map)
+- [Validation record](latest/map/full_validation.json) and [artifact hashes](latest/map/full_manifest.json)
+
+The maps derive from the existing survey geometry. Roof projection, approximate cottage thresholds, interior positions, foot speeds, hearing and visibility remain planning abstractions. Force footprints are provisional exposure/damage requirements. The validation confirms consistency of this branch, not a unique physical prediction or fulfillment of the intended annihilation premise.
+
+Previous review packages remain recoverable through Git history, the unchanged early milestone and the separate cycle/source layers. No UE project files, Blender production files, build products or source assets are uploaded.
+
+**Simulation stopped at the Mayor. The surviving population and unresolved premise now await user review.**
 <!-- AUTONOMOUS REVIEW END -->
 
 ## Previous Step 4 review (historical)

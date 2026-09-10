@@ -69,3 +69,6 @@
 !/latest/map/full_*.csv
 !/latest/map/full_manifest.json
 !/latest/map/render_full_simulation.py
+
+!/latest/map/render_final_maps.py
+!/latest/map/full_validation.json
