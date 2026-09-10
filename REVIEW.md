@@ -1,4 +1,22 @@
-# MASSACRE PLANNING — STEP 4 / SECOND SUPERNATURAL ACTION
+<!-- AUTONOMOUS REVIEW START -->
+# AUTONOMOUS MASSACRE SIMULATION — IN PROGRESS
+
+Published planning stage: **First major shelter failure: the attempted western refuge is breached**, through canonical **+133.500 seconds**. Authored 2026-09-10T06:17:42.631756+00:00. Current census: **150 living, including 5 injured; 20 fatalities from the original 170.** No UE scene edits or new captures.
+
+![Autonomous simulation early milestones](latest/map/12_early_barrier_shelter.png)
+
+- [Accumulating chronology, cycles, local knowledge and census](latest/map/MASSACRE_FULL_SIMULATION.md)
+- [Editable consolidated layer](latest/map/full_simulation.json), [event ledger](latest/map/full_event_ledger.csv), [individual population ledger](latest/map/full_population_ledger.csv)
+- [Earlier approved Step 4](latest/map/T3_SECOND_ACTION.md), [unchanged base](latest/map/01_village_base_map.png), [clean planning canvas](latest/map/02_massacre_planning_blank.png)
+
+The ground-floor bell instruction now permits a brief first peal at +100, followed by the caretaker returning to the recorded +109 threshold. It communicates a public emergency only. The first western and eastern barrier encounters are separate local discoveries; knowledge does not transfer between the two sides automatically. The first refuge failure follows Blood's existing physical concentration, with occupants and helpers still moving at their assigned paces.
+
+Each `C##_reaction.json` / `C##_action.json` pair preserves a recoverable causal increment. All **50** approved pre-continuation map/source files remain byte-identical. This publication is a progress checkpoint, not the final massacre. The user authorized continued alternating increments until the Witch reaches the Mayor as the final death. Her current mapped route gives an arrival around +313; no extra deaths will be invented to make a target count.
+
+Known limits: 2D roof/threshold traversal, hearing and attack-force exposure remain planning approximations. Imported cottage door links are explicitly symbolic where the proxy contains no modelled opening. There are no new roads, final corpses, Blender assets, destruction meshes, boss systems or cutscenes.
+<!-- AUTONOMOUS REVIEW END -->
+
+## Previous Step 4 review (historical)
 
 Action layer authored **2026-09-09T17:51:58.166236+00:00**. Reconciled canonical window **T+90–109 seconds**, overlapping the approved civilian +90–105 movements. **159 survivors, including four injured.** This is a separate 2D planning pass; the UE scene and earlier review captures are unchanged.
 

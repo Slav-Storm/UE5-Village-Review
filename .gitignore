@@ -61,3 +61,11 @@
 !/latest/map/t3_manifest.json
 !/latest/map/t3_reception.csv
 !/latest/map/render_t3.py
+
+# User-authorized autonomous causal planning; no UE source/assets.
+!/latest/map/C??_reaction.json
+!/latest/map/C??_action.json
+!/latest/map/full_simulation.json
+!/latest/map/full_*.csv
+!/latest/map/full_manifest.json
+!/latest/map/render_full_simulation.py
