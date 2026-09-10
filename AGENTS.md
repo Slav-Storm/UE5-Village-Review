@@ -68,3 +68,10 @@ The user explicitly authorized a new V2 simulation from approved T+90 only. Ever
 ## Current V3 boundary
 
 V3 is CLOSED at +373.923 in latest/map/v3/, independently from approved T90. It records 57 deaths and 113 survivors, no injured survivors; Mayor is personally killed by Witch after the chosen minute. The near-total premise fails, with material modelling limitations documented. Preserve this result, V1, V2 and all approved earlier artifacts. Do not add cleanup deaths, resume, author V4 or modify UE without a new user request. JSON/JSONL/CSV, thirteen PNG/SVG sheets, Markdown and small offline Python reproduction/render scripts are review-only exceptions. V1/V2 post90 data may be compared only after an independent branch closes. The user-authorized V3 request supersedes older branch continuation instructions above.
+
+
+## Current V4 boundary
+
+V4 is CLOSED at +366.000540954 in latest/map/v4/, independently from approved T90. Witch arrival is +306.000540954, followed by exactly sixty seconds; Mayor is personally killed by Witch as the final death. Census: 100 dead, 70 alive, 10 injured survivors. Direct deaths: Blood 76, Bone 18, barrier 5, Witch 1. The near-total premise fails. Preserve the closed result and all earlier branches/source files; do not add cleanup casualties or resume without a new request.
+
+The audit found a material source refinement error: P02-03/P02-04 were pinned outside their assigned western field. Their downstream events are provisional. Dynamic breach portals are not rebuilt into navigation, and conservative first-hit cover handling/group anchors affect survival. This is a failed experimental implementation, not proof of a fundamental narrative-rule impossibility, and is not approved for UE5 implementation. V1/V2/V3 post90 files were read only after closure. SVG/PNG, JSON/JSONL/CSV, Markdown and the small frozen-data map renderer are review-only material. No UE data/assets, caches, credentials or production geometry are permitted. V4 supersedes older branch continuation instructions only for this completed branch.

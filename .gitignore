@@ -92,3 +92,13 @@
 !/latest/map/v3/*.csv
 !/latest/map/v3/*.md
 !/latest/map/v3/*.py
+
+# Independent V4 review only; all previous branches remain preserved.
+!/latest/map/v4/
+!/latest/map/v4/*.png
+!/latest/map/v4/*.svg
+!/latest/map/v4/*.json
+!/latest/map/v4/*.jsonl
+!/latest/map/v4/*.csv
+!/latest/map/v4/*.md
+!/latest/map/v4/*.py
