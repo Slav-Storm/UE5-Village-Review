@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "terminal_s": 312.625,
+  "population": {
+    "original": 170,
+    "fatalities": 73,
+    "survivors": 97,
+    "injured_survivors": 2
+  },
+  "fatalities_by_actor": {
+    "barrier": 4,
+    "Bone": 13,
+    "Blood": 55,
+    "Witch": 1
+  },
+  "protected_prior_files": 50,
+  "published_early_cycles_preserved": 9,
+  "cycles": 25,
+  "new_events": 33,
+  "new_movements": 231,
+  "bone_fatal_attack_ranges": [
+    {
+      "event": "A01_BONE_SMITH",
+      "range_m": 0.762
+    },
+    {
+      "event": "A06_BONE_WATER",
+      "range_m": 0.922
+    },
+    {
+      "event": "A08_BONE_RESCUER",
+      "range_m": 2.693
+    },
+    {
+      "event": "A11_BONE_HELPER",
+      "range_m": 0.495
+    },
+    {
+      "event": "A12_BONE_BELL",
+      "range_m": 1.6
+    },
+    {
+      "event": "A15_BONE_GUARD",
+      "range_m": 6.103
+    },
+    {
+      "event": "A16_BONE_CART",
+      "range_m": 4.294
+    },
+    {
+      "event": "A19_BONE_HOUSE_GUARD",
+      "range_m": 7.027
+    },
+    {
+      "event": "A21_BONE_LAST_GUARD",
+      "range_m": 3.692
+    },
+    {
+      "event": "A22_BONE_DOOR_WORKER",
+      "range_m": 2.5
+    }
+  ],
+  "unfinished_intentions_at_terminal": [
+    "M227",
+    "M229"
+  ],
+  "mayor_is_last_death": true,
+  "no_post_terminal_events": true,
+  "no_blood_witch_intersection_forced": true,
+  "source_commit": "776b45cb42dd995f071c6b7375ce24a50b1d6b5c",
+  "limits": [
+    "C00 is an explicit historical bell overlay, not an extra simulated population.",
+    "Roof-based sight and qualitative hearing are working abstractions, not a UE acoustic/light simulation.",
+    "Imported cottage openings and interior grouping need later 3D verification.",
+    "This validates the authored branch, not unique behaviour or the intended near-total-death premise."
+  ]
+}

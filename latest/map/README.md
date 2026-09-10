@@ -1,10 +1,23 @@
-# Current review: autonomous massacre simulation
+# Current review: autonomous massacre simulation / final
 
-Read [MASSACRE_FULL_SIMULATION.md](MASSACRE_FULL_SIMULATION.md) for the current stage and chronological handoff. [full_simulation.json](full_simulation.json) consolidates incremental movement, stable civilian identities, knowledge, events, actor choices and surviving pockets. Separate `C##_reaction.json` and `C##_action.json` files preserve each causal increment. Earlier T0/T1/Step2B/Step3/Step4 files remain immutable.
+The authorized branch ends at **T+312.625**, with the Mayor personally killed by the Witch as the final death. **73 fatalities / 97 survivors / two injured survivors. The intended near-total massacre is not achieved by this branch.** Read [MASSACRE_FULL_SIMULATION.md](MASSACRE_FULL_SIMULATION.md) before treating the outcome as canon.
 
-The new [early milestone map](12_early_barrier_shelter.png) covers the first two independent barrier discoveries and first shelter failure. Edit the independent JSON or cycle records, reconcile changes into the consolidated layer, and run `python render_full_simulation.py .` to regenerate its maps, notes and CSVs. Python, matplotlib, numpy, Pillow and shapely are required. This does not connect to UE.
+Final PNG/SVG maps are numbered **13–20**: chronology, Blood, Bone, Witch, civilian movement, barrier/knowledge, casualties and aftermath. The earlier maps 01–12 and all 50 approved pre-continuation files remain separate and unchanged. The first checkpoint's nine early cycle files are also unchanged.
 
-The same orientation/scale and 2D projection caveats apply. Prior geometry and all 50 prior artifacts remain preserved. User authorization now extends to the primary massacre conclusion, with the Mayor's final death by the Witch and survivors explicitly flagged rather than silently removed.
+`full_simulation.json` is the consolidated editable layer. `C##_reaction.json` and `C##_action.json` preserve 25 causal pairs; `C00_reaction.json` documents the explicitly authorized historical bell overlay. `full_population_ledger.csv`, `full_survivors.csv`, `full_event_ledger.csv`, `full_knowledge_ledger.csv` and `full_movement_ledger.csv` provide reviewable ledgers. Future route endpoints are intentions; rendered civilian travel is clipped at interruption, death or the terminal time.
+
+To regenerate after a reconciled data edit, run:
+
+```text
+python render_full_simulation.py .
+python render_final_maps.py .
+```
+
+Python, matplotlib, numpy, Pillow and shapely are required. These renderers work from local review data and do not connect to UE. Keep the full input and relevant cycle files consistent when editing; never bake changes into the clean base map. The full manifest records artifact/source hashes.
+
+Orientation remains **up = UE +X / uphill**, right = UE +Y. Scale bars show plan metres; the main village panel and lower farmland inset have separate scales but the same coordinates and orientation. Terrain height is flattened in plan; the Witch profile uses saved heights. No new geography, final materials, assets or final body poses are implied.
+
+The branch is complete and stopped. Its surviving majority, injured survivors and pending estate-boundary intention require narrative review. No post-Mayor event is simulated.
 <!-- AUTONOMOUS INDEX END -->
 
 # Current review: Step 4 / second supernatural action

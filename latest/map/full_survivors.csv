@@ -1,0 +1,98 @@
+person,origin,group,role,x_m,y_m,injured,inside,final_intent,direct_barrier_level,received_barrier_warning
+R01:01,P01,R01,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R01:02,P01,R01,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R01:03,P01,R01,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R02:01,P01,R02,ordinary villager,-3.9062,-134.9987,False,,stay back from warned boundary,B1,False
+R02:02,P01,R02,ordinary villager,-3.9062,-134.9987,False,,stay back from warned boundary,B1,False
+R03:01,P01,R03,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R04:02,P02,R04,ordinary villager,-29.0897,-57.2108,False,,stay back from warned boundary,B4,False
+R05:01,P02,R05,ordinary villager,-27.2,-56.0,False,,stay back from warned boundary,B1,False
+R05:02,P02,R05,ordinary villager,-27.2,-56.0,False,,stay back from warned boundary,B1,False
+R06:01,P02,R06,ordinary villager,-4.0,-125.0,False,,stay back from warned boundary,B1,False
+R06:02,P02,R06,ordinary villager,-4.0,-125.0,False,,stay back from warned boundary,B1,False
+R07:01,P03,R07,ordinary villager,10.71373756750713,-44.81520992321123,False,Farmstead_West,barricade quietly,B0,False
+R07:02,P03,R07,ordinary villager,10.71373756750713,-44.81520992321123,False,Farmstead_West,barricade quietly,B0,False
+R07:03,P03,R07,ordinary villager,10.71373756750713,-44.81520992321123,False,Farmstead_West,barricade quietly,B0,False
+R08:01,P03,R08,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R08:02,P03,R08,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R09:01,P03,R09,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R09:02,P03,R09,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R10:01,P04,R10,ordinary villager,-20.004663250524004,-42.889977263076325,False,Farmstead_South,barricade quietly,B0,False
+R10:02,P04,R10,ordinary villager,-20.004663250524004,-42.889977263076325,False,Farmstead_South,barricade quietly,B0,False
+R10:03,P04,R10,ordinary villager,-20.004663250524004,-42.889977263076325,False,Farmstead_South,barricade quietly,B0,False
+R11:01,P04,R11,ordinary villager,-27.2,-56.0,False,,stay back from warned boundary,B1,False
+R11:02,P04,R11,ordinary villager,-27.2,-56.0,False,,stay back from warned boundary,B1,False
+R12:01,P04,R12,ordinary villager,-27.2,-56.0,False,,stay back from warned boundary,B1,False
+R13:02,P05,R13,ordinary villager,-4.0,-125.0,False,,stay back from warned boundary,B4,False
+R13:03,P05,R13,ordinary villager,-4.0,-125.0,False,,stay back from warned boundary,B4,False
+R13:04,P05,R13,ordinary villager,-4.0,-125.0,False,,stay back from warned boundary,B4,False
+R14:01,P06,R14,parent,-27.4188,5.2688,False,Cottage_04,continue shelter attempt,B0,False
+R14:02,P06,R14,child,-27.4188,5.2688,False,Cottage_04,continue shelter attempt,B0,False
+R15:01,P06,R15,ordinary villager,-27.4188,5.2688,False,Cottage_04,call for family,B0,False
+R15:02,P06,R15,ordinary villager,-27.4188,5.2688,False,Cottage_04,call for family,B0,False
+R15:03,P06,R15,ordinary villager,-27.4188,5.2688,False,Cottage_04,call for family,B0,False
+R16:01,P06,R16,ordinary villager,15.453649110207552,13.178053791298524,False,CollapsedCellarCottage,barricade quietly,B0,False
+R16:02,P06,R16,ordinary villager,15.453649110207552,13.178053791298524,False,CollapsedCellarCottage,barricade quietly,B0,False
+R16:03,P06,R16,ordinary villager,15.453649110207552,13.178053791298524,False,CollapsedCellarCottage,barricade quietly,B0,False
+R17:01,P06,R17,ordinary villager,-9.624845430574828,26.772424530943187,False,Cottage_09,barricade quietly,B0,False
+R17:02,P06,R17,ordinary villager,-9.624845430574828,26.772424530943187,False,Cottage_09,barricade quietly,B0,False
+R18:01,P06,R18,ordinary villager,2.803,21.2208,False,NeedleHouse,shelter noisily,B1,False
+R18:02,P06,R18,ordinary villager,2.803,21.2208,False,NeedleHouse,shelter noisily,B1,False
+R19:01,P06,R19,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R19:02,P06,R19,ordinary villager,10.7137,-44.8152,False,Farmstead_West,shelter noisily,B1,False
+R20:02,P07,R20,apprentice,-31.9049,21.0951,False,Blacksmith,continue shelter attempt,B1,False
+R21:01,P07,R21,ordinary villager,-9.6248,26.7724,False,Cottage_09,shelter noisily,B1,False
+R24:01,P08,R24,ordinary villager,-22.0,65.5,True,,injured concealment,B0,False
+R28:01,P08,R28,ordinary villager,-22.0,65.5,True,,injured concealment,B1,False
+R30:01,P08,R30,ordinary villager,-10.564,91.4845,False,UpperCottage,remain under cover,B1,False
+R30:02,P08,R30,ordinary villager,-10.564,91.4845,False,UpperCottage,remain under cover,B1,False
+R30:03,P08,R30,ordinary villager,-10.564,91.4845,False,UpperCottage,remain under cover,B1,False
+R31:01,P08,R31,ordinary villager,-41.2321,38.284,False,WeaverCottage,remain under cover,B1,False
+R31:02,P08,R31,ordinary villager,-41.2321,38.284,False,WeaverCottage,remain under cover,B1,False
+R33:02,P08,R33,ordinary villager,-41.2321,38.284,False,WeaverCottage,remain under cover,B1,False
+R42:01,P10,R42,ordinary villager,24.515647050656685,24.465429714281115,False,Cottage_06,barricade quietly,B0,False
+R42:02,P10,R42,ordinary villager,24.515647050656685,24.465429714281115,False,Cottage_06,barricade quietly,B0,False
+R49:01,P11,R49,ordinary villager,-48.8175,77.1379,False,EndRowCottage,remain under cover,B0,False
+R49:02,P11,R49,ordinary villager,-48.8175,77.1379,False,EndRowCottage,remain under cover,B0,False
+R50:01,P11,R50,ordinary villager,-45.3496550612422,62.592764474378114,False,RearCottage,remain under cover,B0,False
+R50:02,P11,R50,ordinary villager,-45.3496550612422,62.592764474378114,False,RearCottage,remain under cover,B0,False
+R51:01,P11,R51,ordinary villager,-48.817499959784996,77.13793811959616,False,EndRowCottage,remain under cover,B0,False
+R51:02,P11,R51,ordinary villager,-48.817499959784996,77.13793811959616,False,EndRowCottage,remain under cover,B0,False
+R52:01,P11,R52,ordinary villager,-41.232134381598044,38.28402912726026,False,WeaverCottage,remain under cover,B0,False
+R52:02,P11,R52,ordinary villager,-41.232134381598044,38.28402912726026,False,WeaverCottage,remain under cover,B0,False
+R54:01,P11,R54,ordinary villager,-37.8993,50.7618,False,Cottage_05,hide silently,B0,False
+R54:02,P11,R54,ordinary villager,-37.8993,50.7618,False,Cottage_05,hide silently,B0,False
+R55:01,P11,R55,ordinary villager,-28.70080697669929,47.735625027594516,False,Cottage_10,barricade quietly,B0,False
+R55:02,P11,R55,ordinary villager,-28.70080697669929,47.735625027594516,False,Cottage_10,barricade quietly,B0,False
+R56:01,P11,R56,ordinary villager,-48.8175,77.1379,False,EndRowCottage,remain under cover,B1,False
+R58:02,P11,R58,ordinary villager,-45.3497,62.5928,False,RearCottage,remain under cover,B4,False
+R58:03,P11,R58,ordinary villager,-45.3497,62.5928,False,RearCottage,remain under cover,B4,False
+R59:01,P11,R59,ordinary villager,-48.8175,77.1379,False,EndRowCottage,remain under cover,B1,False
+R59:02,P11,R59,ordinary villager,-48.8175,77.1379,False,EndRowCottage,remain under cover,B1,False
+R60:01,P12,R60,ordinary villager,23.0,103.0,False,Church,remain under cover,B0,False
+R60:02,P12,R60,ordinary villager,23.0,103.0,False,Church,remain under cover,B0,False
+R61:01,P12,R61,ordinary villager,-10.564044664642587,91.48448793274292,False,UpperCottage,remain under cover,B0,False
+R61:02,P12,R61,ordinary villager,-10.564044664642587,91.48448793274292,False,UpperCottage,remain under cover,B0,False
+R62:01,P12,R62,ordinary villager,-42.56494839082513,95.80799058682935,False,SealedCellarCottage,barricade quietly,B0,False
+R62:02,P12,R62,ordinary villager,-42.56494839082513,95.80799058682935,False,SealedCellarCottage,barricade quietly,B0,False
+R63:01,P12,R63,ordinary villager,1.805349113823439,88.76703122568291,False,Cottage_03,remain behind walls,B0,False
+R63:02,P12,R63,ordinary villager,1.805349113823439,88.76703122568291,False,Cottage_03,remain behind walls,B0,False
+R64:01,P12,R64,ordinary villager,21.0,99.0,False,Church,remain under cover,B0,False
+R64:02,P12,R64,ordinary villager,21.0,99.0,False,Church,remain under cover,B0,False
+R65:01,P12,R65L,ordinary villager,-24.08592256367933,160.1733934679885,False,,attempt crossing,B1,False
+R65:02,P12,R65,ordinary villager,-24.664469484284584,158.05082816612892,False,,follow escape attempt,B1,False
+R65:03,P12,R65,ordinary villager,-24.664469484284584,158.05082816612892,False,,follow escape attempt,B1,False
+R66:01,P12,R66,ordinary villager,-10.564,91.4845,False,UpperCottage,remain under cover,B1,False
+R68:01,P14,R68,ordinary villager,55.19936134675863,52.90877321473297,False,SplitRoofCottage,remain under cover,B0,False
+R68:02,P14,R68,ordinary villager,55.19936134675863,52.90877321473297,False,SplitRoofCottage,remain under cover,B0,False
+R69:01,P14,R69,ordinary villager,26.0,98.0,False,Church,remain under cover,B0,False
+R69:02,P14,R69,ordinary villager,26.0,98.0,False,Church,remain under cover,B0,False
+R70:02,P14,R70,ordinary villager,55.1994,52.9088,False,SplitRoofCottage,remain under cover,B4,False
+R71:01,P14,R71,ordinary villager,55.1994,52.9088,False,SplitRoofCottage,remain under cover,B1,False
+R72:01,P15,R72,ordinary villager,-45.3497,62.5928,False,RearCottage,remain under cover,B4,False
+R72:02,P15,R72,ordinary villager,-45.3497,62.5928,False,RearCottage,remain under cover,B4,False
+R72:03,P15,R72,ordinary villager,-45.3497,62.5928,False,RearCottage,remain under cover,B4,False
+R77:01,P16,R77,ordinary villager,11.0,149.0,False,MayorHall,freeze inside house,B0,False
+R77:02,P16,R77,ordinary villager,11.0,149.0,False,MayorHall,freeze inside house,B0,False
+R77:03,P16,R77,ordinary villager,11.0,149.0,False,MayorHall,freeze inside house,B0,False
+R78:01,P16,R78,ordinary villager,-12.0,135.2,False,,hide silently,B1,False

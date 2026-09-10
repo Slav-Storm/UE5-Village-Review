@@ -81,9 +81,9 @@ lines+=['','## Knowledge discipline','','Every information transfer is retained 
  f"All **{len(X['source_sha256'])} prior map/source files are hash-protected and byte-identical**. The original clean map and empty annotation template remain clean. No Unreal connection or edit is used. Unresolved arrest motives, guard responsibility for the earlier tragedy, the child's remaining consciousness, boss implementation, post-boss memory and rebuilding are not resolved by this simulation.",'']
 (OUT/'MASSACRE_FULL_SIMULATION.md').write_text('\n'.join(lines)+'\n',encoding='utf-8',newline='\n')
 with (OUT/'full_event_ledger.csv').open('w',newline='',encoding='utf-8') as f:
- w=csv.writer(f);w.writerow(['time_s','event','actor','x_m','y_m','new_fatalities','new_injuries','living_after','cause','direct_witnesses','likely_listeners'])
+ w=csv.writer(f,lineterminator="\n");w.writerow(['time_s','event','actor','x_m','y_m','new_fatalities','new_injuries','living_after','cause','direct_witnesses','likely_listeners'])
  for e in events:w.writerow([e['time_s'],e['id'],e['actor'],*e['xy_m'],len(e['fatalities']),len(e['injuries']),e['population_after'],e['cause'],';'.join(e['direct_witnesses']),';'.join(e['likely_listeners'])])
 with (OUT/'full_population_ledger.csv').open('w',newline='',encoding='utf-8') as f:
- w=csv.writer(f);w.writerow(['person','origin_cohort','current_group','role','alive','injured','death_event','death_time_s','attacker','attempted_activity','exposure','direct_barrier_level','received_barrier_warning'])
+ w=csv.writer(f,lineterminator="\n");w.writerow(['person','origin_cohort','current_group','role','alive','injured','death_event','death_time_s','attacker','attempted_activity','exposure','direct_barrier_level','received_barrier_warning'])
  for p in X['people'].values():w.writerow([p['id'],p['origin'],p['group'],p['role'],p['alive'],p['injured'],p['death'],p.get('death_s'),p.get('attacker'),p.get('attempted_activity'),p.get('exposure'),p['barrier_level'],p['barrier_reported']])
 print('Rendered early milestone and consolidated ledger:',last['time_s'],len(living),'living')

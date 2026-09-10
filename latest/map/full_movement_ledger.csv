@@ -1,0 +1,232 @@
+id,group,original_members,start_s,planned_end_s,executed_through_s,planned_distance_m,executed_distance_m,reason,phase
+M001,R67,R67:01,92,94.7,94.7,2.7,2.7,Enter the existing south church entrance to use the approved ground-floor rope.,C00_reaction
+M002,R67,R67:01,102,104.7,104.7,2.7,2.7,Return to admit neighbours after the short first peal.,C00_reaction
+M003,R07,R07:01;R07:02;R07:03,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M004,R10,R10:01;R10:02;R10:03,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M005,R15,R15:01;R15:02;R15:03,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M006,R16,R16:01;R16:02;R16:03,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M007,R17,R17:01;R17:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M008,R37,R37:01;R37:02;R37:03,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M009,R38,R38:01;R38:02;R38:03;R38:04,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M010,R40,R40:01;R40:02;R40:03;R40:04,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M011,R41,R41:01;R41:02;R41:03;R41:04,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M012,R42,R42:01;R42:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M013,R43,R43:01;R43:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M014,R44,R44:01;R44:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M015,R49,R49:01;R49:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M016,R50,R50:01;R50:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M017,R51,R51:01;R51:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M018,R52,R52:01;R52:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M019,R53,R53:01;R53:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M020,R54,R54:01;R54:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M021,R55,R55:01;R55:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M022,R60,R60:01;R60:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M023,R61,R61:01;R61:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M024,R62,R62:01;R62:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M025,R63,R63:01;R63:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M026,R64,R64:01;R64:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M027,R68,R68:01;R68:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M028,R69,R69:01;R69:02,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M029,R73,R73:01,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M030,R76,R76:01,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M031,R77,R77:01;R77:02;R77:03,110,110,110,0,0.0,Keep the household together behind its existing walls; no known safe exit or remote attacker position.,C01_reaction
+M032,R01,R01:01;R01:02;R01:03,112,114.049,114.049,1.844,1.844,Confer beside the barn after the alarm; no known tested escape.,C01_reaction
+M033,R08,R08:01;R08:02,112,115.335,115.335,3.002,3.001,Confer beside the barn after the alarm; no known tested escape.,C01_reaction
+M034,R03,R03:01,112,129.846,129.846,17.846,17.846,Bring the orchard warning and yard family into the familiar farm home.,C01_reaction
+M035,R09,R09:01;R09:02,112,140.013,140.013,28.013,28.013,Bring the orchard warning and yard family into the familiar farm home.,C01_reaction
+M036,R05,R05:01;R05:02,112,118.291,118.291,5.033,5.033,"Stay together at western barn-side storage cover, away from the unseen gate attacker.",C01_reaction
+M037,R11,R11:01;R11:02,112,117.686,117.686,4.549,4.549,"Stay together at western barn-side storage cover, away from the unseen gate attacker.",C01_reaction
+M038,R12,R12:01,112,118.255,118.255,5.004,5.004,"Stay together at western barn-side storage cover, away from the unseen gate attacker.",C01_reaction
+M039,R02,R02:01;R02:02,110,192.673,192.673,57.871,57.871,Continue toward the lower road via the existing middle-strip access; the bell gives no safer option.,C01_reaction
+M040,R04,R04:01;R04:02,109,135.615,131.60899999999998,18.63,15.826,Continue cautiously toward the familiar west woodland margin; no contact evidence has reached this pair.,C01_reaction
+M041,R06,R06:01;R06:02,110,158.377,158.377,38.702,38.702,Follow the existing pasture access toward the lower road and forest approach.,C01_reaction
+M042,R13,R13:01;R13:02;R13:03;R13:04,109,187.157,187.157,110.749,110.748,Continue downhill away from the directly witnessed opening killings; the lower road remains untested.,C01_reaction
+M043,R19,R19:01;R19:02,111,145.915,145.915,24.441,24.44,"Continue the already-started gate-side escape, avoiding the cottage footprint.",C01_reaction
+M044,R14,R14:01;R14:02,112,125.307,125.307,13.307,13.307,Parent draws the child toward the calling home while the smith steps forward; neither knows a safe route.,C01_reaction
+M045,R20S,R20:01,112,116.0,116.0,4.0,4.0,Smith tries to interpose himself and draw the precise attacker away from the family.,C01_reaction
+M046,R20,R20:02,112,112.0,112.0,0.0,0.0,"Apprentice remains at the covered workfront, frightened by the precise hit.",C01_reaction
+M047,R18,R18:01;R18:02,112,125.856,125.856,13.856,13.856,Return from the yard to familiar domestic cover.,C01_reaction
+M048,R21,R21:01,112,128.391,128.391,16.391,16.391,Seek the nearby inhabited home from the forge east apron; not a claim of family membership.,C01_reaction
+M049,R24,R24:01,111,150.016,148,23.41,22.2,Escort the limping person around the west side of the closest inhabited shelter; no sprint.,C01_reaction
+M050,R28,R28:01,111,149.0,148,22.8,22.2,Escort the limping person around the west side of the closest inhabited shelter; no sprint.,C01_reaction
+M051,R25,R25:01,112,136.923,124.54,27.415,13.794,"Back toward a nearby home, calling for its occupants to admit the injured.",C01_reaction
+M052,R29,R29:01,112,136.971,124.54,27.468,13.794,"Back toward a nearby home, calling for its occupants to admit the injured.",C01_reaction
+M053,R32,R32:01;R32:02,112,137.558,124.54,28.113,13.794,"Back toward a nearby home, calling for its occupants to admit the injured.",C01_reaction
+M054,R23,R23:01,111,127.643,127.643,8.322,8.322,Continue the already-supported retreat beyond the second wave; retain the slow supported pace.,C01_reaction
+M055,R27,R27:01,111,125.638,125.638,7.319,7.319,Continue the already-supported retreat beyond the second wave; retain the slow supported pace.,C01_reaction
+M056,R34,R34:01;R34:02,110,110.0,110.0,0.0,0.0,Newly injured helpers try to steady one another and call from the impact fringe.,C01_reaction
+M057,R30,R30:01;R30:02;R30:03,110,216.06,197.69999999999976,137.879,114.01,Keep seeking guards on the familiar uphill main road; no shared knowledge of their whereabouts.,C01_reaction
+M058,R31,R31:01;R31:02,111,132.115,132.115,21.115,21.115,Seek ordinary household cover on the homeward western lane.,C01_reaction
+M059,R33,R33:01;R33:02,111,118.762,118.762,6.21,6.21,The calm neighbour does not respond; the water pair seeks cover on its existing homeward lane.,C01_reaction
+M060,R36,R36:01;R36:02,111,130.526,130.526,23.431,23.431,Continue seeking family in the adjacent older homes; do not gather at the impact.,C01_reaction
+M061,R37,R37:01;R37:02;R37:03,113,134.851,134.851,24.036,24.036,Indoor leavers use the known main door then skirt the building footprints toward the receiving staff.,C01_reaction
+M062,R39,R39:01;R39:02;R39:03,114,137.026,137.026,25.328,25.328,Receiving staff return around the existing footprints by the known front entrance to aid/organize remaining patrons.,C01_reaction
+M063,R35,R35:01;R35:02;R35:03,112,126.617,126.617,14.617,14.617,Neighbours/passers draw toward the existing shared-yard home and ask to enter.,C01_reaction
+M064,R45,R45:01;R45:02,112,126.788,126.788,14.788,14.788,Neighbours/passers draw toward the existing shared-yard home and ask to enter.,C01_reaction
+M065,R47,R47:01,112,124.865,124.865,12.865,12.865,Neighbours/passers draw toward the existing shared-yard home and ask to enter.,C01_reaction
+M066,R48,R48:01;R48:02,112,127.211,127.211,15.211,15.211,Neighbours/passers draw toward the existing shared-yard home and ask to enter.,C01_reaction
+M067,R46,R46:01;R46:02;R46:03;R46:04;R46:05,112,134.358,134.358,19.004,19.004,"Caregiver gathers the four children into their nearest familiar home, not toward a monster.",C01_reaction
+M068,R56,R56:01,111,126.562,126.562,15.562,15.562,Firewood carrier goes to the household already being called to.,C01_reaction
+M069,R59,R59:01;R59:02,111,124.621,124.621,13.621,13.621,Continue toward the nearer western home.,C01_reaction
+M070,R57,R57:01;R57:02,111,111.0,111.0,0.0,0.0,The yard pair calls through adjacent windows before choosing any distant refuge.,C01_reaction
+M071,R58L,R58:01,109,123.04,123.04,12.355,12.355,"Follow the familiar working edge to its apparent blocked gap; B2 is suspicion, not tested lethality.",C01_reaction
+M072,R58,R58:02;R58:03,110.2,124.24,123.54,12.355,11.739,"Follow the front walker along the same intended exit, without knowing contact danger.",C01_reaction
+M073,R72,R72:01;R72:02;R72:03,109,121.61,121.61,12.61,12.61,"Woodcutters continue toward their known working trail, following the earlier escape group.",C01_reaction
+M074,R70L,R70:01,109,129.909,129.909,8.364,8.364,Continue the approved cautious edge approach; no lethal-contact knowledge.,C01_reaction
+M075,R70,R70:02,111.5,132.409,130.409,8.364,7.564,Follow partner toward the familiar animal-yard woodland margin.,C01_reaction
+M076,R71,R71:01,111,111.0,111.0,0.0,0.0,Continue calling through nearby eastern windows; no perimeter event known.,C01_reaction
+M077,R60,R60:01;R60:02,115,169.199,169.199,54.199,54.199,The bell and local emergency make the familiar church a place to seek people/help; no protection is assumed.,C01_reaction
+M078,R64,R64:01;R64:02,115,147.219,147.219,32.219,32.219,The bell and local emergency make the familiar church a place to seek people/help; no protection is assumed.,C01_reaction
+M079,R69,R69:01;R69:02,115,153.451,153.451,38.451,38.451,The bell and local emergency make the familiar church a place to seek people/help; no protection is assumed.,C01_reaction
+M080,R67,R67:01,112,114.7,114.7,2.7,2.7,"Return to the ground-floor rope, then stay by the entrance admitting neighbours.",C01_reaction
+M081,R66,R66:01,111,122.621,122.621,11.621,11.621,Finish the adjacent homeward movement; no knowledge of a remote attack.,C01_reaction
+M082,R65,R65:01;R65:02;R65:03,110,137.752,137.752,20.814,20.814,Continue the formal stair climb toward the guard; climb rather than sprint.,C01_reaction
+M083,R79,R79:01;R79:02,109,150.776,150.776,41.776,41.776,Continue the provisions cart on the existing service road to ask the guard.,C01_reaction
+M084,R75,R75:01,110,123.98,123.98,16.776,16.776,Service guard brings the enclosure observation to the house entrance.,C01_reaction
+M085,R76,R76:01,112,115.677,115.677,4.044,4.044,House-duty guard steps to the existing door to receive the service-side report.,C01_reaction
+M086,R73,R73:01,110,110,110,0,0.0,Mayor stays inside demanding reports; he has no attacker-specific report yet.,C01_reaction
+M087,R78,R78:01,112,117.22,117.22,4.176,4.176,Stable worker ducks into existing service/stable cover.,C01_reaction
+M088,R74,R74:01,110,110.0,110.0,0.0,0.0,"Entrance guard holds his own post, watching the stairs and calling to the house.",C01_reaction
+M089,R20,R20:02,119,134.374,134.374,24.599,24.598,Apprentice saw the smith struck and retreats around the forge to its known entrance.,C02_reaction
+M090,R15,R15:01;R15:02;R15:03,119,119,119,0,0.0,Household hears the nearby cry but does not learn the smith fate through the wall. Keep calling for family.,C02_reaction
+M091,R58,R58:02;R58:03,123.54,138.725,138.725,18.222,18.222,Recoil inward after seeing contact kill the leading companion; warn the returning crew while retreating.,C03_reaction
+M092,R72,R72:01;R72:02;R72:03,124.54,140.881,140.881,21.243,21.243,Woodcutters directly witnessed the rim response; return to the nearest home to warn rather than retry contact.,C03_reaction
+M093,R25,R25:01,124.54,136.851,133,14.773,10.152,Seeing Blood advance makes the nearest open home feel preferable to the exposed lane. No known safe escape route.,C03_reaction
+M094,R29,R29:01,124.54,136.892,133,14.822,10.152,Seeing Blood advance makes the nearest open home feel preferable to the exposed lane. No known safe escape route.,C03_reaction
+M095,R32,R32:01;R32:02,124.54,137.393,133,15.424,10.152,Seeing Blood advance makes the nearest open home feel preferable to the exposed lane. No known safe escape route.,C03_reaction
+M096,R33,R33:01;R33:02,125,138.334,138.334,20.001,20.001,The water carriers glimpse Bone on the now-open forge apron and hurry toward a familiar inhabited home.,C03_reaction
+M097,R76,R76:01,124.54,131.853,131.853,8.044,8.044,House-duty guard carries the service report back through the actual front doorway.,C03_reaction
+M098,R75,R75:01,125.54,143.237,143,23.006,22.698,Service guard decides to descend toward the entrance guard and ask the approaching villagers what happened.,C03_reaction
+M099,R70,R70:02,130.409,152.773,152.773,17.891,17.891,Recoil and return toward the person calling from the eastern homes; warn only on reaching them.,C04_reaction
+M100,R04L,R04:01,130.409,135.615,135.615,3.644,3.644,The west-field worker has no lethal-contact report and continues the original attempt at the familiar woodland edge.,C04_reaction
+M101,R04,R04:02,130.409,130.409,130.409,0.0,0.0,Pause to let the front person test the strange surface first.,C04_reaction
+M102,R04,R04:02,131.609,136.815,136.115,3.644,3.154,"Follow after a short hesitation, still ignorant of contact danger.",C04_reaction
+M103,R24,R24:01,134,147.095,147.095,3.274,3.274,Both are now hurt. They try to withdraw behind the remaining wall edge; the escort cannot retain an uninjured walking speed.,C05_reaction
+M104,R28,R28:01,134,144.984,144.984,2.746,2.746,Both are now hurt. They try to withdraw behind the remaining wall edge; the escort cannot retain an uninjured walking speed.,C05_reaction
+M105,R57,R57:01;R57:02,134,146.682,146.682,13.95,13.95,The nearby yard pair hears and sees the breached frontage and calls to the injured. They approach to help rather than knowingly offer Blood a crowd.,C05_reaction
+M106,R49,R49:01;R49:02,134,139.612,139.612,5.612,5.612,The strike has clipped their own house corner. Leave by its existing north threshold to inspect and find intact cover.,C05_reaction
+M107,R56,R56:01,134,139.612,139.612,5.612,5.612,The strike has clipped their own house corner. Leave by its existing north threshold to inspect and find intact cover.,C05_reaction
+M108,R04,R04:02,136.115,176.494,174,36.341,34.096,"Having directly seen contact kill a companion, turn back toward the known farm storage group to warn them.",C06_reaction
+M109,R65,R65:01;R65:02;R65:03,138,138.0,138.0,0.0,0.0,The entrance guard is the authority they sought. Stop at the formal gate and ask for protection.,C06_reaction
+M110,R75,R75:01,138,138.0,138.0,0.0,0.0,Meet the arrivals and entrance guard before continuing any investigation.,C06_reaction
+M111,R37,R37:01;R37:02;R37:03,136.5,144.388,144.388,7.888,7.888,The tavern leavers find no family at the receiving yard and head to the nearby occupied home.,C06_reaction
+M112,R72,R72:01;R72:02;R72:03,142,147.853,147.853,5.853,5.853,The warned household admits the crew to existing domestic shelter.,C06_reaction
+M113,R58,R58:02;R58:03,139,149.236,149.236,10.236,10.236,Follow the known woodcutters back to the nearest warned household; no new escape contact.,C06_reaction
+M114,R33,R33:02,141.5,145.5,145.5,5.601,5.6,The surviving carrier recoils through the offered doorway after seeing the companion killed.,C07_reaction
+M115,R39H,R39:01,143,157.785,157.785,17.742,17.742,Use the existing entrance to reach the injured callers. The western crash does not reveal the attacker is now approaching this doorway.,C07_reaction
+M116,R49,R49:01;R49:02,143,150.928,150.928,7.928,7.928,Leave the damaged corner behind and seek the nearest intact northern yard; not the distant estate.,C07_reaction
+M117,R56,R56:01,143,150.928,150.928,7.928,7.928,Leave the damaged corner behind and seek the nearest intact northern yard; not the distant estate.,C07_reaction
+M118,R65,R65:01;R65:02;R65:03,143,152.493,152.493,8.544,8.544,Entrance guard admits the three people into the ordinary open courtyard.,C07_reaction
+M119,R75,R75:01,143,165.094,165.094,22.094,22.094,Service guard individually descends to investigate and meet the next uphill arrivals; entrance guard stays on post.,C07_reaction
+M120,R38,R38:01;R38:02;R38:03;R38:04,148.4,152.283,152.283,3.883,3.883,Retreat deeper into the familiar room while trying to shut the front; no second modelled escape door is invented.,C08_reaction
+M121,R39,R39:02;R39:03,148.4,154.603,153,6.203,4.6,Retreat deeper into the familiar room while trying to shut the front; no second modelled escape door is invented.,C08_reaction
+M122,R54,R54:01;R54:02,148,148,148,0,0.0,Withdraw from the deliberately struck shutter into the cottage; the attacker is outside and the main street sounds worse.,C08_reaction
+M123,R24,R24:01,148,148.0,148.0,0.0,0.0,The first yard helpers have reached the slow injured pair; steady them before choosing a supported route.,C08_reaction
+M124,R28,R28:01,148,148.0,148.0,0.0,0.0,The first yard helpers have reached the slow injured pair; steady them before choosing a supported route.,C08_reaction
+M125,R57,R57:01;R57:02,148,148.0,148.0,0.0,0.0,Reach the injured and attempt to lift/support them; do not gain knowledge of Bone behind the nearby cottage.,C08_reaction
+M126,R36,R36:01;R36:02,156,206.383,198.2,50.383,42.2,"Move the household away from the tavern side toward the uphill neighbourhood and bell, using passages around existing cottages.",C09_reaction
+M127,R41,R41:01;R41:02;R41:03;R41:04,156,206.383,198.2,50.383,42.2,"Move the household away from the tavern side toward the uphill neighbourhood and bell, using passages around existing cottages.",C09_reaction
+M128,R37,R37:01;R37:02;R37:03,156,202.046,198.2,46.046,42.2,"Move the household away from the tavern side toward the uphill neighbourhood and bell, using passages around existing cottages.",C09_reaction
+M129,R23,R23:01,155,166.662,160,5.831,2.5,The helper brings the injured person back a few metres to the visible approaching rescue worker so they can support each other.,C09_reaction
+M130,R27,R27:01,155,166.662,160,5.831,2.5,The helper brings the injured person back a few metres to the visible approaching rescue worker so they can support each other.,C09_reaction
+M131,R24,R24:01,155,198.948,198.948,9.669,9.669,The precise attack is beside them. Both wounded people try to get behind the broken frontage; they cannot flee at normal speed.,C09_reaction
+M132,R28,R28:01,155,198.948,198.948,9.669,9.669,The precise attack is beside them. Both wounded people try to get behind the broken frontage; they cannot flee at normal speed.,C09_reaction
+M133,R57,R57:02,155,169.806,168,17.768,15.6,"The surviving helper panics after the exact hit and runs toward the northern yard, leaving the lift unfinished.",C09_reaction
+M134,R49,R49:01;R49:02,155,169.905,169.905,13.415,13.414,The northern yard also carries cries. The household seeks an intact older home farther from the original damaged wall.,C09_reaction
+M135,R56,R56:01,155,169.905,169.905,13.415,13.414,The northern yard also carries cries. The household seeks an intact older home farther from the original damaged wall.,C09_reaction
+M136,R58,R58:02;R58:03,155,160.853,160.853,5.853,5.853,Join the household already warned by the woodcutters.,C09_reaction
+M137,R70,R70:02,155,168.029,161,13.029,6.0,Carry the eastern direct-contact warning to the nearest occupied home rather than testing a second boundary patch.,C09_reaction
+M138,R71,R71:01,155,167.842,161,12.842,6.0,Carry the eastern direct-contact warning to the nearest occupied home rather than testing a second boundary patch.,C09_reaction
+M139,R19,R19:01;R19:02,155,204.204,204.204,54.124,54.124,"Continue downhill toward the farm people on the familiar approach, leaving the unseen centre violence behind.",C09_reaction
+M140,R79,R79:01;R79:02,155,169.569,162,10.198,4.9,Cart workers turn from the service road into the existing stable yard seeking the service staff; no crowd appears at the formal gate by teleport.,C09_reaction
+M141,R06,R06:01;R06:02,161,211.0,210,50.0,49.0,"After a brief stop at the lower road, follow the earlier escape group toward the familiar forest exit; no contact warning has reached these workers.",C10_reaction
+M142,R23,R23:01,160,210.591,168,22.766,3.6,"The worker and original helper support three injured people toward the winding uphill street. This is a slow rescue, not a sprint or an omniscient safe route.",C10_reaction
+M143,R27,R27:01,160,210.591,168,22.766,3.6,"The worker and original helper support three injured people toward the winding uphill street. This is a slow rescue, not a sprint or an omniscient safe route.",C10_reaction
+M144,R34,R34:01;R34:02,160,223.606,168,28.623,3.6,"The worker and original helper support three injured people toward the winding uphill street. This is a slow rescue, not a sprint or an omniscient safe route.",C10_reaction
+M145,R39H,R39:01,160,223.606,168,28.623,3.6,"The worker and original helper support three injured people toward the winding uphill street. This is a slow rescue, not a sprint or an omniscient safe route.",C10_reaction
+M146,R57,R57:02,160,165.803,165.803,8.705,8.704,"Seeing Bone ahead near the northern yard, the helper veers east around the damaged cottage toward other voices.",C10_reaction
+M147,R70,R70:02,161,173.638,173.638,12.638,12.638,Take offered shelter after delivering the local boundary warning.,C10_reaction
+M148,R71,R71:01,161,173.436,173.436,12.436,12.436,Take offered shelter after delivering the local boundary warning.,C10_reaction
+M149,R79,R79:01;R79:02,162,162.0,162.0,0.0,0.0,Confer with the stable worker beside the provisions cart; wait for someone who knows what is happening.,C10_reaction
+M150,R23,R23:01,168,202.124,172,13.65,1.6,"The heavy attacker is now close. Turn away across the open ground while supporting the three injured, without knowing its next strike envelope.",C11_reaction
+M151,R27,R27:01,168,202.124,172,13.65,1.6,"The heavy attacker is now close. Turn away across the open ground while supporting the three injured, without knowing its next strike envelope.",C11_reaction
+M152,R34,R34:01;R34:02,168,215.739,172,19.096,1.6,"The heavy attacker is now close. Turn away across the open ground while supporting the three injured, without knowing its next strike envelope.",C11_reaction
+M153,R39H,R39:01,168,215.739,172,19.096,1.6,"The heavy attacker is now close. Turn away across the open ground while supporting the three injured, without knowing its next strike envelope.",C11_reaction
+M154,R57,R57:02,168,180.112,171,16.957,4.2,The precise attacker has appeared on the other side. Try to get around the empty damaged house toward the eastern street.,C11_reaction
+M155,R75,R75:01,173,173.0,173.0,0.0,0.0,At the stair foot the service guard looks for approaching residents; he still lacks an eyewitness account of the actual killers.,C11_reaction
+M156,R75,R75:01,174,223.207,197.69999999999976,54.127,26.07,Continue from the stair foot down the known road to meet the centre witnesses coming uphill.,C12_reaction
+M157,R04,R04:02,174,174.0,174.0,0.0,0.0,"Having reached the farm storage group, stay with people who have just heard the lethal-contact report.",C12_reaction
+M158,R49,R49:01;R49:02,175,180.859,180.859,5.859,5.859,The older northern household admits neighbours from the damaged home.,C12_reaction
+M159,R56,R56:01,175,180.859,180.859,5.859,5.859,The older northern household admits neighbours from the damaged home.,C12_reaction
+M160,R60,R60:01;R60:02,182,195.19,195.19,14.509,14.509,The entrance attacker has just killed the rope user. Recoil into the existing nave and behind its stone walls; no new rear door is invented.,C13_reaction
+M161,R64,R64:01;R64:02,182,191.812,191.812,10.794,10.793,The entrance attacker has just killed the rope user. Recoil into the existing nave and behind its stone walls; no new rear door is invented.,C13_reaction
+M162,R69,R69:01;R69:02,182,190.93,190.93,9.823,9.823,The entrance attacker has just killed the rope user. Recoil into the existing nave and behind its stone walls; no new rear door is invented.,C13_reaction
+M163,R43,R43:01;R43:02,193,223.051,205,25.544,10.2,"After gathering everyone, leave by the existing south-facing threshold and follow the neighbours around the house toward the uphill road.",C14_reaction
+M164,R46,R46:01;R46:02;R46:03;R46:04;R46:05,193,223.051,205,25.544,10.2,"After gathering everyone, leave by the existing south-facing threshold and follow the neighbours around the house toward the uphill road.",C14_reaction
+M165,R13L,R13:01,192,204.271,204.271,13.499,13.498,Continue down the actual main approach to the boundary; no field or side-trail witness has reached this group.,C14_reaction
+M166,R13,R13:02;R13:03;R13:04,192,192.0,192.0,0.0,0.0,Pause briefly behind the leading person to see whether the forest-road gap is passable.,C14_reaction
+M167,R13,R13:02;R13:03;R13:04,194,206.271,204.771,13.499,11.848,Follow the leader toward the familiar lower exit without lethal-contact knowledge.,C14_reaction
+M168,R02,R02:01;R02:02,193,273.002,258,80.002,65.0,Continue from the lower farm access down the familiar road; the west storage warning is not automatically heard here.,C14_reaction
+M169,R75,R75:01,196.2,196.2,196.2,0.0,0.0,Meet the uphill eyewitnesses on the same road; stop to hear them.,C14_reaction
+M170,R30,R30:01;R30:02;R30:03,196.2,196.2,196.2,0.0,0.0,The investigating guard has reached them. Stop to report before choosing another route.,C14_reaction
+M171,R30,R30:01;R30:02;R30:03,197.7,223.519,223.519,25.819,25.819,The service guard escorts the three centre witnesses back uphill to the estate after hearing their limited first-hand report.,C14_reaction
+M172,R75,R75:01,197.7,222.12,222.12,24.42,24.42,The service guard escorts the three centre witnesses back uphill to the estate after hearing their limited first-hand report.,C14_reaction
+M173,R01,R01:01;R01:02;R01:03,193,215.523,215.523,20.271,20.271,"After conferring without a tested route, seek the nearby farm household rather than walking blind into the dark forest.",C14_reaction
+M174,R08,R08:01;R08:02,193,215.523,215.523,20.271,20.271,"After conferring without a tested route, seek the nearby farm household rather than walking blind into the dark forest.",C14_reaction
+M175,R36,R36:01;R36:02,198.2,214.451,203,17.876,5.28,Turn away from the now-visible attacker and run north along the existing house edge; stay with the household.,C15_reaction
+M176,R41,R41:01;R41:02;R41:03;R41:04,198.2,214.451,203,17.876,5.28,Turn away from the now-visible attacker and run north along the existing house edge; stay with the household.,C15_reaction
+M177,R37,R37:01;R37:02;R37:03,198.2,209.224,203,15.434,6.72,The faster leavers angle north from their forward position; they do not wait for the slower rear households.,C15_reaction
+M178,R74,R74:01,198.5,200.5,200.5,2.0,2.0,"The entrance guard steps toward the threat and orders the courtyard people back, trying to hold the formal approach.",C15_reaction
+M179,R65,R65:01;R65:02;R65:03,199,204.254,204.254,5.779,5.779,The precise gate strike makes the courtyard refuge unsafe. Seek the house-duty guard at the front door.,C15_reaction
+M180,R76,R76:01,199,206.313,206.313,8.044,8.044,The nearby gate noise and courtyard calls draw the house-duty guard to the actual front door.,C15_reaction
+M181,R13,R13:02;R13:03;R13:04,204.771,224.617,216,21.831,12.352,Recoil from the witnessed crossing death and call to the next workers on the approach.,C16_reaction
+M182,R06,R06:01;R06:02,210,210.0,210.0,0.0,0.0,Stop after meeting the returning direct witnesses; the familiar road is not a safe escape.,C16_reaction
+M183,R43,R43:01;R43:02,205,216.13,216.13,10.017,10.017,The nearby heavy impact cuts off the neighbours ahead. Turn back through the familiar doorway to the closest walls rather than run blindly past it.,C16_reaction
+M184,R46,R46:01;R46:02;R46:03;R46:04;R46:05,205,216.13,216.13,10.017,10.017,The nearby heavy impact cuts off the neighbours ahead. Turn back through the familiar doorway to the closest walls rather than run blindly past it.,C16_reaction
+M185,R65,R65:01;R65:02;R65:03,206,211.932,211.932,5.932,5.932,The house-duty guard admits the courtyard refugees through the existing main doorway.,C16_reaction
+M186,R76,R76:01,207,211.044,211.044,4.044,4.044,"Withdraw inside while covering the entering refugees, leaving the fallen entrance guard outside.",C16_reaction
+M187,R79D,R79:01,206,223.848,223.848,19.633,19.633,Seek an actual instruction at the house after the nearby gate disturbance.,C16_reaction
+M188,R79,R79:02,207,213.186,213.186,4.021,4.021,Try to pull the cart into existing service cover instead of joining the formal courtyard.,C16_reaction
+M189,R78,R78:01,207,207.0,207.0,0.0,0.0,The stable worker crouches behind the existing service cover as the cart is pulled across.,C16_reaction
+M190,R78,R78:01,215,215.0,215.0,0.0,0.0,The stable worker witnessed the exact cart strike. Remain behind service cover and stop moving; no unseen escape path is assumed.,C17_reaction
+M191,R73,R73:01,216,216.0,216.0,0.0,0.0,Remain in the existing rear part of the main house demanding protection. No secret tunnel or new room is invented.,C17_reaction
+M192,R13,R13:02;R13:03;R13:04,216,243.193,243.193,24.473,24.473,"The two groups withdraw together from the tested southern boundary, intending to warn people returning along the farm road.",C17_reaction
+M193,R06,R06:01;R06:02,216,242.667,242.667,24.0,24.0,"The two groups withdraw together from the tested southern boundary, intending to warn people returning along the farm road.",C17_reaction
+M194,R19,R19:01;R19:02,216,238.523,238.523,20.271,20.271,The nearby farm household offers shelter after the gate-side retreat; enter by its existing doorway.,C17_reaction
+M195,R35,R35:01;R35:02;R35:03,225,240.224,235,19.791,13.0,The adjacent house has just been struck. Three passers in this refuge decide to get back toward the lower lanes instead of trusting its walls.,C18_reaction
+M196,R45,R45:01;R45:02,226,243.992,235,19.791,9.9,"Two neighbours follow the departing passers, keeping away from the northern impacts.",C18_reaction
+M197,R48,R48:01;R48:02,225,228.08,228.08,2.464,2.464,Two alley entrants withdraw farther into the existing room rather than follow people into the street.,C18_reaction
+M198,R40,R40:01;R40:02;R40:03;R40:04,225,225,225,0,0.0,The ordinary household and a frozen neighbour remain in the room; outside sounds immediately dangerous.,C18_reaction
+M199,R47,R47:01,225,225,225,0,0.0,The ordinary household and a frozen neighbour remain in the room; outside sounds immediately dangerous.,C18_reaction
+M200,R75,R75:01,225,249.678,249.678,19.742,19.742,From the stair foot the guard cautiously approaches the apparently fallen colleague to assess the estate entrance.,C18_reaction
+M201,R30,R30:01;R30:02;R30:03,226,249.699,249,16.589,16.1,"The three escorted witnesses follow more slowly to a lower stair landing, behind the investigating guard.",C18_reaction
+M202,R79D,R79:01,226,231.932,231.932,5.932,5.932,The worker is admitted by the guard after delivering the limited report.,C18_reaction
+M203,R76,R76:01,226,228.0,228.0,2.0,2.0,Keep watch just inside the surveyed front doorway after admitting the worker.,C18_reaction
+M204,R35,R35:01;R35:02;R35:03,235,269.212,239,42.765,5.0,The attacker follows the doorway activity. Continue toward the lower gate by passages around the existing houses; the lower houses still screen the farmland.,C19_reaction
+M205,R45,R45:01;R45:02,235,271.366,239,45.457,5.0,The attacker follows the doorway activity. Continue toward the lower gate by passages around the existing houses; the lower houses still screen the farmland.,C19_reaction
+M206,R65,R65:01;R65:02;R65:03,235,241.25,241.25,5.0,5.0,"The failed front fastening makes the admitted people move deeper into the existing room, behind the guard.",C19_reaction
+M207,R79D,R79:01,235,241.25,241.25,5.0,5.0,"The failed front fastening makes the admitted people move deeper into the existing room, behind the guard.",C19_reaction
+M208,R77,R77:01;R77:02;R77:03,235,240.154,240.154,4.123,4.123,The household workers withdraw into the rear of the same existing mansion footprint; no escape passage is invented.,C19_reaction
+M209,R76,R76:01,235,237.555,237.555,2.044,2.044,The house-duty guard steps to the damaged doorway to hold it and draw attention away from the people inside.,C19_reaction
+M210,R73,R73:01,235,235,235,0,0.0,The Mayor remains alive behind the guard; the account establishes neither a hidden escape nor responsibility of individual historical guards.,C19_reaction
+M211,R40,R40:01;R40:02;R40:03;R40:04,242,256.238,252,3.56,2.5,Five injured occupants try to reach the familiar doorway from the damaged room; they cannot run.,C20_reaction
+M212,R47,R47:01,242,256.238,252,3.56,2.5,Five injured occupants try to reach the familiar doorway from the damaged room; they cannot run.,C20_reaction
+M213,R48,R48:01;R48:02,242,247.151,247.151,3.606,3.606,"The uninjured pair moves to help people hit in the same room, rather than silently abandoning the wounded.",C20_reaction
+M214,R30,R30:01;R30:02;R30:03,249,249.0,249.0,0.0,0.0,The investigating guard signals a halt below the gate while assessing the precise attacker.,C20_reaction
+M215,R02,R02:01;R02:02,258,258.0,258.0,0.0,0.0,"Stop on meeting the returning southern witnesses. This group learns the contact rule through a report, not shared omniscience.",C21_reaction
+M216,R75,R75:01,252.5,252.5,252.5,0.0,0.0,The deliberate edge strike reveals precision. The guard stays in front and signals the three witnesses to retreat down the stairs.,C21_reaction
+M217,R30,R30:01;R30:02;R30:03,253,269.947,269.947,16.1,16.1,The guard orders withdrawal after the nearby exact threat. The witnesses descend the same stairs; they know no alternate safe estate entrance.,C21_reaction
+M218,R65,R65:01;R65:02;R65:03,254,285.377,284,34.515,33.0,The courtyard refugees can hear the attacker at the stairs and see the front doorway temporarily clear. Leave toward the existing service yard instead of remaining behind the dead guard.,C21_reaction
+M219,R79D,R79:01,254,261.289,261.289,5.831,5.831,The admitted worker hesitates inside the doorway as the three refugees leave; he stays with the household workers.,C21_reaction
+M220,R77,R77:01;R77:02;R77:03,254,254,254,0,0.0,The household workers stay behind the interior wall line; the uncertain open doorway is not an obvious safe escape.,C21_reaction
+M221,R65,R65:01;R65:02;R65:03,265,279.943,279.943,22.415,22.414,"Once through the crowded doorway, the uninjured refugees run across the open courtyard toward the existing service road.",C22_reaction
+M222,R79D,R79:01,265,268.366,268.366,2.693,2.693,"The worker tries once more to pull the damaged front door closed behind the people who left, without knowing Bone is turning back.",C22_reaction
+M223,R30,R30:01;R30:02;R30:03,273,285.485,285.485,12.485,12.485,"After descending past the unresponsive uphill walker, seek the nearest ordinary household rather than attempt the failed estate again.",C22_reaction
+M224,R65,R65:01;R65:02;R65:03,284,299.385,299.385,20.0,20.0,Use the existing cart route out of the private grounds before attempting woodland; no new gap through the property wall.,C23_reaction
+M225,R73,R73:01,284,284,284,0,0.0,"After the threshold killings, stay inside the existing house. The Mayor is alive and the workers are not retroactively removed from the ledger.",C23_reaction
+M226,R77,R77:01;R77:02;R77:03,284,284,284,0,0.0,"After the threshold killings, stay inside the existing house. The Mayor is alive and the workers are not retroactively removed from the ledger.",C23_reaction
+M227,R65L,R65:01,300,328.48,312.625,31.328,13.888,"The estate group knows only that the settlement is enclosed. No western field or southern-road witness has reached them, so the leading refugee tries the wooded boundary.",C24_reaction
+M228,R65,R65:02;R65:03,300,300.0,300.0,0.0,0.0,"Hesitate at the unfamiliar red woodland edge, letting the leader test it first.",C24_reaction
+M229,R65,R65:02;R65:03,302,330.48,312.625,31.328,11.688,"Follow the leading refugee after a short pause, still lacking a lethal-contact report.",C24_reaction
+M230,R73,R73:01,309,309,309,0,0.0,"The Mayor remains in the existing rear part of the house as the Witch approaches. His exact final dialogue, resistance and execution choreography are reserved.",C25_reaction
+M231,R77,R77:01;R77:02;R77:03,309,309,309,0,0.0,"The three household workers remain at the rear wall as direct local witnesses, without gaining global knowledge of the village.",C25_reaction

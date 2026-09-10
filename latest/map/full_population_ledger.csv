@@ -5,8 +5,8 @@ R01:03,P01,R01,ordinary villager,True,False,,,,,,B1,False
 R02:01,P01,R02,ordinary villager,True,False,,,,,,B1,False
 R02:02,P01,R02,ordinary villager,True,False,,,,,,B1,False
 R03:01,P01,R03,ordinary villager,True,False,,,,,,B1,False
-R04:01,P02,R04L,ordinary villager,True,False,,,,,,B1,False
-R04:02,P02,R04,ordinary villager,True,False,,,,,,B1,False
+R04:01,P02,R04L,ordinary villager,False,False,A05_BARRIER_FIELD,135.615,barrier,attempt crossing,Neither western field worker has received a trail or animal-yard warning. Their ordinary escape attempt reaches the actual rim.,B1,False
+R04:02,P02,R04,ordinary villager,True,False,,,,,,B4,False
 R05:01,P02,R05,ordinary villager,True,False,,,,,,B1,False
 R05:02,P02,R05,ordinary villager,True,False,,,,,,B1,False
 R06:01,P02,R06,ordinary villager,True,False,,,,,,B1,False
@@ -24,10 +24,10 @@ R10:03,P04,R10,ordinary villager,True,False,,,,,,B0,False
 R11:01,P04,R11,ordinary villager,True,False,,,,,,B1,False
 R11:02,P04,R11,ordinary villager,True,False,,,,,,B1,False
 R12:01,P04,R12,ordinary villager,True,False,,,,,,B1,False
-R13:01,P05,R13,ordinary villager,True,False,,,,,,B1,False
-R13:02,P05,R13,ordinary villager,True,False,,,,,,B1,False
-R13:03,P05,R13,ordinary villager,True,False,,,,,,B1,False
-R13:04,P05,R13,ordinary villager,True,False,,,,,,B1,False
+R13:01,P05,R13L,ordinary villager,False,False,A15_BARRIER_APPROACH,204.271,barrier,attempt crossing,This group has travelled the main approach without meeting any side-boundary witness. Familiar geography did not supply the missing contact rule.,B1,False
+R13:02,P05,R13,ordinary villager,True,False,,,,,,B4,False
+R13:03,P05,R13,ordinary villager,True,False,,,,,,B4,False
+R13:04,P05,R13,ordinary villager,True,False,,,,,,B4,False
 R14:01,P06,R14,parent,True,False,,,,,,B0,False
 R14:02,P06,R14,child,True,False,,,,,,B0,False
 R15:01,P06,R15,ordinary villager,True,False,,,,,,B0,False
@@ -47,12 +47,12 @@ R20:02,P07,R20,apprentice,True,False,,,,,,B1,False
 R21:01,P07,R21,ordinary villager,True,False,,,,,,B1,False
 R22:01,P08,R22,ordinary villager,False,False,E_BLOOD_2,108,Blood,HELP,Direct central mass of the broad surge. Already unable to stand while asking for help.,,False
 R22:02,P08,R22,ordinary villager,False,False,E_BLOOD_2,108,Blood,HELP,Direct central mass of the broad surge. Already unable to stand while asking for help.,,False
-R23:01,P08,R23,ordinary villager,True,True,,,,,,B0,False
+R23:01,P08,R23,ordinary villager,False,True,A11_BLOOD_RESCUE,172,Blood,desperate supported retreat,The visible slow five-person rescue group is Blood's selected physical concentration. Their supported retreat changes the location but cannot match the deliberate advance.,B0,False
 R24:01,P08,R24,ordinary villager,True,True,,,,,,B0,False
 R25:01,P08,R25,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,continue entry attempt,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B1,False
 R26:01,P08,R26,ordinary villager,False,False,E_BLOOD_2,108,Blood,HELP,"Direct central mass of the broad surge. Kneeling beside the non-ambulant people, beginning assistance.",,False
 R26:02,P08,R26,ordinary villager,False,False,E_BLOOD_2,108,Blood,HELP,"Direct central mass of the broad surge. Kneeling beside the non-ambulant people, beginning assistance.",,False
-R27:01,P08,R27,ordinary villager,True,False,,,,,,B1,False
+R27:01,P08,R27,ordinary villager,False,False,A11_BLOOD_RESCUE,172,Blood,desperate supported retreat,The visible slow five-person rescue group is Blood's selected physical concentration. Their supported retreat changes the location but cannot match the deliberate advance.,B1,False
 R28:01,P08,R28,ordinary villager,True,True,,,,,,B1,False
 R29:01,P08,R29,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,continue entry attempt,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B1,False
 R30:01,P08,R30,ordinary villager,True,False,,,,,,B1,False
@@ -62,49 +62,49 @@ R31:01,P08,R31,ordinary villager,True,False,,,,,,B1,False
 R31:02,P08,R31,ordinary villager,True,False,,,,,,B1,False
 R32:01,P08,R32,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,continue entry attempt,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B1,False
 R32:02,P08,R32,ordinary villager,False,False,A04_BLOOD_WEST_SHELTER,133,Blood,continue entry attempt,Blood follows the last visible six-person rescue/refuge stream to its calling shelter. A heavy surge crosses the existing cottage wall and its north-side entry attempt; the limping escort continues outside at its slower pace.,B1,False
-R33:01,P08,R33,ordinary villager,True,False,,,,,,B1,False
+R33:01,P08,R33,ordinary villager,False,False,A06_BONE_WATER,140,Bone,continue shelter attempt,"Bone has observed and followed the specific clattering pair since +125. He selects the exposed caller, not the hidden household.",B1,False
 R33:02,P08,R33,ordinary villager,True,False,,,,,,B1,False
-R34:01,P09,R34,ordinary villager,True,True,,,,,,B1,False
-R34:02,P09,R34,ordinary villager,True,True,,,,,,B1,False
-R35:01,P08,R35,ordinary villager,True,False,,,,,,B1,False
-R35:02,P08,R35,ordinary villager,True,False,,,,,,B1,False
-R35:03,P08,R35,ordinary villager,True,False,,,,,,B1,False
-R36:01,P09,R36,ordinary villager,True,False,,,,,,B1,False
-R36:02,P09,R36,ordinary villager,True,False,,,,,,B1,False
-R37:01,P09,R37,ordinary villager,True,False,,,,,,B0,False
-R37:02,P09,R37,ordinary villager,True,False,,,,,,B0,False
-R37:03,P09,R37,ordinary villager,True,False,,,,,,B0,False
-R38:01,P09,R38,ordinary villager,True,False,,,,,,B0,False
-R38:02,P09,R38,ordinary villager,True,False,,,,,,B0,False
-R38:03,P09,R38,ordinary villager,True,False,,,,,,B0,False
-R38:04,P09,R38,ordinary villager,True,False,,,,,,B0,False
-R39:01,P09,R39,ordinary villager,True,False,,,,,,B1,False
-R39:02,P09,R39,ordinary villager,True,False,,,,,,B1,False
-R39:03,P09,R39,ordinary villager,True,False,,,,,,B1,False
-R40:01,P10,R40,ordinary villager,True,False,,,,,,B0,False
-R40:02,P10,R40,ordinary villager,True,False,,,,,,B0,False
-R40:03,P10,R40,ordinary villager,True,False,,,,,,B0,False
-R40:04,P10,R40,ordinary villager,True,False,,,,,,B0,False
-R41:01,P10,R41,ordinary villager,True,False,,,,,,B0,False
-R41:02,P10,R41,ordinary villager,True,False,,,,,,B0,False
-R41:03,P10,R41,ordinary villager,True,False,,,,,,B0,False
-R41:04,P10,R41,ordinary villager,True,False,,,,,,B0,False
+R34:01,P09,R34,ordinary villager,False,True,A11_BLOOD_RESCUE,172,Blood,desperate supported retreat,The visible slow five-person rescue group is Blood's selected physical concentration. Their supported retreat changes the location but cannot match the deliberate advance.,B1,False
+R34:02,P09,R34,ordinary villager,False,True,A11_BLOOD_RESCUE,172,Blood,desperate supported retreat,The visible slow five-person rescue group is Blood's selected physical concentration. Their supported retreat changes the location but cannot match the deliberate advance.,B1,False
+R35:01,P08,R35,ordinary villager,False,False,A19_BLOOD_LOWER_FLIGHT,239,Blood,flee immediate Blood,The observed five-person flight turns southwest from the noisy refuge. Blood follows that group with a broad strike; intervening occupied wall bays are affected only where the geometry intersects.,B1,False
+R35:02,P08,R35,ordinary villager,False,False,A19_BLOOD_LOWER_FLIGHT,239,Blood,flee immediate Blood,The observed five-person flight turns southwest from the noisy refuge. Blood follows that group with a broad strike; intervening occupied wall bays are affected only where the geometry intersects.,B1,False
+R35:03,P08,R35,ordinary villager,False,False,A19_BLOOD_LOWER_FLIGHT,239,Blood,flee immediate Blood,The observed five-person flight turns southwest from the noisy refuge. Blood follows that group with a broad strike; intervening occupied wall bays are affected only where the geometry intersects.,B1,False
+R36:01,P09,R36,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B1,False
+R36:02,P09,R36,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B1,False
+R37:01,P09,R37,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B0,False
+R37:02,P09,R37,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B0,False
+R37:03,P09,R37,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B0,False
+R38:01,P09,R38,ordinary villager,False,False,A08_BLOOD_TAVERN,153,Blood,retreat inside,Blood follows the loud receiving doorway and multiple people seen using it. The wave crosses the timber front into that occupied room; it is not knowledge of a hidden numerical census.,B0,False
+R38:02,P09,R38,ordinary villager,False,False,A08_BLOOD_TAVERN,153,Blood,retreat inside,Blood follows the loud receiving doorway and multiple people seen using it. The wave crosses the timber front into that occupied room; it is not knowledge of a hidden numerical census.,B0,False
+R38:03,P09,R38,ordinary villager,False,False,A08_BLOOD_TAVERN,153,Blood,retreat inside,Blood follows the loud receiving doorway and multiple people seen using it. The wave crosses the timber front into that occupied room; it is not knowledge of a hidden numerical census.,B0,False
+R38:04,P09,R38,ordinary villager,False,False,A08_BLOOD_TAVERN,153,Blood,retreat inside,Blood follows the loud receiving doorway and multiple people seen using it. The wave crosses the timber front into that occupied room; it is not knowledge of a hidden numerical census.,B0,False
+R39:01,P09,R39H,ordinary villager,False,False,A11_BLOOD_RESCUE,172,Blood,desperate supported retreat,The visible slow five-person rescue group is Blood's selected physical concentration. Their supported retreat changes the location but cannot match the deliberate advance.,B1,False
+R39:02,P09,R39,ordinary villager,False,False,A08_BLOOD_TAVERN,153,Blood,retreat inside,Blood follows the loud receiving doorway and multiple people seen using it. The wave crosses the timber front into that occupied room; it is not knowledge of a hidden numerical census.,B1,False
+R39:03,P09,R39,ordinary villager,False,False,A08_BLOOD_TAVERN,153,Blood,retreat inside,Blood follows the loud receiving doorway and multiple people seen using it. The wave crosses the timber front into that occupied room; it is not knowledge of a hidden numerical census.,B1,False
+R40:01,P10,R40,ordinary villager,False,True,A20_BLOOD_INJURED_REFUGE,252,Blood,injured household retreat,Multiple wounded people and helpers are now audible in the struck room. Blood directs a second heavy surge into that real concentration; unexposed households are not included.,B0,False
+R40:02,P10,R40,ordinary villager,False,True,A20_BLOOD_INJURED_REFUGE,252,Blood,injured household retreat,Multiple wounded people and helpers are now audible in the struck room. Blood directs a second heavy surge into that real concentration; unexposed households are not included.,B0,False
+R40:03,P10,R40,ordinary villager,False,True,A20_BLOOD_INJURED_REFUGE,252,Blood,injured household retreat,Multiple wounded people and helpers are now audible in the struck room. Blood directs a second heavy surge into that real concentration; unexposed households are not included.,B0,False
+R40:04,P10,R40,ordinary villager,False,True,A20_BLOOD_INJURED_REFUGE,252,Blood,injured household retreat,Multiple wounded people and helpers are now audible in the struck room. Blood directs a second heavy surge into that real concentration; unexposed households are not included.,B0,False
+R41:01,P10,R41,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B0,False
+R41:02,P10,R41,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B0,False
+R41:03,P10,R41,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B0,False
+R41:04,P10,R41,ordinary villager,False,False,A15_BLOOD_EVACUEES,203,Blood,flee immediate Blood,The nine-person exposed household evacuation turns north when Blood appears. Blood strikes that moving outdoor concentration rather than the hidden larger house nearby.,B0,False
 R42:01,P10,R42,ordinary villager,True,False,,,,,,B0,False
 R42:02,P10,R42,ordinary villager,True,False,,,,,,B0,False
-R43:01,P10,R43,ordinary villager,True,False,,,,,,B0,False
-R43:02,P10,R43,ordinary villager,True,False,,,,,,B0,False
-R44:01,P10,R44,ordinary villager,True,False,,,,,,B0,False
-R44:02,P10,R44,ordinary villager,True,False,,,,,,B0,False
-R45:01,P10,R45,ordinary villager,True,False,,,,,,B1,False
-R45:02,P10,R45,ordinary villager,True,False,,,,,,B1,False
-R46:01,P10,R46,caregiver,True,False,,,,,,B1,False
-R46:02,P10,R46,child in caregiver group,True,False,,,,,,B1,False
-R46:03,P10,R46,child in caregiver group,True,False,,,,,,B1,False
-R46:04,P10,R46,child in caregiver group,True,False,,,,,,B1,False
-R46:05,P10,R46,child in caregiver group,True,False,,,,,,B1,False
-R47:01,P10,R47,ordinary villager,True,False,,,,,,B1,False
-R48:01,P10,R48,ordinary villager,True,False,,,,,,B1,False
-R48:02,P10,R48,ordinary villager,True,False,,,,,,B1,False
+R43:01,P10,R43,ordinary villager,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,shut familiar doorway,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B0,False
+R43:02,P10,R43,ordinary villager,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,shut familiar doorway,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B0,False
+R44:01,P10,R44,ordinary villager,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,barricade quietly,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B0,False
+R44:02,P10,R44,ordinary villager,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,barricade quietly,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B0,False
+R45:01,P10,R45,ordinary villager,False,False,A19_BLOOD_LOWER_FLIGHT,239,Blood,flee immediate Blood,The observed five-person flight turns southwest from the noisy refuge. Blood follows that group with a broad strike; intervening occupied wall bays are affected only where the geometry intersects.,B1,False
+R45:02,P10,R45,ordinary villager,False,False,A19_BLOOD_LOWER_FLIGHT,239,Blood,flee immediate Blood,The observed five-person flight turns southwest from the noisy refuge. Blood follows that group with a broad strike; intervening occupied wall bays are affected only where the geometry intersects.,B1,False
+R46:01,P10,R46,caregiver,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,shut familiar doorway,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B1,False
+R46:02,P10,R46,child in caregiver group,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,shut familiar doorway,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B1,False
+R46:03,P10,R46,child in caregiver group,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,shut familiar doorway,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B1,False
+R46:04,P10,R46,child in caregiver group,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,shut familiar doorway,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B1,False
+R46:05,P10,R46,child in caregiver group,False,False,A17_BLOOD_HOUSE_RETURN,224,Blood,shut familiar doorway,The family reversed into the closest known home after the outdoor strike. Blood followed those audible/visible movements around its exterior and now strikes the occupied entry/room.,B1,False
+R47:01,P10,R47,ordinary villager,False,True,A20_BLOOD_INJURED_REFUGE,252,Blood,injured household retreat,Multiple wounded people and helpers are now audible in the struck room. Blood directs a second heavy surge into that real concentration; unexposed households are not included.,B1,False
+R48:01,P10,R48,ordinary villager,False,False,A20_BLOOD_INJURED_REFUGE,252,Blood,retreat inside,Multiple wounded people and helpers are now audible in the struck room. Blood directs a second heavy surge into that real concentration; unexposed households are not included.,B1,False
+R48:02,P10,R48,ordinary villager,False,False,A20_BLOOD_INJURED_REFUGE,252,Blood,retreat inside,Multiple wounded people and helpers are now audible in the struck room. Blood directs a second heavy surge into that real concentration; unexposed households are not included.,B1,False
 R49:01,P11,R49,ordinary villager,True,False,,,,,,B0,False
 R49:02,P11,R49,ordinary villager,True,False,,,,,,B0,False
 R50:01,P11,R50,ordinary villager,True,False,,,,,,B0,False
@@ -120,8 +120,8 @@ R54:02,P11,R54,ordinary villager,True,False,,,,,,B0,False
 R55:01,P11,R55,ordinary villager,True,False,,,,,,B0,False
 R55:02,P11,R55,ordinary villager,True,False,,,,,,B0,False
 R56:01,P11,R56,ordinary villager,True,False,,,,,,B1,False
-R57:01,P11,R57,ordinary villager,True,False,,,,,,B1,False
-R57:02,P11,R57,ordinary villager,True,False,,,,,,B1,False
+R57:01,P11,R57,ordinary villager,False,False,A08_BONE_RESCUER,154,Bone,assist injured,"The visible protective gesture, not the size of the group, attracts the exact attack.",B1,False
+R57:02,P11,R57,ordinary villager,False,False,A11_BONE_HELPER,171,Bone,seek another gap,Bone has repeatedly allowed this one person to choose a direction and changed angle to observe. This closes that local torment encounter.,B1,False
 R58:01,P11,R58L,ordinary villager,False,False,A02_BARRIER_WEST,123.04,barrier,continue chosen movement,B2 was an untested suspicion. The walker continues a familiar forest exit and physically meets the sealed rim.,B2,False
 R58:02,P11,R58,ordinary villager,True,False,,,,,,B4,False
 R58:03,P11,R58,ordinary villager,True,False,,,,,,B4,False
@@ -137,11 +137,11 @@ R63:01,P12,R63,ordinary villager,True,False,,,,,,B0,False
 R63:02,P12,R63,ordinary villager,True,False,,,,,,B0,False
 R64:01,P12,R64,ordinary villager,True,False,,,,,,B0,False
 R64:02,P12,R64,ordinary villager,True,False,,,,,,B0,False
-R65:01,P12,R65,ordinary villager,True,False,,,,,,B1,False
+R65:01,P12,R65L,ordinary villager,True,False,,,,,,B1,False
 R65:02,P12,R65,ordinary villager,True,False,,,,,,B1,False
 R65:03,P12,R65,ordinary villager,True,False,,,,,,B1,False
 R66:01,P12,R66,ordinary villager,True,False,,,,,,B1,False
-R67:01,P13,R67,ordinary villager,True,False,,,,,,B1,False
+R67:01,P13,R67,ordinary villager,False,False,A12_BONE_BELL,181,Bone,ring and admit,Bone follows the renewed sound to its actual ground-floor source and sees the rope user through the public entrance.,B1,False
 R68:01,P14,R68,ordinary villager,True,False,,,,,,B0,False
 R68:02,P14,R68,ordinary villager,True,False,,,,,,B0,False
 R69:01,P14,R69,ordinary villager,True,False,,,,,,B0,False
@@ -152,16 +152,16 @@ R71:01,P14,R71,ordinary villager,True,False,,,,,,B1,False
 R72:01,P15,R72,ordinary villager,True,False,,,,,,B4,False
 R72:02,P15,R72,ordinary villager,True,False,,,,,,B4,False
 R72:03,P15,R72,ordinary villager,True,False,,,,,,B4,False
-R73:01,P16,R73,Mayor,True,False,,,,,,B0,False
-R74:01,P16,R74,entrance guard,True,False,,,,,,B2,False
-R75:01,P16,R75,service guard,True,False,,,,,,B1,False
-R76:01,P16,R76,house-duty guard,True,False,,,,,,B0,False
+R73:01,P16,R73,Mayor,False,False,A25_MAYOR_FINAL,312.625,Witch,face approaching Witch,Minimal ledger resolution authorized by the user; exact cinematic choreography is reserved. No quota-driven hidden deaths or post-Mayor civilian massacre is appended.,B0,False
+R74:01,P16,R74,entrance guard,False,False,A15_BONE_GUARD,202,Bone,hold defensive position,The guard stepped forward after the deliberate gate hit to cover the retreating civilians.,B2,False
+R75:01,P16,R75,service guard,False,False,A21_BONE_LAST_GUARD,256,Bone,protect retreat,He remains in front after ordering the three people back down the formal stairs.,B1,False
+R76:01,P16,R76,house-duty guard,False,False,A19_BONE_HOUSE_GUARD,241,Bone,hold house threshold,The guard deliberately presents himself at the same watched threshold after its fastening fails.,B0,False
 R77:01,P16,R77,ordinary villager,True,False,,,,,,B0,False
 R77:02,P16,R77,ordinary villager,True,False,,,,,,B0,False
 R77:03,P16,R77,ordinary villager,True,False,,,,,,B0,False
 R78:01,P16,R78,ordinary villager,True,False,,,,,,B1,False
-R79:01,P17,R79,ordinary villager,True,False,,,,,,B2,False
-R79:02,P17,R79,ordinary villager,True,False,,,,,,B2,False
+R79:01,P17,R79D,ordinary villager,False,False,A22_BONE_DOOR_WORKER,270,Bone,retreat inside,"Bone intentionally targets the person operating the visible door, not anyone behind the opening.",B2,False
+R79:02,P17,R79,ordinary villager,False,False,A16_BONE_CART,214,Bone,move provisions cart,"The clattering wheels and visible pulling motion attracted Bone. The other worker was already going for help, and the stable worker remains concealed.",B2,False
 P05:M01:01,P05,prior_deceased,ordinary villager,False,False,T1_E01,4,Bone,ordinary T0 handcart/well/stall activity,First handcart worker is struck while continuing the approved homeward walk. No flight or prior warning is assigned to that person.,B0,False
 P05:M01:02,P05,prior_deceased,ordinary villager,False,False,T1_E02,6,Bone,shocked immediate witness,The accompanying helper is caught in the immediate shocked witness reaction. The other four P05 people are not hidden or silently removed; their warnings begin locally.,B0,False
 P08:well:01,P08,prior_deceased,ordinary villager,False,False,T1_E03,56,Blood,ordinary T0 handcart/well/stall activity,A broad first strike reaches the remaining two well users and six people trading/working at the two stall positions. Provisional accounting: two well users and two stall people killed; four stall people nonfatally injured through T90. M04 has already walked away normally.,B0,False
